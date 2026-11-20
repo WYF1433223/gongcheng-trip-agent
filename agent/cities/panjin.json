@@ -1,0 +1,244 @@
+{
+ "name": "盘锦",
+ "center": [
+  41.12,
+  122.07
+ ],
+ "far_ids": [
+  "panjin_01",
+  "panjin_02",
+  "panjin_05",
+  "panjin_07",
+  "panjin_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "panjin_00",
+   "name": "辽河湿地公园",
+   "district": "",
+   "lat": 41.17832,
+   "lng": 122.0654,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "panjin_01",
+   "name": "红海滩风景旅游区",
+   "district": "红海滩景区周边",
+   "lat": 40.93621,
+   "lng": 121.91194,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "panjin_02",
+   "name": "红海滩国家风景廊道",
+   "district": "",
+   "lat": 40.85607,
+   "lng": 121.85322,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 88,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "panjin_03",
+   "name": "红海温泉乐园",
+   "district": "",
+   "lat": 41.04653,
+   "lng": 122.07859,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 129,
+   "rating": 4.5,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "panjin_04",
+   "name": "鼎翔生态旅游度假区",
+   "district": "",
+   "lat": 41.16586,
+   "lng": 121.93029,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "panjin_05",
+   "name": "金帛滩海洋乐园",
+   "district": "",
+   "lat": 40.66953,
+   "lng": 122.06601,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "panjin_06",
+   "name": "北旅田园·黑风关古镇",
+   "district": "",
+   "lat": 41.1192,
+   "lng": 122.19534,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "panjin_07",
+   "name": "辽东湾金帛滩旅游区",
+   "district": "",
+   "lat": 40.66628,
+   "lng": 122.06718,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "panjin_08",
+   "name": "1955国营农场",
+   "district": "",
+   "lat": 40.95252,
+   "lng": 122.0858,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "panjin_09",
+   "name": "江南风情园",
+   "district": "",
+   "lat": 40.74125,
+   "lng": 122.17061,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 43,
+   "rating": 3.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   41.12,
+   122.07
+  ],
+  "老城区": [
+   41.132,
+   122.06
+  ],
+  "近郊": [
+   41.09,
+   122.1
+  ]
+ }
+}

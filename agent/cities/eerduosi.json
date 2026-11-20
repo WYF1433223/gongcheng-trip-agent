@@ -1,0 +1,247 @@
+{
+ "name": "鄂尔多斯",
+ "center": [
+  39.61,
+  109.78
+ ],
+ "far_ids": [
+  "eerduosi_01",
+  "eerduosi_03",
+  "eerduosi_04",
+  "eerduosi_05",
+  "eerduosi_06",
+  "eerduosi_07",
+  "eerduosi_08",
+  "eerduosi_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "eerduosi_00",
+   "name": "康巴什自然探索中心",
+   "district": "",
+   "lat": 39.64188,
+   "lng": 109.76268,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "eerduosi_01",
+   "name": "响沙湾旅游区-悦沙岛",
+   "district": "响沙湾旅游区",
+   "lat": 40.26064,
+   "lng": 109.9338,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "eerduosi_02",
+   "name": "鄂尔多斯博物馆",
+   "district": "音乐喷泉广场",
+   "lat": 39.60739,
+   "lng": 109.79071,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "eerduosi_03",
+   "name": "鄂尔多斯草原旅游区",
+   "district": "",
+   "lat": 39.81933,
+   "lng": 108.62993,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "eerduosi_04",
+   "name": "响沙湾",
+   "district": "响沙湾旅游区",
+   "lat": 40.26057,
+   "lng": 109.94194,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 120,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "eerduosi_05",
+   "name": "成吉思汗陵",
+   "district": "成吉思汗陵旅游区",
+   "lat": 39.37219,
+   "lng": 109.81241,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 90,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "eerduosi_06",
+   "name": "鄂尔多斯野生动物园",
+   "district": "动物园",
+   "lat": 39.84267,
+   "lng": 109.89625,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 65,
+   "rating": 4.3,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "eerduosi_07",
+   "name": "成吉思汗陵旅游区",
+   "district": "成吉思汗陵旅游区",
+   "lat": 39.37219,
+   "lng": 109.81241,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "eerduosi_08",
+   "name": "准格尔黄河大峡谷",
+   "district": "",
+   "lat": 39.62996,
+   "lng": 111.45992,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 9,
+   "rating": 4.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "eerduosi_09",
+   "name": "库布齐沙漠",
+   "district": "",
+   "lat": 40.29454,
+   "lng": 109.95434,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 3.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   39.61,
+   109.78
+  ],
+  "老城区": [
+   39.622,
+   109.77
+  ],
+  "近郊": [
+   39.58,
+   109.81
+  ]
+ }
+}

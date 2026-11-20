@@ -1,0 +1,246 @@
+{
+ "name": "潍坊",
+ "center": [
+  36.71,
+  119.16
+ ],
+ "far_ids": [
+  "weifang_02",
+  "weifang_03",
+  "weifang_04",
+  "weifang_05",
+  "weifang_06",
+  "weifang_07",
+  "weifang_08",
+  "weifang_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "weifang_00",
+   "name": "潍坊世界风筝博物馆",
+   "district": "泰华城",
+   "lat": 36.71002,
+   "lng": 119.12135,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "weifang_01",
+   "name": "十笏园",
+   "district": "泰华城",
+   "lat": 36.72093,
+   "lng": 119.11253,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 22,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "weifang_02",
+   "name": "青州云门山风景区",
+   "district": "青州古城",
+   "lat": 36.64777,
+   "lng": 118.46678,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 57,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "weifang_03",
+   "name": "青州博物馆",
+   "district": "青州古城",
+   "lat": 36.68407,
+   "lng": 118.45804,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "weifang_04",
+   "name": "青州古城",
+   "district": "青州古城",
+   "lat": 36.68721,
+   "lng": 118.48567,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 4,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "weifang_05",
+   "name": "黄花溪景区",
+   "district": "",
+   "lat": 36.52572,
+   "lng": 118.25131,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 59,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "weifang_06",
+   "name": "泰和山风景区",
+   "district": "",
+   "lat": 36.53623,
+   "lng": 118.26021,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 59,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "weifang_07",
+   "name": "偶园",
+   "district": "青州古城",
+   "lat": 36.68281,
+   "lng": 118.48536,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 18,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "weifang_08",
+   "name": "沂蒙山旅游区沂山景区",
+   "district": "",
+   "lat": 36.207,
+   "lng": 118.63115,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 79,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "weifang_09",
+   "name": "井塘古村",
+   "district": "",
+   "lat": 36.62487,
+   "lng": 118.40602,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 38,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   36.71,
+   119.16
+  ],
+  "老城区": [
+   36.722,
+   119.15
+  ],
+  "近郊": [
+   36.68,
+   119.19
+  ]
+ }
+}

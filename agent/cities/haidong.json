@@ -1,0 +1,247 @@
+{
+ "name": "海东",
+ "center": [
+  36.5,
+  102.1
+ ],
+ "far_ids": [
+  "haidong_00",
+  "haidong_01",
+  "haidong_02",
+  "haidong_03",
+  "haidong_04",
+  "haidong_05",
+  "haidong_06",
+  "haidong_08",
+  "haidong_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "haidong_00",
+   "name": "夏琼寺",
+   "district": "",
+   "lat": 36.15771,
+   "lng": 101.88494,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haidong_01",
+   "name": "民和七里花海景区",
+   "district": "",
+   "lat": 36.08486,
+   "lng": 102.72219,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haidong_02",
+   "name": "孟达天池",
+   "district": "",
+   "lat": 35.80151,
+   "lng": 102.68351,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "haidong_03",
+   "name": "北山国家森林公园浪士当中心景区",
+   "district": "",
+   "lat": 36.94551,
+   "lng": 102.46991,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haidong_04",
+   "name": "北山国家森林公园",
+   "district": "",
+   "lat": 36.82035,
+   "lng": 102.53668,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haidong_05",
+   "name": "瞿昙寺",
+   "district": "",
+   "lat": 36.35999,
+   "lng": 102.30487,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haidong_06",
+   "name": "互助土族故土园",
+   "district": "",
+   "lat": 36.84077,
+   "lng": 101.94471,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 58,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haidong_07",
+   "name": "白马寺",
+   "district": "",
+   "lat": 36.52342,
+   "lng": 102.10657,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haidong_08",
+   "name": "彩虹部落土族园",
+   "district": "",
+   "lat": 36.83986,
+   "lng": 101.9437,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 58,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haidong_09",
+   "name": "扎龙沟",
+   "district": "",
+   "lat": 36.81773,
+   "lng": 102.53505,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 3.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   36.5,
+   102.1
+  ],
+  "老城区": [
+   36.512,
+   102.09
+  ],
+  "近郊": [
+   36.47,
+   102.13
+  ]
+ }
+}

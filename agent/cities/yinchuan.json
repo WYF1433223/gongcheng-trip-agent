@@ -1,0 +1,229 @@
+{
+ "name": "银川",
+ "center": [
+  38.49,
+  106.23
+ ],
+ "far_ids": [
+  "yinchuan_00",
+  "yinchuan_03",
+  "yinchuan_04",
+  "yinchuan_05",
+  "yinchuan_06",
+  "yinchuan_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "yinchuan_00",
+   "name": "看见贺兰",
+   "district": "漫葡·看见贺兰演艺小",
+   "lat": 38.62694,
+   "lng": 106.07401,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 121,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yinchuan_01",
+   "name": "宁夏博物馆",
+   "district": "宁夏博物馆",
+   "lat": 38.49074,
+   "lng": 106.24164,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "yinchuan_02",
+   "name": "宁夏地质博物馆",
+   "district": "宁夏博物馆",
+   "lat": 38.50515,
+   "lng": 106.24268,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "yinchuan_03",
+   "name": "西夏陵",
+   "district": "",
+   "lat": 38.43708,
+   "lng": 105.98991,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yinchuan_04",
+   "name": "宁夏水洞沟旅游区",
+   "district": "",
+   "lat": 38.29947,
+   "lng": 106.52333,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yinchuan_05",
+   "name": "贺兰山岩画",
+   "district": "",
+   "lat": 38.74794,
+   "lng": 106.0326,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 65,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yinchuan_06",
+   "name": "宁夏贺兰山国家森林公园",
+   "district": "",
+   "lat": 38.74447,
+   "lng": 105.94681,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 57,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yinchuan_07",
+   "name": "览山公园",
+   "district": "览山公园",
+   "lat": 38.53635,
+   "lng": 106.22178,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yinchuan_08",
+   "name": "黄沙古渡原生态旅游区",
+   "district": "",
+   "lat": 38.56661,
+   "lng": 106.551,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 150,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   38.49,
+   106.23
+  ],
+  "老城区": [
+   38.502,
+   106.22
+  ],
+  "近郊": [
+   38.46,
+   106.26
+  ]
+ }
+}

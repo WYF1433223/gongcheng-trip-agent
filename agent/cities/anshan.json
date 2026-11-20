@@ -1,0 +1,238 @@
+{
+ "name": "鞍山",
+ "center": [
+  41.11,
+  122.99
+ ],
+ "far_ids": [
+  "anshan_02"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "anshan_00",
+   "name": "鞍钢博物馆",
+   "district": "鞍钢东侧地区",
+   "lat": 41.12842,
+   "lng": 122.99361,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "anshan_01",
+   "name": "千山老院子景区",
+   "district": "千山风景区",
+   "lat": 41.01995,
+   "lng": 123.19567,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "anshan_02",
+   "name": "海城大悲寺",
+   "district": "",
+   "lat": 40.73292,
+   "lng": 122.67167,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "anshan_03",
+   "name": "千山",
+   "district": "千山风景区",
+   "lat": 41.01945,
+   "lng": 123.1326,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 57,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "anshan_04",
+   "name": "汤岗子温泉",
+   "district": "汤岗子温泉镇",
+   "lat": 41.01473,
+   "lng": 122.91297,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "anshan_05",
+   "name": "千山仙人台国家森林公园",
+   "district": "千山风景区",
+   "lat": 41.00558,
+   "lng": 123.11606,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 29,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "anshan_06",
+   "name": "玉佛苑",
+   "district": "玉佛山风景区",
+   "lat": 41.11228,
+   "lng": 123.02012,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 30,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "anshan_07",
+   "name": "鞍山动物园",
+   "district": "玉佛山风景区",
+   "lat": 41.11207,
+   "lng": 123.01652,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 66,
+   "rating": 4.5,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "anshan_08",
+   "name": "御汤泉欢乐水世界",
+   "district": "汤岗子温泉镇",
+   "lat": 41.03403,
+   "lng": 122.918,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "anshan_09",
+   "name": "玉佛山风景区",
+   "district": "玉佛山风景区",
+   "lat": 41.10613,
+   "lng": 123.02832,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   41.11,
+   122.99
+  ],
+  "老城区": [
+   41.122,
+   122.98
+  ],
+  "近郊": [
+   41.08,
+   123.02
+  ]
+ }
+}

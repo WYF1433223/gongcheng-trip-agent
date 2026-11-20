@@ -1,0 +1,246 @@
+{
+ "name": "延边",
+ "center": [
+  42.89,
+  129.51
+ ],
+ "far_ids": [
+  "yanbian_00",
+  "yanbian_01",
+  "yanbian_02",
+  "yanbian_03",
+  "yanbian_04",
+  "yanbian_05",
+  "yanbian_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "yanbian_00",
+   "name": "长白山聚龙火山温泉",
+   "district": "长白山北坡商圈",
+   "lat": 42.19329,
+   "lng": 128.18496,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 238,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yanbian_01",
+   "name": "图们国门景区",
+   "district": "",
+   "lat": 42.96455,
+   "lng": 129.86038,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 25,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yanbian_02",
+   "name": "老里克湖",
+   "district": "",
+   "lat": 42.48624,
+   "lng": 128.6771,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yanbian_03",
+   "name": "长白山景区",
+   "district": "长白山高铁站",
+   "lat": 42.48456,
+   "lng": 128.19598,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 190,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yanbian_04",
+   "name": "长白山北景区",
+   "district": "长白山北坡商圈",
+   "lat": 42.19174,
+   "lng": 128.19514,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 190,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yanbian_05",
+   "name": "中国雪乡",
+   "district": "",
+   "lat": 44.3398,
+   "lng": 128.21651,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yanbian_06",
+   "name": "海兰台朝鲜族民俗度假区",
+   "district": "",
+   "lat": 42.84187,
+   "lng": 129.47065,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 30,
+   "rating": 4.4,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yanbian_07",
+   "name": "长白山魔界漂流",
+   "district": "长白山北坡集散中心",
+   "lat": 42.45969,
+   "lng": 128.17226,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 55,
+   "rating": 4.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yanbian_08",
+   "name": "延边大学网红墙",
+   "district": "延边大学",
+   "lat": 42.9137,
+   "lng": 129.49825,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yanbian_09",
+   "name": "中国朝鲜族民俗园",
+   "district": "朝鲜民俗园",
+   "lat": 42.88073,
+   "lng": 129.50008,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 27,
+   "rating": 3.9,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   42.89,
+   129.51
+  ],
+  "老城区": [
+   42.902,
+   129.5
+  ],
+  "近郊": [
+   42.86,
+   129.54
+  ]
+ }
+}

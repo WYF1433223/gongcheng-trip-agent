@@ -1,0 +1,246 @@
+{
+ "name": "保定",
+ "center": [
+  38.87,
+  115.46
+ ],
+ "far_ids": [
+  "baoding_00",
+  "baoding_01",
+  "baoding_02",
+  "baoding_04",
+  "baoding_05",
+  "baoding_08",
+  "baoding_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "baoding_00",
+   "name": "白石山世界地质公园",
+   "district": "",
+   "lat": 39.22292,
+   "lng": 114.70917,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baoding_01",
+   "name": "百里峡",
+   "district": "",
+   "lat": 39.66573,
+   "lng": 115.39762,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baoding_02",
+   "name": "清西陵",
+   "district": "",
+   "lat": 39.37339,
+   "lng": 115.36764,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 80,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baoding_03",
+   "name": "直隶总督署",
+   "district": "保定火车站",
+   "lat": 38.86554,
+   "lng": 115.50395,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 35,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baoding_04",
+   "name": "野三坡",
+   "district": "",
+   "lat": 39.78004,
+   "lng": 115.42009,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "baoding_05",
+   "name": "易水湖景区",
+   "district": "",
+   "lat": 39.29298,
+   "lng": 115.22169,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baoding_06",
+   "name": "莲池书院博物馆(古莲花池)",
+   "district": "保定火车站",
+   "lat": 38.8634,
+   "lng": 115.50566,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "baoding_07",
+   "name": "淮军公所",
+   "district": "保定火车站",
+   "lat": 38.8611,
+   "lng": 115.49683,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 25,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "baoding_08",
+   "name": "雄安印象",
+   "district": "",
+   "lat": 39.06886,
+   "lng": 115.93908,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 20,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "baoding_09",
+   "name": "狼牙山",
+   "district": "",
+   "lat": 39.13721,
+   "lng": 115.18523,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 56,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   38.87,
+   115.46
+  ],
+  "老城区": [
+   38.882,
+   115.45
+  ],
+  "近郊": [
+   38.84,
+   115.49
+  ]
+ }
+}

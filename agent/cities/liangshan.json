@@ -1,0 +1,242 @@
+{
+ "name": "凉山",
+ "center": [
+  27.89,
+  102.26
+ ],
+ "far_ids": [
+  "liangshan_00",
+  "liangshan_04",
+  "liangshan_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "liangshan_00",
+   "name": "泸沽湖(四川)风景名胜区",
+   "district": "走婚桥",
+   "lat": 27.72225,
+   "lng": 100.91034,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 70,
+   "rating": 4.8,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liangshan_01",
+   "name": "邛海",
+   "district": "",
+   "lat": 27.82184,
+   "lng": 102.30455,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "liangshan_02",
+   "name": "《阿惹妞》彝文化实景剧演出",
+   "district": "火把广场",
+   "lat": 27.87476,
+   "lng": 102.26915,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 153,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "liangshan_03",
+   "name": "西昌建昌古城",
+   "district": "",
+   "lat": 27.90047,
+   "lng": 102.27963,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liangshan_04",
+   "name": "螺髻山",
+   "district": "",
+   "lat": 27.57867,
+   "lng": 102.39707,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 90,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liangshan_05",
+   "name": "邛海国家湿地公园",
+   "district": "邛海西度假区",
+   "lat": 27.83665,
+   "lng": 102.28338,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liangshan_06",
+   "name": "泸山",
+   "district": "邛海西度假区",
+   "lat": 27.84323,
+   "lng": 102.27887,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liangshan_07",
+   "name": "阿惹妞民俗村寨",
+   "district": "火把广场",
+   "lat": 27.87461,
+   "lng": 102.26912,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "liangshan_08",
+   "name": "大石板古村",
+   "district": "大石板民宿村",
+   "lat": 27.79534,
+   "lng": 102.32709,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "liangshan_09",
+   "name": "螺髻九十九里温泉瀑布风景区",
+   "district": "",
+   "lat": 27.49339,
+   "lng": 102.46718,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 144,
+   "rating": 4.1,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   27.89,
+   102.26
+  ],
+  "老城区": [
+   27.902,
+   102.25
+  ],
+  "近郊": [
+   27.86,
+   102.29
+  ]
+ }
+}

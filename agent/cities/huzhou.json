@@ -1,0 +1,246 @@
+{
+ "name": "湖州",
+ "center": [
+  30.89,
+  120.09
+ ],
+ "far_ids": [
+  "huzhou_00",
+  "huzhou_02",
+  "huzhou_03",
+  "huzhou_04",
+  "huzhou_05",
+  "huzhou_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "huzhou_00",
+   "name": "莫干山风景名胜区",
+   "district": "莫干山国际旅游度假区",
+   "lat": 30.61352,
+   "lng": 119.8749,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huzhou_01",
+   "name": "龙之梦国际大马戏",
+   "district": "湖州太湖",
+   "lat": 30.95362,
+   "lng": 120.06141,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 180,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huzhou_02",
+   "name": "南浔古镇",
+   "district": "南浔景区内",
+   "lat": 30.88407,
+   "lng": 120.43865,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huzhou_03",
+   "name": "云上草原",
+   "district": "云上草原高山旅游度假",
+   "lat": 30.45274,
+   "lng": 119.65978,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 180,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huzhou_04",
+   "name": "中南百草原",
+   "district": "中南百草原",
+   "lat": 30.6767,
+   "lng": 119.66418,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 200,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huzhou_05",
+   "name": "云上草原国际山地旅游度假区",
+   "district": "云上草原高山旅游度假",
+   "lat": 30.45274,
+   "lng": 119.65978,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "huzhou_06",
+   "name": "太湖龙之梦乐园",
+   "district": "湖州太湖",
+   "lat": 30.95962,
+   "lng": 120.07707,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 100,
+   "rating": 4.5,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "huzhou_07",
+   "name": "安吉Hello Kitty乐园",
+   "district": "杭州凯蒂猫乐园",
+   "lat": 30.62751,
+   "lng": 119.74692,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 210,
+   "rating": 4.4,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "huzhou_08",
+   "name": "龙之梦太湖演艺城(原太湖古镇)",
+   "district": "湖州太湖",
+   "lat": 30.95825,
+   "lng": 120.08317,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 100,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huzhou_09",
+   "name": "龙之梦动物世界",
+   "district": "湖州太湖",
+   "lat": 30.95981,
+   "lng": 120.05819,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 100,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   30.89,
+   120.09
+  ],
+  "老城区": [
+   30.902,
+   120.08
+  ],
+  "近郊": [
+   30.86,
+   120.12
+  ]
+ }
+}

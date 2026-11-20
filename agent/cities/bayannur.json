@@ -1,0 +1,248 @@
+{
+ "name": "巴彦淖尔",
+ "center": [
+  40.74,
+  107.39
+ ],
+ "far_ids": [
+  "bayannur_02",
+  "bayannur_03",
+  "bayannur_04",
+  "bayannur_05",
+  "bayannur_06",
+  "bayannur_07",
+  "bayannur_08",
+  "bayannur_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "bayannur_00",
+   "name": "巴彦淖尔国家地质公园",
+   "district": "巴彦淖尔市政府地区",
+   "lat": 40.74573,
+   "lng": 107.39279,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bayannur_01",
+   "name": "内蒙古河套文化博物院",
+   "district": "巴彦淖尔市政府地区",
+   "lat": 40.74481,
+   "lng": 107.39775,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "bayannur_02",
+   "name": "乌兰布和沙海湖旅游区",
+   "district": "",
+   "lat": 40.80559,
+   "lng": 106.73246,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bayannur_03",
+   "name": "阿贵庙",
+   "district": "",
+   "lat": 40.7389,
+   "lng": 106.38759,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bayannur_04",
+   "name": "乌拉特草原",
+   "district": "",
+   "lat": 41.36488,
+   "lng": 108.5166,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bayannur_05",
+   "name": "鸡鹿塞",
+   "district": "",
+   "lat": 40.78715,
+   "lng": 106.51157,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bayannur_06",
+   "name": "东升庙阳山大佛",
+   "district": "",
+   "lat": 41.10514,
+   "lng": 107.07359,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bayannur_07",
+   "name": "乌梁素海景区",
+   "district": "",
+   "lat": 40.82648,
+   "lng": 108.78043,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 24,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "bayannur_08",
+   "name": "纳林湖景区",
+   "district": "",
+   "lat": 40.53809,
+   "lng": 106.65647,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 3.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bayannur_09",
+   "name": "阴山岩画",
+   "district": "",
+   "lat": 40.96777,
+   "lng": 106.8136,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 3.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   40.74,
+   107.39
+  ],
+  "老城区": [
+   40.752,
+   107.38
+  ],
+  "近郊": [
+   40.71,
+   107.42
+  ]
+ }
+}

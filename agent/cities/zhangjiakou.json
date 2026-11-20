@@ -1,0 +1,248 @@
+{
+ "name": "张家口",
+ "center": [
+  40.77,
+  114.88
+ ],
+ "far_ids": [
+  "zhangjiakou_00",
+  "zhangjiakou_01",
+  "zhangjiakou_02",
+  "zhangjiakou_03",
+  "zhangjiakou_04",
+  "zhangjiakou_06",
+  "zhangjiakou_07",
+  "zhangjiakou_08",
+  "zhangjiakou_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "zhangjiakou_00",
+   "name": "太舞度假小镇",
+   "district": "太舞小镇",
+   "lat": 40.8958,
+   "lng": 115.4498,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 141,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangjiakou_01",
+   "name": "万龙滑雪场",
+   "district": "太舞小镇",
+   "lat": 40.96967,
+   "lng": 115.40507,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 99,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangjiakou_02",
+   "name": "万龙度假天堂",
+   "district": "太舞小镇",
+   "lat": 40.97565,
+   "lng": 115.40408,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangjiakou_03",
+   "name": "密苑云顶乐园",
+   "district": "太舞小镇",
+   "lat": 40.95698,
+   "lng": 115.43227,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 208,
+   "rating": 4.5,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangjiakou_04",
+   "name": "富龙滑雪场",
+   "district": "崇礼城区",
+   "lat": 40.97736,
+   "lng": 115.31735,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 179,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangjiakou_05",
+   "name": "大境门景区",
+   "district": "长途汽车站",
+   "lat": 40.8506,
+   "lng": 114.88888,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 13,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangjiakou_06",
+   "name": "暖泉古镇",
+   "district": "",
+   "lat": 39.80924,
+   "lng": 114.44212,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangjiakou_07",
+   "name": "翠云山银河滑雪场",
+   "district": "崇礼城区",
+   "lat": 41.00558,
+   "lng": 115.31642,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 79,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangjiakou_08",
+   "name": "鸡鸣驿古城",
+   "district": "",
+   "lat": 40.45839,
+   "lng": 115.32189,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 35,
+   "rating": 4.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangjiakou_09",
+   "name": "张家口滑雪",
+   "district": "太舞小镇",
+   "lat": 40.90949,
+   "lng": 115.4619,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   40.77,
+   114.88
+  ],
+  "老城区": [
+   40.782,
+   114.87
+  ],
+  "近郊": [
+   40.74,
+   114.91
+  ]
+ }
+}

@@ -1,0 +1,247 @@
+{
+ "name": "邯郸",
+ "center": [
+  36.63,
+  114.49
+ ],
+ "far_ids": [
+  "handan_00",
+  "handan_03",
+  "handan_04",
+  "handan_05",
+  "handan_06",
+  "handan_07",
+  "handan_08",
+  "handan_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "handan_00",
+   "name": "东太行景区",
+   "district": "",
+   "lat": 36.95348,
+   "lng": 113.91932,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 95,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "handan_01",
+   "name": "丛台公园",
+   "district": "邯郸道",
+   "lat": 36.62206,
+   "lng": 114.49732,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "handan_02",
+   "name": "邯郸市博物馆",
+   "district": "美乐城",
+   "lat": 36.61586,
+   "lng": 114.5295,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "handan_03",
+   "name": "京娘湖",
+   "district": "",
+   "lat": 36.90767,
+   "lng": 113.95473,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 65,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "handan_04",
+   "name": "娲皇宫",
+   "district": "",
+   "lat": 36.64596,
+   "lng": 113.62577,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 68,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "handan_05",
+   "name": "邯郸方特国色春秋",
+   "district": "",
+   "lat": 36.29097,
+   "lng": 114.39971,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 160,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "handan_06",
+   "name": "响堂山石窟-北响堂山石窟",
+   "district": "",
+   "lat": 36.52931,
+   "lng": 114.1763,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 80,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "handan_07",
+   "name": "七步沟风景区",
+   "district": "",
+   "lat": 36.93881,
+   "lng": 113.8722,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 50,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "handan_08",
+   "name": "广府古城",
+   "district": "",
+   "lat": 36.70828,
+   "lng": 114.73569,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "handan_09",
+   "name": "太行五指山景区",
+   "district": "",
+   "lat": 36.52004,
+   "lng": 113.66761,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 68,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   36.63,
+   114.49
+  ],
+  "老城区": [
+   36.642,
+   114.48
+  ],
+  "近郊": [
+   36.6,
+   114.52
+  ]
+ }
+}

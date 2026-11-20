@@ -1,0 +1,248 @@
+{
+ "name": "酒泉",
+ "center": [
+  39.73,
+  98.49
+ ],
+ "far_ids": [
+  "jiuquan_00",
+  "jiuquan_01",
+  "jiuquan_02",
+  "jiuquan_03",
+  "jiuquan_04",
+  "jiuquan_05",
+  "jiuquan_06",
+  "jiuquan_07",
+  "jiuquan_08",
+  "jiuquan_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "jiuquan_00",
+   "name": "《乐动敦煌》沉浸体验剧",
+   "district": "敦煌机场",
+   "lat": 40.16593,
+   "lng": 94.76654,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 298,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiuquan_01",
+   "name": "敦煌書局",
+   "district": "沙州市场",
+   "lat": 40.14787,
+   "lng": 94.66265,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiuquan_02",
+   "name": "鸣沙山月牙泉",
+   "district": "鸣沙山月牙泉景区",
+   "lat": 40.0949,
+   "lng": 94.68519,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 110,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiuquan_03",
+   "name": "敦煌博物馆",
+   "district": "鸣沙山月牙泉景区",
+   "lat": 40.13537,
+   "lng": 94.6676,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "jiuquan_04",
+   "name": "敦煌雅丹国家地质公园",
+   "district": "",
+   "lat": 40.52495,
+   "lng": 93.11641,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 120,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiuquan_05",
+   "name": "嘉峪关关城",
+   "district": "",
+   "lat": 39.8086,
+   "lng": 98.24668,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 180,
+   "price": 88,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiuquan_06",
+   "name": "阳关景区",
+   "district": "",
+   "lat": 39.93852,
+   "lng": 94.06484,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 50,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiuquan_07",
+   "name": "金塔胡杨林",
+   "district": "",
+   "lat": 40.04515,
+   "lng": 98.82593,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 30,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiuquan_08",
+   "name": "莫高窟",
+   "district": "",
+   "lat": 40.04872,
+   "lng": 94.81573,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiuquan_09",
+   "name": "《又见敦煌》演出",
+   "district": "敦煌机场",
+   "lat": 40.16658,
+   "lng": 94.77063,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 268,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   39.73,
+   98.49
+  ],
+  "老城区": [
+   39.742,
+   98.48
+  ],
+  "近郊": [
+   39.7,
+   98.52
+  ]
+ }
+}

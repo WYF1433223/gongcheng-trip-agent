@@ -1,0 +1,247 @@
+{
+ "name": "陇南",
+ "center": [
+  33.4,
+  104.93
+ ],
+ "far_ids": [
+  "longnan_00",
+  "longnan_01",
+  "longnan_02",
+  "longnan_03",
+  "longnan_05",
+  "longnan_06",
+  "longnan_07",
+  "longnan_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "longnan_00",
+   "name": "杜甫草堂",
+   "district": "",
+   "lat": 33.72406,
+   "lng": 105.76718,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 20,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "longnan_01",
+   "name": "文县天池国家森林公园",
+   "district": "",
+   "lat": 33.25414,
+   "lng": 104.76773,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "longnan_02",
+   "name": "西狭颂景区",
+   "district": "",
+   "lat": 33.7039,
+   "lng": 105.61704,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 39,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "longnan_03",
+   "name": "官鹅沟大景区",
+   "district": "",
+   "lat": 33.93513,
+   "lng": 104.42324,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 80,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "longnan_04",
+   "name": "万象洞风景名胜区",
+   "district": "",
+   "lat": 33.33451,
+   "lng": 105.0172,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 99,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "longnan_05",
+   "name": "鹅嫚沟",
+   "district": "",
+   "lat": 34.00886,
+   "lng": 104.45439,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "longnan_06",
+   "name": "阳坝自然风景区",
+   "district": "",
+   "lat": 33.04921,
+   "lng": 105.76683,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 3.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "longnan_07",
+   "name": "碧口古镇",
+   "district": "",
+   "lat": 32.75316,
+   "lng": 105.25223,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 2.9,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "longnan_08",
+   "name": "千坝牧场",
+   "district": "",
+   "lat": 33.29169,
+   "lng": 104.94909,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 2.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "longnan_09",
+   "name": "人间仙境文县天池",
+   "district": "",
+   "lat": 33.22315,
+   "lng": 104.76943,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   33.4,
+   104.93
+  ],
+  "老城区": [
+   33.412,
+   104.92
+  ],
+  "近郊": [
+   33.37,
+   104.96
+  ]
+ }
+}

@@ -1,0 +1,241 @@
+{
+ "name": "安阳",
+ "center": [
+  36.1,
+  114.39
+ ],
+ "far_ids": [
+  "anyang_05",
+  "anyang_06",
+  "anyang_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "anyang_00",
+   "name": "中国文字博物馆",
+   "district": "万达广场",
+   "lat": 36.12036,
+   "lng": 114.39966,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "anyang_01",
+   "name": "殷墟博物馆",
+   "district": "",
+   "lat": 36.12653,
+   "lng": 114.33677,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "anyang_02",
+   "name": "殷墟",
+   "district": "",
+   "lat": 36.12619,
+   "lng": 114.33158,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 50,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "anyang_03",
+   "name": "安阳天宁寺",
+   "district": "安阳站",
+   "lat": 36.10442,
+   "lng": 114.35605,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 19,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "anyang_04",
+   "name": "曹操高陵遗址博物馆",
+   "district": "",
+   "lat": 36.2484,
+   "lng": 114.27436,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 50,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "anyang_05",
+   "name": "太行天路",
+   "district": "",
+   "lat": 36.16113,
+   "lng": 113.72095,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "anyang_06",
+   "name": "太行大峡谷景区",
+   "district": "",
+   "lat": 36.15698,
+   "lng": 113.71534,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 140,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "anyang_07",
+   "name": "汤阴岳飞庙",
+   "district": "",
+   "lat": 35.92644,
+   "lng": 114.36156,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 38,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "anyang_08",
+   "name": "羑里城",
+   "district": "",
+   "lat": 35.96127,
+   "lng": 114.36177,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 36,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "anyang_09",
+   "name": "红旗渠",
+   "district": "",
+   "lat": 36.31431,
+   "lng": 113.79905,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 80,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   36.1,
+   114.39
+  ],
+  "老城区": [
+   36.112,
+   114.38
+  ],
+  "近郊": [
+   36.07,
+   114.42
+  ]
+ }
+}

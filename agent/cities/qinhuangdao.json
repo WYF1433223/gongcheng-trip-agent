@@ -1,0 +1,240 @@
+{
+ "name": "秦皇岛",
+ "center": [
+  39.94,
+  119.6
+ ],
+ "far_ids": [
+  "qinhuangdao_00",
+  "qinhuangdao_07",
+  "qinhuangdao_08",
+  "qinhuangdao_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "qinhuangdao_00",
+   "name": "渔田七里海度假区",
+   "district": "渔田七里海度假区",
+   "lat": 39.57536,
+   "lng": 119.21984,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qinhuangdao_01",
+   "name": "老龙头",
+   "district": "山海关老龙头度假区",
+   "lat": 39.97421,
+   "lng": 119.80421,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 60,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qinhuangdao_02",
+   "name": "北戴河",
+   "district": "东海滩",
+   "lat": 39.82232,
+   "lng": 119.52215,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qinhuangdao_03",
+   "name": "鸽子窝公园",
+   "district": "鸽子窝",
+   "lat": 39.84303,
+   "lng": 119.53008,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 35,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qinhuangdao_04",
+   "name": "秦皇岛野生动物园",
+   "district": "",
+   "lat": 39.87662,
+   "lng": 119.52779,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 115,
+   "rating": 4.5,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qinhuangdao_05",
+   "name": "山海关",
+   "district": "山海关站商圈",
+   "lat": 40.01488,
+   "lng": 119.76423,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 60,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qinhuangdao_06",
+   "name": "天下第一关",
+   "district": "山海关站商圈",
+   "lat": 40.01488,
+   "lng": 119.76423,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 60,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qinhuangdao_07",
+   "name": "南戴河",
+   "district": "南戴河仙螺岛度假区",
+   "lat": 39.79501,
+   "lng": 119.44225,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qinhuangdao_08",
+   "name": "阿那亚·秦皇岛",
+   "district": "阿那亚黄金海岸社区",
+   "lat": 39.6716,
+   "lng": 119.32571,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qinhuangdao_09",
+   "name": "南戴河仙螺岛",
+   "district": "南戴河仙螺岛度假区",
+   "lat": 39.79538,
+   "lng": 119.44472,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   39.94,
+   119.6
+  ],
+  "老城区": [
+   39.952,
+   119.59
+  ],
+  "近郊": [
+   39.91,
+   119.63
+  ]
+ }
+}

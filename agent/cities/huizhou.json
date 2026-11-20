@@ -1,0 +1,246 @@
+{
+ "name": "惠州",
+ "center": [
+  23.11,
+  114.42
+ ],
+ "far_ids": [
+  "huizhou_00",
+  "huizhou_01",
+  "huizhou_03",
+  "huizhou_04",
+  "huizhou_05",
+  "huizhou_06",
+  "huizhou_07",
+  "huizhou_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "huizhou_00",
+   "name": "日出情人湾风景区",
+   "district": "双月湾",
+   "lat": 22.62899,
+   "lng": 114.92849,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 38,
+   "rating": 4.9,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huizhou_01",
+   "name": "南昆山云顶温泉",
+   "district": "南昆山旅游区",
+   "lat": 23.58279,
+   "lng": 114.0119,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 99,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huizhou_02",
+   "name": "惠州西湖",
+   "district": "惠州西湖",
+   "lat": 23.09574,
+   "lng": 114.40467,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huizhou_03",
+   "name": "广东罗浮山风景名胜区",
+   "district": "罗浮山度假区",
+   "lat": 23.27049,
+   "lng": 114.04277,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 54,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huizhou_04",
+   "name": "大亚湾",
+   "district": "",
+   "lat": 22.7797,
+   "lng": 114.68576,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "huizhou_05",
+   "name": "巽寮湾",
+   "district": "巽寮湾",
+   "lat": 22.68308,
+   "lng": 114.7573,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "huizhou_06",
+   "name": "华润小径湾沙滩",
+   "district": "大亚湾",
+   "lat": 22.79646,
+   "lng": 114.70492,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huizhou_07",
+   "name": "双月湾",
+   "district": "双月湾",
+   "lat": 22.5907,
+   "lng": 114.90437,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "huizhou_08",
+   "name": "海龟湾",
+   "district": "双月湾",
+   "lat": 22.5522,
+   "lng": 114.89678,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "huizhou_09",
+   "name": "惠州 · 2026张韶涵玩家巡回演唱会惠州站",
+   "district": "奥体中心",
+   "lat": 23.0393,
+   "lng": 114.45291,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 388,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   23.11,
+   114.42
+  ],
+  "老城区": [
+   23.122,
+   114.41
+  ],
+  "近郊": [
+   23.08,
+   114.45
+  ]
+ }
+}

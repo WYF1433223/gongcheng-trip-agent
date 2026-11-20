@@ -1,0 +1,247 @@
+{
+ "name": "郴州",
+ "center": [
+  25.77,
+  113.02
+ ],
+ "far_ids": [
+  "chenzhou_00",
+  "chenzhou_01",
+  "chenzhou_02",
+  "chenzhou_03",
+  "chenzhou_04",
+  "chenzhou_05",
+  "chenzhou_06",
+  "chenzhou_07",
+  "chenzhou_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "chenzhou_00",
+   "name": "东江湖旅游区",
+   "district": "",
+   "lat": 25.80351,
+   "lng": 113.35762,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 75,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chenzhou_01",
+   "name": "高椅岭旅游区",
+   "district": "",
+   "lat": 25.9647,
+   "lng": 113.16559,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 95,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "chenzhou_02",
+   "name": "仰天湖大草原",
+   "district": "",
+   "lat": 25.5152,
+   "lng": 112.84189,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 108,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chenzhou_03",
+   "name": "莽山五指峰景区",
+   "district": "",
+   "lat": 25.00421,
+   "lng": 112.98278,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 280,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chenzhou_04",
+   "name": "小东江景区",
+   "district": "",
+   "lat": 25.91623,
+   "lng": 113.28718,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 75,
+   "rating": 4.5,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chenzhou_05",
+   "name": "白廊景区",
+   "district": "",
+   "lat": 25.92224,
+   "lng": 113.40614,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "chenzhou_06",
+   "name": "莽山旅游区国家森林公园",
+   "district": "",
+   "lat": 24.98747,
+   "lng": 112.89062,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 80,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chenzhou_07",
+   "name": "飞天山景区",
+   "district": "",
+   "lat": 25.93279,
+   "lng": 113.12806,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 55,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chenzhou_08",
+   "name": "飞天山翠江旅游区",
+   "district": "",
+   "lat": 25.93279,
+   "lng": 113.12806,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 55,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chenzhou_09",
+   "name": "苏仙岭",
+   "district": "北湖公园",
+   "lat": 25.81965,
+   "lng": 113.06003,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 3.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   25.77,
+   113.02
+  ],
+  "老城区": [
+   25.782,
+   113.01
+  ],
+  "近郊": [
+   25.74,
+   113.05
+  ]
+ }
+}

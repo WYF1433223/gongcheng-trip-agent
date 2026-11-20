@@ -1,0 +1,227 @@
+{
+ "name": "柳州",
+ "center": [
+  24.33,
+  109.43
+ ],
+ "far_ids": [
+  "liuzhou_02",
+  "liuzhou_03",
+  "liuzhou_05"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "liuzhou_00",
+   "name": "龙潭公园",
+   "district": "马鞍山公园",
+   "lat": 24.28296,
+   "lng": 109.42154,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liuzhou_01",
+   "name": "柳侯公园",
+   "district": "五星商业街",
+   "lat": 24.32388,
+   "lng": 109.42222,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liuzhou_02",
+   "name": "三江鼓楼",
+   "district": "",
+   "lat": 25.78769,
+   "lng": 109.61893,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liuzhou_03",
+   "name": "程阳八寨",
+   "district": "",
+   "lat": 25.90788,
+   "lng": 109.65606,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 80,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "liuzhou_04",
+   "name": "百里柳江旅游景区",
+   "district": "窑埠古镇",
+   "lat": 24.35033,
+   "lng": 109.43025,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liuzhou_05",
+   "name": "鹿寨香桥岩溶国家地质公园",
+   "district": "",
+   "lat": 24.74992,
+   "lng": 109.66651,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 60,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liuzhou_06",
+   "name": "水之星游船(东堤码头)",
+   "district": "窑埠古镇",
+   "lat": 24.34883,
+   "lng": 109.4301,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 29,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liuzhou_07",
+   "name": "窑埠古镇",
+   "district": "窑埠古镇",
+   "lat": 24.32193,
+   "lng": 109.43408,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liuzhou_08",
+   "name": "柳州 · 潮音风暴超级演唱会-柳州站",
+   "district": "窑埠古镇",
+   "lat": 24.35098,
+   "lng": 109.44306,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   24.33,
+   109.43
+  ],
+  "老城区": [
+   24.342,
+   109.42
+  ],
+  "近郊": [
+   24.3,
+   109.46
+  ]
+ }
+}

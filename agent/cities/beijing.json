@@ -1,0 +1,242 @@
+{
+ "name": "北京",
+ "center": [
+  39.9,
+  116.41
+ ],
+ "far_ids": [
+  "beijing_01",
+  "beijing_03",
+  "beijing_06",
+  "beijing_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "beijing_00",
+   "name": "故宫博物院",
+   "district": "天安门/王府井地",
+   "lat": 39.92409,
+   "lng": 116.40341,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "beijing_01",
+   "name": "慕田峪长城",
+   "district": "慕田峪长城/响水",
+   "lat": 40.43751,
+   "lng": 116.57178,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 45,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "beijing_02",
+   "name": "恭王府",
+   "district": "后海/南锣鼓巷地",
+   "lat": 39.94348,
+   "lng": 116.39265,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "beijing_03",
+   "name": "八达岭长城",
+   "district": "八达岭长城/野生",
+   "lat": 40.35855,
+   "lng": 116.02921,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 35,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "beijing_04",
+   "name": "颐和园",
+   "district": "中关村/五道口",
+   "lat": 40.00457,
+   "lng": 116.28059,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "beijing_05",
+   "name": "天坛公园",
+   "district": "前门/天坛公园/",
+   "lat": 39.88824,
+   "lng": 116.41725,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "beijing_06",
+   "name": "北京环球度假区",
+   "district": "环球影城度假区及",
+   "lat": 39.85848,
+   "lng": 116.68775,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 346,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "beijing_07",
+   "name": "泡泡玛特城市乐园",
+   "district": "燕莎/朝阳公园商",
+   "lat": 39.94799,
+   "lng": 116.48598,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 98,
+   "rating": 4.5,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "beijing_08",
+   "name": "中国国家博物馆",
+   "district": "天安门/王府井地",
+   "lat": 39.91176,
+   "lng": 116.40776,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "beijing_09",
+   "name": "北京登览长城",
+   "district": "八达岭长城/野生",
+   "lat": 40.36264,
+   "lng": 116.02407,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   39.9,
+   116.41
+  ],
+  "老城区": [
+   39.912,
+   116.4
+  ],
+  "近郊": [
+   39.87,
+   116.44
+  ]
+ }
+}

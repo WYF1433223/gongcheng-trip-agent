@@ -1,0 +1,249 @@
+{
+ "name": "文山",
+ "center": [
+  23.37,
+  104.24
+ ],
+ "far_ids": [
+  "wenshan_00",
+  "wenshan_01",
+  "wenshan_02",
+  "wenshan_03",
+  "wenshan_04",
+  "wenshan_05",
+  "wenshan_06",
+  "wenshan_07",
+  "wenshan_08",
+  "wenshan_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "wenshan_00",
+   "name": "普者黑风景区-仙人洞村",
+   "district": "普者黑仙人洞",
+   "lat": 24.12826,
+   "lng": 104.1359,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wenshan_01",
+   "name": "普者黑景区",
+   "district": "普者黑仙人洞",
+   "lat": 24.11963,
+   "lng": 104.13795,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "wenshan_02",
+   "name": "普者黑天鹅湖",
+   "district": "普者黑天鹅湖",
+   "lat": 24.11422,
+   "lng": 104.14016,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 85,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wenshan_03",
+   "name": "青龙山",
+   "district": "普者黑村",
+   "lat": 24.14395,
+   "lng": 104.11957,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wenshan_04",
+   "name": "普者黑湖",
+   "district": "普者黑村",
+   "lat": 24.14963,
+   "lng": 104.11855,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wenshan_05",
+   "name": "仙人洞",
+   "district": "普者黑仙人洞",
+   "lat": 24.13413,
+   "lng": 104.14055,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wenshan_06",
+   "name": "普者黑村",
+   "district": "普者黑村",
+   "lat": 24.15071,
+   "lng": 104.1268,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wenshan_07",
+   "name": "坝美世外桃源景区",
+   "district": "",
+   "lat": 24.32308,
+   "lng": 105.04662,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 165,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "wenshan_08",
+   "name": "三腊瀑布",
+   "district": "",
+   "lat": 23.75918,
+   "lng": 105.51177,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wenshan_09",
+   "name": "三生三世十里桃花拍摄点",
+   "district": "",
+   "lat": 24.1346,
+   "lng": 104.11301,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   23.37,
+   104.24
+  ],
+  "老城区": [
+   23.382,
+   104.23
+  ],
+  "近郊": [
+   23.34,
+   104.27
+  ]
+ }
+}

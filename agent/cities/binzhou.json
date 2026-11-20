@@ -1,0 +1,244 @@
+{
+ "name": "滨州",
+ "center": [
+  37.38,
+  117.97
+ ],
+ "far_ids": [
+  "binzhou_00",
+  "binzhou_01",
+  "binzhou_03",
+  "binzhou_05",
+  "binzhou_06",
+  "binzhou_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "binzhou_00",
+   "name": "武定府衙景区",
+   "district": "",
+   "lat": 37.50006,
+   "lng": 117.51505,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "binzhou_01",
+   "name": "鹤伴山旅游景区",
+   "district": "",
+   "lat": 36.76849,
+   "lng": 117.72751,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "binzhou_02",
+   "name": "杜受田故居",
+   "district": "",
+   "lat": 37.48614,
+   "lng": 117.97427,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 45,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "binzhou_03",
+   "name": "魏氏庄园",
+   "district": "",
+   "lat": 37.29685,
+   "lng": 117.76095,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 50,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "binzhou_04",
+   "name": "蒲湖风景区-黄河楼",
+   "district": "",
+   "lat": 37.36418,
+   "lng": 118.03745,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "binzhou_05",
+   "name": "孙子兵法城",
+   "district": "",
+   "lat": 37.51413,
+   "lng": 117.50945,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 36,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "binzhou_06",
+   "name": "樱花山风景区",
+   "district": "",
+   "lat": 36.81321,
+   "lng": 117.72978,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "binzhou_07",
+   "name": "滨州海底世界",
+   "district": "",
+   "lat": 37.43979,
+   "lng": 118.00742,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 89,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "binzhou_08",
+   "name": "无棣古城旅游景区",
+   "district": "",
+   "lat": 37.74692,
+   "lng": 117.60971,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "binzhou_09",
+   "name": "魏集古村落",
+   "district": "",
+   "lat": 37.30649,
+   "lng": 117.76645,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 29,
+   "rating": 3.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   37.38,
+   117.97
+  ],
+  "老城区": [
+   37.392,
+   117.96
+  ],
+  "近郊": [
+   37.35,
+   118.0
+  ]
+ }
+}

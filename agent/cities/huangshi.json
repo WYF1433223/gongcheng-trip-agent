@@ -1,0 +1,242 @@
+{
+ "name": "黄石",
+ "center": [
+  30.2,
+  115.04
+ ],
+ "far_ids": [
+  "huangshi_05",
+  "huangshi_06",
+  "huangshi_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "huangshi_00",
+   "name": "黄石磁湖省级风景名胜区",
+   "district": "",
+   "lat": 30.2124,
+   "lng": 115.05556,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangshi_01",
+   "name": "西塞山风景区",
+   "district": "",
+   "lat": 30.21232,
+   "lng": 115.17162,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 25,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangshi_02",
+   "name": "东方山风景区",
+   "district": "",
+   "lat": 30.20848,
+   "lng": 114.95006,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangshi_03",
+   "name": "黄石国家矿山公园",
+   "district": "",
+   "lat": 30.21501,
+   "lng": 114.92451,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 33,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangshi_04",
+   "name": "铜绿山国家考古遗址公园",
+   "district": "",
+   "lat": 30.08803,
+   "lng": 114.95125,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 35,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "huangshi_05",
+   "name": "天空之城",
+   "district": "",
+   "lat": 29.80617,
+   "lng": 114.8431,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 185,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangshi_06",
+   "name": "仙岛湖旅游度假区",
+   "district": "",
+   "lat": 29.80581,
+   "lng": 114.83927,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 145,
+   "rating": 4.1,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangshi_07",
+   "name": "枫林地心大峡谷风景区",
+   "district": "",
+   "lat": 29.68914,
+   "lng": 115.35921,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 98,
+   "rating": 4.1,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangshi_08",
+   "name": "黄石华侨城恐龙奇域景区·恐龙梦工厂",
+   "district": "",
+   "lat": 30.11508,
+   "lng": 115.05575,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 111,
+   "rating": 4.1,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangshi_09",
+   "name": "大冶 · 2026《她青春》LIVE演唱会暖冬季",
+   "district": "",
+   "lat": 30.12842,
+   "lng": 115.061,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   30.2,
+   115.04
+  ],
+  "老城区": [
+   30.212,
+   115.03
+  ],
+  "近郊": [
+   30.17,
+   115.07
+  ]
+ }
+}

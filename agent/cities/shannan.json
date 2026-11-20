@@ -1,0 +1,246 @@
+{
+ "name": "山南",
+ "center": [
+  29.24,
+  91.77
+ ],
+ "far_ids": [
+  "shannan_00",
+  "shannan_01",
+  "shannan_02",
+  "shannan_04",
+  "shannan_05",
+  "shannan_06",
+  "shannan_07",
+  "shannan_08",
+  "shannan_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "shannan_00",
+   "name": "普莫雍错",
+   "district": "",
+   "lat": 28.60137,
+   "lng": 90.25448,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shannan_01",
+   "name": "古如拉措",
+   "district": "",
+   "lat": 28.38984,
+   "lng": 91.19732,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shannan_02",
+   "name": "雅江河谷观景台",
+   "district": "",
+   "lat": 29.23175,
+   "lng": 90.6327,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shannan_03",
+   "name": "雍布拉康",
+   "district": "",
+   "lat": 29.14577,
+   "lng": 91.81022,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shannan_04",
+   "name": "库拉岗日雪山",
+   "district": "",
+   "lat": 28.33034,
+   "lng": 90.6194,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shannan_05",
+   "name": "白马林错",
+   "district": "",
+   "lat": 28.27635,
+   "lng": 90.74385,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shannan_06",
+   "name": "羊卓雍错",
+   "district": "",
+   "lat": 28.92597,
+   "lng": 90.74008,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shannan_07",
+   "name": "日托寺",
+   "district": "",
+   "lat": 28.9977,
+   "lng": 90.89111,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shannan_08",
+   "name": "桑耶寺",
+   "district": "",
+   "lat": 29.32931,
+   "lng": 91.51035,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shannan_09",
+   "name": "贡德林草原",
+   "district": "",
+   "lat": 29.44636,
+   "lng": 92.36629,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   29.24,
+   91.77
+  ],
+  "老城区": [
+   29.252,
+   91.76
+  ],
+  "近郊": [
+   29.21,
+   91.8
+  ]
+ }
+}

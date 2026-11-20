@@ -1,0 +1,248 @@
+{
+ "name": "德州",
+ "center": [
+  37.44,
+  116.36
+ ],
+ "far_ids": [
+  "dezhou_00",
+  "dezhou_01",
+  "dezhou_02",
+  "dezhou_03",
+  "dezhou_04",
+  "dezhou_05",
+  "dezhou_06",
+  "dezhou_07",
+  "dezhou_08",
+  "dezhou_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "dezhou_00",
+   "name": "齐河黄河国际生态城旅游度假区",
+   "district": "",
+   "lat": 36.7491,
+   "lng": 116.84698,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "dezhou_01",
+   "name": "泉城欧乐堡动物王国",
+   "district": "",
+   "lat": 36.75518,
+   "lng": 116.81262,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 148,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dezhou_02",
+   "name": "乐陵影视城",
+   "district": "",
+   "lat": 37.75844,
+   "lng": 117.26784,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 39,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dezhou_03",
+   "name": "泉城欧乐堡海洋极地世界",
+   "district": "",
+   "lat": 36.7493,
+   "lng": 116.84648,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 149,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dezhou_04",
+   "name": "泉城欧乐堡水上世界",
+   "district": "",
+   "lat": 36.74549,
+   "lng": 116.83753,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dezhou_05",
+   "name": "华林大剧院-大河上下",
+   "district": "",
+   "lat": 36.75065,
+   "lng": 116.83334,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dezhou_06",
+   "name": "山东泉城欧乐堡度假区",
+   "district": "",
+   "lat": 36.75249,
+   "lng": 116.84526,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 149,
+   "rating": 4.5,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "dezhou_07",
+   "name": "华林园风景区",
+   "district": "",
+   "lat": 36.74216,
+   "lng": 116.82546,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 139,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dezhou_08",
+   "name": "泉城欧乐堡梦幻世界",
+   "district": "",
+   "lat": 36.75682,
+   "lng": 116.84847,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 149,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dezhou_09",
+   "name": "泉城欧乐堡戏水湾艺术养生温泉",
+   "district": "",
+   "lat": 36.75398,
+   "lng": 116.85358,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 159,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   37.44,
+   116.36
+  ],
+  "老城区": [
+   37.452,
+   116.35
+  ],
+  "近郊": [
+   37.41,
+   116.39
+  ]
+ }
+}

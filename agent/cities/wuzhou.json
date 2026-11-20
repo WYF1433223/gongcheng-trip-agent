@@ -1,0 +1,243 @@
+{
+ "name": "梧州",
+ "center": [
+  23.48,
+  111.28
+ ],
+ "far_ids": [
+  "wuzhou_00",
+  "wuzhou_04",
+  "wuzhou_05"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "wuzhou_00",
+   "name": "鱼鳞坝",
+   "district": "",
+   "lat": 23.8093,
+   "lng": 111.40284,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuzhou_01",
+   "name": "泗洲岛",
+   "district": "",
+   "lat": 23.42787,
+   "lng": 111.21574,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuzhou_02",
+   "name": "梧州市博物馆",
+   "district": "",
+   "lat": 23.47884,
+   "lng": 111.31408,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "wuzhou_03",
+   "name": "骑楼城",
+   "district": "骑楼城老字号小吃街",
+   "lat": 23.47796,
+   "lng": 111.32225,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuzhou_04",
+   "name": "天龙顶国家山地公园",
+   "district": "",
+   "lat": 22.71277,
+   "lng": 110.86177,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuzhou_05",
+   "name": "石表山休闲旅游风景区",
+   "district": "",
+   "lat": 23.14305,
+   "lng": 110.68488,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 50,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuzhou_06",
+   "name": "广西梧州白云山景区",
+   "district": "",
+   "lat": 23.49286,
+   "lng": 111.33901,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuzhou_07",
+   "name": "梧州龙母庙",
+   "district": "",
+   "lat": 23.48855,
+   "lng": 111.32425,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 28,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuzhou_08",
+   "name": "启迪鸿星梧州雪立方冰雪世界",
+   "district": "",
+   "lat": 23.39693,
+   "lng": 111.25262,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 168,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuzhou_09",
+   "name": "岭南文化园",
+   "district": "",
+   "lat": 23.48623,
+   "lng": 111.32323,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 10,
+   "rating": 3.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   23.48,
+   111.28
+  ],
+  "老城区": [
+   23.492,
+   111.27
+  ],
+  "近郊": [
+   23.45,
+   111.31
+  ]
+ }
+}

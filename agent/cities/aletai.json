@@ -1,0 +1,247 @@
+{
+ "name": "阿勒泰",
+ "center": [
+  47.85,
+  88.14
+ ],
+ "far_ids": [
+  "aletai_00",
+  "aletai_01",
+  "aletai_02",
+  "aletai_04",
+  "aletai_05",
+  "aletai_06",
+  "aletai_07",
+  "aletai_08",
+  "aletai_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "aletai_00",
+   "name": "吉克普林国际滑雪度假区",
+   "district": "禾木风景区",
+   "lat": 48.59296,
+   "lng": 87.53705,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 329,
+   "rating": 4.8,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "aletai_01",
+   "name": "喀纳斯湖",
+   "district": "喀纳斯风景区",
+   "lat": 48.82013,
+   "lng": 87.06448,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "aletai_02",
+   "name": "喀纳斯景区",
+   "district": "喀纳斯风景区",
+   "lat": 48.58823,
+   "lng": 86.98824,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 100,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "aletai_03",
+   "name": "将军山国际滑雪度假区",
+   "district": "",
+   "lat": 47.84311,
+   "lng": 88.16929,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 245,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "aletai_04",
+   "name": "禾木风景区",
+   "district": "",
+   "lat": 48.57847,
+   "lng": 87.53591,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 100,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "aletai_05",
+   "name": "可可托海景区",
+   "district": "",
+   "lat": 47.0228,
+   "lng": 89.77752,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "aletai_06",
+   "name": "五彩滩",
+   "district": "",
+   "lat": 47.84244,
+   "lng": 86.68883,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "aletai_07",
+   "name": "白哈巴景区",
+   "district": "",
+   "lat": 48.70212,
+   "lng": 86.78974,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 100,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "aletai_08",
+   "name": "白沙湖景区",
+   "district": "",
+   "lat": 48.19376,
+   "lng": 85.74196,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "aletai_09",
+   "name": "乌伦古湖(黄金海岸景区)",
+   "district": "",
+   "lat": 47.25021,
+   "lng": 87.41795,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 19,
+   "rating": 4.1,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   47.85,
+   88.14
+  ],
+  "老城区": [
+   47.862,
+   88.13
+  ],
+  "近郊": [
+   47.82,
+   88.17
+  ]
+ }
+}

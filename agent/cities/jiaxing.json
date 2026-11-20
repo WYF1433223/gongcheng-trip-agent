@@ -1,0 +1,248 @@
+{
+ "name": "嘉兴",
+ "center": [
+  30.75,
+  120.76
+ ],
+ "far_ids": [
+  "jiaxing_02",
+  "jiaxing_03",
+  "jiaxing_04",
+  "jiaxing_05",
+  "jiaxing_06",
+  "jiaxing_07",
+  "jiaxing_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "jiaxing_00",
+   "name": "濮院时尚古镇",
+   "district": "濮院古镇",
+   "lat": 30.68777,
+   "lng": 120.64026,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 120,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiaxing_01",
+   "name": "月河历史街区",
+   "district": "月河历史街区商圈",
+   "lat": 30.77718,
+   "lng": 120.75674,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiaxing_02",
+   "name": "乌镇",
+   "district": "乌镇西栅景区内",
+   "lat": 30.75386,
+   "lng": 120.49505,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 100,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiaxing_03",
+   "name": "乌镇西栅景区",
+   "district": "乌镇西栅景区内",
+   "lat": 30.75631,
+   "lng": 120.49084,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 150,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiaxing_04",
+   "name": "西塘古镇",
+   "district": "西塘景区内",
+   "lat": 30.95051,
+   "lng": 120.89974,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 85,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiaxing_05",
+   "name": "乌镇东栅景区",
+   "district": "乌镇东栅",
+   "lat": 30.74613,
+   "lng": 120.50341,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 110,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiaxing_06",
+   "name": "盐官潮乐之城",
+   "district": "盐官旅游度假区",
+   "lat": 30.41036,
+   "lng": 120.54955,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 60,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiaxing_07",
+   "name": "歌斐颂巧克力小镇",
+   "district": "",
+   "lat": 30.79489,
+   "lng": 120.99621,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 60,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiaxing_08",
+   "name": "观潮胜地公园",
+   "district": "盐官旅游度假区",
+   "lat": 30.40631,
+   "lng": 120.55579,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 30,
+   "rating": 4.1,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiaxing_09",
+   "name": "南湖景区",
+   "district": "南湖景区商圈",
+   "lat": 30.75866,
+   "lng": 120.76122,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   30.75,
+   120.76
+  ],
+  "老城区": [
+   30.762,
+   120.75
+  ],
+  "近郊": [
+   30.72,
+   120.79
+  ]
+ }
+}

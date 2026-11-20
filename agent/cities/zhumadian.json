@@ -1,0 +1,244 @@
+{
+ "name": "驻马店",
+ "center": [
+  33.01,
+  114.02
+ ],
+ "far_ids": [
+  "zhumadian_00",
+  "zhumadian_02",
+  "zhumadian_03",
+  "zhumadian_04",
+  "zhumadian_05",
+  "zhumadian_07",
+  "zhumadian_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "zhumadian_00",
+   "name": "梁祝故里",
+   "district": "",
+   "lat": 32.79854,
+   "lng": 114.36187,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhumadian_01",
+   "name": "驻马店市博物馆",
+   "district": "",
+   "lat": 33.01371,
+   "lng": 114.03049,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "zhumadian_02",
+   "name": "嵖岈山风景区",
+   "district": "",
+   "lat": 33.13639,
+   "lng": 113.73767,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 65,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhumadian_03",
+   "name": "南海禅寺",
+   "district": "",
+   "lat": 32.99962,
+   "lng": 114.37179,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhumadian_04",
+   "name": "金顶山",
+   "district": "",
+   "lat": 32.86091,
+   "lng": 113.84019,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 29,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhumadian_05",
+   "name": "铜山风景名胜区",
+   "district": "",
+   "lat": 32.72346,
+   "lng": 113.57833,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 16,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhumadian_06",
+   "name": "老乐山风景区",
+   "district": "",
+   "lat": 32.85668,
+   "lng": 113.92063,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhumadian_07",
+   "name": "驻马店白云山风景区",
+   "district": "",
+   "lat": 32.85978,
+   "lng": 113.56841,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 19,
+   "rating": 3.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhumadian_08",
+   "name": "李斯墓",
+   "district": "",
+   "lat": 33.22449,
+   "lng": 114.24932,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 3.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhumadian_09",
+   "name": "杨靖宇将军纪念馆",
+   "district": "",
+   "lat": 32.91631,
+   "lng": 114.03906,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   33.01,
+   114.02
+  ],
+  "老城区": [
+   33.022,
+   114.01
+  ],
+  "近郊": [
+   32.98,
+   114.05
+  ]
+ }
+}

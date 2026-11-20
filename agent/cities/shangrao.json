@@ -1,0 +1,206 @@
+{
+ "name": "上饶",
+ "center": [
+  28.6687,
+  117.7425
+ ],
+ "pois": [
+  {
+   "id": "shangrao_01",
+   "name": "信江书院",
+   "district": "上饶",
+   "lat": 28.45,
+   "lng": 117.95,
+   "open_min": 510,
+   "close_min": 1020,
+   "duration": 50,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": 1
+  },
+  {
+   "id": "shangrao_02",
+   "name": "上饶集中营旧址",
+   "district": "上饶",
+   "lat": 28.44,
+   "lng": 117.96,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shangrao_03",
+   "name": "灵山",
+   "district": "上饶",
+   "lat": 28.52,
+   "lng": 117.98,
+   "open_min": 450,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 100,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shangrao_04",
+   "name": "望仙谷",
+   "district": "上饶",
+   "lat": 28.58,
+   "lng": 118.02,
+   "open_min": 480,
+   "close_min": 1320,
+   "duration": 180,
+   "price": 120,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shangrao_05",
+   "name": "三清山",
+   "district": "上饶",
+   "lat": 28.83,
+   "lng": 118.06,
+   "open_min": 360,
+   "close_min": 1080,
+   "duration": 360,
+   "price": 150,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shangrao_06",
+   "name": "婺源篁岭",
+   "district": "上饶",
+   "lat": 29.22,
+   "lng": 117.87,
+   "open_min": 450,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 145,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shangrao_07",
+   "name": "龟峰",
+   "district": "上饶",
+   "lat": 28.31,
+   "lng": 117.42,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 90,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shangrao_08",
+   "name": "鄱阳湖湿地公园",
+   "district": "上饶",
+   "lat": 29.0,
+   "lng": 116.68,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 180,
+   "price": 80,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   28.6687,
+   117.7425
+  ],
+  "老城区": [
+   28.6788,
+   117.7325
+  ],
+  "近郊": [
+   28.7087,
+   117.7725
+  ]
+ },
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 14,
+   "high": 24,
+   "rain": 5
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 22,
+   "rain": 15
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 12,
+   "high": 19,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 12,
+   "high": 20,
+   "rain": 25
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 13,
+   "high": 23,
+   "rain": 5
+  }
+ ],
+ "far_ids": [
+  "shangrao_03",
+  "shangrao_04",
+  "shangrao_05",
+  "shangrao_06",
+  "shangrao_07",
+  "shangrao_08"
+ ],
+ "far_minutes": 60,
+ "far_both_minutes": 90
+}

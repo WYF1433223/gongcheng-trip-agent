@@ -1,0 +1,185 @@
+{
+ "name": "乐山",
+ "center": [
+  29.5786,
+  103.7114
+ ],
+ "pois": [
+  {
+   "id": "leshan_01",
+   "name": "乐山大佛",
+   "district": "乐山",
+   "lat": 29.55,
+   "lng": 103.77,
+   "open_min": 450,
+   "close_min": 1080,
+   "duration": 150,
+   "price": 80,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "leshan_02",
+   "name": "嘉定坊",
+   "district": "乐山",
+   "lat": 29.56,
+   "lng": 103.76,
+   "open_min": 540,
+   "close_min": 1260,
+   "duration": 60,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "leshan_03",
+   "name": "乐山文庙",
+   "district": "乐山",
+   "lat": 29.55,
+   "lng": 103.75,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 50,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": 1
+  },
+  {
+   "id": "leshan_04",
+   "name": "张公桥美食街",
+   "district": "乐山",
+   "lat": 29.56,
+   "lng": 103.76,
+   "open_min": 600,
+   "close_min": 1380,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "leshan_05",
+   "name": "苏稽古镇",
+   "district": "乐山",
+   "lat": 29.66,
+   "lng": 103.68,
+   "open_min": 0,
+   "close_min": 1320,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "leshan_06",
+   "name": "峨眉山",
+   "district": "乐山",
+   "lat": 29.6,
+   "lng": 103.48,
+   "open_min": 360,
+   "close_min": 1080,
+   "duration": 420,
+   "price": 160,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "leshan_07",
+   "name": "乐山市博物馆",
+   "district": "乐山",
+   "lat": 29.57,
+   "lng": 103.78,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 60,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 1
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   29.5786,
+   103.7114
+  ],
+  "老城区": [
+   29.5886,
+   103.7014
+  ],
+  "近郊": [
+   29.6186,
+   103.7414
+  ]
+ },
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 14,
+   "high": 24,
+   "rain": 5
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 22,
+   "rain": 15
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 12,
+   "high": 19,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 12,
+   "high": 20,
+   "rain": 25
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 13,
+   "high": 23,
+   "rain": 5
+  }
+ ],
+ "far_ids": [
+  "leshan_05",
+  "leshan_06"
+ ],
+ "far_minutes": 60,
+ "far_both_minutes": 90
+}

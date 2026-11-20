@@ -1,0 +1,222 @@
+{
+ "name": "九江",
+ "center": [
+  29.6026,
+  115.9668
+ ],
+ "pois": [
+  {
+   "id": "jiujiang_01",
+   "name": "浔阳楼",
+   "district": "九江",
+   "lat": 29.727,
+   "lng": 116.0,
+   "open_min": 510,
+   "close_min": 1050,
+   "duration": 50,
+   "price": 30,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiujiang_02",
+   "name": "烟水亭",
+   "district": "九江",
+   "lat": 29.716,
+   "lng": 115.996,
+   "open_min": 510,
+   "close_min": 1050,
+   "duration": 40,
+   "price": 20,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiujiang_03",
+   "name": "锁江楼",
+   "district": "九江",
+   "lat": 29.735,
+   "lng": 116.005,
+   "open_min": 510,
+   "close_min": 1020,
+   "duration": 40,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiujiang_04",
+   "name": "甘棠湖",
+   "district": "九江",
+   "lat": 29.715,
+   "lng": 115.99,
+   "open_min": 360,
+   "close_min": 1320,
+   "duration": 60,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiujiang_05",
+   "name": "东林寺",
+   "district": "九江",
+   "lat": 29.62,
+   "lng": 115.93,
+   "open_min": 420,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiujiang_06",
+   "name": "白鹿洞书院",
+   "district": "九江",
+   "lat": 29.52,
+   "lng": 116.03,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 70,
+   "price": 30,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiujiang_07",
+   "name": "庐山",
+   "district": "九江",
+   "lat": 29.55,
+   "lng": 115.98,
+   "open_min": 360,
+   "close_min": 1080,
+   "duration": 300,
+   "price": 160,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiujiang_08",
+   "name": "石钟山",
+   "district": "九江",
+   "lat": 29.75,
+   "lng": 116.47,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 90,
+   "price": 60,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiujiang_09",
+   "name": "庐山西海",
+   "district": "九江",
+   "lat": 29.09,
+   "lng": 115.3,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 180,
+   "price": 120,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   29.6026,
+   115.9668
+  ],
+  "老城区": [
+   29.6126,
+   115.9568
+  ],
+  "近郊": [
+   29.6426,
+   115.9968
+  ]
+ },
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 14,
+   "high": 24,
+   "rain": 5
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 22,
+   "rain": 15
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 12,
+   "high": 19,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 12,
+   "high": 20,
+   "rain": 25
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 13,
+   "high": 23,
+   "rain": 5
+  }
+ ],
+ "far_ids": [
+  "jiujiang_05",
+  "jiujiang_06",
+  "jiujiang_07",
+  "jiujiang_08",
+  "jiujiang_09"
+ ],
+ "far_minutes": 60,
+ "far_both_minutes": 90
+}

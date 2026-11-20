@@ -1,0 +1,242 @@
+{
+ "name": "天水",
+ "center": [
+  34.58,
+  105.72
+ ],
+ "far_ids": [
+  "tianshui_01",
+  "tianshui_04",
+  "tianshui_05",
+  "tianshui_06",
+  "tianshui_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "tianshui_00",
+   "name": "伏羲庙",
+   "district": "天水古城",
+   "lat": 34.58565,
+   "lng": 105.71358,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 20,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tianshui_01",
+   "name": "麦积山温泉",
+   "district": "",
+   "lat": 34.45908,
+   "lng": 106.04429,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 138,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tianshui_02",
+   "name": "玉泉景区",
+   "district": "天水古城",
+   "lat": 34.58975,
+   "lng": 105.71835,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 20,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tianshui_03",
+   "name": "天水古城",
+   "district": "天水古城",
+   "lat": 34.58599,
+   "lng": 105.71921,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tianshui_04",
+   "name": "麦积山石窟",
+   "district": "麦积山石窟",
+   "lat": 34.35599,
+   "lng": 106.01462,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 105,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tianshui_05",
+   "name": "麦积山风景名胜区",
+   "district": "麦积山石窟",
+   "lat": 34.37948,
+   "lng": 106.03095,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 115,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tianshui_06",
+   "name": "仙人崖",
+   "district": "麦积山石窟",
+   "lat": 34.40185,
+   "lng": 106.05517,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tianshui_07",
+   "name": "天水市博物馆",
+   "district": "天水古城",
+   "lat": 34.58579,
+   "lng": 105.71255,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "tianshui_08",
+   "name": "南郭寺",
+   "district": "秦州万达",
+   "lat": 34.57195,
+   "lng": 105.76208,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tianshui_09",
+   "name": "净土寺",
+   "district": "",
+   "lat": 34.41002,
+   "lng": 106.07472,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   34.58,
+   105.72
+  ],
+  "老城区": [
+   34.592,
+   105.71
+  ],
+  "近郊": [
+   34.55,
+   105.75
+  ]
+ }
+}

@@ -1,0 +1,241 @@
+{
+ "name": "济南",
+ "center": [
+  36.65,
+  117.12
+ ],
+ "far_ids": [
+  "jinan_02",
+  "jinan_08",
+  "jinan_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "jinan_00",
+   "name": "山东博物馆",
+   "district": "奥体中心",
+   "lat": 36.66432,
+   "lng": 117.10221,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "jinan_01",
+   "name": "五龙潭公园",
+   "district": "大明湖",
+   "lat": 36.67228,
+   "lng": 117.02128,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinan_02",
+   "name": "灵岩寺",
+   "district": "九如山",
+   "lat": 36.37169,
+   "lng": 116.99296,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinan_03",
+   "name": "千佛山",
+   "district": "千佛山",
+   "lat": 36.64528,
+   "lng": 117.04106,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 28,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinan_04",
+   "name": "济南融创乐园",
+   "district": "融创乐园",
+   "lat": 36.67196,
+   "lng": 117.20367,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 150,
+   "rating": 4.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinan_05",
+   "name": "趵突泉景区",
+   "district": "大明湖",
+   "lat": 36.66742,
+   "lng": 117.02234,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinan_06",
+   "name": "大明湖景区",
+   "district": "大明湖",
+   "lat": 36.68354,
+   "lng": 117.03217,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinan_07",
+   "name": "天下第一泉风景区",
+   "district": "大明湖",
+   "lat": 36.67493,
+   "lng": 117.04282,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinan_08",
+   "name": "清照泉城·明水古城国际泉水旅游度假区",
+   "district": "明水古城",
+   "lat": 36.72539,
+   "lng": 117.54165,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 98,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinan_09",
+   "name": "济南野生动物世界",
+   "district": "",
+   "lat": 36.62137,
+   "lng": 117.47032,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 79,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   36.65,
+   117.12
+  ],
+  "老城区": [
+   36.662,
+   117.11
+  ],
+  "近郊": [
+   36.62,
+   117.15
+  ]
+ }
+}

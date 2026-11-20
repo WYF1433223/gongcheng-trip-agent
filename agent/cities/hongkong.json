@@ -1,0 +1,223 @@
+{
+ "name": "香港",
+ "center": [
+  22.32,
+  114.17
+ ],
+ "far_ids": [
+  "hongkong_01"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "hongkong_00",
+   "name": "香港迪士尼乐园",
+   "district": "香港迪士尼乐园度假区",
+   "lat": 22.31598,
+   "lng": 114.0529,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 421,
+   "rating": 4.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "hongkong_01",
+   "name": "昂坪360",
+   "district": "离岛",
+   "lat": 22.25937,
+   "lng": 113.91276,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 139,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "hongkong_02",
+   "name": "维多利亚港",
+   "district": "",
+   "lat": 22.29273,
+   "lng": 114.18307,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "hongkong_03",
+   "name": "香港故宫文化博物馆",
+   "district": "西九龙",
+   "lat": 22.30487,
+   "lng": 114.16751,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 58,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "hongkong_04",
+   "name": "香港海洋公园",
+   "district": "南区",
+   "lat": 22.24958,
+   "lng": 114.18725,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 412,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hongkong_05",
+   "name": "太平山顶",
+   "district": "",
+   "lat": 22.27918,
+   "lng": 114.15705,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hongkong_06",
+   "name": "山顶缆车",
+   "district": "中环",
+   "lat": 22.28111,
+   "lng": 114.17108,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 70,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hongkong_07",
+   "name": "香港摩天轮",
+   "district": "中环",
+   "lat": 22.2883,
+   "lng": 114.17325,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 17,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hongkong_08",
+   "name": "渣打香港马拉松2027",
+   "district": "尖沙咀",
+   "lat": 22.30188,
+   "lng": 114.18363,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   22.32,
+   114.17
+  ],
+  "老城区": [
+   22.332,
+   114.16
+  ],
+  "近郊": [
+   22.29,
+   114.2
+  ]
+ }
+}

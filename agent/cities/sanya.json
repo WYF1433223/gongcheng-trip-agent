@@ -1,0 +1,242 @@
+{
+ "name": "三亚",
+ "center": [
+  18.25,
+  109.51
+ ],
+ "far_ids": [
+  "sanya_00",
+  "sanya_01",
+  "sanya_02",
+  "sanya_04",
+  "sanya_05",
+  "sanya_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "sanya_00",
+   "name": "三亚亚特兰蒂斯水世界",
+   "district": "海棠湾",
+   "lat": 18.36104,
+   "lng": 109.75004,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 188,
+   "rating": 4.9,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanya_01",
+   "name": "三亚亚特兰蒂斯失落的空间水族馆",
+   "district": "海棠湾",
+   "lat": 18.36215,
+   "lng": 109.75025,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 157,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanya_02",
+   "name": "三亚南山文化旅游区",
+   "district": "南山寺",
+   "lat": 18.30531,
+   "lng": 109.21536,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanya_03",
+   "name": "鹿回头风景区",
+   "district": "大东海",
+   "lat": 18.23323,
+   "lng": 109.50779,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanya_04",
+   "name": "三亚亚特兰蒂斯度假区",
+   "district": "海棠湾",
+   "lat": 18.3619,
+   "lng": 109.7496,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanya_05",
+   "name": "蜈支洲岛",
+   "district": "蜈支洲岛",
+   "lat": 18.31644,
+   "lng": 109.77272,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 140,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanya_06",
+   "name": "亚龙湾热带天堂森林公园",
+   "district": "亚龙湾",
+   "lat": 18.25954,
+   "lng": 109.64958,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 158,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanya_07",
+   "name": "西岛",
+   "district": "三亚湾",
+   "lat": 18.24574,
+   "lng": 109.3801,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 95,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanya_08",
+   "name": "天涯海角",
+   "district": "三亚湾",
+   "lat": 18.30039,
+   "lng": 109.35509,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanya_09",
+   "name": "分界洲岛",
+   "district": "分界洲岛",
+   "lat": 18.58816,
+   "lng": 110.20018,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 122,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   18.25,
+   109.51
+  ],
+  "老城区": [
+   18.262,
+   109.5
+  ],
+  "近郊": [
+   18.22,
+   109.54
+  ]
+ }
+}

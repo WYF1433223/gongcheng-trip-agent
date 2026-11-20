@@ -1,0 +1,244 @@
+{
+ "name": "晋城",
+ "center": [
+  35.49,
+  112.85
+ ],
+ "far_ids": [
+  "jincheng_01",
+  "jincheng_02",
+  "jincheng_03",
+  "jincheng_04",
+  "jincheng_05",
+  "jincheng_07",
+  "jincheng_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "jincheng_00",
+   "name": "玉皇庙彩塑壁画博物馆",
+   "district": "",
+   "lat": 35.55201,
+   "lng": 112.94962,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "jincheng_01",
+   "name": "黑毛沟大峡谷",
+   "district": "",
+   "lat": 35.6236,
+   "lng": 113.42579,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jincheng_02",
+   "name": "高平铁佛寺",
+   "district": "",
+   "lat": 35.77138,
+   "lng": 112.98124,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jincheng_03",
+   "name": "皇城相府",
+   "district": "皇城相府景区",
+   "lat": 35.52613,
+   "lng": 112.59261,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 80,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jincheng_04",
+   "name": "太行锡崖沟旅游度假区",
+   "district": "",
+   "lat": 35.64959,
+   "lng": 113.60688,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jincheng_05",
+   "name": "湘峪古堡",
+   "district": "",
+   "lat": 35.57215,
+   "lng": 112.60025,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 65,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jincheng_06",
+   "name": "司徒小镇",
+   "district": "",
+   "lat": 35.52919,
+   "lng": 112.90152,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jincheng_07",
+   "name": "王莽岭风景区",
+   "district": "",
+   "lat": 35.68672,
+   "lng": 113.56647,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 90,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jincheng_08",
+   "name": "郭峪古城",
+   "district": "皇城相府景区",
+   "lat": 35.51529,
+   "lng": 112.58559,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 59,
+   "rating": 4.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jincheng_09",
+   "name": "珏山青莲寺景区-青莲寺",
+   "district": "",
+   "lat": 35.46349,
+   "lng": 113.00269,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   35.49,
+   112.85
+  ],
+  "老城区": [
+   35.502,
+   112.84
+  ],
+  "近郊": [
+   35.46,
+   112.88
+  ]
+ }
+}

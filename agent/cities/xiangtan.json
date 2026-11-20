@@ -1,0 +1,248 @@
+{
+ "name": "湘潭",
+ "center": [
+  27.83,
+  112.94
+ ],
+ "far_ids": [
+  "xiangtan_00",
+  "xiangtan_01",
+  "xiangtan_04",
+  "xiangtan_05",
+  "xiangtan_06",
+  "xiangtan_07",
+  "xiangtan_08",
+  "xiangtan_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "xiangtan_00",
+   "name": "《最忆韶山冲》红五星剧场",
+   "district": "",
+   "lat": 27.8985,
+   "lng": 112.52832,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 204,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiangtan_01",
+   "name": "韶峰",
+   "district": "",
+   "lat": 27.88424,
+   "lng": 112.45555,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 60,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiangtan_02",
+   "name": "盘龙大观园",
+   "district": "",
+   "lat": 27.88733,
+   "lng": 113.03945,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 88,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiangtan_03",
+   "name": "万楼",
+   "district": "湘潭站",
+   "lat": 27.87797,
+   "lng": 112.95419,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiangtan_04",
+   "name": "滴水洞",
+   "district": "",
+   "lat": 27.92517,
+   "lng": 112.47147,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiangtan_05",
+   "name": "韶山旅游区",
+   "district": "",
+   "lat": 27.89612,
+   "lng": 112.49155,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiangtan_06",
+   "name": "《中国出了个毛泽东》大型实景演出",
+   "district": "",
+   "lat": 27.90734,
+   "lng": 112.52269,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 128,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiangtan_07",
+   "name": "毛泽东同志故居",
+   "district": "",
+   "lat": 27.91399,
+   "lng": 112.50171,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "xiangtan_08",
+   "name": "韶山毛泽东同志纪念馆",
+   "district": "",
+   "lat": 27.91031,
+   "lng": 112.49907,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "xiangtan_09",
+   "name": "彭德怀同志故居",
+   "district": "",
+   "lat": 27.66626,
+   "lng": 112.6588,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   27.83,
+   112.94
+  ],
+  "老城区": [
+   27.842,
+   112.93
+  ],
+  "近郊": [
+   27.8,
+   112.97
+  ]
+ }
+}

@@ -1,0 +1,245 @@
+{
+ "name": "抚州",
+ "center": [
+  27.95,
+  116.36
+ ],
+ "far_ids": [
+  "fuzhou_jx_00",
+  "fuzhou_jx_01",
+  "fuzhou_jx_02",
+  "fuzhou_jx_03",
+  "fuzhou_jx_06",
+  "fuzhou_jx_07",
+  "fuzhou_jx_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "fuzhou_jx_00",
+   "name": "大觉山",
+   "district": "",
+   "lat": 27.70043,
+   "lng": 117.17212,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 50,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fuzhou_jx_01",
+   "name": "大觉山悬崖动车",
+   "district": "",
+   "lat": 27.6999,
+   "lng": 117.17148,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fuzhou_jx_02",
+   "name": "黎川古城",
+   "district": "",
+   "lat": 27.29141,
+   "lng": 116.92729,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fuzhou_jx_03",
+   "name": "大觉山漂流",
+   "district": "",
+   "lat": 27.70274,
+   "lng": 117.14993,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fuzhou_jx_04",
+   "name": "王安石纪念馆",
+   "district": "",
+   "lat": 27.97591,
+   "lng": 116.36614,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "fuzhou_jx_05",
+   "name": "文昌里",
+   "district": "",
+   "lat": 28.00622,
+   "lng": 116.37378,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fuzhou_jx_06",
+   "name": "流坑古村",
+   "district": "",
+   "lat": 27.27054,
+   "lng": 115.7817,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fuzhou_jx_07",
+   "name": "竹桥古村",
+   "district": "",
+   "lat": 27.99737,
+   "lng": 116.76197,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fuzhou_jx_08",
+   "name": "麻姑山",
+   "district": "",
+   "lat": 27.54152,
+   "lng": 116.58629,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 35,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fuzhou_jx_09",
+   "name": "《寻梦牡丹亭》大型实景演出",
+   "district": "",
+   "lat": 28.012,
+   "lng": 116.3716,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 128,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   27.95,
+   116.36
+  ],
+  "老城区": [
+   27.962,
+   116.35
+  ],
+  "近郊": [
+   27.92,
+   116.39
+  ]
+ }
+}

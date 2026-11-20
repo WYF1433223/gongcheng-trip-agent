@@ -1,0 +1,229 @@
+{
+ "name": "泰州",
+ "center": [
+  32.46,
+  119.92
+ ],
+ "far_ids": [
+  "taizhou_js_00",
+  "taizhou_js_01",
+  "taizhou_js_02",
+  "taizhou_js_05",
+  "taizhou_js_06",
+  "taizhou_js_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "taizhou_js_00",
+   "name": "李中水上森林公园",
+   "district": "",
+   "lat": 33.04013,
+   "lng": 119.73789,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 39,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taizhou_js_01",
+   "name": "泰州海军舰艇文化园",
+   "district": "",
+   "lat": 32.25066,
+   "lng": 119.90313,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taizhou_js_02",
+   "name": "溱湖国家湿地公园",
+   "district": "泰州溱潼古镇溱湖湿地",
+   "lat": 32.62579,
+   "lng": 120.10489,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taizhou_js_03",
+   "name": "泰州老街",
+   "district": "泰州老街",
+   "lat": 32.48812,
+   "lng": 119.93813,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taizhou_js_04",
+   "name": "凤城河风景区",
+   "district": "泰州老街",
+   "lat": 32.49068,
+   "lng": 119.92359,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taizhou_js_05",
+   "name": "黄桥古镇",
+   "district": "",
+   "lat": 32.24926,
+   "lng": 120.24021,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taizhou_js_06",
+   "name": "千垛景区",
+   "district": "",
+   "lat": 33.03763,
+   "lng": 119.82786,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "taizhou_js_07",
+   "name": "溱潼古镇",
+   "district": "泰州溱潼古镇溱湖湿地",
+   "lat": 32.65651,
+   "lng": 120.10391,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 39,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taizhou_js_08",
+   "name": "凤城河望海楼",
+   "district": "泰州老街",
+   "lat": 32.48781,
+   "lng": 119.93316,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 18,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   32.46,
+   119.92
+  ],
+  "老城区": [
+   32.472,
+   119.91
+  ],
+  "近郊": [
+   32.43,
+   119.95
+  ]
+ }
+}

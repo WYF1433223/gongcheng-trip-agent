@@ -1,0 +1,241 @@
+{
+ "name": "深圳",
+ "center": [
+  22.54,
+  114.06
+ ],
+ "far_ids": [
+  "shenzhen_04",
+  "shenzhen_07",
+  "shenzhen_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "shenzhen_00",
+   "name": "深圳平安金融中心云际观光层",
+   "district": "会展中心",
+   "lat": 22.53942,
+   "lng": 114.06186,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 180,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shenzhen_01",
+   "name": "深圳欢乐谷",
+   "district": "深圳世界之窗",
+   "lat": 22.54783,
+   "lng": 113.98672,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 159,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shenzhen_02",
+   "name": "锦绣中华民俗村",
+   "district": "深圳世界之窗",
+   "lat": 22.53708,
+   "lng": 113.99515,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 220,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shenzhen_03",
+   "name": "深圳世界之窗",
+   "district": "深圳世界之窗",
+   "lat": 22.54176,
+   "lng": 113.98219,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 120,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shenzhen_04",
+   "name": "小梅沙海洋世界",
+   "district": "大梅沙海滨公园",
+   "lat": 22.61001,
+   "lng": 114.33503,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 230,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shenzhen_05",
+   "name": "欢乐港湾",
+   "district": "宝安商业区",
+   "lat": 22.54976,
+   "lng": 113.89031,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shenzhen_06",
+   "name": "甘坑古镇",
+   "district": "布吉",
+   "lat": 22.66342,
+   "lng": 114.10958,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shenzhen_07",
+   "name": "深圳自然博物馆",
+   "district": "坪山高铁站商圈",
+   "lat": 22.69907,
+   "lng": 114.36995,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 80,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "shenzhen_08",
+   "name": "深圳科学技术馆",
+   "district": "光明农场商圈",
+   "lat": 22.77792,
+   "lng": 113.94979,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 50,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "shenzhen_09",
+   "name": "2026深圳马拉松",
+   "district": "会展中心",
+   "lat": 22.54935,
+   "lng": 114.06618,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   22.54,
+   114.06
+  ],
+  "老城区": [
+   22.552,
+   114.05
+  ],
+  "近郊": [
+   22.51,
+   114.09
+  ]
+ }
+}

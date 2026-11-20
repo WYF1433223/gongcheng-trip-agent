@@ -1,0 +1,249 @@
+{
+ "name": "鸡西",
+ "center": [
+  45.3,
+  130.97
+ ],
+ "far_ids": [
+  "jixi_hl_00",
+  "jixi_hl_02",
+  "jixi_hl_03",
+  "jixi_hl_04",
+  "jixi_hl_05",
+  "jixi_hl_06",
+  "jixi_hl_07",
+  "jixi_hl_08",
+  "jixi_hl_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "jixi_hl_00",
+   "name": "兴凯湖",
+   "district": "",
+   "lat": 45.35262,
+   "lng": 132.38333,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jixi_hl_01",
+   "name": "鸡西市博物馆",
+   "district": "",
+   "lat": 45.30093,
+   "lng": 130.94924,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "jixi_hl_02",
+   "name": "第二次世界大战终结地虎头要塞",
+   "district": "",
+   "lat": 45.99949,
+   "lng": 133.67672,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jixi_hl_03",
+   "name": "兴凯湖湿地公园",
+   "district": "",
+   "lat": 45.34248,
+   "lng": 132.57179,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jixi_hl_04",
+   "name": "乌苏里江",
+   "district": "",
+   "lat": 46.13497,
+   "lng": 133.6641,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jixi_hl_05",
+   "name": "虎头旅游风景区",
+   "district": "",
+   "lat": 45.9964,
+   "lng": 133.67965,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jixi_hl_06",
+   "name": "兴凯湖新开流景区",
+   "district": "",
+   "lat": 45.35332,
+   "lng": 132.38144,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jixi_hl_07",
+   "name": "珍宝岛",
+   "district": "",
+   "lat": 46.49573,
+   "lng": 133.85945,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jixi_hl_08",
+   "name": "麒麟山风景区",
+   "district": "",
+   "lat": 45.51234,
+   "lng": 130.88571,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jixi_hl_09",
+   "name": "侵华日军虎头要塞遗址博物馆",
+   "district": "",
+   "lat": 45.99982,
+   "lng": 133.67713,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   45.3,
+   130.97
+  ],
+  "老城区": [
+   45.312,
+   130.96
+  ],
+  "近郊": [
+   45.27,
+   131.0
+  ]
+ }
+}

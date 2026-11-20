@@ -1,0 +1,240 @@
+{
+ "name": "青岛",
+ "center": [
+  36.07,
+  120.38
+ ],
+ "far_ids": [
+  "qingdao_04"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "qingdao_00",
+   "name": "青岛啤酒博物馆",
+   "district": "台东步行街",
+   "lat": 36.08563,
+   "lng": 120.35364,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 60,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "qingdao_01",
+   "name": "青岛方特梦幻王国",
+   "district": "方特梦幻王国",
+   "lat": 36.21446,
+   "lng": 120.28922,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 280,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qingdao_02",
+   "name": "青岛德国总督楼旧址博物馆",
+   "district": "八大关",
+   "lat": 36.07082,
+   "lng": 120.33893,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 13,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "qingdao_03",
+   "name": "海合安青岛极地海洋公园",
+   "district": "石老人海水浴场",
+   "lat": 36.07512,
+   "lng": 120.44927,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 189,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qingdao_04",
+   "name": "崂山风景区",
+   "district": "崂山风景区",
+   "lat": 36.19896,
+   "lng": 120.6053,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 90,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qingdao_05",
+   "name": "栈桥",
+   "district": "栈桥",
+   "lat": 36.06758,
+   "lng": 120.32478,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qingdao_06",
+   "name": "青岛海底世界",
+   "district": "八大关",
+   "lat": 36.06234,
+   "lng": 120.34151,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 136,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qingdao_07",
+   "name": "青岛奥帆中心",
+   "district": "五四广场",
+   "lat": 36.06179,
+   "lng": 120.40033,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qingdao_08",
+   "name": "八大关",
+   "district": "八大关",
+   "lat": 36.05971,
+   "lng": 120.35738,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qingdao_09",
+   "name": "信号山公园",
+   "district": "八大关",
+   "lat": 36.07257,
+   "lng": 120.33799,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   36.07,
+   120.38
+  ],
+  "老城区": [
+   36.082,
+   120.37
+  ],
+  "近郊": [
+   36.04,
+   120.41
+  ]
+ }
+}

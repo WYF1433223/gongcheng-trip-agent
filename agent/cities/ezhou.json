@@ -1,0 +1,136 @@
+{
+ "name": "鄂州",
+ "center": [
+  30.391,
+  114.895
+ ],
+ "far_ids": [
+  "ezhou_02"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "ezhou_00",
+   "name": "西山风景区",
+   "district": "鄂城",
+   "lat": 30.402,
+   "lng": 114.831,
+   "open_min": 700,
+   "close_min": 1800,
+   "duration": 120,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ezhou_01",
+   "name": "莲花山",
+   "district": "鄂城",
+   "lat": 30.423,
+   "lng": 114.913,
+   "open_min": 800,
+   "close_min": 1800,
+   "duration": 90,
+   "price": 30,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ezhou_02",
+   "name": "梁子湖",
+   "district": "梁子湖",
+   "lat": 30.238,
+   "lng": 114.549,
+   "open_min": 700,
+   "close_min": 1800,
+   "duration": 150,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ezhou_03",
+   "name": "鄂州市博物馆",
+   "district": "鄂城",
+   "lat": 30.389,
+   "lng": 114.901,
+   "open_min": 900,
+   "close_min": 1600,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 10,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 11,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 9,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 35
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 24,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   30.391,
+   114.895
+  ],
+  "老城区": [
+   30.403,
+   114.885
+  ],
+  "近郊": [
+   30.321,
+   114.925
+  ]
+ },
+ "approx": true
+}

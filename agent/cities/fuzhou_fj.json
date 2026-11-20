@@ -1,0 +1,240 @@
+{
+ "name": "福州",
+ "center": [
+  26.07,
+  119.3
+ ],
+ "far_ids": [
+  "fuzhou_fj_02",
+  "fuzhou_fj_03",
+  "fuzhou_fj_07",
+  "fuzhou_fj_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "fuzhou_fj_00",
+   "name": "三坊七巷",
+   "district": "三坊七巷",
+   "lat": 26.08817,
+   "lng": 119.30317,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "fuzhou_fj_01",
+   "name": "上下杭",
+   "district": "上下杭",
+   "lat": 26.05839,
+   "lng": 119.31119,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "fuzhou_fj_02",
+   "name": "平潭岛",
+   "district": "龙王头沙滩",
+   "lat": 25.5044,
+   "lng": 119.81422,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "fuzhou_fj_03",
+   "name": "平潭岛猴研岛",
+   "district": "68海里",
+   "lat": 25.46399,
+   "lng": 119.86539,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 66,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "fuzhou_fj_04",
+   "name": "鼓山",
+   "district": "鼓山风景区及周边",
+   "lat": 26.06075,
+   "lng": 119.40061,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fuzhou_fj_05",
+   "name": "福州熊猫世界",
+   "district": "西湖公园附近",
+   "lat": 26.09512,
+   "lng": 119.29093,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 50,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "fuzhou_fj_06",
+   "name": "闽江夜游",
+   "district": "上下杭",
+   "lat": 26.05691,
+   "lng": 119.3214,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 98,
+   "rating": 4.5,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fuzhou_fj_07",
+   "name": "68海里景区",
+   "district": "68海里",
+   "lat": 25.46443,
+   "lng": 119.86894,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 66,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "fuzhou_fj_08",
+   "name": "福建博物院",
+   "district": "西湖公园附近",
+   "lat": 26.10047,
+   "lng": 119.2942,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "fuzhou_fj_09",
+   "name": "仙人井",
+   "district": "仙人井",
+   "lat": 25.56228,
+   "lng": 119.88465,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 33,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   26.07,
+   119.3
+  ],
+  "老城区": [
+   26.082,
+   119.29
+  ],
+  "近郊": [
+   26.04,
+   119.33
+  ]
+ }
+}

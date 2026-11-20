@@ -1,0 +1,237 @@
+{
+ "name": "泰安",
+ "center": [
+  36.2,
+  117.09
+ ],
+ "far_ids": [
+  "taian_06"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "taian_00",
+   "name": "岱庙",
+   "district": "泰山风景名胜区红门",
+   "lat": 36.20036,
+   "lng": 117.13779,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 20,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taian_01",
+   "name": "泰山风景区",
+   "district": "玉皇顶",
+   "lat": 36.26855,
+   "lng": 117.09462,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 115,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taian_02",
+   "name": "泰山石敢当景区",
+   "district": "天平湖",
+   "lat": 36.21578,
+   "lng": 117.02268,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taian_03",
+   "name": "泰安方特欢乐世界",
+   "district": "封禅大典",
+   "lat": 36.24428,
+   "lng": 117.2,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 140,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "taian_04",
+   "name": "泰山索道",
+   "district": "封禅大典",
+   "lat": 36.23632,
+   "lng": 117.17682,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taian_05",
+   "name": "《中华泰山·封禅大典》实景演出",
+   "district": "封禅大典",
+   "lat": 36.27322,
+   "lng": 117.14716,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taian_06",
+   "name": "新大宋不夜城",
+   "district": "",
+   "lat": 35.95005,
+   "lng": 116.31413,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 80,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taian_07",
+   "name": "泰安地下龙宫(原泰山大裂谷)",
+   "district": "",
+   "lat": 36.15496,
+   "lng": 117.25173,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 96,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taian_08",
+   "name": "中天门",
+   "district": "",
+   "lat": 36.24624,
+   "lng": 117.12115,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "taian_09",
+   "name": "泰山宝泰隆旅游度假区",
+   "district": "",
+   "lat": 36.15583,
+   "lng": 117.24598,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 115,
+   "rating": 4.3,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   36.2,
+   117.09
+  ],
+  "老城区": [
+   36.212,
+   117.08
+  ],
+  "近郊": [
+   36.17,
+   117.12
+  ]
+ }
+}

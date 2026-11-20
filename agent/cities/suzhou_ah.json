@@ -1,0 +1,246 @@
+{
+ "name": "宿州",
+ "center": [
+  33.65,
+  116.98
+ ],
+ "far_ids": [
+  "suzhou_ah_02",
+  "suzhou_ah_03",
+  "suzhou_ah_04",
+  "suzhou_ah_05",
+  "suzhou_ah_06",
+  "suzhou_ah_08",
+  "suzhou_ah_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "suzhou_ah_00",
+   "name": "宿州市新汴河景区",
+   "district": "",
+   "lat": 33.67404,
+   "lng": 116.97643,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "suzhou_ah_01",
+   "name": "宿州博物馆",
+   "district": "",
+   "lat": 33.64924,
+   "lng": 116.97062,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "suzhou_ah_02",
+   "name": "中国灵璧奇石文化园",
+   "district": "",
+   "lat": 33.53533,
+   "lng": 117.55037,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "suzhou_ah_03",
+   "name": "砀山梨树王风景区",
+   "district": "",
+   "lat": 34.43117,
+   "lng": 116.53983,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "suzhou_ah_04",
+   "name": "天门寺",
+   "district": "",
+   "lat": 34.06887,
+   "lng": 117.0775,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 14,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "suzhou_ah_05",
+   "name": "虞姬墓",
+   "district": "",
+   "lat": 33.53231,
+   "lng": 117.64284,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "suzhou_ah_06",
+   "name": "砀山古城",
+   "district": "",
+   "lat": 34.43862,
+   "lng": 116.35381,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "suzhou_ah_07",
+   "name": "宿州野生动物园",
+   "district": "",
+   "lat": 33.66578,
+   "lng": 117.14796,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 85,
+   "rating": 4.4,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "suzhou_ah_08",
+   "name": "皇藏峪国家森林公园",
+   "district": "",
+   "lat": 34.03186,
+   "lng": 117.06497,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 25,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "suzhou_ah_09",
+   "name": "芒砀山",
+   "district": "",
+   "lat": 34.18547,
+   "lng": 116.49539,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   33.65,
+   116.98
+  ],
+  "老城区": [
+   33.662,
+   116.97
+  ],
+  "近郊": [
+   33.62,
+   117.01
+  ]
+ }
+}

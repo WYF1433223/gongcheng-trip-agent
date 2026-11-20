@@ -1,0 +1,246 @@
+{
+ "name": "荆门",
+ "center": [
+  31.03,
+  112.2
+ ],
+ "far_ids": [
+  "jingmen_00",
+  "jingmen_01",
+  "jingmen_02",
+  "jingmen_03",
+  "jingmen_04",
+  "jingmen_05",
+  "jingmen_07",
+  "jingmen_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "jingmen_00",
+   "name": "美人谷景区",
+   "district": "",
+   "lat": 31.31618,
+   "lng": 113.09346,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 90,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jingmen_01",
+   "name": "鸳鸯溪漂流",
+   "district": "",
+   "lat": 31.33283,
+   "lng": 113.07623,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jingmen_02",
+   "name": "绿林山风景区",
+   "district": "",
+   "lat": 31.35854,
+   "lng": 113.10832,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 45,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jingmen_03",
+   "name": "明显陵文化旅游景区",
+   "district": "",
+   "lat": 31.2121,
+   "lng": 112.64346,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 60,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jingmen_04",
+   "name": "京山天沐温泉",
+   "district": "",
+   "lat": 30.98782,
+   "lng": 113.1581,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 128,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jingmen_05",
+   "name": "黄仙洞",
+   "district": "",
+   "lat": 31.41898,
+   "lng": 112.97331,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 65,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jingmen_06",
+   "name": "漳河风景名胜区",
+   "district": "",
+   "lat": 31.0269,
+   "lng": 112.04091,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 17,
+   "rating": 4.5,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jingmen_07",
+   "name": "大口国家森林公园",
+   "district": "",
+   "lat": 31.08631,
+   "lng": 112.87525,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 35,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jingmen_08",
+   "name": "双泉温泉",
+   "district": "汽车南站",
+   "lat": 30.97723,
+   "lng": 112.22205,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 97,
+   "rating": 4.1,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jingmen_09",
+   "name": "莫愁村",
+   "district": "",
+   "lat": 31.20816,
+   "lng": 112.63381,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   31.03,
+   112.2
+  ],
+  "老城区": [
+   31.042,
+   112.19
+  ],
+  "近郊": [
+   31.0,
+   112.23
+  ]
+ }
+}

@@ -1,0 +1,240 @@
+{
+ "name": "岳阳",
+ "center": [
+  29.36,
+  113.13
+ ],
+ "far_ids": [
+  "yueyang_03",
+  "yueyang_06",
+  "yueyang_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "yueyang_00",
+   "name": "圣安寺",
+   "district": "",
+   "lat": 29.33574,
+   "lng": 113.0947,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 20,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yueyang_01",
+   "name": "岳阳楼景区",
+   "district": "岳阳楼景区",
+   "lat": 29.3835,
+   "lng": 113.1004,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 70,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yueyang_02",
+   "name": "岳阳中华大熊猫苑",
+   "district": "",
+   "lat": 29.32674,
+   "lng": 113.13014,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 55,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yueyang_03",
+   "name": "洞庭湖",
+   "district": "",
+   "lat": 29.12634,
+   "lng": 113.02153,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yueyang_04",
+   "name": "巴陵广场",
+   "district": "岳阳楼景区",
+   "lat": 29.37947,
+   "lng": 113.09949,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yueyang_05",
+   "name": "君山岛景区",
+   "district": "",
+   "lat": 29.35854,
+   "lng": 113.01368,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 78,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yueyang_06",
+   "name": "张谷英村",
+   "district": "",
+   "lat": 29.01612,
+   "lng": 113.48778,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 44,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yueyang_07",
+   "name": "《今上岳阳楼》夜游演艺",
+   "district": "",
+   "lat": 29.38434,
+   "lng": 113.10094,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yueyang_08",
+   "name": "汴河街",
+   "district": "岳阳楼景区",
+   "lat": 29.38173,
+   "lng": 113.10075,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yueyang_09",
+   "name": "屈子文化园",
+   "district": "",
+   "lat": 28.87046,
+   "lng": 113.06212,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 70,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   29.36,
+   113.13
+  ],
+  "老城区": [
+   29.372,
+   113.12
+  ],
+  "近郊": [
+   29.33,
+   113.16
+  ]
+ }
+}

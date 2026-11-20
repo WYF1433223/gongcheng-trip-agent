@@ -1,0 +1,248 @@
+{
+ "name": "日喀则",
+ "center": [
+  29.27,
+  88.88
+ ],
+ "far_ids": [
+  "rikaze_00",
+  "rikaze_01",
+  "rikaze_02",
+  "rikaze_03",
+  "rikaze_04",
+  "rikaze_05",
+  "rikaze_06",
+  "rikaze_08",
+  "rikaze_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "rikaze_00",
+   "name": "萨迦寺",
+   "district": "",
+   "lat": 28.90788,
+   "lng": 88.02696,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "rikaze_01",
+   "name": "珠穆朗玛峰国家公园",
+   "district": "",
+   "lat": 28.59276,
+   "lng": 87.08814,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "rikaze_02",
+   "name": "奇林峡风景区",
+   "district": "",
+   "lat": 28.12328,
+   "lng": 88.13106,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "rikaze_03",
+   "name": "岗巴拉山",
+   "district": "",
+   "lat": 27.35695,
+   "lng": 89.09309,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "rikaze_04",
+   "name": "佩枯错",
+   "district": "",
+   "lat": 28.89528,
+   "lng": 85.59398,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "rikaze_05",
+   "name": "珠峰大本营",
+   "district": "",
+   "lat": 28.17069,
+   "lng": 86.84988,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "rikaze_06",
+   "name": "珠峰景区",
+   "district": "",
+   "lat": 28.59276,
+   "lng": 87.08814,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "rikaze_07",
+   "name": "扎什伦布寺",
+   "district": "",
+   "lat": 29.27118,
+   "lng": 88.87856,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "rikaze_08",
+   "name": "珠穆朗玛峰",
+   "district": "",
+   "lat": 27.99046,
+   "lng": 86.93416,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "rikaze_09",
+   "name": "卡若拉冰川",
+   "district": "",
+   "lat": 28.88909,
+   "lng": 90.17305,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   29.27,
+   88.88
+  ],
+  "老城区": [
+   29.282,
+   88.87
+  ],
+  "近郊": [
+   29.24,
+   88.91
+  ]
+ }
+}

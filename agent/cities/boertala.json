@@ -1,0 +1,249 @@
+{
+ "name": "博尔塔拉",
+ "center": [
+  44.9,
+  82.07
+ ],
+ "far_ids": [
+  "boertala_00",
+  "boertala_01",
+  "boertala_02",
+  "boertala_03",
+  "boertala_04",
+  "boertala_05",
+  "boertala_06",
+  "boertala_07",
+  "boertala_08",
+  "boertala_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "boertala_00",
+   "name": "克勒涌珠",
+   "district": "",
+   "lat": 44.56735,
+   "lng": 81.02842,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "boertala_01",
+   "name": "松树头",
+   "district": "赛里木湖",
+   "lat": 44.50981,
+   "lng": 81.14979,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "boertala_02",
+   "name": "怪石峪风景区",
+   "district": "",
+   "lat": 45.14868,
+   "lng": 82.23139,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "boertala_03",
+   "name": "果子沟",
+   "district": "",
+   "lat": 44.47122,
+   "lng": 81.17305,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "boertala_04",
+   "name": "赛里木湖",
+   "district": "赛里木湖",
+   "lat": 44.61483,
+   "lng": 81.12533,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 35,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "boertala_05",
+   "name": "赛里木湖点将台",
+   "district": "赛里木湖",
+   "lat": 44.69407,
+   "lng": 81.07673,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "boertala_06",
+   "name": "天鹅乐水",
+   "district": "赛里木湖",
+   "lat": 44.62198,
+   "lng": 80.99743,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "boertala_07",
+   "name": "麓泉温泉中心",
+   "district": "",
+   "lat": 44.98585,
+   "lng": 81.04157,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 3.9,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "boertala_08",
+   "name": "芭提雅圣境温泉",
+   "district": "",
+   "lat": 44.98995,
+   "lng": 81.04876,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 3.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "boertala_09",
+   "name": "精河县木特塔尔沙漠景区",
+   "district": "",
+   "lat": 44.68874,
+   "lng": 83.58795,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 3.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   44.9,
+   82.07
+  ],
+  "老城区": [
+   44.912,
+   82.06
+  ],
+  "近郊": [
+   44.87,
+   82.1
+  ]
+ }
+}

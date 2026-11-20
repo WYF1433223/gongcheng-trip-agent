@@ -1,0 +1,239 @@
+{
+ "name": "襄阳",
+ "center": [
+  32.01,
+  112.12
+ ],
+ "far_ids": [
+  "xiangyang_06"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "xiangyang_00",
+   "name": "襄阳奇幻谷",
+   "district": "襄阳东站",
+   "lat": 32.00448,
+   "lng": 112.26629,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 268,
+   "rating": 5.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiangyang_01",
+   "name": "襄阳奇趣童年亲子乐园",
+   "district": "襄阳东站",
+   "lat": 32.01181,
+   "lng": 112.26865,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 70,
+   "rating": 5.0,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiangyang_02",
+   "name": "襄阳华侨城奇幻度假区",
+   "district": "襄阳东站",
+   "lat": 32.00517,
+   "lng": 112.26618,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 70,
+   "rating": 5.0,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiangyang_03",
+   "name": "襄阳云海汤泉",
+   "district": "襄阳东站",
+   "lat": 31.99926,
+   "lng": 112.26235,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 49,
+   "rating": 5.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiangyang_04",
+   "name": "襄阳博物馆(新馆)",
+   "district": "襄阳古城",
+   "lat": 31.99815,
+   "lng": 112.17562,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "xiangyang_05",
+   "name": "襄阳古城",
+   "district": "襄阳古城",
+   "lat": 32.02364,
+   "lng": 112.1615,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiangyang_06",
+   "name": "春秋寨景区",
+   "district": "",
+   "lat": 31.37588,
+   "lng": 111.88294,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 65,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiangyang_07",
+   "name": "中国唐城",
+   "district": "襄阳古城",
+   "lat": 31.99447,
+   "lng": 112.18858,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 80,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiangyang_08",
+   "name": "古隆中",
+   "district": "古隆中",
+   "lat": 31.99665,
+   "lng": 112.03731,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 82,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiangyang_09",
+   "name": "襄阳米公祠",
+   "district": "沃尔玛民发广场",
+   "lat": 32.03549,
+   "lng": 112.15127,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 23,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   32.01,
+   112.12
+  ],
+  "老城区": [
+   32.022,
+   112.11
+  ],
+  "近郊": [
+   31.98,
+   112.15
+  ]
+ }
+}

@@ -1,0 +1,241 @@
+{
+ "name": "拉萨",
+ "center": [
+  29.65,
+  91.17
+ ],
+ "far_ids": [
+  "lhasa_02",
+  "lhasa_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "lhasa_00",
+   "name": "布达拉宫",
+   "district": "布达拉宫",
+   "lat": 29.66035,
+   "lng": 91.12504,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lhasa_01",
+   "name": "八廓街",
+   "district": "八廓街",
+   "lat": 29.65591,
+   "lng": 91.1356,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lhasa_02",
+   "name": "纳木措景区",
+   "district": "",
+   "lat": 30.76389,
+   "lng": 90.89619,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 85,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "lhasa_03",
+   "name": "大昭寺",
+   "district": "八廓街",
+   "lat": 29.656,
+   "lng": 91.13996,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lhasa_04",
+   "name": "《文成公主》大型史诗剧",
+   "district": "文成公主实景剧场及附",
+   "lat": 29.62781,
+   "lng": 91.15381,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "lhasa_05",
+   "name": "西藏博物馆",
+   "district": "罗布林卡及附近地区",
+   "lat": 29.65461,
+   "lng": 91.10531,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "lhasa_06",
+   "name": "罗布林卡",
+   "district": "罗布林卡及附近地区",
+   "lat": 29.65794,
+   "lng": 91.09825,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "lhasa_07",
+   "name": "纳木措国家公园",
+   "district": "",
+   "lat": 30.76389,
+   "lng": 90.89619,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lhasa_08",
+   "name": "文成公主剧场",
+   "district": "文成公主实景剧场及附",
+   "lat": 29.62898,
+   "lng": 91.15337,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lhasa_09",
+   "name": "拉萨参观寺庙",
+   "district": "布达拉宫",
+   "lat": 29.66035,
+   "lng": 91.12504,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   29.65,
+   91.17
+  ],
+  "老城区": [
+   29.662,
+   91.16
+  ],
+  "近郊": [
+   29.62,
+   91.2
+  ]
+ }
+}

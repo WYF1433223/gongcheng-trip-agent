@@ -1,0 +1,138 @@
+{
+ "name": "海南州",
+ "center": [
+  36.284,
+  100.619
+ ],
+ "far_ids": [
+  "hainanzhou_00",
+  "hainanzhou_01",
+  "hainanzhou_02"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "hainanzhou_00",
+   "name": "青海湖二郎剑景区",
+   "district": "共和",
+   "lat": 36.586,
+   "lng": 100.501,
+   "open_min": 800,
+   "close_min": 1800,
+   "duration": 180,
+   "price": 100,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hainanzhou_01",
+   "name": "贵德国家地质公园",
+   "district": "贵德",
+   "lat": 36.042,
+   "lng": 101.428,
+   "open_min": 800,
+   "close_min": 1800,
+   "duration": 150,
+   "price": 80,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hainanzhou_02",
+   "name": "龙羊峡",
+   "district": "共和",
+   "lat": 36.132,
+   "lng": 100.918,
+   "open_min": 800,
+   "close_min": 1700,
+   "duration": 120,
+   "price": 60,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hainanzhou_03",
+   "name": "海南州民族博物馆",
+   "district": "共和",
+   "lat": 36.286,
+   "lng": 100.621,
+   "open_min": 900,
+   "close_min": 1600,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 10,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 11,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 9,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 35
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 24,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   36.284,
+   100.619
+  ],
+  "老城区": [
+   36.296,
+   100.609
+  ],
+  "近郊": [
+   36.214,
+   100.649
+  ]
+ },
+ "approx": true
+}

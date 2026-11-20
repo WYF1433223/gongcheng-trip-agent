@@ -1,0 +1,250 @@
+{
+ "name": "四平",
+ "center": [
+  43.17,
+  124.35
+ ],
+ "far_ids": [
+  "siping_00",
+  "siping_01",
+  "siping_02",
+  "siping_03",
+  "siping_04",
+  "siping_05",
+  "siping_07",
+  "siping_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "siping_00",
+   "name": "伊通满族博物馆",
+   "district": "",
+   "lat": 43.3488,
+   "lng": 125.32453,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "siping_01",
+   "name": "大孤山旅游风景区",
+   "district": "",
+   "lat": 43.31317,
+   "lng": 125.12889,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "siping_02",
+   "name": "一马树森林公园",
+   "district": "",
+   "lat": 43.52038,
+   "lng": 123.62741,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "siping_03",
+   "name": "郑家屯博物馆-大帅府",
+   "district": "",
+   "lat": 43.52531,
+   "lng": 123.51128,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "siping_04",
+   "name": "小天池",
+   "district": "",
+   "lat": 43.27474,
+   "lng": 124.66733,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "siping_05",
+   "name": "叶赫那拉古城",
+   "district": "",
+   "lat": 43.00675,
+   "lng": 124.60213,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 48,
+   "rating": 3.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "siping_06",
+   "name": "四平市博物馆",
+   "district": "",
+   "lat": 43.17626,
+   "lng": 124.37112,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 40,
+   "rating": 3.5,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "siping_07",
+   "name": "伊通火山群国家级自然保护区",
+   "district": "",
+   "lat": 43.32433,
+   "lng": 125.30278,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 3.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "siping_08",
+   "name": "四平战役纪念馆",
+   "district": "",
+   "lat": 43.18064,
+   "lng": 124.36681,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "siping_09",
+   "name": "二龙湖风景区",
+   "district": "",
+   "lat": 43.28266,
+   "lng": 124.91368,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   43.17,
+   124.35
+  ],
+  "老城区": [
+   43.182,
+   124.34
+  ],
+  "近郊": [
+   43.14,
+   124.38
+  ]
+ }
+}

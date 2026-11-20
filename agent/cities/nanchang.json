@@ -1,0 +1,42 @@
+{
+ "name": "南昌",
+ "center": [28.68, 115.88],
+ "far_ids": [],
+ "far_minutes": 0,
+ "far_both_minutes": 0,
+ "far_km": 25,
+ "pois": [
+  {"id": "tengwangge", "name": "滕王阁", "district": "东湖", "lat": 28.6825, "lng": 115.8817, "open_min": 480, "close_min": 1080, "duration": 120, "price": 50, "rating": 4.7, "tags": ["历史人文", "园林"], "outdoor": false, "closed_weekday": null},
+  {"id": "bayimuseum", "name": "南昌八一起义纪念馆", "district": "西湖", "lat": 28.6782, "lng": 115.8880, "open_min": 540, "close_min": 1020, "duration": 90, "price": 0, "rating": 4.6, "tags": ["历史人文"], "outdoor": false, "closed_weekday": 0},
+  {"id": "jxmuseum", "name": "江西省博物馆", "district": "红谷滩", "lat": 28.6932, "lng": 115.8576, "open_min": 540, "close_min": 1020, "duration": 150, "price": 0, "rating": 4.7, "tags": ["艺术展馆", "历史人文"], "outdoor": false, "closed_weekday": 0},
+  {"id": "wanshougong", "name": "万寿宫历史文化街区", "district": "西湖", "lat": 28.6749, "lng": 115.8874, "open_min": 600, "close_min": 1320, "duration": 120, "price": 0, "rating": 4.5, "tags": ["美食", "历史人文", "街区"], "outdoor": true, "closed_weekday": null},
+  {"id": "qiushui", "name": "秋水广场", "district": "红谷滩", "lat": 28.6866, "lng": 115.8578, "open_min": 0, "close_min": 1439, "duration": 60, "price": 0, "rating": 4.4, "tags": ["夜景", "城市"], "outdoor": true, "closed_weekday": null},
+  {"id": "motianlun", "name": "南昌之星摩天轮", "district": "红谷滩", "lat": 28.6658, "lng": 115.8424, "open_min": 570, "close_min": 1320, "duration": 60, "price": 50, "rating": 4.4, "tags": ["夜景", "观景"], "outdoor": false, "closed_weekday": null},
+  {"id": "shengjinta", "name": "绳金塔", "district": "西湖", "lat": 28.6699, "lng": 115.8927, "open_min": 510, "close_min": 1020, "duration": 60, "price": 0, "rating": 4.3, "tags": ["历史人文", "美食"], "outdoor": false, "closed_weekday": null},
+  {"id": "badashanren", "name": "八大山人梅湖景区", "district": "青云谱", "lat": 28.6082, "lng": 115.9128, "open_min": 540, "close_min": 1020, "duration": 120, "price": 0, "rating": 4.4, "tags": ["艺术展馆", "园林"], "outdoor": true, "closed_weekday": 0},
+  {"id": "haihou", "name": "汉代海昏侯国遗址博物馆", "district": "新建", "lat": 28.8603, "lng": 115.9712, "open_min": 540, "close_min": 1020, "duration": 180, "price": 60, "rating": 4.6, "tags": ["历史人文", "艺术展馆"], "outdoor": false, "closed_weekday": 0},
+  {"id": "meiling", "name": "梅岭狮子峰", "district": "湾里", "lat": 28.7601, "lng": 115.7402, "open_min": 480, "close_min": 1050, "duration": 240, "price": 50, "rating": 4.5, "tags": ["自然风光", "登山"], "outdoor": true, "closed_weekday": null},
+  {"id": "youminsi", "name": "佑民寺", "district": "东湖", "lat": 28.6792, "lng": 115.8901, "open_min": 480, "close_min": 1020, "duration": 45, "price": 0, "rating": 4.2, "tags": ["宗教", "历史人文"], "outdoor": false, "closed_weekday": null},
+  {"id": "bayisquare", "name": "八一广场", "district": "东湖", "lat": 28.6763, "lng": 115.8959, "open_min": 0, "close_min": 1439, "duration": 45, "price": 0, "rating": 4.4, "tags": ["历史人文", "城市"], "outdoor": true, "closed_weekday": null},
+  {"id": "zhongshan", "name": "中山路胜利路步行街", "district": "东湖", "lat": 28.6771, "lng": 115.8935, "open_min": 600, "close_min": 1350, "duration": 90, "price": 0, "rating": 4.3, "tags": ["购物", "美食"], "outdoor": false, "closed_weekday": null},
+  {"id": "wanda", "name": "红谷滩万象城", "district": "红谷滩", "lat": 28.6905, "lng": 115.8452, "open_min": 600, "close_min": 1320, "duration": 120, "price": 0, "rating": 4.2, "tags": ["购物", "亲子"], "outdoor": false, "closed_weekday": null},
+  {"id": "ganjiang", "name": "赣江市民公园", "district": "红谷滩", "lat": 28.6790, "lng": 115.8603, "open_min": 0, "close_min": 1439, "duration": 60, "price": 0, "rating": 4.3, "tags": ["夜景", "园林"], "outdoor": true, "closed_weekday": null},
+  {"id": "nanchangjian", "name": "南昌舰主题公园", "district": "红谷滩", "lat": 28.7015, "lng": 115.8790, "open_min": 540, "close_min": 1050, "duration": 60, "price": 40, "rating": 4.3, "tags": ["历史人文"], "outdoor": true, "closed_weekday": null},
+  {"id": "jxnu", "name": "江西师范大学瑶湖校区", "district": "南昌县", "lat": 28.6897, "lng": 116.0104, "open_min": 0, "close_min": 1439, "duration": 60, "price": 0, "rating": 4.1, "tags": ["校园"], "outdoor": true, "closed_weekday": null},
+  {"id": "ncu", "name": "南昌大学前湖校区", "district": "红谷滩", "lat": 28.6623, "lng": 115.7931, "open_min": 0, "close_min": 1439, "duration": 60, "price": 0, "rating": 4.2, "tags": ["校园", "园林"], "outdoor": true, "closed_weekday": null},
+  {"id": "hamajie", "name": "蛤蟆街夜市", "district": "东湖", "lat": 28.6798, "lng": 115.8924, "open_min": 1020, "close_min": 120, "duration": 60, "price": 0, "rating": 4.3, "tags": ["美食", "夜市"], "outdoor": true, "closed_weekday": null},
+  {"id": "rongchuang", "name": "南昌融创乐园", "district": "九龙湖", "lat": 28.6100, "lng": 115.8200, "open_min": 600, "close_min": 1260, "duration": 180, "price": 0, "rating": 4.2, "tags": ["亲子", "购物"], "outdoor": true, "closed_weekday": null}
+ ],
+ "weather": [
+  {"day": "第1天", "text": "晴", "low": 10, "high": 19, "rain": 5},
+  {"day": "第2天", "text": "多云", "low": 11, "high": 20, "rain": 20},
+  {"day": "第3天", "text": "小雨", "low": 9, "high": 15, "rain": 70},
+  {"day": "第4天", "text": "阴", "low": 10, "high": 17, "rain": 35},
+  {"day": "第5天", "text": "晴", "low": 8, "high": 18, "rain": 10}
+ ],
+ "hotels": {
+  "八一广场": [28.6763, 115.8959],
+  "滕王阁": [28.6825, 115.8817],
+  "红谷滩": [28.6880, 115.8580]
+ }
+}

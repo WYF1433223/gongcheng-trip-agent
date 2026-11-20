@@ -1,0 +1,242 @@
+{
+ "name": "杭州",
+ "center": [
+  30.27,
+  120.16
+ ],
+ "far_ids": [
+  "hangzhou_03",
+  "hangzhou_07",
+  "hangzhou_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "hangzhou_00",
+   "name": "杭州宋城",
+   "district": "宋城",
+   "lat": 30.17591,
+   "lng": 120.10528,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 253,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "hangzhou_01",
+   "name": "西湖风景名胜区",
+   "district": "西湖风景区",
+   "lat": 30.2289,
+   "lng": 120.12781,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hangzhou_02",
+   "name": "灵隐寺",
+   "district": "西湖风景区",
+   "lat": 30.24719,
+   "lng": 120.10813,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hangzhou_03",
+   "name": "OMG心跳乐园",
+   "district": "瑶琳仙境",
+   "lat": 29.93037,
+   "lng": 119.53833,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 391,
+   "rating": 4.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "hangzhou_04",
+   "name": "岳王庙",
+   "district": "西湖风景区",
+   "lat": 30.25867,
+   "lng": 120.14111,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 25,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hangzhou_05",
+   "name": "西溪国家湿地公园",
+   "district": "西溪湿地商圈",
+   "lat": 30.27289,
+   "lng": 120.07153,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 70,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hangzhou_06",
+   "name": "灵隐飞来峰景区",
+   "district": "西湖风景区",
+   "lat": 30.24591,
+   "lng": 120.10748,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hangzhou_07",
+   "name": "杭州野生动物世界",
+   "district": "",
+   "lat": 30.16082,
+   "lng": 119.99239,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 208,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "hangzhou_08",
+   "name": "西湖游船",
+   "district": "西湖风景区",
+   "lat": 30.23864,
+   "lng": 120.14888,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 70,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hangzhou_09",
+   "name": "千岛湖景区",
+   "district": "千岛湖中心湖区",
+   "lat": 29.57334,
+   "lng": 118.9303,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 45,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   30.27,
+   120.16
+  ],
+  "老城区": [
+   30.282,
+   120.15
+  ],
+  "近郊": [
+   30.24,
+   120.19
+  ]
+ }
+}

@@ -1,0 +1,245 @@
+{
+ "name": "黑河",
+ "center": [
+  50.24,
+  127.53
+ ],
+ "far_ids": [
+  "heihe_02",
+  "heihe_03",
+  "heihe_04",
+  "heihe_06",
+  "heihe_07",
+  "heihe_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "heihe_00",
+   "name": "黑龙江游船(黑河游船码头)",
+   "district": "中央商业步行街商圈",
+   "lat": 50.26069,
+   "lng": 127.5036,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "heihe_01",
+   "name": "大黑河岛",
+   "district": "",
+   "lat": 50.25531,
+   "lng": 127.54146,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "heihe_02",
+   "name": "瑷珲古城",
+   "district": "",
+   "lat": 49.98882,
+   "lng": 127.49933,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "heihe_03",
+   "name": "五大连池世界地质公园博物馆",
+   "district": "",
+   "lat": 48.63955,
+   "lng": 126.12798,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "heihe_04",
+   "name": "五大连池风景区",
+   "district": "",
+   "lat": 48.7026,
+   "lng": 126.27146,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "heihe_05",
+   "name": "锦河大峡谷",
+   "district": "",
+   "lat": 50.15338,
+   "lng": 127.28931,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 45,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "heihe_06",
+   "name": "温泊景区",
+   "district": "",
+   "lat": 48.6731,
+   "lng": 126.17593,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "heihe_07",
+   "name": "北药泉",
+   "district": "",
+   "lat": 48.65806,
+   "lng": 126.16188,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 10,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "heihe_08",
+   "name": "五大连池风景区-龙门石寨景区",
+   "district": "",
+   "lat": 48.70231,
+   "lng": 126.34206,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 20,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "heihe_09",
+   "name": "中俄民族风情园",
+   "district": "",
+   "lat": 50.2951,
+   "lng": 127.37723,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 39,
+   "rating": 3.9,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   50.24,
+   127.53
+  ],
+  "老城区": [
+   50.252,
+   127.52
+  ],
+  "近郊": [
+   50.21,
+   127.56
+  ]
+ }
+}

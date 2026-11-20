@@ -1,0 +1,245 @@
+{
+ "name": "锦州",
+ "center": [
+  41.1,
+  121.13
+ ],
+ "far_ids": [
+  "jinzhou_00",
+  "jinzhou_01",
+  "jinzhou_02",
+  "jinzhou_03",
+  "jinzhou_05",
+  "jinzhou_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "jinzhou_00",
+   "name": "中德古生物博物馆",
+   "district": "",
+   "lat": 41.58018,
+   "lng": 121.14365,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 39,
+   "rating": 5.0,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "jinzhou_01",
+   "name": "奉国寺",
+   "district": "",
+   "lat": 41.55042,
+   "lng": 121.25458,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 49,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinzhou_02",
+   "name": "青岩寺风景区",
+   "district": "",
+   "lat": 41.48475,
+   "lng": 121.62104,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 57,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinzhou_03",
+   "name": "医巫闾山",
+   "district": "",
+   "lat": 41.61289,
+   "lng": 121.73065,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 55,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinzhou_04",
+   "name": "北普陀山",
+   "district": "",
+   "lat": 41.18167,
+   "lng": 121.06217,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 30,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinzhou_05",
+   "name": "锦州笔架山风景区",
+   "district": "",
+   "lat": 40.82243,
+   "lng": 121.08624,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinzhou_06",
+   "name": "九华山公园",
+   "district": "",
+   "lat": 41.17068,
+   "lng": 121.34623,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinzhou_07",
+   "name": "布达拉宫广场",
+   "district": "",
+   "lat": 41.16516,
+   "lng": 121.34589,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinzhou_08",
+   "name": "万佛堂石窟",
+   "district": "",
+   "lat": 41.58315,
+   "lng": 121.16586,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinzhou_09",
+   "name": "辽沈战役纪念馆",
+   "district": "辽沈战役纪念馆周边",
+   "lat": 41.13502,
+   "lng": 121.15473,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   41.1,
+   121.13
+  ],
+  "老城区": [
+   41.112,
+   121.12
+  ],
+  "近郊": [
+   41.07,
+   121.16
+  ]
+ }
+}

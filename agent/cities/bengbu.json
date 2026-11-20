@@ -1,0 +1,240 @@
+{
+ "name": "蚌埠",
+ "center": [
+  32.92,
+  117.39
+ ],
+ "far_ids": [
+  "bengbu_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "bengbu_00",
+   "name": "涂山",
+   "district": "",
+   "lat": 32.94209,
+   "lng": 117.22861,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bengbu_01",
+   "name": "禾泉小镇度假区",
+   "district": "",
+   "lat": 32.92816,
+   "lng": 117.24499,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 39,
+   "rating": 4.9,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "bengbu_02",
+   "name": "蚌埠龙子湖景区",
+   "district": "高校区",
+   "lat": 32.91327,
+   "lng": 117.40987,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bengbu_03",
+   "name": "淮河文化广场",
+   "district": "新区",
+   "lat": 32.9356,
+   "lng": 117.37883,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bengbu_04",
+   "name": "栖岩寺",
+   "district": "",
+   "lat": 32.91808,
+   "lng": 117.45606,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bengbu_05",
+   "name": "张公山公园",
+   "district": "新区",
+   "lat": 32.9284,
+   "lng": 117.35061,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bengbu_06",
+   "name": "蚌埠市博物馆新馆",
+   "district": "高校区",
+   "lat": 32.91887,
+   "lng": 117.3926,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "bengbu_07",
+   "name": "中国南北分界标志",
+   "district": "蚌埠火车站区域",
+   "lat": 32.9249,
+   "lng": 117.41086,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "bengbu_08",
+   "name": "明皇陵",
+   "district": "",
+   "lat": 32.81779,
+   "lng": 117.53109,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 45,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bengbu_09",
+   "name": "垓下遗址",
+   "district": "",
+   "lat": 33.33221,
+   "lng": 117.56339,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 3.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   32.92,
+   117.39
+  ],
+  "老城区": [
+   32.932,
+   117.38
+  ],
+  "近郊": [
+   32.89,
+   117.42
+  ]
+ }
+}

@@ -1,0 +1,245 @@
+{
+ "name": "金昌",
+ "center": [
+  38.52,
+  102.19
+ ],
+ "far_ids": [
+  "jinchang_01",
+  "jinchang_02",
+  "jinchang_05",
+  "jinchang_07",
+  "jinchang_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "jinchang_00",
+   "name": "紫金花海",
+   "district": "",
+   "lat": 38.53647,
+   "lng": 102.19016,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinchang_01",
+   "name": "沙坡头",
+   "district": "沙坡头旅游景区",
+   "lat": 37.48085,
+   "lng": 105.00841,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinchang_02",
+   "name": "张掖七彩丹霞旅游景区",
+   "district": "",
+   "lat": 38.95616,
+   "lng": 100.08478,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 73,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinchang_03",
+   "name": "金昌市博物馆",
+   "district": "",
+   "lat": 38.52488,
+   "lng": 102.19816,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "jinchang_04",
+   "name": "金川金水湖国家湿地公园",
+   "district": "",
+   "lat": 38.52047,
+   "lng": 102.24621,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinchang_05",
+   "name": "圣容寺塔",
+   "district": "",
+   "lat": 38.32789,
+   "lng": 101.93579,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinchang_06",
+   "name": "火星1号基地",
+   "district": "",
+   "lat": 38.39644,
+   "lng": 102.19854,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 106,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinchang_07",
+   "name": "骊靬古城",
+   "district": "",
+   "lat": 38.19595,
+   "lng": 101.87514,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 3.9,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinchang_08",
+   "name": "金川国家矿山公园",
+   "district": "",
+   "lat": 38.49786,
+   "lng": 102.16346,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 3.8,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinchang_09",
+   "name": "武当山",
+   "district": "",
+   "lat": 38.27376,
+   "lng": 101.9748,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   38.52,
+   102.19
+  ],
+  "老城区": [
+   38.532,
+   102.18
+  ],
+  "近郊": [
+   38.49,
+   102.22
+  ]
+ }
+}

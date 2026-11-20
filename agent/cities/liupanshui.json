@@ -1,0 +1,242 @@
+{
+ "name": "六盘水",
+ "center": [
+  26.59,
+  104.83
+ ],
+ "far_ids": [
+  "liupanshui_00",
+  "liupanshui_02",
+  "liupanshui_04",
+  "liupanshui_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "liupanshui_00",
+   "name": "韭菜坪",
+   "district": "",
+   "lat": 26.84855,
+   "lng": 104.70042,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "liupanshui_01",
+   "name": "六盘水梅花山国际滑雪场",
+   "district": "",
+   "lat": 26.60611,
+   "lng": 104.75204,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liupanshui_02",
+   "name": "北盘江大桥",
+   "district": "",
+   "lat": 26.39426,
+   "lng": 104.69162,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liupanshui_03",
+   "name": "梅花山旅游景区",
+   "district": "",
+   "lat": 26.61328,
+   "lng": 104.76333,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liupanshui_04",
+   "name": "乌蒙大草原",
+   "district": "",
+   "lat": 26.16442,
+   "lng": 104.62827,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 30,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liupanshui_05",
+   "name": "野玉海旅游度假区",
+   "district": "",
+   "lat": 26.45783,
+   "lng": 104.82302,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "liupanshui_06",
+   "name": "水城古镇",
+   "district": "水城古镇",
+   "lat": 26.58039,
+   "lng": 104.88398,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liupanshui_07",
+   "name": "六盘水乌蒙山国家地质公园",
+   "district": "人民广场",
+   "lat": 26.5872,
+   "lng": 104.87065,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liupanshui_08",
+   "name": "妥乐古银杏",
+   "district": "",
+   "lat": 25.61787,
+   "lng": 104.55777,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 26,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "liupanshui_09",
+   "name": "梅花山索道旅游景区",
+   "district": "",
+   "lat": 26.60811,
+   "lng": 104.77062,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   26.59,
+   104.83
+  ],
+  "老城区": [
+   26.602,
+   104.82
+  ],
+  "近郊": [
+   26.56,
+   104.86
+  ]
+ }
+}

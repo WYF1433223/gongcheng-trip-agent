@@ -1,0 +1,245 @@
+{
+ "name": "临汾",
+ "center": [
+  36.09,
+  111.52
+ ],
+ "far_ids": [
+  "linfen_00",
+  "linfen_01",
+  "linfen_02",
+  "linfen_03",
+  "linfen_04",
+  "linfen_05",
+  "linfen_06",
+  "linfen_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "linfen_00",
+   "name": "小西天",
+   "district": "",
+   "lat": 36.70718,
+   "lng": 110.93918,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 35,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linfen_01",
+   "name": "壶口瀑布国家地质公园",
+   "district": "黄河壶口风景区",
+   "lat": 36.12995,
+   "lng": 110.45843,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linfen_02",
+   "name": "山西黄河壶口瀑布旅游区",
+   "district": "黄河壶口风景区",
+   "lat": 36.14154,
+   "lng": 110.45754,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 75,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linfen_03",
+   "name": "广胜寺",
+   "district": "",
+   "lat": 36.30372,
+   "lng": 111.81422,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 68,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linfen_04",
+   "name": "东岳庙",
+   "district": "",
+   "lat": 36.39851,
+   "lng": 111.11916,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 35,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linfen_05",
+   "name": "陕西黄河壶口瀑布",
+   "district": "黄河壶口风景区",
+   "lat": 36.12418,
+   "lng": 110.45909,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 75,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linfen_06",
+   "name": "洪洞大槐树寻根祭祖园",
+   "district": "",
+   "lat": 36.27645,
+   "lng": 111.68196,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 75,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linfen_07",
+   "name": "云丘山景区",
+   "district": "",
+   "lat": 35.76632,
+   "lng": 111.02124,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 58,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linfen_08",
+   "name": "尧庙",
+   "district": "",
+   "lat": 36.05822,
+   "lng": 111.50306,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 35,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linfen_09",
+   "name": "华门",
+   "district": "",
+   "lat": 36.05836,
+   "lng": 111.49447,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 35,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   36.09,
+   111.52
+  ],
+  "老城区": [
+   36.102,
+   111.51
+  ],
+  "近郊": [
+   36.06,
+   111.55
+  ]
+ }
+}

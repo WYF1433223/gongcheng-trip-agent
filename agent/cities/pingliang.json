@@ -1,0 +1,245 @@
+{
+ "name": "平凉",
+ "center": [
+  35.54,
+  106.67
+ ],
+ "far_ids": [
+  "pingliang_00",
+  "pingliang_03",
+  "pingliang_06",
+  "pingliang_07",
+  "pingliang_08",
+  "pingliang_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "pingliang_00",
+   "name": "庄浪梯田",
+   "district": "",
+   "lat": 35.35046,
+   "lng": 105.94174,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "pingliang_01",
+   "name": "柳湖公园",
+   "district": "",
+   "lat": 35.5517,
+   "lng": 106.68149,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "pingliang_02",
+   "name": "崆峒山",
+   "district": "",
+   "lat": 35.55585,
+   "lng": 106.53481,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 57,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "pingliang_03",
+   "name": "龙泉寺",
+   "district": "",
+   "lat": 35.32239,
+   "lng": 107.04128,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "pingliang_04",
+   "name": "平凉市博物馆",
+   "district": "",
+   "lat": 35.56699,
+   "lng": 106.62138,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "pingliang_05",
+   "name": "崆峒古镇",
+   "district": "",
+   "lat": 35.55598,
+   "lng": 106.58591,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "pingliang_06",
+   "name": "西王母文化景区",
+   "district": "",
+   "lat": 35.34129,
+   "lng": 107.35754,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "pingliang_07",
+   "name": "云崖寺国家森林公园",
+   "district": "",
+   "lat": 35.16144,
+   "lng": 106.3319,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 18,
+   "rating": 4.1,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "pingliang_08",
+   "name": "南石窟寺",
+   "district": "",
+   "lat": 35.36836,
+   "lng": 107.4604,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "pingliang_09",
+   "name": "海寨沟旅游度假风景区",
+   "district": "",
+   "lat": 35.38199,
+   "lng": 106.79284,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 3.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   35.54,
+   106.67
+  ],
+  "老城区": [
+   35.552,
+   106.66
+  ],
+  "近郊": [
+   35.51,
+   106.7
+  ]
+ }
+}

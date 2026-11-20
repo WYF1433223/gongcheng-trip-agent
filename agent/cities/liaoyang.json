@@ -1,0 +1,240 @@
+{
+ "name": "辽阳",
+ "center": [
+  41.27,
+  123.24
+ ],
+ "far_ids": [
+  "liaoyang_02",
+  "liaoyang_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "liaoyang_00",
+   "name": "人参谷",
+   "district": "",
+   "lat": 41.20651,
+   "lng": 123.45912,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liaoyang_01",
+   "name": "广佑寺",
+   "district": "辽阳火车站地区",
+   "lat": 41.28483,
+   "lng": 123.18374,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liaoyang_02",
+   "name": "千山",
+   "district": "千山风景区",
+   "lat": 41.01945,
+   "lng": 123.1326,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 57,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liaoyang_03",
+   "name": "辽阳博物馆",
+   "district": "京都商业步行街",
+   "lat": 41.27569,
+   "lng": 123.19572,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "liaoyang_04",
+   "name": "白塔公园",
+   "district": "辽阳火车站地区",
+   "lat": 41.28464,
+   "lng": 123.18261,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liaoyang_05",
+   "name": "太子岛十里画廊",
+   "district": "",
+   "lat": 41.25686,
+   "lng": 123.32947,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "liaoyang_06",
+   "name": "辽阳动物园",
+   "district": "",
+   "lat": 41.18155,
+   "lng": 123.22215,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 25,
+   "rating": 4.5,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "liaoyang_07",
+   "name": "曹雪芹纪念馆",
+   "district": "京都商业步行街",
+   "lat": 41.27248,
+   "lng": 123.18616,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "liaoyang_08",
+   "name": "弓长岭温泉滑雪场",
+   "district": "弓长岭温泉滑雪场",
+   "lat": 41.13733,
+   "lng": 123.43043,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liaoyang_09",
+   "name": "东京城城址",
+   "district": "",
+   "lat": 41.28394,
+   "lng": 123.24598,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   41.27,
+   123.24
+  ],
+  "老城区": [
+   41.282,
+   123.23
+  ],
+  "近郊": [
+   41.24,
+   123.27
+  ]
+ }
+}

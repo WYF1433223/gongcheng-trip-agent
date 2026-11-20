@@ -1,0 +1,245 @@
+{
+ "name": "葫芦岛",
+ "center": [
+  40.71,
+  120.84
+ ],
+ "far_ids": [
+  "huludao_00",
+  "huludao_04",
+  "huludao_06",
+  "huludao_08",
+  "huludao_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "huludao_00",
+   "name": "东戴河风景度假区",
+   "district": "东戴河风景区",
+   "lat": 40.01156,
+   "lng": 119.9042,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "huludao_01",
+   "name": "龙湾海滨风景区",
+   "district": "龙湾海滨",
+   "lat": 40.68753,
+   "lng": 120.84312,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huludao_02",
+   "name": "关东葫芦古镇",
+   "district": "",
+   "lat": 40.78459,
+   "lng": 120.95572,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huludao_03",
+   "name": "兴城海滨国家重点风景名胜区",
+   "district": "龙回头景区",
+   "lat": 40.6422,
+   "lng": 120.81788,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huludao_04",
+   "name": "锦州笔架山风景区",
+   "district": "",
+   "lat": 40.82243,
+   "lng": 121.08624,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huludao_05",
+   "name": "龙回头",
+   "district": "龙回头景区",
+   "lat": 40.65554,
+   "lng": 120.83422,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huludao_06",
+   "name": "龙潭大峡谷",
+   "district": "",
+   "lat": 40.56205,
+   "lng": 119.3612,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 63,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huludao_07",
+   "name": "兴城古城",
+   "district": "兴城古城",
+   "lat": 40.6288,
+   "lng": 120.71954,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 70,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huludao_08",
+   "name": "九门口水上长城",
+   "district": "",
+   "lat": 40.12378,
+   "lng": 119.75862,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huludao_09",
+   "name": "觉华岛风景区",
+   "district": "觉华岛度假区",
+   "lat": 40.50425,
+   "lng": 120.81237,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 3.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   40.71,
+   120.84
+  ],
+  "老城区": [
+   40.722,
+   120.83
+  ],
+  "近郊": [
+   40.68,
+   120.87
+  ]
+ }
+}

@@ -1,0 +1,247 @@
+{
+ "name": "邢台",
+ "center": [
+  37.07,
+  114.5
+ ],
+ "far_ids": [
+  "xingtai_00",
+  "xingtai_03",
+  "xingtai_04",
+  "xingtai_05",
+  "xingtai_06",
+  "xingtai_07",
+  "xingtai_08",
+  "xingtai_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "xingtai_00",
+   "name": "佛照山",
+   "district": "",
+   "lat": 36.89805,
+   "lng": 114.09126,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xingtai_01",
+   "name": "邢州古城",
+   "district": "邢台火车站",
+   "lat": 37.07303,
+   "lng": 114.51296,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xingtai_02",
+   "name": "邢台博物馆",
+   "district": "邢台火车站",
+   "lat": 37.07822,
+   "lng": 114.52265,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "xingtai_03",
+   "name": "英谈古寨",
+   "district": "",
+   "lat": 37.117,
+   "lng": 113.85651,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 35,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xingtai_04",
+   "name": "天河山",
+   "district": "",
+   "lat": 37.09626,
+   "lng": 113.79736,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 67,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xingtai_05",
+   "name": "崆山白云洞",
+   "district": "",
+   "lat": 37.46448,
+   "lng": 114.44729,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xingtai_06",
+   "name": "岐山湖风景区",
+   "district": "",
+   "lat": 37.45893,
+   "lng": 114.39743,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 36,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xingtai_07",
+   "name": "邢台大峡谷",
+   "district": "",
+   "lat": 37.14879,
+   "lng": 113.81232,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 48,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xingtai_08",
+   "name": "云梦山风景区",
+   "district": "",
+   "lat": 37.34098,
+   "lng": 113.93376,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 47,
+   "rating": 4.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xingtai_09",
+   "name": "天梯山景区",
+   "district": "",
+   "lat": 37.09553,
+   "lng": 114.24852,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 26,
+   "rating": 3.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   37.07,
+   114.5
+  ],
+  "老城区": [
+   37.082,
+   114.49
+  ],
+  "近郊": [
+   37.04,
+   114.53
+  ]
+ }
+}

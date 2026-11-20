@@ -1,0 +1,247 @@
+{
+ "name": "龙岩",
+ "center": [
+  25.08,
+  117.03
+ ],
+ "far_ids": [
+  "longyan_00",
+  "longyan_01",
+  "longyan_02",
+  "longyan_03",
+  "longyan_04",
+  "longyan_05",
+  "longyan_06",
+  "longyan_07",
+  "longyan_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "longyan_00",
+   "name": "冠豸山景区",
+   "district": "",
+   "lat": 25.721,
+   "lng": 116.81794,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 120,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "longyan_01",
+   "name": "初溪土楼古村落",
+   "district": "",
+   "lat": 24.55352,
+   "lng": 116.9029,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "longyan_02",
+   "name": "汀州古城",
+   "district": "",
+   "lat": 25.84039,
+   "lng": 116.36326,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "longyan_03",
+   "name": "永福台品樱花茶园",
+   "district": "",
+   "lat": 25.05494,
+   "lng": 117.28276,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "longyan_04",
+   "name": "福建土楼永定景区",
+   "district": "永定土楼",
+   "lat": 24.66586,
+   "lng": 116.985,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 50,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "longyan_05",
+   "name": "福建土楼王景区",
+   "district": "永定土楼",
+   "lat": 24.66736,
+   "lng": 117.0144,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 50,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "longyan_06",
+   "name": "卧龙书院",
+   "district": "",
+   "lat": 25.83645,
+   "lng": 116.35943,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 57,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "longyan_07",
+   "name": "连城县培田古村落",
+   "district": "",
+   "lat": 25.64072,
+   "lng": 116.64542,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 30,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "longyan_08",
+   "name": "福建土楼王子景区",
+   "district": "永定土楼",
+   "lat": 24.66535,
+   "lng": 116.98576,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 85,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "longyan_09",
+   "name": "龙岩森林水乡景区",
+   "district": "",
+   "lat": 25.10123,
+   "lng": 116.87234,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 68,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   25.08,
+   117.03
+  ],
+  "老城区": [
+   25.092,
+   117.02
+  ],
+  "近郊": [
+   25.05,
+   117.06
+  ]
+ }
+}

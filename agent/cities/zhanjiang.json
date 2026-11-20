@@ -1,0 +1,242 @@
+{
+ "name": "湛江",
+ "center": [
+  21.27,
+  110.36
+ ],
+ "far_ids": [
+  "zhanjiang_01",
+  "zhanjiang_02",
+  "zhanjiang_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "zhanjiang_00",
+   "name": "赤坎老街景区",
+   "district": "赤坎老街",
+   "lat": 21.28075,
+   "lng": 110.36819,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhanjiang_01",
+   "name": "鼎龙湾国际海洋度假区",
+   "district": "鼎龙湾国际海洋度假区",
+   "lat": 21.40289,
+   "lng": 110.91076,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhanjiang_02",
+   "name": "中国大陆南极村",
+   "district": "",
+   "lat": 20.22786,
+   "lng": 109.93177,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhanjiang_03",
+   "name": "湛江市金沙湾滨海休闲旅游区",
+   "district": "金沙湾风景区",
+   "lat": 21.27886,
+   "lng": 110.40062,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhanjiang_04",
+   "name": "湛江红嘴鸥游船",
+   "district": "金沙湾风景区",
+   "lat": 21.26569,
+   "lng": 110.40854,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 158,
+   "rating": 4.4,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhanjiang_05",
+   "name": "湖光岩风景区",
+   "district": "湖光岩风景区",
+   "lat": 21.15026,
+   "lng": 110.29188,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 50,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhanjiang_06",
+   "name": "湛江军事文化博览园",
+   "district": "",
+   "lat": 21.26364,
+   "lng": 110.44184,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 39,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhanjiang_07",
+   "name": "特呈岛",
+   "district": "特呈岛",
+   "lat": 21.16333,
+   "lng": 110.43951,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhanjiang_08",
+   "name": "硇洲岛",
+   "district": "硇洲岛旅游区",
+   "lat": 20.90958,
+   "lng": 110.60326,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 3.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhanjiang_09",
+   "name": "湛江 · 2026张韶涵玩家巡回演唱会湛江站",
+   "district": "",
+   "lat": 21.26973,
+   "lng": 110.44066,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 388,
+   "rating": 4.2,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   21.27,
+   110.36
+  ],
+  "老城区": [
+   21.282,
+   110.35
+  ],
+  "近郊": [
+   21.24,
+   110.39
+  ]
+ }
+}

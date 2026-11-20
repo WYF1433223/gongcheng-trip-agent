@@ -1,0 +1,248 @@
+{
+ "name": "毕节",
+ "center": [
+  27.28,
+  105.29
+ ],
+ "far_ids": [
+  "bijie_00",
+  "bijie_01",
+  "bijie_02",
+  "bijie_03",
+  "bijie_04",
+  "bijie_05",
+  "bijie_06",
+  "bijie_07",
+  "bijie_08",
+  "bijie_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "bijie_00",
+   "name": "织金洞",
+   "district": "",
+   "lat": 26.77651,
+   "lng": 105.89006,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 110,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bijie_01",
+   "name": "阿西里西韭菜坪",
+   "district": "",
+   "lat": 26.99079,
+   "lng": 104.75893,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 38,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "bijie_02",
+   "name": "阿西里西大草原",
+   "district": "",
+   "lat": 27.01823,
+   "lng": 104.87051,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 18,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bijie_03",
+   "name": "织金大峡谷",
+   "district": "",
+   "lat": 26.77885,
+   "lng": 105.8889,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 45,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bijie_04",
+   "name": "乌江源百里画廊",
+   "district": "",
+   "lat": 26.77,
+   "lng": 105.93137,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bijie_05",
+   "name": "百里杜鹃风景区",
+   "district": "",
+   "lat": 27.22097,
+   "lng": 105.92228,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "bijie_06",
+   "name": "草海国家级自然保护区",
+   "district": "",
+   "lat": 26.8643,
+   "lng": 104.26024,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "bijie_07",
+   "name": "奢香古镇",
+   "district": "",
+   "lat": 27.19365,
+   "lng": 105.60869,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bijie_08",
+   "name": "九洞天",
+   "district": "",
+   "lat": 26.96407,
+   "lng": 105.33922,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 70,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bijie_09",
+   "name": "贵州毕节鸡鸣三省旅游景区",
+   "district": "",
+   "lat": 27.70383,
+   "lng": 105.31502,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 20,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   27.28,
+   105.29
+  ],
+  "老城区": [
+   27.292,
+   105.28
+  ],
+  "近郊": [
+   27.25,
+   105.32
+  ]
+ }
+}

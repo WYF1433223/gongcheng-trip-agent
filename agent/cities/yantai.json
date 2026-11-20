@@ -1,0 +1,243 @@
+{
+ "name": "烟台",
+ "center": [
+  37.46,
+  121.45
+ ],
+ "far_ids": [
+  "yantai_02",
+  "yantai_03",
+  "yantai_04",
+  "yantai_05",
+  "yantai_06",
+  "yantai_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "yantai_00",
+   "name": "张裕酒文化博物馆",
+   "district": "第一海水浴场",
+   "lat": 37.54779,
+   "lng": 121.4123,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 60,
+   "rating": 4.9,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "yantai_01",
+   "name": "烟台山景区",
+   "district": "第一海水浴场",
+   "lat": 37.55447,
+   "lng": 121.40909,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yantai_02",
+   "name": "蓬莱阁",
+   "district": "蓬莱阁",
+   "lat": 37.83096,
+   "lng": 120.75943,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 100,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yantai_03",
+   "name": "长岛南北长山旅游景区",
+   "district": "长岛风景区",
+   "lat": 37.99554,
+   "lng": 120.70029,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 129,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yantai_04",
+   "name": "蓬莱欧乐堡海洋极地世界",
+   "district": "蓬莱阁",
+   "lat": 37.8327,
+   "lng": 120.75419,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 149,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yantai_05",
+   "name": "蓬莱八仙过海国际旅游度假区",
+   "district": "八仙渡",
+   "lat": 37.83104,
+   "lng": 120.78228,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yantai_06",
+   "name": "八仙过海景区",
+   "district": "八仙渡",
+   "lat": 37.83104,
+   "lng": 120.78228,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 70,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yantai_07",
+   "name": "欧乐堡梦幻世界",
+   "district": "八仙渡",
+   "lat": 37.82119,
+   "lng": 120.79687,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 149,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yantai_08",
+   "name": "烟台海昌鲸鲨海洋公园",
+   "district": "第二海水浴场",
+   "lat": 37.52552,
+   "lng": 121.45829,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 155,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yantai_09",
+   "name": "养马岛",
+   "district": "养马岛度假区",
+   "lat": 37.47187,
+   "lng": 121.62598,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   37.46,
+   121.45
+  ],
+  "老城区": [
+   37.472,
+   121.44
+  ],
+  "近郊": [
+   37.43,
+   121.48
+  ]
+ }
+}

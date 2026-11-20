@@ -1,0 +1,240 @@
+{
+ "name": "昆明",
+ "center": [
+  25.04,
+  102.72
+ ],
+ "far_ids": [
+  "kunming_01",
+  "kunming_02",
+  "kunming_04",
+  "kunming_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "kunming_00",
+   "name": "云南省博物馆",
+   "district": "官渡古镇",
+   "lat": 24.95552,
+   "lng": 102.76017,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "kunming_01",
+   "name": "石林风景区",
+   "district": "",
+   "lat": 24.82215,
+   "lng": 103.33389,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 130,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "kunming_02",
+   "name": "滇池",
+   "district": "",
+   "lat": 24.82683,
+   "lng": 102.69459,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "kunming_03",
+   "name": "云南野生动物园",
+   "district": "昆明野生动物园",
+   "lat": 25.10193,
+   "lng": 102.79365,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 100,
+   "rating": 4.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "kunming_04",
+   "name": "七彩云南欢乐世界",
+   "district": "七彩云南欢乐世界",
+   "lat": 24.77423,
+   "lng": 102.74684,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 210,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "kunming_05",
+   "name": "昆明旅游索道",
+   "district": "滇池风景区",
+   "lat": 24.96573,
+   "lng": 102.65898,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 59,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "kunming_06",
+   "name": "西山风景名胜区",
+   "district": "滇池风景区",
+   "lat": 24.96972,
+   "lng": 102.63482,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "kunming_07",
+   "name": "《云南映象》演出",
+   "district": "云大医院",
+   "lat": 25.04588,
+   "lng": 102.70986,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 198,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "kunming_08",
+   "name": "云南民族村",
+   "district": "滇池风景区",
+   "lat": 24.97147,
+   "lng": 102.66745,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 50,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "kunming_09",
+   "name": "小人国主题公园",
+   "district": "",
+   "lat": 24.8579,
+   "lng": 102.61998,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 99,
+   "rating": 4.2,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   25.04,
+   102.72
+  ],
+  "老城区": [
+   25.052,
+   102.71
+  ],
+  "近郊": [
+   25.01,
+   102.75
+  ]
+ }
+}

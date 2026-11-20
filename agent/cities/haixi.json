@@ -1,0 +1,251 @@
+{
+ "name": "海西",
+ "center": [
+  37.37,
+  97.37
+ ],
+ "far_ids": [
+  "haixi_00",
+  "haixi_01",
+  "haixi_02",
+  "haixi_03",
+  "haixi_04",
+  "haixi_05",
+  "haixi_06",
+  "haixi_07",
+  "haixi_08",
+  "haixi_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "haixi_00",
+   "name": "察尔汗盐湖",
+   "district": "",
+   "lat": 36.9546,
+   "lng": 95.2049,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 75,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haixi_01",
+   "name": "可可西里国家级自然保护区",
+   "district": "",
+   "lat": 35.65059,
+   "lng": 94.05262,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "haixi_02",
+   "name": "青海湖景区",
+   "district": "",
+   "lat": 36.5843,
+   "lng": 100.50298,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 50,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haixi_03",
+   "name": "乌素特水上雅丹地质公园",
+   "district": "",
+   "lat": 37.62248,
+   "lng": 93.75635,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haixi_04",
+   "name": "大柴旦翡翠湖旅游景区",
+   "district": "",
+   "lat": 37.87242,
+   "lng": 95.27156,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haixi_05",
+   "name": "茶卡盐湖",
+   "district": "",
+   "lat": 36.72119,
+   "lng": 99.07881,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haixi_06",
+   "name": "茶卡盐湖-茶卡天空壹号景区",
+   "district": "",
+   "lat": 36.71433,
+   "lng": 99.17539,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haixi_07",
+   "name": "彩虹丹霞·星之谷",
+   "district": "",
+   "lat": 37.02575,
+   "lng": 96.45124,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haixi_08",
+   "name": "黑独山",
+   "district": "",
+   "lat": 38.87358,
+   "lng": 93.45613,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haixi_09",
+   "name": "茫崖艾肯泉",
+   "district": "",
+   "lat": 38.12,
+   "lng": 90.58977,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   37.37,
+   97.37
+  ],
+  "老城区": [
+   37.382,
+   97.36
+  ],
+  "近郊": [
+   37.34,
+   97.4
+  ]
+ }
+}

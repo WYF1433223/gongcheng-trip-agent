@@ -1,0 +1,241 @@
+{
+ "name": "荆州",
+ "center": [
+  30.33,
+  112.24
+ ],
+ "far_ids": [
+  "jingzhou_03",
+  "jingzhou_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "jingzhou_00",
+   "name": "荆州古城墙",
+   "district": "荆州古城",
+   "lat": 30.35749,
+   "lng": 112.18208,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jingzhou_01",
+   "name": "荆州方特东方神画",
+   "district": "火车站",
+   "lat": 30.39565,
+   "lng": 112.24633,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 279,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jingzhou_02",
+   "name": "荆州博物馆",
+   "district": "荆州古城",
+   "lat": 30.35967,
+   "lng": 112.18657,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "jingzhou_03",
+   "name": "荆州楚王车马阵景区",
+   "district": "",
+   "lat": 30.61561,
+   "lng": 112.0226,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 78,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jingzhou_04",
+   "name": "荆州古城历史文化旅游区",
+   "district": "荆州古城",
+   "lat": 30.35751,
+   "lng": 112.20492,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jingzhou_05",
+   "name": "张居正故居",
+   "district": "荆州古城",
+   "lat": 30.35311,
+   "lng": 112.22183,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 18,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "jingzhou_06",
+   "name": "关羽祠",
+   "district": "高校区",
+   "lat": 30.35391,
+   "lng": 112.19048,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 25,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jingzhou_07",
+   "name": "关帝庙",
+   "district": "荆州古城",
+   "lat": 30.35576,
+   "lng": 112.20426,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 18,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jingzhou_08",
+   "name": "宾阳楼",
+   "district": "荆州古城",
+   "lat": 30.35395,
+   "lng": 112.22239,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 32,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jingzhou_09",
+   "name": "洪湖生态旅游区",
+   "district": "",
+   "lat": 29.93576,
+   "lng": 113.21656,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 70,
+   "rating": 4.0,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   30.33,
+   112.24
+  ],
+  "老城区": [
+   30.342,
+   112.23
+  ],
+  "近郊": [
+   30.3,
+   112.27
+  ]
+ }
+}

@@ -1,0 +1,240 @@
+{
+ "name": "大连",
+ "center": [
+  38.91,
+  121.61
+ ],
+ "far_ids": [
+  "dalian_03",
+  "dalian_05"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "dalian_00",
+   "name": "大连森林动物园",
+   "district": "付家庄海滨浴场",
+   "lat": 38.8862,
+   "lng": 121.61769,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "dalian_01",
+   "name": "星海广场",
+   "district": "星海广场",
+   "lat": 38.88802,
+   "lng": 121.59447,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dalian_02",
+   "name": "星海湾景区",
+   "district": "星海广场",
+   "lat": 38.88394,
+   "lng": 121.57612,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dalian_03",
+   "name": "大连金石滩国家旅游度假区",
+   "district": "金石滩国家旅游度假区",
+   "lat": 39.08434,
+   "lng": 122.00748,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "dalian_04",
+   "name": "大连圣亚海洋世界",
+   "district": "星海广场",
+   "lat": 38.88447,
+   "lng": 121.57709,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 194,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "dalian_05",
+   "name": "大连海昌发现王国主题公园",
+   "district": "金石滩国家旅游度假区",
+   "lat": 39.08719,
+   "lng": 122.00789,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "dalian_06",
+   "name": "大连海昌东方水城",
+   "district": "中山广场",
+   "lat": 38.93025,
+   "lng": 121.69963,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "dalian_07",
+   "name": "渔人码头",
+   "district": "老虎滩海洋公园",
+   "lat": 38.88192,
+   "lng": 121.69024,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "dalian_08",
+   "name": "老虎滩海洋公园",
+   "district": "老虎滩海洋公园",
+   "lat": 38.87841,
+   "lng": 121.68309,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 180,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dalian_09",
+   "name": "棒棰岛",
+   "district": "",
+   "lat": 38.89101,
+   "lng": 121.72544,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 10,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   38.91,
+   121.61
+  ],
+  "老城区": [
+   38.922,
+   121.6
+  ],
+  "近郊": [
+   38.88,
+   121.64
+  ]
+ }
+}

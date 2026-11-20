@@ -1,0 +1,240 @@
+{
+ "name": "大同",
+ "center": [
+  40.08,
+  113.3
+ ],
+ "far_ids": [
+  "datong_01",
+  "datong_04",
+  "datong_06"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "datong_00",
+   "name": "云冈石窟",
+   "district": "",
+   "lat": 40.11806,
+   "lng": 113.14443,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 100,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "datong_01",
+   "name": "应县木塔景区",
+   "district": "",
+   "lat": 39.57535,
+   "lng": 113.19612,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 48,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "datong_02",
+   "name": "华严寺",
+   "district": "大同古城",
+   "lat": 40.09875,
+   "lng": 113.30146,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "datong_03",
+   "name": "善化寺",
+   "district": "大同古城",
+   "lat": 40.09318,
+   "lng": 113.30663,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "datong_04",
+   "name": "悬空寺",
+   "district": "",
+   "lat": 39.66886,
+   "lng": 113.72079,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 15,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "datong_05",
+   "name": "大同古城",
+   "district": "大同古城",
+   "lat": 40.09978,
+   "lng": 113.30868,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "datong_06",
+   "name": "恒山",
+   "district": "",
+   "lat": 39.66964,
+   "lng": 113.7335,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 45,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "datong_07",
+   "name": "代王府·大明百戏园",
+   "district": "大同古城",
+   "lat": 40.10149,
+   "lng": 113.31073,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 50,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "datong_08",
+   "name": "九龙壁",
+   "district": "大同古城",
+   "lat": 40.09916,
+   "lng": 113.31056,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 10,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "datong_09",
+   "name": "大同古城墙",
+   "district": "大同古城",
+   "lat": 40.09925,
+   "lng": 113.31963,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   40.08,
+   113.3
+  ],
+  "老城区": [
+   40.092,
+   113.29
+  ],
+  "近郊": [
+   40.05,
+   113.33
+  ]
+ }
+}

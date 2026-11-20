@@ -1,0 +1,240 @@
+{
+ "name": "镇江",
+ "center": [
+  32.19,
+  119.43
+ ],
+ "far_ids": [
+  "zhenjiang_01",
+  "zhenjiang_06"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "zhenjiang_00",
+   "name": "三山风景名胜区",
+   "district": "西津渡",
+   "lat": 32.22166,
+   "lng": 119.42272,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhenjiang_01",
+   "name": "瘦西湖",
+   "district": "瘦西湖风景区",
+   "lat": 32.40816,
+   "lng": 119.43282,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 58,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhenjiang_02",
+   "name": "北固山",
+   "district": "大市口",
+   "lat": 32.22239,
+   "lng": 119.46395,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 27,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhenjiang_03",
+   "name": "焦山",
+   "district": "",
+   "lat": 32.24205,
+   "lng": 119.49414,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 45,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhenjiang_04",
+   "name": "西津渡历史文化街区",
+   "district": "西津渡",
+   "lat": 32.21839,
+   "lng": 119.43592,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 25,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhenjiang_05",
+   "name": "金山",
+   "district": "西津渡",
+   "lat": 32.22155,
+   "lng": 119.42091,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 45,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhenjiang_06",
+   "name": "句容茅山景区",
+   "district": "茅山风景区",
+   "lat": 31.7915,
+   "lng": 119.32196,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 70,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhenjiang_07",
+   "name": "金山寺",
+   "district": "西津渡",
+   "lat": 32.22166,
+   "lng": 119.42252,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhenjiang_08",
+   "name": "中国大运河博物馆",
+   "district": "运河博物馆",
+   "lat": 32.36763,
+   "lng": 119.43526,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "zhenjiang_09",
+   "name": "镇江 · 李荣浩《黑马》世界巡回演唱会",
+   "district": "镇江南站",
+   "lat": 32.18069,
+   "lng": 119.42968,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 28,
+   "rating": 4.2,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   32.19,
+   119.43
+  ],
+  "老城区": [
+   32.202,
+   119.42
+  ],
+  "近郊": [
+   32.16,
+   119.46
+  ]
+ }
+}

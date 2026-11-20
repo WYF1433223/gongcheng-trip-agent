@@ -1,0 +1,246 @@
+{
+ "name": "来宾",
+ "center": [
+  23.75,
+  109.22
+ ],
+ "far_ids": [
+  "laibin_00",
+  "laibin_01",
+  "laibin_02",
+  "laibin_03",
+  "laibin_04",
+  "laibin_05",
+  "laibin_06",
+  "laibin_07",
+  "laibin_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "laibin_00",
+   "name": "来宾市金秀圣堂大峡谷景区",
+   "district": "",
+   "lat": 23.93882,
+   "lng": 110.1109,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 68,
+   "rating": 5.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "laibin_01",
+   "name": "大瑶山盘王界景区",
+   "district": "",
+   "lat": 24.14321,
+   "lng": 110.13657,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "laibin_02",
+   "name": "金秀圣堂山景区",
+   "district": "",
+   "lat": 23.97597,
+   "lng": 110.11665,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 58,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "laibin_03",
+   "name": "百崖大峡谷",
+   "district": "",
+   "lat": 23.70439,
+   "lng": 109.9034,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "laibin_04",
+   "name": "广西大瑶山国家级自然保护区",
+   "district": "",
+   "lat": 23.97996,
+   "lng": 110.12682,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "laibin_05",
+   "name": "古象温泉度假村",
+   "district": "",
+   "lat": 23.98184,
+   "lng": 109.7627,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 98,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "laibin_06",
+   "name": "金秀银杉森林公园",
+   "district": "",
+   "lat": 24.17342,
+   "lng": 110.25483,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 48,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "laibin_07",
+   "name": "金秀圣堂湖景区",
+   "district": "",
+   "lat": 24.02756,
+   "lng": 110.04234,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.0,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "laibin_08",
+   "name": "木达木弄景区",
+   "district": "",
+   "lat": 24.10042,
+   "lng": 110.12029,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 3.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "laibin_09",
+   "name": "良江游泳场",
+   "district": "",
+   "lat": 23.65131,
+   "lng": 109.19621,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   23.75,
+   109.22
+  ],
+  "老城区": [
+   23.762,
+   109.21
+  ],
+  "近郊": [
+   23.72,
+   109.25
+  ]
+ }
+}

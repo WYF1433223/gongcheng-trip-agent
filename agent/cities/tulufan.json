@@ -1,0 +1,240 @@
+{
+ "name": "吐鲁番",
+ "center": [
+  42.95,
+  89.19
+ ],
+ "far_ids": [
+  "tulufan_00",
+  "tulufan_03",
+  "tulufan_05",
+  "tulufan_06",
+  "tulufan_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "tulufan_00",
+   "name": "库木塔格沙漠景区",
+   "district": "",
+   "lat": 42.6957,
+   "lng": 90.25226,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 30,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tulufan_01",
+   "name": "交河故城",
+   "district": "",
+   "lat": 42.96001,
+   "lng": 89.07192,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 70,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tulufan_02",
+   "name": "坎儿井乐园",
+   "district": "",
+   "lat": 42.98797,
+   "lng": 89.13779,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "tulufan_03",
+   "name": "吐峪沟石窟",
+   "district": "",
+   "lat": 42.86638,
+   "lng": 89.70305,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tulufan_04",
+   "name": "交河驿·坎儿井源",
+   "district": "",
+   "lat": 43.00153,
+   "lng": 89.12851,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tulufan_05",
+   "name": "吐峪沟",
+   "district": "",
+   "lat": 42.88368,
+   "lng": 89.71375,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 30,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "tulufan_06",
+   "name": "吐峪沟麻扎村",
+   "district": "",
+   "lat": 42.86238,
+   "lng": 89.69952,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "tulufan_07",
+   "name": "火焰山景区",
+   "district": "",
+   "lat": 42.92488,
+   "lng": 89.51992,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tulufan_08",
+   "name": "葡萄沟",
+   "district": "",
+   "lat": 42.99805,
+   "lng": 89.25503,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "tulufan_09",
+   "name": "坎儿井民俗园",
+   "district": "",
+   "lat": 42.95886,
+   "lng": 89.15501,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   42.95,
+   89.19
+  ],
+  "老城区": [
+   42.962,
+   89.18
+  ],
+  "近郊": [
+   42.92,
+   89.22
+  ]
+ }
+}

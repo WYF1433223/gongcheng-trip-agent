@@ -1,0 +1,242 @@
+{
+ "name": "阜新",
+ "center": [
+  42.02,
+  121.67
+ ],
+ "far_ids": [
+  "fuxin_05",
+  "fuxin_06"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "fuxin_00",
+   "name": "阜新市博物馆",
+   "district": "",
+   "lat": 42.03265,
+   "lng": 121.67987,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "fuxin_01",
+   "name": "海棠山风景区",
+   "district": "",
+   "lat": 41.92702,
+   "lng": 121.82893,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 45,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fuxin_02",
+   "name": "瑞应寺",
+   "district": "",
+   "lat": 41.94397,
+   "lng": 121.45311,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fuxin_03",
+   "name": "阜新市玛瑙文化博物馆",
+   "district": "",
+   "lat": 42.01924,
+   "lng": 121.69015,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 1,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "fuxin_04",
+   "name": "黄家沟滑雪场",
+   "district": "",
+   "lat": 42.0692,
+   "lng": 121.61764,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 59,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "fuxin_05",
+   "name": "德力格尔草原风景区",
+   "district": "",
+   "lat": 42.5885,
+   "lng": 122.64032,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fuxin_06",
+   "name": "乌兰木图山风景区",
+   "district": "",
+   "lat": 42.31548,
+   "lng": 121.46532,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 38,
+   "rating": 4.1,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fuxin_07",
+   "name": "宝地温泉小镇",
+   "district": "",
+   "lat": 41.93867,
+   "lng": 121.55313,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 65,
+   "rating": 4.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fuxin_08",
+   "name": "宝地斯帕温泉度假区",
+   "district": "",
+   "lat": 41.93868,
+   "lng": 121.55313,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 3.0,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "fuxin_09",
+   "name": "海州露天矿国家矿山公园",
+   "district": "",
+   "lat": 42.00861,
+   "lng": 121.69419,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   42.02,
+   121.67
+  ],
+  "老城区": [
+   42.032,
+   121.66
+  ],
+  "近郊": [
+   41.99,
+   121.7
+  ]
+ }
+}

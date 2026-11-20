@@ -1,0 +1,245 @@
+{
+ "name": "临夏",
+ "center": [
+  35.6,
+  103.21
+ ],
+ "far_ids": [
+  "linxia_00",
+  "linxia_01",
+  "linxia_02",
+  "linxia_03",
+  "linxia_05",
+  "linxia_06",
+  "linxia_07",
+  "linxia_08",
+  "linxia_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "linxia_00",
+   "name": "耳子屲梁景区",
+   "district": "",
+   "lat": 35.37155,
+   "lng": 103.13444,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "linxia_01",
+   "name": "黄河三峡",
+   "district": "",
+   "lat": 35.85041,
+   "lng": 103.19859,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linxia_02",
+   "name": "刘家峡大桥",
+   "district": "",
+   "lat": 35.85088,
+   "lng": 103.27594,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linxia_03",
+   "name": "刘家峡",
+   "district": "",
+   "lat": 35.93802,
+   "lng": 103.35224,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linxia_04",
+   "name": "八坊十三巷",
+   "district": "",
+   "lat": 35.59755,
+   "lng": 103.21668,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linxia_05",
+   "name": "炳灵寺石窟",
+   "district": "",
+   "lat": 35.81291,
+   "lng": 103.05241,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 50,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linxia_06",
+   "name": "竹子沟景区",
+   "district": "",
+   "lat": 35.2459,
+   "lng": 103.51601,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linxia_07",
+   "name": "炳灵寺世界文化遗产旅游区",
+   "district": "",
+   "lat": 35.83277,
+   "lng": 103.18119,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linxia_08",
+   "name": "刘家峡水库-观景台",
+   "district": "",
+   "lat": 35.85125,
+   "lng": 103.27087,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linxia_09",
+   "name": "黄洮交汇观景平台",
+   "district": "",
+   "lat": 35.93467,
+   "lng": 103.34786,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 3.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   35.6,
+   103.21
+  ],
+  "老城区": [
+   35.612,
+   103.2
+  ],
+  "近郊": [
+   35.57,
+   103.24
+  ]
+ }
+}

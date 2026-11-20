@@ -1,0 +1,248 @@
+{
+ "name": "营口",
+ "center": [
+  40.67,
+  122.24
+ ],
+ "far_ids": [
+  "yingkou_00",
+  "yingkou_01",
+  "yingkou_02",
+  "yingkou_03",
+  "yingkou_04",
+  "yingkou_06",
+  "yingkou_07",
+  "yingkou_08",
+  "yingkou_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "yingkou_00",
+   "name": "营口熊岳天沐温泉",
+   "district": "熊岳度假区",
+   "lat": 40.17047,
+   "lng": 122.17263,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 59,
+   "rating": 4.9,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yingkou_01",
+   "name": "白沙湾黄金海岸",
+   "district": "白沙湾",
+   "lat": 40.13527,
+   "lng": 122.01128,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yingkou_02",
+   "name": "思拉堡温泉小镇",
+   "district": "温泉小镇",
+   "lat": 40.24971,
+   "lng": 122.25451,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 48,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yingkou_03",
+   "name": "营口虹溪谷温泉",
+   "district": "温泉小镇",
+   "lat": 40.24901,
+   "lng": 122.25475,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 48,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yingkou_04",
+   "name": "望儿山温泉水乐园",
+   "district": "熊岳度假区",
+   "lat": 40.1913,
+   "lng": 122.16938,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 78,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yingkou_05",
+   "name": "辽河老街",
+   "district": "楞严寺公园商圈",
+   "lat": 40.68885,
+   "lng": 122.21501,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yingkou_06",
+   "name": "望儿山",
+   "district": "熊岳度假区",
+   "lat": 40.19439,
+   "lng": 122.17968,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 35,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yingkou_07",
+   "name": "辽宁团山国家级海洋公园",
+   "district": "北海新区",
+   "lat": 40.41973,
+   "lng": 122.21237,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 28,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yingkou_08",
+   "name": "山海广场",
+   "district": "山海广场",
+   "lat": 40.22654,
+   "lng": 122.08975,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yingkou_09",
+   "name": "仙人岛风景区",
+   "district": "白沙湾",
+   "lat": 40.19028,
+   "lng": 122.00114,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 3.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   40.67,
+   122.24
+  ],
+  "老城区": [
+   40.682,
+   122.23
+  ],
+  "近郊": [
+   40.64,
+   122.27
+  ]
+ }
+}

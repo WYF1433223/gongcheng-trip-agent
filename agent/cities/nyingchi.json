@@ -1,0 +1,246 @@
+{
+ "name": "林芝",
+ "center": [
+  29.65,
+  94.36
+ ],
+ "far_ids": [
+  "nyingchi_00",
+  "nyingchi_01",
+  "nyingchi_02",
+  "nyingchi_03",
+  "nyingchi_04",
+  "nyingchi_05",
+  "nyingchi_06",
+  "nyingchi_07",
+  "nyingchi_08",
+  "nyingchi_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "nyingchi_00",
+   "name": "雅鲁藏布大峡谷",
+   "district": "",
+   "lat": 29.59969,
+   "lng": 94.87453,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nyingchi_01",
+   "name": "巴松措",
+   "district": "",
+   "lat": 30.02291,
+   "lng": 93.9802,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nyingchi_02",
+   "name": "鲁朗林海",
+   "district": "",
+   "lat": 29.64017,
+   "lng": 94.68032,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "nyingchi_03",
+   "name": "卡定沟景区",
+   "district": "",
+   "lat": 29.7687,
+   "lng": 94.18127,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "nyingchi_04",
+   "name": "色季拉山",
+   "district": "",
+   "lat": 29.62731,
+   "lng": 94.65789,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nyingchi_05",
+   "name": "南伊沟",
+   "district": "",
+   "lat": 29.13432,
+   "lng": 94.22103,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "nyingchi_06",
+   "name": "索松村",
+   "district": "",
+   "lat": 29.57941,
+   "lng": 94.89853,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nyingchi_07",
+   "name": "佛掌沙丘",
+   "district": "",
+   "lat": 29.4721,
+   "lng": 94.73876,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "nyingchi_08",
+   "name": "南迦巴瓦峰",
+   "district": "",
+   "lat": 29.63485,
+   "lng": 95.06238,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nyingchi_09",
+   "name": "果果塘大拐弯",
+   "district": "",
+   "lat": 29.32595,
+   "lng": 95.28823,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   29.65,
+   94.36
+  ],
+  "老城区": [
+   29.662,
+   94.35
+  ],
+  "近郊": [
+   29.62,
+   94.39
+  ]
+ }
+}

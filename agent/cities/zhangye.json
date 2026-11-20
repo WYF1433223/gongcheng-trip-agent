@@ -1,0 +1,245 @@
+{
+ "name": "张掖",
+ "center": [
+  38.93,
+  100.45
+ ],
+ "far_ids": [
+  "zhangye_00",
+  "zhangye_01",
+  "zhangye_03",
+  "zhangye_04",
+  "zhangye_05",
+  "zhangye_06",
+  "zhangye_07",
+  "zhangye_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "zhangye_00",
+   "name": "阿兰拉格达(丹霞夜游)",
+   "district": "",
+   "lat": 38.96082,
+   "lng": 100.07574,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangye_01",
+   "name": "张掖七彩丹霞旅游景区",
+   "district": "",
+   "lat": 38.95616,
+   "lng": 100.08478,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 73,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangye_02",
+   "name": "张掖大佛寺",
+   "district": "大佛寺",
+   "lat": 38.93681,
+   "lng": 100.4626,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 20,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangye_03",
+   "name": "平山湖大峡谷",
+   "district": "",
+   "lat": 39.12612,
+   "lng": 100.8002,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 80,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangye_04",
+   "name": "马蹄石窟群旅游区",
+   "district": "",
+   "lat": 38.49043,
+   "lng": 100.42231,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 32,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangye_05",
+   "name": "冰沟丹霞景区",
+   "district": "",
+   "lat": 39.00062,
+   "lng": 99.91099,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangye_06",
+   "name": "张掖外星谷景区",
+   "district": "",
+   "lat": 38.96775,
+   "lng": 99.93296,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangye_07",
+   "name": "山丹军马场",
+   "district": "",
+   "lat": 38.06926,
+   "lng": 101.3711,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 35,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangye_08",
+   "name": "巴尔斯雪山",
+   "district": "",
+   "lat": 39.00996,
+   "lng": 99.42364,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 65,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangye_09",
+   "name": "张掖看丹霞地貌",
+   "district": "大佛寺",
+   "lat": 38.93129,
+   "lng": 100.4565,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   38.93,
+   100.45
+  ],
+  "老城区": [
+   38.942,
+   100.44
+  ],
+  "近郊": [
+   38.9,
+   100.48
+  ]
+ }
+}

@@ -1,0 +1,242 @@
+{
+ "name": "漯河",
+ "center": [
+  33.58,
+  114.02
+ ],
+ "far_ids": [
+  "luohe_00",
+  "luohe_02",
+  "luohe_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "luohe_00",
+   "name": "贾湖遗址博物馆",
+   "district": "",
+   "lat": 33.62266,
+   "lng": 113.67749,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "luohe_01",
+   "name": "沙澧河风景区",
+   "district": "",
+   "lat": 33.58608,
+   "lng": 114.03005,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "luohe_02",
+   "name": "龙门石窟",
+   "district": "高铁龙门站",
+   "lat": 34.55586,
+   "lng": 112.48534,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 90,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "luohe_03",
+   "name": "许慎文化园",
+   "district": "",
+   "lat": 33.61659,
+   "lng": 114.10621,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "luohe_04",
+   "name": "神州鸟园",
+   "district": "",
+   "lat": 33.55359,
+   "lng": 114.02623,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 39,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "luohe_05",
+   "name": "漯河野生动物园",
+   "district": "",
+   "lat": 33.72976,
+   "lng": 113.97706,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 59,
+   "rating": 4.5,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "luohe_06",
+   "name": "漯湾古镇",
+   "district": "",
+   "lat": 33.55896,
+   "lng": 113.9612,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "luohe_07",
+   "name": "小商桥",
+   "district": "",
+   "lat": 33.72305,
+   "lng": 113.97638,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "luohe_08",
+   "name": "河上街古镇",
+   "district": "",
+   "lat": 33.55389,
+   "lng": 114.02904,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "luohe_09",
+   "name": "南街村",
+   "district": "",
+   "lat": 33.8084,
+   "lng": 113.96402,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 39,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   33.58,
+   114.02
+  ],
+  "老城区": [
+   33.592,
+   114.01
+  ],
+  "近郊": [
+   33.55,
+   114.05
+  ]
+ }
+}

@@ -1,0 +1,243 @@
+{
+ "name": "佛山",
+ "center": [
+  23.02,
+  113.12
+ ],
+ "far_ids": [
+  "foshan_00",
+  "foshan_01",
+  "foshan_05",
+  "foshan_07",
+  "foshan_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "foshan_00",
+   "name": "长隆野生动物世界",
+   "district": "番禺长隆",
+   "lat": 23.00723,
+   "lng": 113.32219,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 300,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "foshan_01",
+   "name": "长鹿旅游休博园",
+   "district": "长鹿旅游休博园",
+   "lat": 22.88296,
+   "lng": 113.29457,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 128,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "foshan_02",
+   "name": "广东千古情",
+   "district": "西樵山",
+   "lat": 22.94749,
+   "lng": 112.96008,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 159,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "foshan_03",
+   "name": "佛山岭南新天地",
+   "district": "祖庙",
+   "lat": 23.0357,
+   "lng": 113.12282,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "foshan_04",
+   "name": "佛山市祖庙博物馆",
+   "district": "祖庙",
+   "lat": 23.03556,
+   "lng": 113.11967,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 20,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "foshan_05",
+   "name": "盈香心动乐园",
+   "district": "盈香心动乐园",
+   "lat": 22.94433,
+   "lng": 112.77318,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 129,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "foshan_06",
+   "name": "西樵山风景名胜区",
+   "district": "西樵山",
+   "lat": 22.93021,
+   "lng": 112.98337,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 38,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "foshan_07",
+   "name": "顺德欢乐海岸PLUS",
+   "district": "清晖园度假区",
+   "lat": 22.82191,
+   "lng": 113.31145,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 80,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "foshan_08",
+   "name": "南风古灶",
+   "district": "祖庙",
+   "lat": 23.01116,
+   "lng": 113.08571,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 25,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "foshan_09",
+   "name": "清晖园博物馆",
+   "district": "清晖园度假区",
+   "lat": 22.84176,
+   "lng": 113.26161,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 26,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   23.02,
+   113.12
+  ],
+  "老城区": [
+   23.032,
+   113.11
+  ],
+  "近郊": [
+   22.99,
+   113.15
+  ]
+ }
+}

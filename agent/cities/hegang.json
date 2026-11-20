@@ -1,0 +1,248 @@
+{
+ "name": "鹤岗",
+ "center": [
+  47.35,
+  130.3
+ ],
+ "far_ids": [
+  "hegang_00",
+  "hegang_01",
+  "hegang_03",
+  "hegang_06",
+  "hegang_08",
+  "hegang_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "hegang_00",
+   "name": "龙江三峡国家森林公园",
+   "district": "",
+   "lat": 47.91751,
+   "lng": 130.88912,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hegang_01",
+   "name": "龙江三峡",
+   "district": "",
+   "lat": 48.1339,
+   "lng": 130.67097,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hegang_02",
+   "name": "谕霖射击场",
+   "district": "",
+   "lat": 47.35372,
+   "lng": 130.14653,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "hegang_03",
+   "name": "名山风景区",
+   "district": "",
+   "lat": 47.68227,
+   "lng": 131.10399,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hegang_04",
+   "name": "鹤岗市博物馆",
+   "district": "",
+   "lat": 47.28271,
+   "lng": 130.25522,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "hegang_05",
+   "name": "普陀山宗教文化风景区-北普陀寺",
+   "district": "",
+   "lat": 47.29293,
+   "lng": 130.2575,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hegang_06",
+   "name": "鹤岗国家级森林公园",
+   "district": "",
+   "lat": 47.53823,
+   "lng": 130.32248,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hegang_07",
+   "name": "鹤岗国家矿山公园",
+   "district": "",
+   "lat": 47.37418,
+   "lng": 130.33545,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hegang_08",
+   "name": "黄金古镇",
+   "district": "",
+   "lat": 48.13592,
+   "lng": 130.66875,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 3.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hegang_09",
+   "name": "小兴安岭原始森林公园",
+   "district": "",
+   "lat": 48.25594,
+   "lng": 129.80474,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   47.35,
+   130.3
+  ],
+  "老城区": [
+   47.362,
+   130.29
+  ],
+  "近郊": [
+   47.32,
+   130.33
+  ]
+ }
+}

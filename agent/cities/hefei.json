@@ -1,0 +1,225 @@
+{
+ "name": "合肥",
+ "center": [
+  31.82,
+  117.23
+ ],
+ "far_ids": [
+  "hefei_01",
+  "hefei_06"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "hefei_00",
+   "name": "李鸿章故居",
+   "district": "淮河路步行街",
+   "lat": 31.87021,
+   "lng": 117.29787,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "hefei_01",
+   "name": "三河古镇",
+   "district": "",
+   "lat": 31.51789,
+   "lng": 117.25109,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hefei_02",
+   "name": "包公园",
+   "district": "淮河路步行街",
+   "lat": 31.86303,
+   "lng": 117.30149,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hefei_03",
+   "name": "安徽博物院(新馆)",
+   "district": "奥体中心",
+   "lat": 31.80827,
+   "lng": 117.22704,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "hefei_04",
+   "name": "逍遥津公园",
+   "district": "淮河路步行街",
+   "lat": 31.87469,
+   "lng": 117.30156,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hefei_05",
+   "name": "合肥海洋世界",
+   "district": "合肥经开区",
+   "lat": 31.78693,
+   "lng": 117.22173,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 140,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "hefei_06",
+   "name": "姥山岛",
+   "district": "",
+   "lat": 31.57003,
+   "lng": 117.45178,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 60,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hefei_07",
+   "name": "合肥野生动物园",
+   "district": "合肥高新区",
+   "lat": 31.84092,
+   "lng": 117.1746,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 35,
+   "rating": 4.3,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "hefei_08",
+   "name": "合肥融创乐园",
+   "district": "融创乐园",
+   "lat": 31.70248,
+   "lng": 117.31162,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 168,
+   "rating": 4.2,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   31.82,
+   117.23
+  ],
+  "老城区": [
+   31.832,
+   117.22
+  ],
+  "近郊": [
+   31.79,
+   117.26
+  ]
+ }
+}

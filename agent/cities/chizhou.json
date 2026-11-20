@@ -1,0 +1,244 @@
+{
+ "name": "池州",
+ "center": [
+  30.66,
+  117.49
+ ],
+ "far_ids": [
+  "chizhou_00",
+  "chizhou_01",
+  "chizhou_02",
+  "chizhou_03",
+  "chizhou_05",
+  "chizhou_06",
+  "chizhou_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "chizhou_00",
+   "name": "九华山风景区",
+   "district": "",
+   "lat": 30.48321,
+   "lng": 117.83012,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 140,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chizhou_01",
+   "name": "石台牯牛降景区",
+   "district": "",
+   "lat": 30.09058,
+   "lng": 117.49523,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "chizhou_02",
+   "name": "九华山大愿文化园",
+   "district": "九华山下",
+   "lat": 30.54327,
+   "lng": 117.8063,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chizhou_03",
+   "name": "九子岩景区",
+   "district": "九华山下",
+   "lat": 30.53392,
+   "lng": 117.85653,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 70,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "chizhou_04",
+   "name": "齐山平天湖景区",
+   "district": "",
+   "lat": 30.66055,
+   "lng": 117.5412,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chizhou_05",
+   "name": "蓬莱仙洞",
+   "district": "",
+   "lat": 30.23241,
+   "lng": 117.55239,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 60,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chizhou_06",
+   "name": "仙寓山景区",
+   "district": "",
+   "lat": 30.04984,
+   "lng": 117.36707,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 65,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chizhou_07",
+   "name": "醉山野景区",
+   "district": "",
+   "lat": 30.25771,
+   "lng": 117.5228,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 78,
+   "rating": 4.1,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chizhou_08",
+   "name": "九华天池·傩仙镇",
+   "district": "",
+   "lat": 30.6353,
+   "lng": 117.62365,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 3.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chizhou_09",
+   "name": "杏花村风景区",
+   "district": "",
+   "lat": 30.64968,
+   "lng": 117.47956,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 65,
+   "rating": 3.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   30.66,
+   117.49
+  ],
+  "老城区": [
+   30.672,
+   117.48
+  ],
+  "近郊": [
+   30.63,
+   117.52
+  ]
+ }
+}

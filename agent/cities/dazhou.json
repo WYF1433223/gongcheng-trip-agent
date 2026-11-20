@@ -1,0 +1,228 @@
+{
+ "name": "达州",
+ "center": [
+  31.21,
+  107.47
+ ],
+ "far_ids": [
+  "dazhou_00",
+  "dazhou_01",
+  "dazhou_02",
+  "dazhou_03",
+  "dazhou_05",
+  "dazhou_06",
+  "dazhou_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "dazhou_00",
+   "name": "巴山大峡谷景区-桃溪谷景区",
+   "district": "",
+   "lat": 31.64762,
+   "lng": 108.36556,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dazhou_01",
+   "name": "巴山大峡谷",
+   "district": "",
+   "lat": 31.66936,
+   "lng": 108.30428,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 88,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dazhou_02",
+   "name": "八台山",
+   "district": "",
+   "lat": 31.92565,
+   "lng": 108.27651,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 120,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dazhou_03",
+   "name": "真佛山景区",
+   "district": "",
+   "lat": 31.04793,
+   "lng": 107.60315,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dazhou_04",
+   "name": "莲花湖湿地公园",
+   "district": "",
+   "lat": 31.2622,
+   "lng": 107.46622,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dazhou_05",
+   "name": "五峰山国家森林公园",
+   "district": "",
+   "lat": 30.79445,
+   "lng": 107.35987,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 38,
+   "rating": 4.1,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dazhou_06",
+   "name": "賨人谷景区",
+   "district": "",
+   "lat": 30.8626,
+   "lng": 107.09727,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 19,
+   "rating": 4.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dazhou_07",
+   "name": "梦里巴国·三里古街",
+   "district": "城市中心广场",
+   "lat": 31.22562,
+   "lng": 107.53054,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 2.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dazhou_08",
+   "name": "达州赏红叶",
+   "district": "",
+   "lat": 31.68838,
+   "lng": 108.48534,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   31.21,
+   107.47
+  ],
+  "老城区": [
+   31.222,
+   107.46
+  ],
+  "近郊": [
+   31.18,
+   107.5
+  ]
+ }
+}

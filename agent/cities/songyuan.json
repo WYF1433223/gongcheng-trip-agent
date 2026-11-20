@@ -1,0 +1,244 @@
+{
+ "name": "松原",
+ "center": [
+  45.14,
+  124.83
+ ],
+ "far_ids": [
+  "songyuan_02",
+  "songyuan_03",
+  "songyuan_05",
+  "songyuan_06",
+  "songyuan_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "songyuan_00",
+   "name": "龙华寺",
+   "district": "",
+   "lat": 45.15992,
+   "lng": 124.90902,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "songyuan_01",
+   "name": "松原市博物馆",
+   "district": "奥林匹克文化公园",
+   "lat": 45.1438,
+   "lng": 124.84465,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "songyuan_02",
+   "name": "东北虎林园",
+   "district": "融创乐园",
+   "lat": 45.82383,
+   "lng": 126.60685,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 90,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "songyuan_03",
+   "name": "查干湖景区",
+   "district": "",
+   "lat": 45.21774,
+   "lng": 124.43199,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "songyuan_04",
+   "name": "松原威尼斯水上乐园",
+   "district": "",
+   "lat": 45.14491,
+   "lng": 124.91581,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "songyuan_05",
+   "name": "哈尔滨冰雪大世界",
+   "district": "融创乐园",
+   "lat": 45.78295,
+   "lng": 126.569,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 263,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "songyuan_06",
+   "name": "查干湖北湖渔场",
+   "district": "",
+   "lat": 45.30684,
+   "lng": 124.29612,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "songyuan_07",
+   "name": "成吉思汗文化园",
+   "district": "",
+   "lat": 45.10567,
+   "lng": 124.87346,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "songyuan_08",
+   "name": "郭尔罗斯王府",
+   "district": "",
+   "lat": 45.20554,
+   "lng": 124.43767,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 2.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "songyuan_09",
+   "name": "纳仁汗公园",
+   "district": "",
+   "lat": 45.15278,
+   "lng": 124.84786,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   45.14,
+   124.83
+  ],
+  "老城区": [
+   45.152,
+   124.82
+  ],
+  "近郊": [
+   45.11,
+   124.86
+  ]
+ }
+}

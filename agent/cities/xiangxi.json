@@ -1,0 +1,245 @@
+{
+ "name": "湘西",
+ "center": [
+  28.31,
+  109.74
+ ],
+ "far_ids": [
+  "xiangxi_03",
+  "xiangxi_04",
+  "xiangxi_05",
+  "xiangxi_07",
+  "xiangxi_08",
+  "xiangxi_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "xiangxi_00",
+   "name": "德夯苗寨",
+   "district": "矮寨奇观旅游区",
+   "lat": 28.34983,
+   "lng": 109.59376,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiangxi_01",
+   "name": "矮寨大桥",
+   "district": "矮寨奇观旅游区",
+   "lat": 28.33167,
+   "lng": 109.61309,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiangxi_02",
+   "name": "矮寨奇观旅游区",
+   "district": "矮寨奇观旅游区",
+   "lat": 28.34531,
+   "lng": 109.59087,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 78,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiangxi_03",
+   "name": "沱江",
+   "district": "",
+   "lat": 27.95533,
+   "lng": 109.60932,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 85,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiangxi_04",
+   "name": "边城茶峒景区",
+   "district": "边城茶峒",
+   "lat": 28.50689,
+   "lng": 109.28368,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiangxi_05",
+   "name": "芙蓉镇",
+   "district": "芙蓉古镇",
+   "lat": 28.74892,
+   "lng": 109.95279,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 100,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiangxi_06",
+   "name": "德夯大峡谷",
+   "district": "矮寨奇观旅游区",
+   "lat": 28.34954,
+   "lng": 109.58703,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 80,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiangxi_07",
+   "name": "凤凰古城",
+   "district": "",
+   "lat": 27.95442,
+   "lng": 109.61214,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiangxi_08",
+   "name": "凤凰磁浮观光快线",
+   "district": "",
+   "lat": 27.96247,
+   "lng": 109.60488,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiangxi_09",
+   "name": "红石林国家地质公园",
+   "district": "",
+   "lat": 28.76247,
+   "lng": 109.84332,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 80,
+   "rating": 4.1,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   28.31,
+   109.74
+  ],
+  "老城区": [
+   28.322,
+   109.73
+  ],
+  "近郊": [
+   28.28,
+   109.77
+  ]
+ }
+}

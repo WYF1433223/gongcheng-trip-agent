@@ -1,0 +1,245 @@
+{
+ "name": "昌吉",
+ "center": [
+  44.01,
+  87.31
+ ],
+ "far_ids": [
+  "changji_00",
+  "changji_01",
+  "changji_03",
+  "changji_04",
+  "changji_05",
+  "changji_06",
+  "changji_07",
+  "changji_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "changji_00",
+   "name": "S101百里丹霞观景台",
+   "district": "",
+   "lat": 43.82745,
+   "lng": 86.4403,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changji_01",
+   "name": "天山",
+   "district": "",
+   "lat": 43.8747,
+   "lng": 88.1048,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changji_02",
+   "name": "新疆大剧院",
+   "district": "",
+   "lat": 44.00762,
+   "lng": 87.34052,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changji_03",
+   "name": "定海神针",
+   "district": "",
+   "lat": 43.90586,
+   "lng": 88.13692,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "changji_04",
+   "name": "江布拉克",
+   "district": "",
+   "lat": 43.61239,
+   "lng": 89.73728,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 25,
+   "rating": 4.7,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changji_05",
+   "name": "天山天池",
+   "district": "",
+   "lat": 43.91391,
+   "lng": 88.11192,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 105,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changji_06",
+   "name": "五江温泉城",
+   "district": "",
+   "lat": 44.11433,
+   "lng": 88.06698,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 129,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changji_07",
+   "name": "肯斯瓦特蓝湖景区",
+   "district": "",
+   "lat": 43.94887,
+   "lng": 85.98687,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 20,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changji_08",
+   "name": "古尔班通古特沙漠",
+   "district": "",
+   "lat": 44.58848,
+   "lng": 88.12552,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 3.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "changji_09",
+   "name": "《千回西域》演出",
+   "district": "",
+   "lat": 44.00753,
+   "lng": 87.34079,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   44.01,
+   87.31
+  ],
+  "老城区": [
+   44.022,
+   87.3
+  ],
+  "近郊": [
+   43.98,
+   87.34
+  ]
+ }
+}

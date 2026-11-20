@@ -1,0 +1,227 @@
+{
+ "name": "石嘴山",
+ "center": [
+  38.98,
+  106.38
+ ],
+ "far_ids": [
+  "shizuishan_03",
+  "shizuishan_05",
+  "shizuishan_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "shizuishan_00",
+   "name": "沙湖景区-楼兰古城",
+   "district": "",
+   "lat": 38.80432,
+   "lng": 106.35849,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shizuishan_01",
+   "name": "北武当生态旅游区",
+   "district": "",
+   "lat": 39.0519,
+   "lng": 106.35698,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shizuishan_02",
+   "name": "大武口洗煤厂工业遗址公园",
+   "district": "",
+   "lat": 39.03135,
+   "lng": 106.39583,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shizuishan_03",
+   "name": "贺兰山岩画",
+   "district": "",
+   "lat": 38.74794,
+   "lng": 106.0326,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 65,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shizuishan_04",
+   "name": "沙湖生态旅游区",
+   "district": "",
+   "lat": 38.80645,
+   "lng": 106.37064,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shizuishan_05",
+   "name": "宁夏贺兰山国家森林公园",
+   "district": "",
+   "lat": 38.74447,
+   "lng": 105.94681,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 57,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shizuishan_06",
+   "name": "石嘴山市博物馆",
+   "district": "",
+   "lat": 38.99531,
+   "lng": 106.37801,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "shizuishan_07",
+   "name": "星海湖",
+   "district": "",
+   "lat": 39.00037,
+   "lng": 106.42016,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shizuishan_08",
+   "name": "石炭井工业文旅影视小镇",
+   "district": "",
+   "lat": 39.24701,
+   "lng": 106.34775,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   38.98,
+   106.38
+  ],
+  "老城区": [
+   38.992,
+   106.37
+  ],
+  "近郊": [
+   38.95,
+   106.41
+  ]
+ }
+}

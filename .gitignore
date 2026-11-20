@@ -1,0 +1,34 @@
+# 依赖 / 构建产物
+__pycache__/
+*.py[cod]
+*.egg-info/
+.weather_cache.json
+.pytest_cache/
+
+# C#
+bin/
+obj/
+*.user
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.apk
+*.aab
+*.keystore
+*.jks
+*.unityproj
+*.csproj.meta
+
+# 编辑器 / 系统
+.vs/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log

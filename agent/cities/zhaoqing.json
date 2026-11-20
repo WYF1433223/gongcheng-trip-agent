@@ -1,0 +1,224 @@
+{
+ "name": "肇庆",
+ "center": [
+  23.05,
+  112.47
+ ],
+ "far_ids": [
+  "zhaoqing_00",
+  "zhaoqing_07",
+  "zhaoqing_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "zhaoqing_00",
+   "name": "悦城龙母祖庙(龙母庙)",
+   "district": "",
+   "lat": 23.0968,
+   "lng": 112.14056,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 50,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhaoqing_01",
+   "name": "七星岩",
+   "district": "七星岩景区",
+   "lat": 23.08011,
+   "lng": 112.47889,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 70,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhaoqing_02",
+   "name": "星湖旅游景区",
+   "district": "七星岩景区",
+   "lat": 23.08166,
+   "lng": 112.47628,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 70,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhaoqing_03",
+   "name": "星湖湿地公园",
+   "district": "七星岩景区",
+   "lat": 23.08202,
+   "lng": 112.48408,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhaoqing_04",
+   "name": "鼎湖山",
+   "district": "鼎湖山景区",
+   "lat": 23.17389,
+   "lng": 112.54482,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 70,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhaoqing_05",
+   "name": "紫云谷",
+   "district": "",
+   "lat": 23.13416,
+   "lng": 112.59406,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhaoqing_06",
+   "name": "肇庆古城墙(宋城一路)",
+   "district": "七星岩景区",
+   "lat": 23.05509,
+   "lng": 112.4679,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhaoqing_07",
+   "name": "八卦村景区",
+   "district": "",
+   "lat": 22.94429,
+   "lng": 112.64557,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhaoqing_08",
+   "name": "肇庆 · 汤宝如 时光·印记 巡回音乐会-肇庆站",
+   "district": "",
+   "lat": 23.21534,
+   "lng": 112.61528,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 180,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   23.05,
+   112.47
+  ],
+  "老城区": [
+   23.062,
+   112.46
+  ],
+  "近郊": [
+   23.02,
+   112.5
+  ]
+ }
+}

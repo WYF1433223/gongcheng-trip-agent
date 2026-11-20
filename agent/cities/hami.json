@@ -1,0 +1,248 @@
+{
+ "name": "哈密",
+ "center": [
+  42.83,
+  93.51
+ ],
+ "far_ids": [
+  "hami_00",
+  "hami_01",
+  "hami_02",
+  "hami_03",
+  "hami_04",
+  "hami_06",
+  "hami_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "hami_00",
+   "name": "大海道",
+   "district": "",
+   "lat": 42.85346,
+   "lng": 92.77917,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 45,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hami_01",
+   "name": "巴里坤草原",
+   "district": "",
+   "lat": 43.62468,
+   "lng": 93.0117,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hami_02",
+   "name": "伊吾胡杨景区",
+   "district": "",
+   "lat": 43.69661,
+   "lng": 95.18693,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 45,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hami_03",
+   "name": "巴里坤湖风景区",
+   "district": "",
+   "lat": 43.68025,
+   "lng": 92.7984,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hami_04",
+   "name": "幻彩湖景区",
+   "district": "",
+   "lat": 43.40105,
+   "lng": 94.22779,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hami_05",
+   "name": "哈密博物馆",
+   "district": "",
+   "lat": 42.82078,
+   "lng": 93.49582,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "hami_06",
+   "name": "鸣沙山",
+   "district": "",
+   "lat": 43.42331,
+   "lng": 93.69668,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hami_07",
+   "name": "哈密东天山景区",
+   "district": "",
+   "lat": 43.3845,
+   "lng": 93.74809,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hami_08",
+   "name": "阿勒屯古街广场",
+   "district": "",
+   "lat": 42.81882,
+   "lng": 93.4967,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hami_09",
+   "name": "回王府",
+   "district": "",
+   "lat": 42.81922,
+   "lng": 93.49313,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 35,
+   "rating": 3.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   42.83,
+   93.51
+  ],
+  "老城区": [
+   42.842,
+   93.5
+  ],
+  "近郊": [
+   42.8,
+   93.54
+  ]
+ }
+}

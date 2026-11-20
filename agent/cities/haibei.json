@@ -1,0 +1,251 @@
+{
+ "name": "海北",
+ "center": [
+  36.9,
+  100.99
+ ],
+ "far_ids": [
+  "haibei_00",
+  "haibei_01",
+  "haibei_02",
+  "haibei_03",
+  "haibei_04",
+  "haibei_06",
+  "haibei_07",
+  "haibei_08",
+  "haibei_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "haibei_00",
+   "name": "卓尔山",
+   "district": "",
+   "lat": 38.18828,
+   "lng": 100.27395,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haibei_01",
+   "name": "青海湖圣泉湾",
+   "district": "",
+   "lat": 37.20381,
+   "lng": 99.83871,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haibei_02",
+   "name": "青海湖景区",
+   "district": "",
+   "lat": 36.5843,
+   "lng": 100.50298,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 50,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haibei_03",
+   "name": "门源百里油菜花海",
+   "district": "",
+   "lat": 37.48278,
+   "lng": 101.44705,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haibei_04",
+   "name": "祁连山草原",
+   "district": "",
+   "lat": 37.96991,
+   "lng": 100.9497,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haibei_05",
+   "name": "金银滩草原",
+   "district": "",
+   "lat": 36.99289,
+   "lng": 100.861,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haibei_06",
+   "name": "祁连山·岗什卡雪峰景区",
+   "district": "",
+   "lat": 37.67627,
+   "lng": 101.45062,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haibei_07",
+   "name": "青海湖仙女湾",
+   "district": "",
+   "lat": 37.20285,
+   "lng": 100.12318,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 50,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haibei_08",
+   "name": "冰沟林海",
+   "district": "",
+   "lat": 38.13004,
+   "lng": 100.19701,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 3.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "haibei_09",
+   "name": "祁连山大草原",
+   "district": "",
+   "lat": 37.65496,
+   "lng": 101.38873,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   36.9,
+   100.99
+  ],
+  "老城区": [
+   36.912,
+   100.98
+  ],
+  "近郊": [
+   36.87,
+   101.02
+  ]
+ }
+}

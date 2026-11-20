@@ -1,0 +1,244 @@
+{
+ "name": "榆林",
+ "center": [
+  38.29,
+  109.73
+ ],
+ "far_ids": [
+  "yulin_sn_00",
+  "yulin_sn_01",
+  "yulin_sn_03",
+  "yulin_sn_06",
+  "yulin_sn_07",
+  "yulin_sn_08",
+  "yulin_sn_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "yulin_sn_00",
+   "name": "二郎山",
+   "district": "",
+   "lat": 38.81789,
+   "lng": 110.50235,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 35,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yulin_sn_01",
+   "name": "石峁遗址",
+   "district": "",
+   "lat": 38.57088,
+   "lng": 110.32014,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 48,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yulin_sn_02",
+   "name": "榆林老街",
+   "district": "榆林老城",
+   "lat": 38.29786,
+   "lng": 109.76132,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yulin_sn_03",
+   "name": "陕西波浪谷景区",
+   "district": "",
+   "lat": 37.52292,
+   "lng": 109.01872,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 85,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yulin_sn_04",
+   "name": "镇北台长城景区",
+   "district": "榆林老城",
+   "lat": 38.34374,
+   "lng": 109.73956,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yulin_sn_05",
+   "name": "红石峡景区",
+   "district": "榆林老城",
+   "lat": 38.3419,
+   "lng": 109.72922,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yulin_sn_06",
+   "name": "白云山",
+   "district": "",
+   "lat": 38.00937,
+   "lng": 110.51452,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 58,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yulin_sn_07",
+   "name": "陕西红碱淖风景区",
+   "district": "",
+   "lat": 39.10028,
+   "lng": 109.89901,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yulin_sn_08",
+   "name": "统万城国家考古遗址公园",
+   "district": "",
+   "lat": 37.99459,
+   "lng": 108.85572,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yulin_sn_09",
+   "name": "乔家大院",
+   "district": "",
+   "lat": 39.12404,
+   "lng": 110.44486,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 3.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   38.29,
+   109.73
+  ],
+  "老城区": [
+   38.302,
+   109.72
+  ],
+  "近郊": [
+   38.26,
+   109.76
+  ]
+ }
+}

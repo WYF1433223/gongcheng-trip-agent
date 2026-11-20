@@ -1,0 +1,248 @@
+{
+ "name": "白山",
+ "center": [
+  41.94,
+  126.42
+ ],
+ "far_ids": [
+  "baishan_00",
+  "baishan_01",
+  "baishan_02",
+  "baishan_03",
+  "baishan_04",
+  "baishan_05",
+  "baishan_06",
+  "baishan_07",
+  "baishan_08",
+  "baishan_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "baishan_00",
+   "name": "长白山雾凇漂流风景区",
+   "district": "",
+   "lat": 42.06198,
+   "lng": 127.67244,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baishan_01",
+   "name": "露水河国家森林公园",
+   "district": "",
+   "lat": 42.55412,
+   "lng": 128.01082,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baishan_02",
+   "name": "长白山ClubMed地中海温泉",
+   "district": "华美胜地度假区",
+   "lat": 41.97485,
+   "lng": 127.5308,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 178,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baishan_03",
+   "name": "长白山景区",
+   "district": "长白山高铁站",
+   "lat": 42.48456,
+   "lng": 128.19598,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 190,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baishan_04",
+   "name": "长白山万达国际度假区",
+   "district": "长白山国际度假区",
+   "lat": 42.10963,
+   "lng": 127.51423,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "baishan_05",
+   "name": "长白山西景区",
+   "district": "",
+   "lat": 42.04227,
+   "lng": 127.81986,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 190,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baishan_06",
+   "name": "万达长白山国际滑雪场",
+   "district": "长白山国际度假区",
+   "lat": 42.11157,
+   "lng": 127.51137,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baishan_07",
+   "name": "长白山原始生态第一漂",
+   "district": "",
+   "lat": 42.05886,
+   "lng": 127.72152,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 128,
+   "rating": 4.1,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baishan_08",
+   "name": "汉拿山温泉",
+   "district": "长白山国际度假区",
+   "lat": 42.1127,
+   "lng": 127.52077,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 179,
+   "rating": 3.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baishan_09",
+   "name": "长白山华美胜地旅游度假区(原鲁能胜地)",
+   "district": "华美胜地度假区",
+   "lat": 41.98578,
+   "lng": 127.54348,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 3.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   41.94,
+   126.42
+  ],
+  "老城区": [
+   41.952,
+   126.41
+  ],
+  "近郊": [
+   41.91,
+   126.45
+  ]
+ }
+}

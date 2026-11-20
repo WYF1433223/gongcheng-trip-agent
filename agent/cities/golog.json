@@ -1,0 +1,251 @@
+{
+ "name": "果洛",
+ "center": [
+  34.47,
+  100.24
+ ],
+ "far_ids": [
+  "golog_00",
+  "golog_01",
+  "golog_02",
+  "golog_03",
+  "golog_04",
+  "golog_05",
+  "golog_06",
+  "golog_07",
+  "golog_08",
+  "golog_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "golog_00",
+   "name": "拉加寺",
+   "district": "",
+   "lat": 34.69406,
+   "lng": 100.66241,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "golog_01",
+   "name": "星星海景区",
+   "district": "",
+   "lat": 34.82953,
+   "lng": 98.11224,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "golog_02",
+   "name": "青海省三江源玛多国家公园",
+   "district": "",
+   "lat": 34.89725,
+   "lng": 98.21414,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "golog_03",
+   "name": "阿尼玛卿山",
+   "district": "",
+   "lat": 34.8034,
+   "lng": 99.46932,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "golog_04",
+   "name": "青海久治年保玉则国家地质公园",
+   "district": "",
+   "lat": 33.20421,
+   "lng": 101.04924,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "golog_05",
+   "name": "冬格措纳湖景区",
+   "district": "",
+   "lat": 35.30188,
+   "lng": 98.56111,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "golog_06",
+   "name": "黄河源景区",
+   "district": "",
+   "lat": 35.10149,
+   "lng": 97.86846,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "golog_07",
+   "name": "扎陵湖",
+   "district": "",
+   "lat": 34.93993,
+   "lng": 97.35253,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "golog_08",
+   "name": "仙女湖景区",
+   "district": "",
+   "lat": 33.42572,
+   "lng": 101.08944,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "golog_09",
+   "name": "年保玉则冰川观景点",
+   "district": "",
+   "lat": 33.43959,
+   "lng": 101.10364,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   34.47,
+   100.24
+  ],
+  "老城区": [
+   34.482,
+   100.23
+  ],
+  "近郊": [
+   34.44,
+   100.27
+  ]
+ }
+}

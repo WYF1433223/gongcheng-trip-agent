@@ -1,0 +1,243 @@
+{
+ "name": "威海",
+ "center": [
+  37.51,
+  122.12
+ ],
+ "far_ids": [
+  "weihai_01",
+  "weihai_03",
+  "weihai_04",
+  "weihai_05",
+  "weihai_06",
+  "weihai_07",
+  "weihai_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "weihai_00",
+   "name": "刘公岛景区",
+   "district": "威海市区",
+   "lat": 37.51029,
+   "lng": 122.19726,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 122,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "weihai_01",
+   "name": "西霞口神雕山野生动物园",
+   "district": "西霞口神雕山野生动物",
+   "lat": 37.42365,
+   "lng": 122.63836,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 155,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "weihai_02",
+   "name": "威海华夏城",
+   "district": "威海站",
+   "lat": 37.43018,
+   "lng": 122.12184,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 80,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "weihai_03",
+   "name": "搁浅货轮布鲁维斯号",
+   "district": "搁浅货轮布鲁维斯号",
+   "lat": 37.40523,
+   "lng": 122.55864,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "weihai_04",
+   "name": "成山头风景名胜区",
+   "district": "西霞口神雕山野生动物",
+   "lat": 37.40862,
+   "lng": 122.70732,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 129,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "weihai_05",
+   "name": "西霞口旅游度假区",
+   "district": "西霞口神雕山野生动物",
+   "lat": 37.41741,
+   "lng": 122.63893,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 129,
+   "rating": 4.5,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "weihai_06",
+   "name": "那香海鸡鸣岛",
+   "district": "",
+   "lat": 37.44841,
+   "lng": 122.49278,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 108,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "weihai_07",
+   "name": "摩天岭索道",
+   "district": "西霞口神雕山野生动物",
+   "lat": 37.41715,
+   "lng": 122.70164,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "weihai_08",
+   "name": "那香海景区",
+   "district": "搁浅货轮布鲁维斯号",
+   "lat": 37.40886,
+   "lng": 122.41996,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "weihai_09",
+   "name": "火炬八街",
+   "district": "火炬八街",
+   "lat": 37.52758,
+   "lng": 122.03851,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 3.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   37.51,
+   122.12
+  ],
+  "老城区": [
+   37.522,
+   122.11
+  ],
+  "近郊": [
+   37.48,
+   122.15
+  ]
+ }
+}

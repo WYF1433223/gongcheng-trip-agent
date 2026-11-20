@@ -1,0 +1,248 @@
+{
+ "name": "甘南",
+ "center": [
+  35.0,
+  102.91
+ ],
+ "far_ids": [
+  "gannan_00",
+  "gannan_01",
+  "gannan_03",
+  "gannan_04",
+  "gannan_05",
+  "gannan_06",
+  "gannan_07",
+  "gannan_08",
+  "gannan_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "gannan_00",
+   "name": "美仁大草原",
+   "district": "",
+   "lat": 35.06321,
+   "lng": 103.228,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "gannan_01",
+   "name": "桑科草原",
+   "district": "",
+   "lat": 35.11285,
+   "lng": 102.44062,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "gannan_02",
+   "name": "安多合作寺院米拉日巴佛阁",
+   "district": "",
+   "lat": 35.01194,
+   "lng": 102.92185,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "gannan_03",
+   "name": "冶力关旅游区",
+   "district": "",
+   "lat": 35.01885,
+   "lng": 103.62827,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 60,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "gannan_04",
+   "name": "拉卜楞寺",
+   "district": "",
+   "lat": 35.199,
+   "lng": 102.51602,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "gannan_05",
+   "name": "大峪沟风景区",
+   "district": "",
+   "lat": 34.36306,
+   "lng": 103.5786,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "gannan_06",
+   "name": "甘加草原",
+   "district": "",
+   "lat": 35.40662,
+   "lng": 102.52348,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "gannan_07",
+   "name": "扎尕那",
+   "district": "",
+   "lat": 34.22703,
+   "lng": 103.16429,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 73,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "gannan_08",
+   "name": "郎木寺景区",
+   "district": "",
+   "lat": 34.09658,
+   "lng": 102.63933,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "gannan_09",
+   "name": "甘加秘境",
+   "district": "",
+   "lat": 35.44693,
+   "lng": 102.57208,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 3.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   35.0,
+   102.91
+  ],
+  "老城区": [
+   35.012,
+   102.9
+  ],
+  "近郊": [
+   34.97,
+   102.94
+  ]
+ }
+}

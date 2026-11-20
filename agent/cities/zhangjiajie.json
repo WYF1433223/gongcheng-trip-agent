@@ -1,0 +1,246 @@
+{
+ "name": "张家界",
+ "center": [
+  29.12,
+  110.48
+ ],
+ "far_ids": [
+  "zhangjiajie_00",
+  "zhangjiajie_01",
+  "zhangjiajie_02",
+  "zhangjiajie_04",
+  "zhangjiajie_05",
+  "zhangjiajie_06",
+  "zhangjiajie_07",
+  "zhangjiajie_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "zhangjiajie_00",
+   "name": "张家界大峡谷景区(玻璃桥)",
+   "district": "张家界国家森林公园",
+   "lat": 29.40184,
+   "lng": 110.70953,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 178,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangjiajie_01",
+   "name": "张家界大峡谷",
+   "district": "张家界国家森林公园",
+   "lat": 29.4154,
+   "lng": 110.70647,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 53,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangjiajie_02",
+   "name": "天子山索道",
+   "district": "张家界国家森林公园",
+   "lat": 29.38979,
+   "lng": 110.51198,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 72,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangjiajie_03",
+   "name": "天门山国家森林公园",
+   "district": "天门山索道",
+   "lat": 29.05426,
+   "lng": 110.49053,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 288,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangjiajie_04",
+   "name": "张家界国家森林公园",
+   "district": "张家界国家森林公园",
+   "lat": 29.36068,
+   "lng": 110.47145,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 239,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangjiajie_05",
+   "name": "黄龙洞景区",
+   "district": "张家界国家森林公园",
+   "lat": 29.374,
+   "lng": 110.62498,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 118,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangjiajie_06",
+   "name": "武陵源",
+   "district": "张家界国家森林公园",
+   "lat": 29.35971,
+   "lng": 110.47615,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 239,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangjiajie_07",
+   "name": "张家界《魅力湘西》演出",
+   "district": "张家界国家森林公园",
+   "lat": 29.35104,
+   "lng": 110.54851,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 168,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangjiajie_08",
+   "name": "百龙天梯",
+   "district": "张家界国家森林公园",
+   "lat": 29.35509,
+   "lng": 110.47408,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 65,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangjiajie_09",
+   "name": "张家界七十二奇楼",
+   "district": "七十二奇楼",
+   "lat": 29.1514,
+   "lng": 110.46181,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 48,
+   "rating": 4.1,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   29.12,
+   110.48
+  ],
+  "老城区": [
+   29.132,
+   110.47
+  ],
+  "近郊": [
+   29.09,
+   110.51
+  ]
+ }
+}

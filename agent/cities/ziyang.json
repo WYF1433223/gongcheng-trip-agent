@@ -1,0 +1,244 @@
+{
+ "name": "资阳",
+ "center": [
+  30.13,
+  104.63
+ ],
+ "far_ids": [
+  "ziyang_00",
+  "ziyang_01",
+  "ziyang_04",
+  "ziyang_05",
+  "ziyang_06",
+  "ziyang_07",
+  "ziyang_08",
+  "ziyang_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "ziyang_00",
+   "name": "圆觉洞摩崖造像风景区",
+   "district": "",
+   "lat": 30.09492,
+   "lng": 105.35164,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 28,
+   "rating": 5.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ziyang_01",
+   "name": "卧佛院",
+   "district": "",
+   "lat": 30.30626,
+   "lng": 105.32695,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 10,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ziyang_02",
+   "name": "资阳方特水世界",
+   "district": "",
+   "lat": 30.19578,
+   "lng": 104.57801,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 4.9,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "ziyang_03",
+   "name": "资阳方特国色春秋",
+   "district": "",
+   "lat": 30.19671,
+   "lng": 104.57728,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 280,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ziyang_04",
+   "name": "毗卢洞文物景区",
+   "district": "",
+   "lat": 29.92931,
+   "lng": 105.63102,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 18,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ziyang_05",
+   "name": "安岳石刻",
+   "district": "",
+   "lat": 29.9293,
+   "lng": 105.63071,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ziyang_06",
+   "name": "茗山寺",
+   "district": "",
+   "lat": 29.89535,
+   "lng": 105.67719,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ziyang_07",
+   "name": "安岳石窟数字展示中心",
+   "district": "",
+   "lat": 30.0955,
+   "lng": 105.36329,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 38,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ziyang_08",
+   "name": "华严洞石刻造像",
+   "district": "",
+   "lat": 29.92919,
+   "lng": 105.66407,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 10,
+   "rating": 3.9,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ziyang_09",
+   "name": "陈毅故里",
+   "district": "",
+   "lat": 30.3847,
+   "lng": 104.95959,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   30.13,
+   104.63
+  ],
+  "老城区": [
+   30.142,
+   104.62
+  ],
+  "近郊": [
+   30.1,
+   104.66
+  ]
+ }
+}

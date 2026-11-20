@@ -1,0 +1,242 @@
+{
+ "name": "辽源",
+ "center": [
+  42.89,
+  125.14
+ ],
+ "far_ids": [
+  "liaoyuan_03",
+  "liaoyuan_04",
+  "liaoyuan_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "liaoyuan_00",
+   "name": "辽源乐兔乐园",
+   "district": "火车站",
+   "lat": 42.92917,
+   "lng": 125.13773,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 4.9,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "liaoyuan_01",
+   "name": "辽源龙首山",
+   "district": "火车站",
+   "lat": 42.90209,
+   "lng": 125.16215,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liaoyuan_02",
+   "name": "黑金小镇",
+   "district": "",
+   "lat": 42.93187,
+   "lng": 125.13475,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "liaoyuan_03",
+   "name": "张学良旧居",
+   "district": "中街故宫",
+   "lat": 41.80021,
+   "lng": 123.46426,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 48,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "liaoyuan_04",
+   "name": "沈阳故宫",
+   "district": "中街故宫",
+   "lat": 41.80449,
+   "lng": 123.46221,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 50,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liaoyuan_05",
+   "name": "辽源市博物馆",
+   "district": "火车站",
+   "lat": 42.90265,
+   "lng": 125.16186,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "liaoyuan_06",
+   "name": "福寿宫-魁星楼",
+   "district": "火车站",
+   "lat": 42.90229,
+   "lng": 125.16208,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liaoyuan_07",
+   "name": "鴜鹭湖国家湿地公园",
+   "district": "",
+   "lat": 43.05255,
+   "lng": 125.30512,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 3.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liaoyuan_08",
+   "name": "辽源矿工墓陈列馆",
+   "district": "",
+   "lat": 42.93091,
+   "lng": 125.11414,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "liaoyuan_09",
+   "name": "悦动辽源欢乐荟",
+   "district": "",
+   "lat": 42.95309,
+   "lng": 125.16573,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   42.89,
+   125.14
+  ],
+  "老城区": [
+   42.902,
+   125.13
+  ],
+  "近郊": [
+   42.86,
+   125.17
+  ]
+ }
+}

@@ -1,0 +1,250 @@
+{
+ "name": "巴音郭楞",
+ "center": [
+  41.76,
+  86.15
+ ],
+ "far_ids": [
+  "bayinguoleng_01",
+  "bayinguoleng_02",
+  "bayinguoleng_03",
+  "bayinguoleng_04",
+  "bayinguoleng_05",
+  "bayinguoleng_06",
+  "bayinguoleng_07",
+  "bayinguoleng_08",
+  "bayinguoleng_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "bayinguoleng_00",
+   "name": "孔雀河",
+   "district": "",
+   "lat": 41.84273,
+   "lng": 86.26898,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bayinguoleng_01",
+   "name": "独库公路",
+   "district": "",
+   "lat": 44.39642,
+   "lng": 84.83438,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "bayinguoleng_02",
+   "name": "塔塔秘境-罗布湖风景游览区",
+   "district": "",
+   "lat": 40.91047,
+   "lng": 86.77315,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 39,
+   "rating": 4.8,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bayinguoleng_03",
+   "name": "楼兰博物馆",
+   "district": "",
+   "lat": 39.02174,
+   "lng": 88.17343,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "bayinguoleng_04",
+   "name": "楼兰古城",
+   "district": "",
+   "lat": 40.13442,
+   "lng": 89.61104,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bayinguoleng_05",
+   "name": "巴音布鲁克景区",
+   "district": "",
+   "lat": 42.81998,
+   "lng": 84.20637,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "bayinguoleng_06",
+   "name": "罗布人村寨",
+   "district": "",
+   "lat": 41.05707,
+   "lng": 86.11073,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 50,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "bayinguoleng_07",
+   "name": "博斯腾湖",
+   "district": "",
+   "lat": 41.96106,
+   "lng": 86.95683,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bayinguoleng_08",
+   "name": "博斯腾湖大河口景区",
+   "district": "",
+   "lat": 41.91559,
+   "lng": 86.74006,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 42,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bayinguoleng_09",
+   "name": "塔里木胡杨林公园",
+   "district": "",
+   "lat": 41.26274,
+   "lng": 84.21721,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   41.76,
+   86.15
+  ],
+  "老城区": [
+   41.772,
+   86.14
+  ],
+  "近郊": [
+   41.73,
+   86.18
+  ]
+ }
+}

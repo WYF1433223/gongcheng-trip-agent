@@ -1,0 +1,244 @@
+{
+ "name": "贵阳",
+ "center": [
+  26.65,
+  106.63
+ ],
+ "far_ids": [
+  "guiyang_00",
+  "guiyang_01",
+  "guiyang_07",
+  "guiyang_08",
+  "guiyang_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "guiyang_00",
+   "name": "荔波小七孔景区",
+   "district": "",
+   "lat": 25.25994,
+   "lng": 107.71401,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 120,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "guiyang_01",
+   "name": "黄果树景区",
+   "district": "黄果树瀑布",
+   "lat": 25.99469,
+   "lng": 105.67591,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 160,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "guiyang_02",
+   "name": "黔灵山公园",
+   "district": "黔灵公园",
+   "lat": 26.60407,
+   "lng": 106.69901,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guiyang_03",
+   "name": "甲秀楼",
+   "district": "河滨公园",
+   "lat": 26.57724,
+   "lng": 106.72632,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guiyang_04",
+   "name": "贵阳欢乐世界",
+   "district": "白云公园",
+   "lat": 26.67655,
+   "lng": 106.64681,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 138,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "guiyang_05",
+   "name": "贵州省博物馆",
+   "district": "观山湖会展城",
+   "lat": 26.65349,
+   "lng": 106.64901,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "guiyang_06",
+   "name": "花果园国际文化艺术交流中心",
+   "district": "花果园地区",
+   "lat": 26.57141,
+   "lng": 106.69627,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 48,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guiyang_07",
+   "name": "天河潭旅游度假区",
+   "district": "花溪公园",
+   "lat": 26.4463,
+   "lng": 106.58709,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 75,
+   "rating": 4.4,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "guiyang_08",
+   "name": "花溪夜郎谷",
+   "district": "花溪大学城",
+   "lat": 26.39284,
+   "lng": 106.65268,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 20,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guiyang_09",
+   "name": "青岩古镇",
+   "district": "青岩古镇",
+   "lat": 26.33746,
+   "lng": 106.69314,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 60,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   26.65,
+   106.63
+  ],
+  "老城区": [
+   26.662,
+   106.62
+  ],
+  "近郊": [
+   26.62,
+   106.66
+  ]
+ }
+}

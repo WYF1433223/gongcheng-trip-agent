@@ -1,0 +1,241 @@
+{
+ "name": "桂林",
+ "center": [
+  25.28,
+  110.29
+ ],
+ "far_ids": [
+  "guilin_03",
+  "guilin_06",
+  "guilin_07",
+  "guilin_08",
+  "guilin_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "guilin_00",
+   "name": "独秀峰王城景区",
+   "district": "城中心",
+   "lat": 25.28782,
+   "lng": 110.30564,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 100,
+   "rating": 4.9,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guilin_01",
+   "name": "七星景区",
+   "district": "会展中心",
+   "lat": 25.27777,
+   "lng": 110.31986,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 55,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "guilin_02",
+   "name": "象鼻山景区",
+   "district": "城中心",
+   "lat": 25.2746,
+   "lng": 110.30256,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guilin_03",
+   "name": "桂林漓江景区",
+   "district": "",
+   "lat": 25.0301,
+   "lng": 110.47087,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 215,
+   "rating": 4.6,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guilin_04",
+   "name": "芦笛岩",
+   "district": "芦笛岩",
+   "lat": 25.31661,
+   "lng": 110.27911,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 81,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "guilin_05",
+   "name": "桂林两江四湖景区",
+   "district": "城中心",
+   "lat": 25.28566,
+   "lng": 110.31128,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guilin_06",
+   "name": "龙脊梯田",
+   "district": "",
+   "lat": 25.77683,
+   "lng": 110.14653,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 80,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "guilin_07",
+   "name": "漓江三星游船",
+   "district": "",
+   "lat": 25.15291,
+   "lng": 110.43939,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 215,
+   "rating": 4.5,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guilin_08",
+   "name": "遇龙河竹筏漂游",
+   "district": "遇龙河国家级旅游度假",
+   "lat": 24.81628,
+   "lng": 110.40604,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guilin_09",
+   "name": "《印象刘三姐》山水实景演出",
+   "district": "印象刘三姐景区",
+   "lat": 24.77169,
+   "lng": 110.51288,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 238,
+   "rating": 4.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   25.28,
+   110.29
+  ],
+  "老城区": [
+   25.292,
+   110.28
+  ],
+  "近郊": [
+   25.25,
+   110.32
+  ]
+ }
+}

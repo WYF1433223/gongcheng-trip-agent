@@ -1,0 +1,245 @@
+{
+ "name": "晋中",
+ "center": [
+  37.69,
+  112.75
+ ],
+ "far_ids": [
+  "jinzhong_00",
+  "jinzhong_01",
+  "jinzhong_02",
+  "jinzhong_03",
+  "jinzhong_04",
+  "jinzhong_05",
+  "jinzhong_06",
+  "jinzhong_07",
+  "jinzhong_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "jinzhong_00",
+   "name": "双林寺",
+   "district": "平遥古城外",
+   "lat": 37.17717,
+   "lng": 112.13815,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 33,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinzhong_01",
+   "name": "镇国寺",
+   "district": "",
+   "lat": 37.29176,
+   "lng": 112.28337,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 23,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinzhong_02",
+   "name": "乔家大院文化园区",
+   "district": "乔家大院",
+   "lat": 37.41188,
+   "lng": 112.44802,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 115,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinzhong_03",
+   "name": "山西王家大院",
+   "district": "王家大院",
+   "lat": 36.90211,
+   "lng": 111.88013,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 30,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinzhong_04",
+   "name": "平遥古城",
+   "district": "平遥古城内",
+   "lat": 37.21038,
+   "lng": 112.18997,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 123,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinzhong_05",
+   "name": "《又见平遥》大型实景演出",
+   "district": "平遥古城外",
+   "lat": 37.20486,
+   "lng": 112.17891,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 238,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinzhong_06",
+   "name": "绵山风景区",
+   "district": "绵山风景区",
+   "lat": 36.89532,
+   "lng": 111.99923,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 130,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinzhong_07",
+   "name": "张壁古堡",
+   "district": "",
+   "lat": 36.96867,
+   "lng": 111.97956,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 67,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinzhong_08",
+   "name": "平遥古城墙",
+   "district": "平遥古城内",
+   "lat": 37.21012,
+   "lng": 112.18132,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 180,
+   "price": 123,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinzhong_09",
+   "name": "榆次老城",
+   "district": "榆次老城商圈",
+   "lat": 37.68332,
+   "lng": 112.75641,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   37.69,
+   112.75
+  ],
+  "老城区": [
+   37.702,
+   112.74
+  ],
+  "近郊": [
+   37.66,
+   112.78
+  ]
+ }
+}

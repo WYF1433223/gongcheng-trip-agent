@@ -1,0 +1,116 @@
+{
+ "name": "三沙",
+ "center": [
+  16.833,
+  112.339
+ ],
+ "far_ids": [],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "sansha_00",
+   "name": "永兴岛",
+   "district": "西沙",
+   "lat": 16.833,
+   "lng": 112.339,
+   "open_min": 800,
+   "close_min": 1700,
+   "duration": 150,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "sansha_01",
+   "name": "石岛",
+   "district": "西沙",
+   "lat": 16.842,
+   "lng": 112.352,
+   "open_min": 800,
+   "close_min": 1700,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "sansha_02",
+   "name": "七连屿",
+   "district": "西沙",
+   "lat": 16.951,
+   "lng": 112.284,
+   "open_min": 800,
+   "close_min": 1700,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 10,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 11,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 9,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 35
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 24,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   16.833,
+   112.339
+  ],
+  "老城区": [
+   16.845,
+   112.329
+  ],
+  "近郊": [
+   16.763,
+   112.369
+  ]
+ },
+ "approx": true
+}

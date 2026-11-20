@@ -1,0 +1,248 @@
+{
+ "name": "防城港",
+ "center": [
+  21.69,
+  108.35
+ ],
+ "far_ids": [
+  "fangchenggang_00",
+  "fangchenggang_01",
+  "fangchenggang_02",
+  "fangchenggang_03",
+  "fangchenggang_05",
+  "fangchenggang_06",
+  "fangchenggang_08",
+  "fangchenggang_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "fangchenggang_00",
+   "name": "东兴国门景区",
+   "district": "",
+   "lat": 21.54305,
+   "lng": 107.97677,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fangchenggang_01",
+   "name": "大清国一号界碑",
+   "district": "",
+   "lat": 21.54831,
+   "lng": 108.062,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "fangchenggang_02",
+   "name": "东兴口岸",
+   "district": "",
+   "lat": 21.54143,
+   "lng": 107.97825,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fangchenggang_03",
+   "name": "万尾金滩",
+   "district": "万尾金滩",
+   "lat": 21.52809,
+   "lng": 108.16433,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "fangchenggang_04",
+   "name": "白浪滩",
+   "district": "江山半岛",
+   "lat": 21.54408,
+   "lng": 108.29961,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "fangchenggang_05",
+   "name": "十万大山布透温泉",
+   "district": "",
+   "lat": 22.19401,
+   "lng": 107.9619,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 69,
+   "rating": 4.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fangchenggang_06",
+   "name": "十万大山国家森林公园",
+   "district": "",
+   "lat": 21.88874,
+   "lng": 107.88852,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 35,
+   "rating": 4.0,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fangchenggang_07",
+   "name": "防城港世界风情步行街",
+   "district": "龙光阳光海岸",
+   "lat": 21.62148,
+   "lng": 108.34859,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fangchenggang_08",
+   "name": "怪石滩",
+   "district": "江山半岛",
+   "lat": 21.50518,
+   "lng": 108.22739,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 3.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "fangchenggang_09",
+   "name": "簕山古渔村",
+   "district": "簕山古渔村",
+   "lat": 21.61578,
+   "lng": 108.53601,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 3.1,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   21.69,
+   108.35
+  ],
+  "老城区": [
+   21.702,
+   108.34
+  ],
+  "近郊": [
+   21.66,
+   108.38
+  ]
+ }
+}

@@ -1,0 +1,250 @@
+{
+ "name": "乌兰察布",
+ "center": [
+  40.99,
+  113.13
+ ],
+ "far_ids": [
+  "wulanchabu_00",
+  "wulanchabu_02",
+  "wulanchabu_03",
+  "wulanchabu_04",
+  "wulanchabu_05",
+  "wulanchabu_06",
+  "wulanchabu_07",
+  "wulanchabu_08",
+  "wulanchabu_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "wulanchabu_00",
+   "name": "乌兰察布草原",
+   "district": "辉腾锡勒草原",
+   "lat": 41.1592,
+   "lng": 112.62851,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wulanchabu_01",
+   "name": "乌兰察布博物馆",
+   "district": "万达广场",
+   "lat": 40.99697,
+   "lng": 113.14324,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "wulanchabu_02",
+   "name": "大红山",
+   "district": "",
+   "lat": 43.04416,
+   "lng": 111.63185,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wulanchabu_03",
+   "name": "红石崖国家生态公园",
+   "district": "",
+   "lat": 41.19137,
+   "lng": 111.91251,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wulanchabu_04",
+   "name": "LAVA天岩温泉",
+   "district": "乌兰哈达火山地质公园",
+   "lat": 41.64543,
+   "lng": 113.16554,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 159,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wulanchabu_05",
+   "name": "黄花沟草原旅游度假区",
+   "district": "辉腾锡勒草原",
+   "lat": 41.13822,
+   "lng": 112.53436,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "wulanchabu_06",
+   "name": "乌兰哈达火山地质公园",
+   "district": "乌兰哈达火山地质公园",
+   "lat": 41.55886,
+   "lng": 113.10937,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wulanchabu_07",
+   "name": "辉腾锡勒草原",
+   "district": "辉腾锡勒草原",
+   "lat": 41.15881,
+   "lng": 112.62903,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wulanchabu_08",
+   "name": "林胡古塞",
+   "district": "",
+   "lat": 40.79366,
+   "lng": 112.34641,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 96,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "wulanchabu_09",
+   "name": "圣水梁九龙湾景区",
+   "district": "",
+   "lat": 41.05698,
+   "lng": 112.05472,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   40.99,
+   113.13
+  ],
+  "老城区": [
+   41.002,
+   113.12
+  ],
+  "近郊": [
+   40.96,
+   113.16
+  ]
+ }
+}

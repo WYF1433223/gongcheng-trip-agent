@@ -1,0 +1,239 @@
+{
+ "name": "北海",
+ "center": [
+  21.48,
+  109.12
+ ],
+ "far_ids": [
+  "beihai_05",
+  "beihai_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "beihai_00",
+   "name": "北海老城",
+   "district": "北海老街",
+   "lat": 21.48951,
+   "lng": 109.12245,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "beihai_01",
+   "name": "北海老街",
+   "district": "北海老街",
+   "lat": 21.48907,
+   "lng": 109.12095,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "beihai_02",
+   "name": "北海金海湾红树林生态旅游区",
+   "district": "",
+   "lat": 21.4301,
+   "lng": 109.24001,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 90,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "beihai_03",
+   "name": "北海海底世界",
+   "district": "北海老街",
+   "lat": 21.4929,
+   "lng": 109.13442,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 168,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "beihai_04",
+   "name": "北海银滩景区",
+   "district": "北海银滩旅游度假区",
+   "lat": 21.41455,
+   "lng": 109.14733,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "beihai_05",
+   "name": "涠洲岛",
+   "district": "涠洲岛北岸",
+   "lat": 21.04274,
+   "lng": 109.11451,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 98,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "beihai_06",
+   "name": "海丝首港景区",
+   "district": "",
+   "lat": 21.57567,
+   "lng": 109.16232,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 142,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "beihai_07",
+   "name": "北海涠洲岛游船",
+   "district": "侨港海滩",
+   "lat": 21.42473,
+   "lng": 109.13713,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 150,
+   "rating": 4.2,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "beihai_08",
+   "name": "北海园博园",
+   "district": "红树林",
+   "lat": 21.44535,
+   "lng": 109.18863,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 3.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "beihai_09",
+   "name": "北海看日落",
+   "district": "涠洲岛北岸",
+   "lat": 21.04272,
+   "lng": 109.1145,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   21.48,
+   109.12
+  ],
+  "老城区": [
+   21.492,
+   109.11
+  ],
+  "近郊": [
+   21.45,
+   109.15
+  ]
+ }
+}

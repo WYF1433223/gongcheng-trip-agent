@@ -1,0 +1,243 @@
+{
+ "name": "濮阳",
+ "center": [
+  35.76,
+  115.03
+ ],
+ "far_ids": [
+  "puyang_03",
+  "puyang_04",
+  "puyang_05",
+  "puyang_06"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "puyang_00",
+   "name": "濮水小镇",
+   "district": "",
+   "lat": 35.68386,
+   "lng": 115.03158,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "puyang_01",
+   "name": "濮上园",
+   "district": "",
+   "lat": 35.78801,
+   "lng": 114.95875,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "puyang_02",
+   "name": "水秀国际大剧院",
+   "district": "",
+   "lat": 35.78992,
+   "lng": 115.03132,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "puyang_03",
+   "name": "泰山风景区",
+   "district": "玉皇顶",
+   "lat": 36.26855,
+   "lng": 117.09462,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 115,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "puyang_04",
+   "name": "龙门石窟",
+   "district": "高铁龙门站",
+   "lat": 34.55586,
+   "lng": 112.48534,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 90,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "puyang_05",
+   "name": "清明上河园",
+   "district": "万岁山武侠城",
+   "lat": 34.81493,
+   "lng": 114.34689,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 120,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "puyang_06",
+   "name": "万岁山武侠城",
+   "district": "万岁山武侠城",
+   "lat": 34.8264,
+   "lng": 114.35614,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 100,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "puyang_07",
+   "name": "戚城考古遗址公园",
+   "district": "",
+   "lat": 35.75802,
+   "lng": 115.03859,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "puyang_08",
+   "name": "濮阳博物馆",
+   "district": "",
+   "lat": 35.77911,
+   "lng": 115.03378,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "puyang_09",
+   "name": "濮阳东北庄野生动物园",
+   "district": "",
+   "lat": 35.79879,
+   "lng": 115.18711,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 49,
+   "rating": 4.2,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   35.76,
+   115.03
+  ],
+  "老城区": [
+   35.772,
+   115.02
+  ],
+  "近郊": [
+   35.73,
+   115.06
+  ]
+ }
+}

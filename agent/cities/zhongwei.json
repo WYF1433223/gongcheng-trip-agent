@@ -1,0 +1,239 @@
+{
+ "name": "中卫",
+ "center": [
+  37.51,
+  105.2
+ ],
+ "far_ids": [
+  "zhongwei_04",
+  "zhongwei_05"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "zhongwei_00",
+   "name": "羊皮筏子",
+   "district": "沙坡头旅游景区",
+   "lat": 37.46293,
+   "lng": 105.01589,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhongwei_01",
+   "name": "沙坡头旅游景区时空之门",
+   "district": "",
+   "lat": 37.53741,
+   "lng": 104.99782,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhongwei_02",
+   "name": "沙坡头旅游区黄河区",
+   "district": "沙坡头旅游景区",
+   "lat": 37.46616,
+   "lng": 105.00681,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 40,
+   "rating": 4.9,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhongwei_03",
+   "name": "沙坡头",
+   "district": "沙坡头旅游景区",
+   "lat": 37.48085,
+   "lng": 105.00841,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhongwei_04",
+   "name": "腾格里沙漠",
+   "district": "",
+   "lat": 37.47657,
+   "lng": 104.70438,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhongwei_05",
+   "name": "66号公路",
+   "district": "",
+   "lat": 37.39757,
+   "lng": 104.85842,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhongwei_06",
+   "name": "腾格里•金沙海旅游度假区",
+   "district": "",
+   "lat": 37.52617,
+   "lng": 105.03126,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhongwei_07",
+   "name": "黄河宿集",
+   "district": "沙坡头旅游景区",
+   "lat": 37.4572,
+   "lng": 104.98721,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 3.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhongwei_08",
+   "name": "中卫露营",
+   "district": "",
+   "lat": 37.54335,
+   "lng": 104.99216,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhongwei_09",
+   "name": "中卫冲沙越野",
+   "district": "沙坡头旅游景区",
+   "lat": 37.4834,
+   "lng": 105.00851,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   37.51,
+   105.2
+  ],
+  "老城区": [
+   37.522,
+   105.19
+  ],
+  "近郊": [
+   37.48,
+   105.23
+  ]
+ }
+}

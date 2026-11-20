@@ -1,0 +1,240 @@
+{
+ "name": "三门峡",
+ "center": [
+  34.77,
+  111.2
+ ],
+ "far_ids": [
+  "sanmenxia_01",
+  "sanmenxia_05",
+  "sanmenxia_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "sanmenxia_00",
+   "name": "三门峡天鹅湖旅游度假区",
+   "district": "",
+   "lat": 34.77296,
+   "lng": 111.14483,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanmenxia_01",
+   "name": "仰韶仙门山景区",
+   "district": "",
+   "lat": 34.92143,
+   "lng": 111.87757,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 80,
+   "rating": 4.9,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanmenxia_02",
+   "name": "风景区",
+   "district": "",
+   "lat": 34.79855,
+   "lng": 111.15902,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanmenxia_03",
+   "name": "天鹅湖国家城市湿地公园",
+   "district": "",
+   "lat": 34.78463,
+   "lng": 111.15304,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanmenxia_04",
+   "name": "三门峡市虢国博物馆",
+   "district": "",
+   "lat": 34.7919,
+   "lng": 111.21706,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "sanmenxia_05",
+   "name": "豫西大峡谷风景区",
+   "district": "",
+   "lat": 34.24444,
+   "lng": 111.16689,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanmenxia_06",
+   "name": "三门峡大坝风景区",
+   "district": "",
+   "lat": 34.83401,
+   "lng": 111.35056,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanmenxia_07",
+   "name": "黄河天鹅号游轮",
+   "district": "",
+   "lat": 34.79481,
+   "lng": 111.15085,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 69,
+   "rating": 4.5,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanmenxia_08",
+   "name": "陕州地坑院",
+   "district": "",
+   "lat": 34.6966,
+   "lng": 111.14465,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 68,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanmenxia_09",
+   "name": "函谷关历史文化旅游区",
+   "district": "",
+   "lat": 34.63763,
+   "lng": 110.93318,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 72,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   34.77,
+   111.2
+  ],
+  "老城区": [
+   34.782,
+   111.19
+  ],
+  "近郊": [
+   34.74,
+   111.23
+  ]
+ }
+}

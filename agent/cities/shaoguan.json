@@ -1,0 +1,244 @@
+{
+ "name": "韶关",
+ "center": [
+  24.81,
+  113.6
+ ],
+ "far_ids": [
+  "shaoguan_00",
+  "shaoguan_01",
+  "shaoguan_03",
+  "shaoguan_04",
+  "shaoguan_05",
+  "shaoguan_06",
+  "shaoguan_07",
+  "shaoguan_08",
+  "shaoguan_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "shaoguan_00",
+   "name": "仙门奇峡",
+   "district": "",
+   "lat": 24.63,
+   "lng": 113.06678,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 43,
+   "rating": 4.9,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoguan_01",
+   "name": "丹霞山水上丹霞",
+   "district": "",
+   "lat": 25.04817,
+   "lng": 113.75188,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 108,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoguan_02",
+   "name": "南华禅寺",
+   "district": "南华寺",
+   "lat": 24.6524,
+   "lng": 113.64312,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoguan_03",
+   "name": "丹霞山",
+   "district": "",
+   "lat": 25.05194,
+   "lng": 113.76539,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 100,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoguan_04",
+   "name": "广东大峡谷",
+   "district": "",
+   "lat": 24.51466,
+   "lng": 113.14105,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 50,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoguan_05",
+   "name": "梅关古道",
+   "district": "",
+   "lat": 25.33585,
+   "lng": 114.35121,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoguan_06",
+   "name": "云门山旅游度假区",
+   "district": "",
+   "lat": 24.82458,
+   "lng": 113.32765,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoguan_07",
+   "name": "帽子峰旅游景区",
+   "district": "",
+   "lat": 25.28457,
+   "lng": 114.1797,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 50,
+   "rating": 4.1,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoguan_08",
+   "name": "珠玑古巷",
+   "district": "",
+   "lat": 25.19635,
+   "lng": 114.37043,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 3.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoguan_09",
+   "name": "乳源泡温泉",
+   "district": "",
+   "lat": 24.99743,
+   "lng": 113.18301,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   24.81,
+   113.6
+  ],
+  "老城区": [
+   24.822,
+   113.59
+  ],
+  "近郊": [
+   24.78,
+   113.63
+  ]
+ }
+}

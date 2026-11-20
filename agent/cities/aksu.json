@@ -1,0 +1,246 @@
+{
+ "name": "阿克苏",
+ "center": [
+  41.17,
+  80.26
+ ],
+ "far_ids": [
+  "aksu_00",
+  "aksu_01",
+  "aksu_02",
+  "aksu_03",
+  "aksu_04",
+  "aksu_05",
+  "aksu_06",
+  "aksu_07",
+  "aksu_08",
+  "aksu_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "aksu_00",
+   "name": "独库公路",
+   "district": "",
+   "lat": 44.39642,
+   "lng": 84.83438,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "aksu_01",
+   "name": "天山托木尔大峡谷",
+   "district": "",
+   "lat": 41.63239,
+   "lng": 80.66554,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 31,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "aksu_02",
+   "name": "塔克拉玛干沙漠",
+   "district": "",
+   "lat": 40.16795,
+   "lng": 81.71862,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "aksu_03",
+   "name": "天山神秘大峡谷",
+   "district": "",
+   "lat": 42.12815,
+   "lng": 83.07252,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "aksu_04",
+   "name": "克孜利亚胜景",
+   "district": "",
+   "lat": 42.11033,
+   "lng": 83.05008,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 26,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "aksu_05",
+   "name": "克孜尔红石林",
+   "district": "",
+   "lat": 41.95057,
+   "lng": 82.51796,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 20,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "aksu_06",
+   "name": "龟兹魏晋古墓遗址博物馆",
+   "district": "",
+   "lat": 41.71971,
+   "lng": 82.96655,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 29,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "aksu_07",
+   "name": "刀郎部落",
+   "district": "",
+   "lat": 40.76744,
+   "lng": 80.26169,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 43,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "aksu_08",
+   "name": "库车王府",
+   "district": "",
+   "lat": 41.72508,
+   "lng": 82.92708,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 45,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "aksu_09",
+   "name": "沙雁洲景区",
+   "district": "",
+   "lat": 40.94219,
+   "lng": 82.85295,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 30,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   41.17,
+   80.26
+  ],
+  "老城区": [
+   41.182,
+   80.25
+  ],
+  "近郊": [
+   41.14,
+   80.29
+  ]
+ }
+}

@@ -1,0 +1,239 @@
+{
+ "name": "清远",
+ "center": [
+  23.68,
+  113.06
+ ],
+ "far_ids": [
+  "qingyuan_02",
+  "qingyuan_03",
+  "qingyuan_04",
+  "qingyuan_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "qingyuan_00",
+   "name": "清远长隆动物大越野",
+   "district": "",
+   "lat": 23.55682,
+   "lng": 113.17683,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 200,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qingyuan_01",
+   "name": "清远长隆森林王国",
+   "district": "清远长隆森林王国",
+   "lat": 23.58229,
+   "lng": 113.17095,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 260,
+   "rating": 4.9,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qingyuan_02",
+   "name": "湟川三峡",
+   "district": "",
+   "lat": 24.73963,
+   "lng": 112.42826,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 45,
+   "rating": 4.9,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qingyuan_03",
+   "name": "连州地下河",
+   "district": "",
+   "lat": 25.01327,
+   "lng": 112.33633,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 106,
+   "rating": 4.8,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qingyuan_04",
+   "name": "千年瑶寨",
+   "district": "",
+   "lat": 24.58821,
+   "lng": 112.30762,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 108,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qingyuan_05",
+   "name": "古龙峡漂流",
+   "district": "古龙峡",
+   "lat": 23.77652,
+   "lng": 112.96035,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qingyuan_06",
+   "name": "古龙峡",
+   "district": "古龙峡",
+   "lat": 23.78578,
+   "lng": 112.96416,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qingyuan_07",
+   "name": "清远笔架山旅游度假区",
+   "district": "笔架山旅游度假区",
+   "lat": 23.7765,
+   "lng": 113.04231,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 78,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qingyuan_08",
+   "name": "清远长隆度假区",
+   "district": "清远长隆森林王国",
+   "lat": 23.58776,
+   "lng": 113.1666,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 200,
+   "rating": 4.5,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qingyuan_09",
+   "name": "洞天仙境",
+   "district": "英西峰林走廊",
+   "lat": 24.16052,
+   "lng": 112.90637,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 95,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   23.68,
+   113.06
+  ],
+  "老城区": [
+   23.692,
+   113.05
+  ],
+  "近郊": [
+   23.65,
+   113.09
+  ]
+ }
+}

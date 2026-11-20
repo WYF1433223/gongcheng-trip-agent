@@ -1,0 +1,247 @@
+{
+ "name": "唐山",
+ "center": [
+  39.63,
+  118.18
+ ],
+ "far_ids": [
+  "tangshan_00",
+  "tangshan_02",
+  "tangshan_03",
+  "tangshan_07",
+  "tangshan_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "tangshan_00",
+   "name": "御源醴泉",
+   "district": "",
+   "lat": 40.21292,
+   "lng": 117.77143,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 129,
+   "rating": 4.9,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tangshan_01",
+   "name": "河头老街",
+   "district": "河头老街",
+   "lat": 39.5676,
+   "lng": 118.0805,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 58,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tangshan_02",
+   "name": "清东陵",
+   "district": "",
+   "lat": 40.17948,
+   "lng": 117.68908,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tangshan_03",
+   "name": "多玛乐园",
+   "district": "",
+   "lat": 39.16045,
+   "lng": 118.38951,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "tangshan_04",
+   "name": "唐山南湖开滦旅游景区",
+   "district": "唐山宴",
+   "lat": 39.60572,
+   "lng": 118.16725,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tangshan_05",
+   "name": "开滦国家矿山公园",
+   "district": "万达商圈",
+   "lat": 39.62791,
+   "lng": 118.20687,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tangshan_06",
+   "name": "唐山饮食文化博物馆",
+   "district": "唐山宴",
+   "lat": 39.60957,
+   "lng": 118.1562,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "tangshan_07",
+   "name": "滦州古城",
+   "district": "",
+   "lat": 39.74844,
+   "lng": 118.76453,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tangshan_08",
+   "name": "揽月湾景区",
+   "district": "",
+   "lat": 39.16261,
+   "lng": 118.59504,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 3.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tangshan_09",
+   "name": "唐山地震遗址纪念公园",
+   "district": "唐山宴",
+   "lat": 39.60372,
+   "lng": 118.19304,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   39.63,
+   118.18
+  ],
+  "老城区": [
+   39.642,
+   118.17
+  ],
+  "近郊": [
+   39.6,
+   118.21
+  ]
+ }
+}

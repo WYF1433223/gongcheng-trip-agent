@@ -1,0 +1,246 @@
+{
+ "name": "衡水",
+ "center": [
+  37.74,
+  115.67
+ ],
+ "far_ids": [
+  "hengshui_00",
+  "hengshui_01",
+  "hengshui_03",
+  "hengshui_04",
+  "hengshui_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "hengshui_00",
+   "name": "故宫博物院",
+   "district": "天安门",
+   "lat": 39.92409,
+   "lng": 116.40341,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 40,
+   "rating": 4.9,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "hengshui_01",
+   "name": "八达岭长城",
+   "district": "八达岭长城",
+   "lat": 40.35855,
+   "lng": 116.02921,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 180,
+   "price": 35,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hengshui_02",
+   "name": "宝云寺",
+   "district": "",
+   "lat": 37.72323,
+   "lng": 115.64781,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hengshui_03",
+   "name": "北京环球度假区",
+   "district": "环球影城度假区及周边",
+   "lat": 39.85848,
+   "lng": 116.68775,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 346,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "hengshui_04",
+   "name": "饶邑古城",
+   "district": "",
+   "lat": 38.23678,
+   "lng": 115.70171,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hengshui_05",
+   "name": "衡水湖·冀州古城遗址",
+   "district": "衡水湖",
+   "lat": 37.58137,
+   "lng": 115.57334,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 16,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hengshui_06",
+   "name": "衡水湖旅游景区",
+   "district": "衡水湖",
+   "lat": 37.61018,
+   "lng": 115.61806,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hengshui_07",
+   "name": "衡水野生动物园",
+   "district": "",
+   "lat": 37.76828,
+   "lng": 115.90573,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 29,
+   "rating": 4.3,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "hengshui_08",
+   "name": "衡水湖闾里古镇",
+   "district": "衡水湖",
+   "lat": 37.60694,
+   "lng": 115.64167,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hengshui_09",
+   "name": "衡水博物馆",
+   "district": "",
+   "lat": 37.72361,
+   "lng": 115.69194,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   37.74,
+   115.67
+  ],
+  "老城区": [
+   37.752,
+   115.66
+  ],
+  "近郊": [
+   37.71,
+   115.7
+  ]
+ }
+}

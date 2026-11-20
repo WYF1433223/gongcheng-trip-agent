@@ -1,0 +1,247 @@
+{
+ "name": "十堰",
+ "center": [
+  32.63,
+  110.8
+ ],
+ "far_ids": [
+  "shiyan_00",
+  "shiyan_01",
+  "shiyan_02",
+  "shiyan_03",
+  "shiyan_04",
+  "shiyan_05",
+  "shiyan_06",
+  "shiyan_07",
+  "shiyan_08",
+  "shiyan_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "shiyan_00",
+   "name": "武当山索道",
+   "district": "武当山风景区",
+   "lat": 32.40385,
+   "lng": 111.01737,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shiyan_01",
+   "name": "野人谷",
+   "district": "",
+   "lat": 31.88833,
+   "lng": 110.70276,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 60,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shiyan_02",
+   "name": "武当山风景区",
+   "district": "武当山风景区",
+   "lat": 32.46779,
+   "lng": 111.07108,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 174,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shiyan_03",
+   "name": "玄天玉虚宫",
+   "district": "武当山风景区",
+   "lat": 32.51197,
+   "lng": 111.09038,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shiyan_04",
+   "name": "武当山风景区-金顶",
+   "district": "武当山风景区",
+   "lat": 32.4048,
+   "lng": 111.01625,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shiyan_05",
+   "name": "武当大明峰",
+   "district": "",
+   "lat": 32.44053,
+   "lng": 110.89003,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shiyan_06",
+   "name": "五龙河风景区",
+   "district": "",
+   "lat": 33.06026,
+   "lng": 110.58255,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shiyan_07",
+   "name": "武当一梦景区",
+   "district": "武当山风景区",
+   "lat": 32.5188,
+   "lng": 111.11167,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 158,
+   "rating": 4.1,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shiyan_08",
+   "name": "丹江口大坝景区",
+   "district": "丹江口大坝景区",
+   "lat": 32.55926,
+   "lng": 111.50303,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 40,
+   "rating": 3.9,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shiyan_09",
+   "name": "沧浪海旅游港",
+   "district": "丹江口大坝景区",
+   "lat": 32.56275,
+   "lng": 111.48475,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 3.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   32.63,
+   110.8
+  ],
+  "老城区": [
+   32.642,
+   110.79
+  ],
+  "近郊": [
+   32.6,
+   110.83
+  ]
+ }
+}

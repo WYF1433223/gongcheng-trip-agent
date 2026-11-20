@@ -1,0 +1,245 @@
+{
+ "name": "崇左",
+ "center": [
+  22.38,
+  107.36
+ ],
+ "far_ids": [
+  "chongzuo_00",
+  "chongzuo_01",
+  "chongzuo_02",
+  "chongzuo_03",
+  "chongzuo_04",
+  "chongzuo_05",
+  "chongzuo_06",
+  "chongzuo_08",
+  "chongzuo_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "chongzuo_00",
+   "name": "白头叶猴生态旅游区",
+   "district": "",
+   "lat": 22.2701,
+   "lng": 107.52309,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 80,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "chongzuo_01",
+   "name": "德天跨国瀑布景区",
+   "district": "德天瀑布",
+   "lat": 22.8253,
+   "lng": 106.80143,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 35,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chongzuo_02",
+   "name": "宁明花山岩画景区",
+   "district": "",
+   "lat": 22.22558,
+   "lng": 107.05459,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chongzuo_03",
+   "name": "伏那秘境",
+   "district": "",
+   "lat": 22.76783,
+   "lng": 107.15318,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 88,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "chongzuo_04",
+   "name": "蓝洞瀑布咖啡主题园区",
+   "district": "德天瀑布",
+   "lat": 22.82417,
+   "lng": 106.81024,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chongzuo_05",
+   "name": "峒那屿湾景区",
+   "district": "",
+   "lat": 22.72648,
+   "lng": 107.05664,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 60,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "chongzuo_06",
+   "name": "友谊关景区",
+   "district": "",
+   "lat": 21.98166,
+   "lng": 106.72131,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 42,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chongzuo_07",
+   "name": "崇左太平古城景区",
+   "district": "",
+   "lat": 22.42242,
+   "lng": 107.36291,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chongzuo_08",
+   "name": "明仕田园",
+   "district": "明仕田园",
+   "lat": 22.71172,
+   "lng": 106.93467,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 110,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chongzuo_09",
+   "name": "龙宫仙境旅游区",
+   "district": "",
+   "lat": 22.84306,
+   "lng": 107.06885,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 99,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   22.38,
+   107.36
+  ],
+  "老城区": [
+   22.392,
+   107.35
+  ],
+  "近郊": [
+   22.35,
+   107.39
+  ]
+ }
+}

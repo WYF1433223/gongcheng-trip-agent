@@ -1,0 +1,246 @@
+{
+ "name": "莆田",
+ "center": [
+  25.45,
+  119.01
+ ],
+ "far_ids": [
+  "putian_00",
+  "putian_01",
+  "putian_02",
+  "putian_03",
+  "putian_04",
+  "putian_05"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "putian_00",
+   "name": "湄洲岛妈祖文化旅游区",
+   "district": "湄洲岛·国家旅游度假",
+   "lat": 25.09651,
+   "lng": 119.15446,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.9,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "putian_01",
+   "name": "《印象·妈祖》演出",
+   "district": "湄洲岛·国家旅游度假",
+   "lat": 25.07548,
+   "lng": 119.1378,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 108,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "putian_02",
+   "name": "湄洲妈祖祖庙",
+   "district": "湄洲岛·国家旅游度假",
+   "lat": 25.09668,
+   "lng": 119.15173,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "putian_03",
+   "name": "南日岛",
+   "district": "",
+   "lat": 25.20826,
+   "lng": 119.50547,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "putian_04",
+   "name": "鹅尾神石园",
+   "district": "湄洲岛·国家旅游度假",
+   "lat": 25.03424,
+   "lng": 119.12838,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "putian_05",
+   "name": "湄洲岛",
+   "district": "湄洲岛·国家旅游度假",
+   "lat": 25.07034,
+   "lng": 119.13475,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 125,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "putian_06",
+   "name": "九鲤湖风景区",
+   "district": "",
+   "lat": 25.46392,
+   "lng": 118.83115,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 50,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "putian_07",
+   "name": "南山广化寺",
+   "district": "城厢万达",
+   "lat": 25.43079,
+   "lng": 118.99551,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "putian_08",
+   "name": "兴化府历史文化街区",
+   "district": "兴化府历史文化街区",
+   "lat": 25.43946,
+   "lng": 119.02277,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "putian_09",
+   "name": "南少林寺",
+   "district": "",
+   "lat": 25.54602,
+   "lng": 119.04718,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   25.45,
+   119.01
+  ],
+  "老城区": [
+   25.462,
+   119.0
+  ],
+  "近郊": [
+   25.42,
+   119.04
+  ]
+ }
+}

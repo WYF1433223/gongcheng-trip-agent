@@ -1,0 +1,240 @@
+{
+ "name": "洛阳",
+ "center": [
+  34.62,
+  112.45
+ ],
+ "far_ids": [
+  "luoyang_01"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "luoyang_00",
+   "name": "龙门石窟",
+   "district": "高铁龙门站",
+   "lat": 34.55586,
+   "lng": 112.48534,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 90,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "luoyang_01",
+   "name": "老君山景区",
+   "district": "老君山景区",
+   "lat": 33.74495,
+   "lng": 111.66246,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 100,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "luoyang_02",
+   "name": "洛阳博物馆",
+   "district": "高铁龙门站",
+   "lat": 34.64965,
+   "lng": 112.45839,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "luoyang_03",
+   "name": "中国国花园",
+   "district": "高铁龙门站",
+   "lat": 34.66175,
+   "lng": 112.46468,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "luoyang_04",
+   "name": "白马寺",
+   "district": "",
+   "lat": 34.72758,
+   "lng": 112.61194,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "luoyang_05",
+   "name": "隋唐洛阳城应天门遗址",
+   "district": "洛邑古城",
+   "lat": 34.68309,
+   "lng": 112.46718,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 58,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "luoyang_06",
+   "name": "隋唐洛阳城明堂天堂景区",
+   "district": "洛邑古城",
+   "lat": 34.68683,
+   "lng": 112.46625,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 88,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "luoyang_07",
+   "name": "隋唐洛阳城国家遗址公园",
+   "district": "洛邑古城",
+   "lat": 34.68522,
+   "lng": 112.46727,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "luoyang_08",
+   "name": "隋唐洛阳城九洲池",
+   "district": "应天门南广场",
+   "lat": 34.688,
+   "lng": 112.4601,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 28,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "luoyang_09",
+   "name": "洛邑古城",
+   "district": "洛邑古城",
+   "lat": 34.6861,
+   "lng": 112.49178,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   34.62,
+   112.45
+  ],
+  "老城区": [
+   34.632,
+   112.44
+  ],
+  "近郊": [
+   34.59,
+   112.48
+  ]
+ }
+}

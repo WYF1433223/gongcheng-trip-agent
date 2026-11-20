@@ -1,0 +1,246 @@
+{
+ "name": "临沧",
+ "center": [
+  23.88,
+  100.09
+ ],
+ "far_ids": [
+  "lincang_00",
+  "lincang_01",
+  "lincang_02",
+  "lincang_03",
+  "lincang_04",
+  "lincang_05",
+  "lincang_06",
+  "lincang_07",
+  "lincang_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "lincang_00",
+   "name": "澜沧江大峡谷观景平台",
+   "district": "",
+   "lat": 23.52347,
+   "lng": 100.1608,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lincang_01",
+   "name": "天坑",
+   "district": "",
+   "lat": 23.31639,
+   "lng": 99.33849,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 32,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "lincang_02",
+   "name": "翁丁原始部落",
+   "district": "",
+   "lat": 23.28444,
+   "lng": 99.1725,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 64,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lincang_03",
+   "name": "冰岛老寨",
+   "district": "",
+   "lat": 23.78833,
+   "lng": 99.90952,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "lincang_04",
+   "name": "千米国画长廊",
+   "district": "",
+   "lat": 23.29333,
+   "lng": 99.32159,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "lincang_05",
+   "name": "中国永和口岸",
+   "district": "",
+   "lat": 23.09883,
+   "lng": 99.24088,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "lincang_06",
+   "name": "鲁史镇",
+   "district": "",
+   "lat": 24.84835,
+   "lng": 100.00858,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lincang_07",
+   "name": "葫芦小镇",
+   "district": "",
+   "lat": 23.14101,
+   "lng": 99.23766,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lincang_08",
+   "name": "沧源崖画",
+   "district": "",
+   "lat": 23.27673,
+   "lng": 99.32683,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 25,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lincang_09",
+   "name": "玉龙湖公园",
+   "district": "",
+   "lat": 23.90276,
+   "lng": 100.09796,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 3.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   23.88,
+   100.09
+  ],
+  "老城区": [
+   23.892,
+   100.08
+  ],
+  "近郊": [
+   23.85,
+   100.12
+  ]
+ }
+}

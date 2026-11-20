@@ -1,0 +1,248 @@
+{
+ "name": "百色",
+ "center": [
+  23.9,
+  106.62
+ ],
+ "far_ids": [
+  "baise_00",
+  "baise_01",
+  "baise_02",
+  "baise_03",
+  "baise_04",
+  "baise_05",
+  "baise_06",
+  "baise_07",
+  "baise_08",
+  "baise_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "baise_00",
+   "name": "通天地下河景区",
+   "district": "",
+   "lat": 23.81162,
+   "lng": 107.53539,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 58,
+   "rating": 4.7,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baise_01",
+   "name": "旧州景区",
+   "district": "",
+   "lat": 23.06323,
+   "lng": 106.42996,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 46,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "baise_02",
+   "name": "通灵大峡谷",
+   "district": "",
+   "lat": 23.02302,
+   "lng": 106.66008,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 109,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baise_03",
+   "name": "鹅泉",
+   "district": "",
+   "lat": 23.1048,
+   "lng": 106.39564,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 46,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baise_04",
+   "name": "古龙山大峡谷",
+   "district": "",
+   "lat": 23.01467,
+   "lng": 106.69372,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 99,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baise_05",
+   "name": "锦绣古镇",
+   "district": "",
+   "lat": 23.13007,
+   "lng": 106.43484,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baise_06",
+   "name": "浩坤湖",
+   "district": "",
+   "lat": 24.22436,
+   "lng": 106.71316,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 58,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baise_07",
+   "name": "渠洋湖",
+   "district": "",
+   "lat": 23.32951,
+   "lng": 106.33416,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 66,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baise_08",
+   "name": "罗妹莲花洞",
+   "district": "",
+   "lat": 24.77933,
+   "lng": 106.55583,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 80,
+   "rating": 4.1,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baise_09",
+   "name": "大石围天坑群",
+   "district": "",
+   "lat": 24.81963,
+   "lng": 106.47597,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 90,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   23.9,
+   106.62
+  ],
+  "老城区": [
+   23.912,
+   106.61
+  ],
+  "近郊": [
+   23.87,
+   106.65
+  ]
+ }
+}

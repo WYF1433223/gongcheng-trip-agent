@@ -1,0 +1,245 @@
+{
+ "name": "贺州",
+ "center": [
+  24.4,
+  111.55
+ ],
+ "far_ids": [
+  "hezhou_01",
+  "hezhou_02",
+  "hezhou_03",
+  "hezhou_05",
+  "hezhou_06",
+  "hezhou_08",
+  "hezhou_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "hezhou_00",
+   "name": "贺州姑婆山伴山温泉度假村",
+   "district": "",
+   "lat": 24.54535,
+   "lng": 111.59233,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 98,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hezhou_01",
+   "name": "带龙桥",
+   "district": "黄姚古镇",
+   "lat": 24.25269,
+   "lng": 111.21056,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hezhou_02",
+   "name": "西溪森林温泉度假村",
+   "district": "",
+   "lat": 24.36082,
+   "lng": 111.9794,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 198,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hezhou_03",
+   "name": "姑婆山",
+   "district": "",
+   "lat": 24.62418,
+   "lng": 111.55341,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 26,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hezhou_04",
+   "name": "玉石林风景区",
+   "district": "",
+   "lat": 24.52954,
+   "lng": 111.62258,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 23,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "hezhou_05",
+   "name": "黄姚古镇",
+   "district": "黄姚古镇",
+   "lat": 24.24964,
+   "lng": 111.21976,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 26,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hezhou_06",
+   "name": "十八水原生态景区",
+   "district": "",
+   "lat": 24.58269,
+   "lng": 111.55914,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 48,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "hezhou_07",
+   "name": "紫云仙境景区",
+   "district": "",
+   "lat": 24.38104,
+   "lng": 111.53591,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 24,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "hezhou_08",
+   "name": "钟山水墨田园",
+   "district": "",
+   "lat": 24.47103,
+   "lng": 111.1619,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hezhou_09",
+   "name": "黄姚诗画姚江景区",
+   "district": "",
+   "lat": 24.2055,
+   "lng": 111.21041,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 35,
+   "rating": 3.7,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   24.4,
+   111.55
+  ],
+  "老城区": [
+   24.412,
+   111.54
+  ],
+  "近郊": [
+   24.37,
+   111.58
+  ]
+ }
+}

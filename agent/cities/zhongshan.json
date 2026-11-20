@@ -1,0 +1,203 @@
+{
+ "name": "中山",
+ "center": [
+  22.52,
+  113.39
+ ],
+ "far_ids": [
+  "zhongshan_05"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "zhongshan_00",
+   "name": "中山泉眼温泉",
+   "district": "中山温泉度假区",
+   "lat": 22.35783,
+   "lng": 113.46557,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 80,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhongshan_01",
+   "name": "中山詹园",
+   "district": "中山南区",
+   "lat": 22.44032,
+   "lng": 113.33749,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 60,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhongshan_02",
+   "name": "中山影视城",
+   "district": "孙中山故居",
+   "lat": 22.45383,
+   "lng": 113.53363,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhongshan_03",
+   "name": "孙中山故居纪念馆",
+   "district": "孙中山故居",
+   "lat": 22.44937,
+   "lng": 113.53507,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "zhongshan_04",
+   "name": "孙中山故里旅游区",
+   "district": "孙中山故居",
+   "lat": 22.45424,
+   "lng": 113.53363,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhongshan_05",
+   "name": "2026WTCC世界网球洲际对抗赛至尊款待票",
+   "district": "宝安商业区",
+   "lat": 22.56721,
+   "lng": 113.89128,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 8800,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhongshan_06",
+   "name": "中山 · 关心妍2027《听》巡回演唱会—中山站",
+   "district": "利和广场商圈",
+   "lat": 22.51044,
+   "lng": 113.39584,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhongshan_07",
+   "name": "中山滑草",
+   "district": "迪茵湖生态旅游度假区",
+   "lat": 22.6808,
+   "lng": 113.4675,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   22.52,
+   113.39
+  ],
+  "老城区": [
+   22.532,
+   113.38
+  ],
+  "近郊": [
+   22.49,
+   113.42
+  ]
+ }
+}

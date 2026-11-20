@@ -1,0 +1,238 @@
+{
+ "name": "苏州",
+ "center": [
+  31.3,
+  120.58
+ ],
+ "far_ids": [
+  "suzhou_js_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "suzhou_js_00",
+   "name": "苏州博物馆",
+   "district": "观前街",
+   "lat": 31.32911,
+   "lng": 120.63424,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "suzhou_js_01",
+   "name": "虎丘山风景名胜区",
+   "district": "苏州火车站地区",
+   "lat": 31.34163,
+   "lng": 120.58613,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 60,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "suzhou_js_02",
+   "name": "狮子林",
+   "district": "观前街",
+   "lat": 31.32711,
+   "lng": 120.63561,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 30,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "suzhou_js_03",
+   "name": "留园",
+   "district": "石路",
+   "lat": 31.32172,
+   "lng": 120.59897,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 45,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "suzhou_js_04",
+   "name": "天平山",
+   "district": "木渎古镇风景区",
+   "lat": 31.29324,
+   "lng": 120.50894,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 30,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "suzhou_js_05",
+   "name": "枫桥景区",
+   "district": "苏州新区",
+   "lat": 31.31544,
+   "lng": 120.57486,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "suzhou_js_06",
+   "name": "拙政园",
+   "district": "观前街",
+   "lat": 31.33021,
+   "lng": 120.63574,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 70,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "suzhou_js_07",
+   "name": "寒山寺",
+   "district": "苏州新区",
+   "lat": 31.31624,
+   "lng": 120.57507,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 18,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "suzhou_js_08",
+   "name": "周庄",
+   "district": "周庄古镇外",
+   "lat": 31.12039,
+   "lng": 120.85873,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 72,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "suzhou_js_09",
+   "name": "山塘街",
+   "district": "石路",
+   "lat": 31.33002,
+   "lng": 120.60084,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   31.3,
+   120.58
+  ],
+  "老城区": [
+   31.312,
+   120.57
+  ],
+  "近郊": [
+   31.27,
+   120.61
+  ]
+ }
+}

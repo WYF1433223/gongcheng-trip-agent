@@ -1,0 +1,252 @@
+{
+ "name": "佳木斯",
+ "center": [
+  46.8,
+  130.32
+ ],
+ "far_ids": [
+  "jiamusi_00",
+  "jiamusi_01",
+  "jiamusi_02",
+  "jiamusi_03",
+  "jiamusi_04",
+  "jiamusi_05",
+  "jiamusi_06",
+  "jiamusi_07",
+  "jiamusi_08",
+  "jiamusi_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "jiamusi_00",
+   "name": "中国黑瞎子岛湿地公园",
+   "district": "",
+   "lat": 48.30416,
+   "lng": 134.7105,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiamusi_01",
+   "name": "东极阁",
+   "district": "",
+   "lat": 48.36424,
+   "lng": 134.28935,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiamusi_02",
+   "name": "三江口风景区",
+   "district": "",
+   "lat": 47.70838,
+   "lng": 132.53963,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiamusi_03",
+   "name": "东极广场",
+   "district": "",
+   "lat": 48.28384,
+   "lng": 134.72936,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiamusi_04",
+   "name": "抚远口岸",
+   "district": "",
+   "lat": 48.3804,
+   "lng": 134.29791,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiamusi_05",
+   "name": "黑瞎子岛旅游区",
+   "district": "",
+   "lat": 48.38182,
+   "lng": 134.48988,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiamusi_06",
+   "name": "三江自然生态馆",
+   "district": "",
+   "lat": 48.37935,
+   "lng": 134.30125,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 64,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "jiamusi_07",
+   "name": "东极宝塔",
+   "district": "",
+   "lat": 48.36288,
+   "lng": 134.75975,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 3.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiamusi_08",
+   "name": "佳木斯看日出",
+   "district": "",
+   "lat": 48.36539,
+   "lng": 134.82791,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiamusi_09",
+   "name": "套娃广场",
+   "district": "",
+   "lat": 47.65953,
+   "lng": 132.49487,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   46.8,
+   130.32
+  ],
+  "老城区": [
+   46.812,
+   130.31
+  ],
+  "近郊": [
+   46.77,
+   130.35
+  ]
+ }
+}

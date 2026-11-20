@@ -1,0 +1,226 @@
+{
+ "name": "汕头",
+ "center": [
+  23.35,
+  116.68
+ ],
+ "far_ids": [
+  "shantou_00",
+  "shantou_01",
+  "shantou_05",
+  "shantou_06",
+  "shantou_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "shantou_00",
+   "name": "青澳湾",
+   "district": "南澳青澳湾",
+   "lat": 23.44396,
+   "lng": 117.14168,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shantou_01",
+   "name": "南澳北回归线标志自然之门",
+   "district": "南澳青澳湾",
+   "lat": 23.44777,
+   "lng": 117.14356,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shantou_02",
+   "name": "汕头老城",
+   "district": "小公园",
+   "lat": 23.35951,
+   "lng": 116.67765,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shantou_03",
+   "name": "礐石风景区",
+   "district": "潮博馆",
+   "lat": 23.33711,
+   "lng": 116.69123,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shantou_04",
+   "name": "汕头小公园",
+   "district": "小公园",
+   "lat": 23.35922,
+   "lng": 116.68026,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shantou_05",
+   "name": "南澳岛",
+   "district": "南澳后宅镇",
+   "lat": 23.44064,
+   "lng": 117.06827,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shantou_06",
+   "name": "总兵府",
+   "district": "",
+   "lat": 23.45831,
+   "lng": 117.10854,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shantou_07",
+   "name": "陈慈黉故居",
+   "district": "",
+   "lat": 23.57344,
+   "lng": 116.752,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "shantou_08",
+   "name": "潮汕历史文化博览中心",
+   "district": "潮博馆",
+   "lat": 23.32723,
+   "lng": 116.72216,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   23.35,
+   116.68
+  ],
+  "老城区": [
+   23.362,
+   116.67
+  ],
+  "近郊": [
+   23.32,
+   116.71
+  ]
+ }
+}

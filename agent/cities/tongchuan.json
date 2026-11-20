@@ -1,0 +1,245 @@
+{
+ "name": "铜川",
+ "center": [
+  34.9,
+  108.95
+ ],
+ "far_ids": [
+  "tongchuan_00",
+  "tongchuan_01",
+  "tongchuan_02",
+  "tongchuan_04",
+  "tongchuan_05",
+  "tongchuan_06",
+  "tongchuan_07",
+  "tongchuan_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "tongchuan_00",
+   "name": "秦始皇帝陵博物院(兵马俑)",
+   "district": "兵马俑",
+   "lat": 34.39211,
+   "lng": 109.28851,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 120,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "tongchuan_01",
+   "name": "照金香山",
+   "district": "",
+   "lat": 35.09357,
+   "lng": 108.74268,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 34,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongchuan_02",
+   "name": "薛家寨",
+   "district": "",
+   "lat": 35.10287,
+   "lng": 108.67317,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 35,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongchuan_03",
+   "name": "药王山",
+   "district": "",
+   "lat": 34.9128,
+   "lng": 109.00987,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 60,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongchuan_04",
+   "name": "陈炉古镇",
+   "district": "",
+   "lat": 35.02998,
+   "lng": 109.16672,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongchuan_05",
+   "name": "照金国际滑雪场",
+   "district": "",
+   "lat": 35.06974,
+   "lng": 108.65575,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 169,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongchuan_06",
+   "name": "溪山胜境景区",
+   "district": "",
+   "lat": 35.10298,
+   "lng": 108.65392,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongchuan_07",
+   "name": "大香山寺",
+   "district": "",
+   "lat": 35.12679,
+   "lng": 108.73669,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongchuan_08",
+   "name": "玉华宫景区",
+   "district": "",
+   "lat": 35.34353,
+   "lng": 108.91756,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 53,
+   "rating": 3.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongchuan_09",
+   "name": "铜川棉花库",
+   "district": "",
+   "lat": 34.91902,
+   "lng": 109.00453,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 3.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   34.9,
+   108.95
+  ],
+  "老城区": [
+   34.912,
+   108.94
+  ],
+  "近郊": [
+   34.87,
+   108.98
+  ]
+ }
+}

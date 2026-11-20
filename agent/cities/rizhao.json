@@ -1,0 +1,239 @@
+{
+ "name": "日照",
+ "center": [
+  35.42,
+  119.53
+ ],
+ "far_ids": [
+  "rizhao_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "rizhao_00",
+   "name": "日照开元森泊度假乐园",
+   "district": "万平口",
+   "lat": 35.43363,
+   "lng": 119.57601,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 99,
+   "rating": 5.0,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "rizhao_01",
+   "name": "山海天旅游度假区",
+   "district": "山海天浴场",
+   "lat": 35.45535,
+   "lng": 119.58741,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "rizhao_02",
+   "name": "日照海洋公园",
+   "district": "万平口",
+   "lat": 35.43722,
+   "lng": 119.5773,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 169,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "rizhao_03",
+   "name": "第三海水浴场",
+   "district": "山海天浴场",
+   "lat": 35.4541,
+   "lng": 119.58962,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "rizhao_04",
+   "name": "日照海滨国家森林公园",
+   "district": "日照森林公园",
+   "lat": 35.5478,
+   "lng": 119.63465,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "rizhao_05",
+   "name": "日出东方海之秀",
+   "district": "万平口",
+   "lat": 35.43203,
+   "lng": 119.56254,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 100,
+   "rating": 4.5,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "rizhao_06",
+   "name": "灯塔风景区",
+   "district": "万平口",
+   "lat": 35.40162,
+   "lng": 119.57175,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "rizhao_07",
+   "name": "万平口海滨风景区",
+   "district": "万平口",
+   "lat": 35.42658,
+   "lng": 119.56734,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "rizhao_08",
+   "name": "九仙山风景区",
+   "district": "",
+   "lat": 35.69521,
+   "lng": 119.35202,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 64,
+   "rating": 4.1,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "rizhao_09",
+   "name": "日照看日出",
+   "district": "万平口",
+   "lat": 35.42658,
+   "lng": 119.56734,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   35.42,
+   119.53
+  ],
+  "老城区": [
+   35.432,
+   119.52
+  ],
+  "近郊": [
+   35.39,
+   119.56
+  ]
+ }
+}

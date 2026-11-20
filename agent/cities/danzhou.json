@@ -1,0 +1,247 @@
+{
+ "name": "儋州",
+ "center": [
+  19.52,
+  109.58
+ ],
+ "far_ids": [
+  "danzhou_00",
+  "danzhou_01",
+  "danzhou_02",
+  "danzhou_03",
+  "danzhou_04",
+  "danzhou_05",
+  "danzhou_06",
+  "danzhou_08",
+  "danzhou_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "danzhou_00",
+   "name": "海花岛水上王国",
+   "district": "海花岛",
+   "lat": 19.66771,
+   "lng": 109.19313,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "danzhou_01",
+   "name": "海花岛海洋乐园",
+   "district": "海花岛",
+   "lat": 19.66946,
+   "lng": 109.19059,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 160,
+   "rating": 4.8,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "danzhou_02",
+   "name": "海花岛旅游度假区",
+   "district": "海花岛",
+   "lat": 19.66946,
+   "lng": 109.18491,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "danzhou_03",
+   "name": "海花岛五国温泉城",
+   "district": "海花岛",
+   "lat": 19.66977,
+   "lng": 109.19354,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 124,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "danzhou_04",
+   "name": "石花水洞",
+   "district": "",
+   "lat": 19.44861,
+   "lng": 109.30645,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "danzhou_05",
+   "name": "东坡书院",
+   "district": "",
+   "lat": 19.74651,
+   "lng": 109.36436,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 37,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "danzhou_06",
+   "name": "儋州千年古盐田",
+   "district": "洋浦港",
+   "lat": 19.7456,
+   "lng": 109.22434,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "danzhou_07",
+   "name": "海南热带植物园",
+   "district": "",
+   "lat": 19.51756,
+   "lng": 109.51019,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 26,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "danzhou_08",
+   "name": "儋州东坡文化旅游区",
+   "district": "",
+   "lat": 19.74445,
+   "lng": 109.36448,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 37,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "danzhou_09",
+   "name": "儋州跳伞",
+   "district": "海花岛",
+   "lat": 19.65868,
+   "lng": 109.16131,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   19.52,
+   109.58
+  ],
+  "老城区": [
+   19.532,
+   109.57
+  ],
+  "近郊": [
+   19.49,
+   109.61
+  ]
+ }
+}

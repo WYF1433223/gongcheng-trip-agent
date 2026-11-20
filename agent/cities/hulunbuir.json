@@ -1,0 +1,249 @@
+{
+ "name": "呼伦贝尔",
+ "center": [
+  49.21,
+  119.77
+ ],
+ "far_ids": [
+  "hulunbuir_00",
+  "hulunbuir_01",
+  "hulunbuir_02",
+  "hulunbuir_03",
+  "hulunbuir_04",
+  "hulunbuir_05",
+  "hulunbuir_06",
+  "hulunbuir_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "hulunbuir_00",
+   "name": "呼伦贝尔大草原",
+   "district": "",
+   "lat": 49.57977,
+   "lng": 119.90953,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hulunbuir_01",
+   "name": "莫尔格勒河景区",
+   "district": "",
+   "lat": 49.57977,
+   "lng": 119.90953,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hulunbuir_02",
+   "name": "满洲里国门景区",
+   "district": "",
+   "lat": 49.63631,
+   "lng": 117.36027,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 60,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "hulunbuir_03",
+   "name": "莫尔道嘎国家森林公园",
+   "district": "",
+   "lat": 51.34231,
+   "lng": 120.68163,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hulunbuir_04",
+   "name": "满洲里市中俄边境旅游区",
+   "district": "",
+   "lat": 49.63614,
+   "lng": 117.36098,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "hulunbuir_05",
+   "name": "额尔古纳国家湿地公园",
+   "district": "",
+   "lat": 50.35997,
+   "lng": 120.43351,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hulunbuir_06",
+   "name": "额尔古纳湿地",
+   "district": "额尔古纳湿地",
+   "lat": 50.25536,
+   "lng": 120.15528,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 20,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hulunbuir_07",
+   "name": "海拉尔国家森林公园",
+   "district": "",
+   "lat": 49.219,
+   "lng": 119.72374,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 28,
+   "rating": 3.8,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hulunbuir_08",
+   "name": "呼伦湖",
+   "district": "",
+   "lat": 49.33695,
+   "lng": 117.67127,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 32,
+   "rating": 3.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hulunbuir_09",
+   "name": "世界反法西斯战争海拉尔纪念园",
+   "district": "",
+   "lat": 49.2567,
+   "lng": 119.72544,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 50,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   49.21,
+   119.77
+  ],
+  "老城区": [
+   49.222,
+   119.76
+  ],
+  "近郊": [
+   49.18,
+   119.8
+  ]
+ }
+}

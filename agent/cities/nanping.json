@@ -1,0 +1,247 @@
+{
+ "name": "南平",
+ "center": [
+  26.64,
+  118.18
+ ],
+ "far_ids": [
+  "nanping_00",
+  "nanping_01",
+  "nanping_02",
+  "nanping_03",
+  "nanping_04",
+  "nanping_05",
+  "nanping_06",
+  "nanping_07",
+  "nanping_08",
+  "nanping_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "nanping_00",
+   "name": "三姑度假区",
+   "district": "三姑度假区",
+   "lat": 27.64988,
+   "lng": 117.98919,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanping_01",
+   "name": "武夷山九曲溪",
+   "district": "武夷山风景区",
+   "lat": 27.64227,
+   "lng": 117.93259,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 200,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanping_02",
+   "name": "天游峰",
+   "district": "武夷山风景区",
+   "lat": 27.65611,
+   "lng": 117.9588,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanping_03",
+   "name": "武夷山国家公园",
+   "district": "武夷山风景区",
+   "lat": 27.66299,
+   "lng": 117.9666,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 70,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanping_04",
+   "name": "《印象大红袍》演出",
+   "district": "三姑度假区",
+   "lat": 27.64411,
+   "lng": 117.98444,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 208,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanping_05",
+   "name": "九曲溪竹筏漂流",
+   "district": "武夷山风景区",
+   "lat": 27.64306,
+   "lng": 117.93462,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 200,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanping_06",
+   "name": "青龙大瀑布",
+   "district": "",
+   "lat": 27.67231,
+   "lng": 117.78043,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanping_07",
+   "name": "中华武夷茶博园",
+   "district": "三姑度假区",
+   "lat": 27.64558,
+   "lng": 117.98452,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanping_08",
+   "name": "和平古镇",
+   "district": "",
+   "lat": 27.16502,
+   "lng": 117.30848,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 47,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanping_09",
+   "name": "下梅古民居",
+   "district": "三姑度假区",
+   "lat": 27.67484,
+   "lng": 118.05449,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   26.64,
+   118.18
+  ],
+  "老城区": [
+   26.652,
+   118.17
+  ],
+  "近郊": [
+   26.61,
+   118.21
+  ]
+ }
+}

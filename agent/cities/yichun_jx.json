@@ -1,0 +1,239 @@
+{
+ "name": "宜春",
+ "center": [
+  27.81,
+  114.42
+ ],
+ "far_ids": [
+  "yichun_jx_00",
+  "yichun_jx_04",
+  "yichun_jx_05"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "yichun_jx_00",
+   "name": "武功山",
+   "district": "",
+   "lat": 27.60381,
+   "lng": 114.25711,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yichun_jx_01",
+   "name": "明月山维景国际温泉",
+   "district": "温泉度假区",
+   "lat": 27.7084,
+   "lng": 114.29134,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 179,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yichun_jx_02",
+   "name": "宜春熊出没乐园",
+   "district": "",
+   "lat": 27.82396,
+   "lng": 114.34594,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 180,
+   "rating": 4.8,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yichun_jx_03",
+   "name": "明月千古情",
+   "district": "温泉度假区",
+   "lat": 27.68572,
+   "lng": 114.2914,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 160,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yichun_jx_04",
+   "name": "羊狮慕风景区",
+   "district": "",
+   "lat": 27.54752,
+   "lng": 114.26269,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 230,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yichun_jx_05",
+   "name": "宜春明月山旅游区",
+   "district": "明月山上",
+   "lat": 27.60208,
+   "lng": 114.30011,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 90,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yichun_jx_06",
+   "name": "明月山天沐温泉度假村",
+   "district": "温泉度假区",
+   "lat": 27.69432,
+   "lng": 114.28862,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 179,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yichun_jx_07",
+   "name": "江西矿疗温泉",
+   "district": "温泉度假区",
+   "lat": 27.69472,
+   "lng": 114.30162,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 158,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yichun_jx_08",
+   "name": "温汤镇",
+   "district": "温泉度假区",
+   "lat": 27.69729,
+   "lng": 114.30341,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yichun_jx_09",
+   "name": "江西省宜春温泉工人疗养院(工疗温泉)",
+   "district": "温泉度假区",
+   "lat": 27.69734,
+   "lng": 114.29681,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 109,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   27.81,
+   114.42
+  ],
+  "老城区": [
+   27.822,
+   114.41
+  ],
+  "近郊": [
+   27.78,
+   114.45
+  ]
+ }
+}

@@ -1,0 +1,230 @@
+{
+ "name": "宝鸡",
+ "center": [
+  34.36,
+  107.24
+ ],
+ "far_ids": [
+  "baoji_01",
+  "baoji_02",
+  "baoji_03",
+  "baoji_05",
+  "baoji_06",
+  "baoji_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "baoji_00",
+   "name": "宝鸡青铜器博物院",
+   "district": "陈仓老街",
+   "lat": 34.3534,
+   "lng": 107.2016,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "baoji_01",
+   "name": "秦岭",
+   "district": "",
+   "lat": 34.15713,
+   "lng": 107.42049,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "baoji_02",
+   "name": "法门文化景区",
+   "district": "",
+   "lat": 34.43966,
+   "lng": 107.90872,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 76,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "baoji_03",
+   "name": "太白山国家森林公园",
+   "district": "",
+   "lat": 34.05089,
+   "lng": 107.87553,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 180,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baoji_04",
+   "name": "大唐秦王陵博物馆",
+   "district": "",
+   "lat": 34.40155,
+   "lng": 107.13622,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 44,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "baoji_05",
+   "name": "关山草原",
+   "district": "",
+   "lat": 34.73217,
+   "lng": 106.58019,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baoji_06",
+   "name": "红河谷森林公园",
+   "district": "",
+   "lat": 34.03046,
+   "lng": 107.76522,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 27,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baoji_07",
+   "name": "中华石鼓园",
+   "district": "陈仓老街",
+   "lat": 34.35418,
+   "lng": 107.19964,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baoji_08",
+   "name": "五丈原诸葛亮庙",
+   "district": "",
+   "lat": 34.26919,
+   "lng": 107.63414,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 30,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   34.36,
+   107.24
+  ],
+  "老城区": [
+   34.372,
+   107.23
+  ],
+  "近郊": [
+   34.33,
+   107.27
+  ]
+ }
+}

@@ -1,0 +1,241 @@
+{
+ "name": "太原",
+ "center": [
+  37.87,
+  112.55
+ ],
+ "far_ids": [],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "taiyuan_00",
+   "name": "东湖醋园",
+   "district": "太原火车站",
+   "lat": 37.88443,
+   "lng": 112.60237,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 7,
+   "rating": 4.9,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taiyuan_01",
+   "name": "晋祠博物馆",
+   "district": "太原古县城",
+   "lat": 37.71496,
+   "lng": 112.44789,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 80,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "taiyuan_02",
+   "name": "山西博物院",
+   "district": "山西博物院",
+   "lat": 37.87145,
+   "lng": 112.53779,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "taiyuan_03",
+   "name": "晋商博物院",
+   "district": "柳巷",
+   "lat": 37.88109,
+   "lng": 112.56908,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 38,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "taiyuan_04",
+   "name": "太原北齐壁画博物馆",
+   "district": "太原火车站",
+   "lat": 37.84266,
+   "lng": 112.6249,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 35,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "taiyuan_05",
+   "name": "太原植物园",
+   "district": "太原古县城",
+   "lat": 37.75268,
+   "lng": 112.47383,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 30,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taiyuan_06",
+   "name": "蒙山大佛",
+   "district": "",
+   "lat": 37.78899,
+   "lng": 112.45116,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 50,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taiyuan_07",
+   "name": "中国煤炭博物馆",
+   "district": "山西博物院",
+   "lat": 37.86305,
+   "lng": 112.53497,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 60,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "taiyuan_08",
+   "name": "太原动物园",
+   "district": "太原动物园",
+   "lat": 37.91702,
+   "lng": 112.59229,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 10,
+   "rating": 4.3,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "taiyuan_09",
+   "name": "太原古县城景区",
+   "district": "太原古县城",
+   "lat": 37.73339,
+   "lng": 112.49251,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   37.87,
+   112.55
+  ],
+  "老城区": [
+   37.882,
+   112.54
+  ],
+  "近郊": [
+   37.84,
+   112.58
+  ]
+ }
+}

@@ -1,0 +1,246 @@
+{
+ "name": "株洲",
+ "center": [
+  27.83,
+  113.13
+ ],
+ "far_ids": [
+  "zhuzhou_02",
+  "zhuzhou_04",
+  "zhuzhou_05",
+  "zhuzhou_07",
+  "zhuzhou_08",
+  "zhuzhou_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "zhuzhou_00",
+   "name": "株洲方特欢乐世界",
+   "district": "",
+   "lat": 27.99558,
+   "lng": 113.19981,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 195,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhuzhou_01",
+   "name": "株洲方特梦幻王国",
+   "district": "",
+   "lat": 27.99003,
+   "lng": 113.19929,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 197,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhuzhou_02",
+   "name": "花湖谷景区",
+   "district": "",
+   "lat": 26.80997,
+   "lng": 113.69566,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.9,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhuzhou_03",
+   "name": "株洲方特旅游度假区",
+   "district": "",
+   "lat": 27.99244,
+   "lng": 113.20042,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 195,
+   "rating": 4.8,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhuzhou_04",
+   "name": "醴陵陶瓷博物馆",
+   "district": "",
+   "lat": 27.6922,
+   "lng": 113.47877,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "zhuzhou_05",
+   "name": "酒仙湖",
+   "district": "",
+   "lat": 27.20585,
+   "lng": 113.59901,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 62,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhuzhou_06",
+   "name": "株洲博物馆",
+   "district": "",
+   "lat": 27.83035,
+   "lng": 113.12181,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "zhuzhou_07",
+   "name": "神农谷国家森林公园",
+   "district": "",
+   "lat": 26.50786,
+   "lng": 114.03298,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 58,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhuzhou_08",
+   "name": "炎帝陵",
+   "district": "",
+   "lat": 26.4251,
+   "lng": 113.67718,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 60,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhuzhou_09",
+   "name": "酒埠江旅游区",
+   "district": "",
+   "lat": 27.21632,
+   "lng": 113.59393,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   27.83,
+   113.13
+  ],
+  "老城区": [
+   27.842,
+   113.12
+  ],
+  "近郊": [
+   27.8,
+   113.16
+  ]
+ }
+}

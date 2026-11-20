@@ -1,0 +1,248 @@
+{
+ "name": "汕尾",
+ "center": [
+  22.79,
+  115.38
+ ],
+ "far_ids": [
+  "shanwei_00",
+  "shanwei_01",
+  "shanwei_03",
+  "shanwei_05",
+  "shanwei_06",
+  "shanwei_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "shanwei_00",
+   "name": "海上古堡",
+   "district": "红海湾遮浪旅游区",
+   "lat": 22.67549,
+   "lng": 115.58854,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.9,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shanwei_01",
+   "name": "后澳玻璃海",
+   "district": "",
+   "lat": 22.68188,
+   "lng": 115.57892,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shanwei_02",
+   "name": "品清湖海上观光游",
+   "district": "汕尾城区",
+   "lat": 22.7712,
+   "lng": 115.36736,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 68,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shanwei_03",
+   "name": "水底山温泉",
+   "district": "深汕特别合作区",
+   "lat": 22.9037,
+   "lng": 115.01117,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 128,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shanwei_04",
+   "name": "二马路美食街",
+   "district": "汕尾城区",
+   "lat": 22.77823,
+   "lng": 115.36694,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shanwei_05",
+   "name": "玄武山",
+   "district": "",
+   "lat": 22.82376,
+   "lng": 115.84014,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 24,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shanwei_06",
+   "name": "红海湾旅游区",
+   "district": "红海湾遮浪旅游区",
+   "lat": 22.66795,
+   "lng": 115.57619,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shanwei_07",
+   "name": "汕尾风车岛",
+   "district": "",
+   "lat": 22.74215,
+   "lng": 115.58857,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shanwei_08",
+   "name": "汕尾保利金町湾旅游度假区",
+   "district": "金町湾旅游度假区",
+   "lat": 22.80026,
+   "lng": 115.30294,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 4.0,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shanwei_09",
+   "name": "金町湾沙滩",
+   "district": "金町湾旅游度假区",
+   "lat": 22.79703,
+   "lng": 115.29884,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 3.9,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   22.79,
+   115.38
+  ],
+  "老城区": [
+   22.802,
+   115.37
+  ],
+  "近郊": [
+   22.76,
+   115.41
+  ]
+ }
+}

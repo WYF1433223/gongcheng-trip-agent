@@ -1,0 +1,240 @@
+{
+ "name": "长春",
+ "center": [
+  43.82,
+  125.32
+ ],
+ "far_ids": [
+  "changchun_00",
+  "changchun_05"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "changchun_00",
+   "name": "天定山旅游度假小镇",
+   "district": "",
+   "lat": 43.87934,
+   "lng": 125.59709,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changchun_01",
+   "name": "净月潭",
+   "district": "净月大学城",
+   "lat": 43.78704,
+   "lng": 125.48461,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 27,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "changchun_02",
+   "name": "长春世界雕塑园",
+   "district": "卫星广场",
+   "lat": 43.8286,
+   "lng": 125.3395,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changchun_03",
+   "name": "这有山",
+   "district": "红旗街",
+   "lat": 43.87333,
+   "lng": 125.29907,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changchun_04",
+   "name": "长春动植物公园",
+   "district": "长春动植物公园",
+   "lat": 43.87373,
+   "lng": 125.34177,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 30,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changchun_05",
+   "name": "长春冰雪新天地",
+   "district": "",
+   "lat": 43.88032,
+   "lng": 125.59556,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "changchun_06",
+   "name": "长春刘老根大舞台",
+   "district": "长春动植物公园",
+   "lat": 43.86358,
+   "lng": 125.35649,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 80,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changchun_07",
+   "name": "长影世纪城",
+   "district": "净月大学城",
+   "lat": 43.77824,
+   "lng": 125.45284,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 49,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "changchun_08",
+   "name": "长春电影制片厂",
+   "district": "红旗街",
+   "lat": 43.86992,
+   "lng": 125.29878,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 90,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changchun_09",
+   "name": "伪满皇宫博物院",
+   "district": "伪满皇宫",
+   "lat": 43.91129,
+   "lng": 125.35539,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 60,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   43.82,
+   125.32
+  ],
+  "老城区": [
+   43.832,
+   125.31
+  ],
+  "近郊": [
+   43.79,
+   125.35
+  ]
+ }
+}

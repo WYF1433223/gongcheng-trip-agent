@@ -1,0 +1,236 @@
+{
+ "name": "澳门",
+ "center": [
+  22.19,
+  113.54
+ ],
+ "far_ids": [],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "macau_00",
+   "name": "澳门新濠天地《水舞间》",
+   "district": "",
+   "lat": 22.15251,
+   "lng": 113.57948,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 588,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "macau_01",
+   "name": "新濠天地",
+   "district": "",
+   "lat": 22.15216,
+   "lng": 113.57784,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "macau_02",
+   "name": "新濠影汇水上乐园",
+   "district": "",
+   "lat": 22.14447,
+   "lng": 113.57009,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 288,
+   "rating": 4.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "macau_03",
+   "name": "澳门大赛车博物馆",
+   "district": "",
+   "lat": 22.19785,
+   "lng": 113.56452,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 44,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "macau_04",
+   "name": "澳门旅游塔",
+   "district": "",
+   "lat": 22.18329,
+   "lng": 113.54842,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 120,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "macau_05",
+   "name": "影汇之星8字形摩天轮",
+   "district": "",
+   "lat": 22.14318,
+   "lng": 113.5731,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 75,
+   "rating": 4.6,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "macau_06",
+   "name": "澳门新濠影汇度假区",
+   "district": "",
+   "lat": 22.14385,
+   "lng": 113.57339,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "macau_07",
+   "name": "澳门teamLab超自然空间",
+   "district": "",
+   "lat": 22.14714,
+   "lng": 113.57029,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 203,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "macau_08",
+   "name": "港珠澳大桥游",
+   "district": "港珠澳大桥珠海公路口",
+   "lat": 22.21274,
+   "lng": 113.58805,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 188,
+   "rating": 4.5,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "macau_09",
+   "name": "澳门开篷观光巴士",
+   "district": "",
+   "lat": 22.19996,
+   "lng": 113.57072,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 152,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   22.19,
+   113.54
+  ],
+  "老城区": [
+   22.202,
+   113.53
+  ],
+  "近郊": [
+   22.16,
+   113.57
+  ]
+ }
+}

@@ -1,0 +1,244 @@
+{
+ "name": "运城",
+ "center": [
+  35.03,
+  111.0
+ ],
+ "far_ids": [
+  "yuncheng_01",
+  "yuncheng_03",
+  "yuncheng_04",
+  "yuncheng_05",
+  "yuncheng_06",
+  "yuncheng_07",
+  "yuncheng_08",
+  "yuncheng_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "yuncheng_00",
+   "name": "运城关公故里文化旅游景区",
+   "district": "",
+   "lat": 34.91544,
+   "lng": 110.85532,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 50,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yuncheng_01",
+   "name": "万荣县飞云楼景区",
+   "district": "",
+   "lat": 35.42193,
+   "lng": 110.84139,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 10,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yuncheng_02",
+   "name": "解州关帝祖庙",
+   "district": "",
+   "lat": 34.91362,
+   "lng": 110.85637,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yuncheng_03",
+   "name": "永乐宫",
+   "district": "",
+   "lat": 34.72608,
+   "lng": 110.69982,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 50,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yuncheng_04",
+   "name": "李家大院",
+   "district": "",
+   "lat": 35.29585,
+   "lng": 110.73129,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 45,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yuncheng_05",
+   "name": "黄河大梯子崖",
+   "district": "",
+   "lat": 35.68743,
+   "lng": 110.60336,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 50,
+   "rating": 4.7,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yuncheng_06",
+   "name": "鹳雀楼",
+   "district": "",
+   "lat": 34.84367,
+   "lng": 110.2769,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 45,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yuncheng_07",
+   "name": "寺头关帝庙",
+   "district": "",
+   "lat": 34.89697,
+   "lng": 111.54951,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yuncheng_08",
+   "name": "普救寺·西厢记",
+   "district": "",
+   "lat": 34.85084,
+   "lng": 110.34016,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 50,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yuncheng_09",
+   "name": "广仁王庙",
+   "district": "",
+   "lat": 34.73496,
+   "lng": 110.69399,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 15,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   35.03,
+   111.0
+  ],
+  "老城区": [
+   35.042,
+   110.99
+  ],
+  "近郊": [
+   35.0,
+   111.03
+  ]
+ }
+}

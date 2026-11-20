@@ -1,0 +1,239 @@
+{
+ "name": "沈阳",
+ "center": [
+  41.8,
+  123.43
+ ],
+ "far_ids": [],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "shenyang_00",
+   "name": "沈阳方特欢乐世界",
+   "district": "沈北大学城",
+   "lat": 41.96967,
+   "lng": 123.42598,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shenyang_01",
+   "name": "辽宁省博物馆",
+   "district": "省博物馆",
+   "lat": 41.68425,
+   "lng": 123.46695,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "shenyang_02",
+   "name": "张学良旧居",
+   "district": "中街故宫",
+   "lat": 41.80021,
+   "lng": 123.46426,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 48,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shenyang_03",
+   "name": "沈阳故宫",
+   "district": "中街故宫",
+   "lat": 41.80449,
+   "lng": 123.46221,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 50,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shenyang_04",
+   "name": "沈阳方城文化旅游区",
+   "district": "中街故宫",
+   "lat": 41.80515,
+   "lng": 123.46294,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shenyang_05",
+   "name": "沈阳中街刘老根大舞台",
+   "district": "中街故宫",
+   "lat": 41.80622,
+   "lng": 123.4597,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 480,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shenyang_06",
+   "name": "中街",
+   "district": "中街故宫",
+   "lat": 41.80708,
+   "lng": 123.46295,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shenyang_07",
+   "name": "清河半岛温泉",
+   "district": "沈北大学城",
+   "lat": 41.94214,
+   "lng": 123.43922,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 259,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shenyang_08",
+   "name": "东三省总督府(张学良官邸)",
+   "district": "中街故宫",
+   "lat": 41.80295,
+   "lng": 123.46407,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 39,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "shenyang_09",
+   "name": "沈阳“九·一八”历史博物馆",
+   "district": "九一八",
+   "lat": 41.84275,
+   "lng": 123.47397,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   41.8,
+   123.43
+  ],
+  "老城区": [
+   41.812,
+   123.42
+  ],
+  "近郊": [
+   41.77,
+   123.46
+  ]
+ }
+}

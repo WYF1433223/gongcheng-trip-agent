@@ -1,0 +1,245 @@
+{
+ "name": "钦州",
+ "center": [
+  21.98,
+  108.65
+ ],
+ "far_ids": [
+  "qinzhou_00",
+  "qinzhou_03",
+  "qinzhou_04",
+  "qinzhou_06",
+  "qinzhou_07",
+  "qinzhou_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "qinzhou_00",
+   "name": "三娘湾",
+   "district": "三娘湾风景度假区",
+   "lat": 21.61714,
+   "lng": 108.75701,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qinzhou_01",
+   "name": "钦州园博园",
+   "district": "",
+   "lat": 21.939,
+   "lng": 108.69007,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qinzhou_02",
+   "name": "刘永福故居",
+   "district": "",
+   "lat": 21.95104,
+   "lng": 108.62787,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "qinzhou_03",
+   "name": "广旅海豚湾出海寻豚",
+   "district": "三娘湾风景度假区",
+   "lat": 21.60754,
+   "lng": 108.75939,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 138,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qinzhou_04",
+   "name": "八寨沟",
+   "district": "",
+   "lat": 22.10131,
+   "lng": 108.25946,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 45,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qinzhou_05",
+   "name": "钦州老街景区",
+   "district": "",
+   "lat": 21.95343,
+   "lng": 108.62863,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qinzhou_06",
+   "name": "大芦村民俗风情旅游区",
+   "district": "",
+   "lat": 22.45767,
+   "lng": 109.3447,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 20,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qinzhou_07",
+   "name": "犀丽湾",
+   "district": "",
+   "lat": 21.65141,
+   "lng": 108.73474,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 3.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qinzhou_08",
+   "name": "平陆运河景区",
+   "district": "",
+   "lat": 21.69243,
+   "lng": 108.72617,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qinzhou_09",
+   "name": "钦州 · 《遇见青春》巡回演唱会",
+   "district": "钦州东站",
+   "lat": 21.96956,
+   "lng": 108.6624,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   21.98,
+   108.65
+  ],
+  "老城区": [
+   21.992,
+   108.64
+  ],
+  "近郊": [
+   21.95,
+   108.68
+  ]
+ }
+}

@@ -1,0 +1,223 @@
+{
+ "name": "马鞍山",
+ "center": [
+  31.67,
+  118.51
+ ],
+ "far_ids": [
+  "maanshan_00",
+  "maanshan_01",
+  "maanshan_03",
+  "maanshan_04"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "maanshan_00",
+   "name": "牛首山文化旅游区",
+   "district": "牛首山风景区",
+   "lat": 31.91118,
+   "lng": 118.75026,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 145,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "maanshan_01",
+   "name": "香泉温泉",
+   "district": "",
+   "lat": 31.87238,
+   "lng": 118.32463,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 128,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "maanshan_02",
+   "name": "采石矶",
+   "district": "",
+   "lat": 31.66691,
+   "lng": 118.46427,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "maanshan_03",
+   "name": "褒禅山景区",
+   "district": "",
+   "lat": 31.78312,
+   "lng": 118.11404,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "maanshan_04",
+   "name": "鸡笼山国家森林公园",
+   "district": "",
+   "lat": 31.81059,
+   "lng": 118.21312,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "maanshan_05",
+   "name": "李白文化园",
+   "district": "",
+   "lat": 31.49738,
+   "lng": 118.52555,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 30,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "maanshan_06",
+   "name": "大青山野生动物世界",
+   "district": "",
+   "lat": 31.51241,
+   "lng": 118.51171,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 88,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "maanshan_07",
+   "name": "采石矶风景区-沿江栈道",
+   "district": "",
+   "lat": 31.65369,
+   "lng": 118.46294,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "maanshan_08",
+   "name": "郑蒲港圣祥冰雪世界",
+   "district": "",
+   "lat": 31.62919,
+   "lng": 118.34256,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   31.67,
+   118.51
+  ],
+  "老城区": [
+   31.682,
+   118.5
+  ],
+  "近郊": [
+   31.64,
+   118.54
+  ]
+ }
+}

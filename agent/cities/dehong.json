@@ -1,0 +1,243 @@
+{
+ "name": "德宏",
+ "center": [
+  24.43,
+  98.58
+ ],
+ "far_ids": [
+  "dehong_00",
+  "dehong_06",
+  "dehong_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "dehong_00",
+   "name": "莫里热带雨林景区",
+   "district": "",
+   "lat": 24.11482,
+   "lng": 97.99296,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 34,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "dehong_01",
+   "name": "树包塔",
+   "district": "",
+   "lat": 24.44101,
+   "lng": 98.59089,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dehong_02",
+   "name": "芒市广场",
+   "district": "",
+   "lat": 24.4467,
+   "lng": 98.58408,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dehong_03",
+   "name": "傣族古镇",
+   "district": "",
+   "lat": 24.44192,
+   "lng": 98.60962,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dehong_04",
+   "name": "勐焕大金塔",
+   "district": "",
+   "lat": 24.42789,
+   "lng": 98.60273,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dehong_05",
+   "name": "勐焕银塔",
+   "district": "",
+   "lat": 24.4236,
+   "lng": 98.6017,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 38,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dehong_06",
+   "name": "姐告口岸",
+   "district": "",
+   "lat": 23.98526,
+   "lng": 97.89402,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dehong_07",
+   "name": "勐巴娜西珍奇园",
+   "district": "",
+   "lat": 24.43196,
+   "lng": 98.59528,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dehong_08",
+   "name": "一寨两国",
+   "district": "",
+   "lat": 23.95925,
+   "lng": 97.80481,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dehong_09",
+   "name": "孔雀谷",
+   "district": "",
+   "lat": 24.53902,
+   "lng": 98.65242,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 32,
+   "rating": 3.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   24.43,
+   98.58
+  ],
+  "老城区": [
+   24.442,
+   98.57
+  ],
+  "近郊": [
+   24.4,
+   98.61
+  ]
+ }
+}

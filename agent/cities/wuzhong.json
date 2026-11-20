@@ -1,0 +1,245 @@
+{
+ "name": "吴忠",
+ "center": [
+  37.99,
+  106.2
+ ],
+ "far_ids": [
+  "wuzhong_00",
+  "wuzhong_01",
+  "wuzhong_02",
+  "wuzhong_03",
+  "wuzhong_04",
+  "wuzhong_07",
+  "wuzhong_08",
+  "wuzhong_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "wuzhong_00",
+   "name": "同心清真大寺",
+   "district": "",
+   "lat": 36.97106,
+   "lng": 105.92204,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuzhong_01",
+   "name": "青铜峡黄河大峡谷旅游区",
+   "district": "",
+   "lat": 37.86494,
+   "lng": 105.98379,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuzhong_02",
+   "name": "青铜峡108塔",
+   "district": "",
+   "lat": 37.88092,
+   "lng": 105.99049,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuzhong_03",
+   "name": "黄河坛",
+   "district": "",
+   "lat": 37.8491,
+   "lng": 105.95058,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 45,
+   "rating": 4.3,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuzhong_04",
+   "name": "牛首山旅游景区",
+   "district": "",
+   "lat": 37.81416,
+   "lng": 106.05721,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuzhong_05",
+   "name": "吴忠市董府景区",
+   "district": "",
+   "lat": 37.92953,
+   "lng": 106.09086,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 50,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuzhong_06",
+   "name": "吴忠市博物馆",
+   "district": "",
+   "lat": 37.9948,
+   "lng": 106.16482,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 3.9,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "wuzhong_07",
+   "name": "哈巴湖生态旅游区",
+   "district": "",
+   "lat": 37.72794,
+   "lng": 107.067,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 50,
+   "rating": 3.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuzhong_08",
+   "name": "东风大峡谷",
+   "district": "",
+   "lat": 37.3092,
+   "lng": 107.20037,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuzhong_09",
+   "name": "西鸽酒庄",
+   "district": "",
+   "lat": 38.07656,
+   "lng": 105.88566,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   37.99,
+   106.2
+  ],
+  "老城区": [
+   38.002,
+   106.19
+  ],
+  "近郊": [
+   37.96,
+   106.23
+  ]
+ }
+}

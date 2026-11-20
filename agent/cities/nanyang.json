@@ -1,0 +1,245 @@
+{
+ "name": "南阳",
+ "center": [
+  32.99,
+  112.53
+ ],
+ "far_ids": [
+  "nanyang_00",
+  "nanyang_02",
+  "nanyang_03",
+  "nanyang_07",
+  "nanyang_08",
+  "nanyang_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "nanyang_00",
+   "name": "赊店古镇",
+   "district": "",
+   "lat": 33.05983,
+   "lng": 112.95494,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanyang_01",
+   "name": "卧龙岗",
+   "district": "南阳火车站",
+   "lat": 32.98096,
+   "lng": 112.51285,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanyang_02",
+   "name": "山陕会馆",
+   "district": "",
+   "lat": 33.06164,
+   "lng": 112.95227,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.9,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanyang_03",
+   "name": "内乡县衙",
+   "district": "",
+   "lat": 33.05316,
+   "lng": 111.85605,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 30,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "nanyang_04",
+   "name": "张仲景博物院(医圣祠)",
+   "district": "独山大道",
+   "lat": 33.00385,
+   "lng": 112.5602,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 23,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "nanyang_05",
+   "name": "南阳卧龙岗武侯祠",
+   "district": "南阳火车站",
+   "lat": 32.98408,
+   "lng": 112.5161,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 46,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanyang_06",
+   "name": "南阳府衙",
+   "district": "独山大道",
+   "lat": 32.99993,
+   "lng": 112.54377,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 39,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "nanyang_07",
+   "name": "西峡恐龙遗迹园",
+   "district": "",
+   "lat": 33.23735,
+   "lng": 111.69329,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 70,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanyang_08",
+   "name": "老界岭旅游度假区",
+   "district": "",
+   "lat": 33.64701,
+   "lng": 111.77688,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 1,
+   "rating": 4.4,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanyang_09",
+   "name": "丹江大观苑",
+   "district": "",
+   "lat": 32.83652,
+   "lng": 111.5607,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 85,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   32.99,
+   112.53
+  ],
+  "老城区": [
+   33.002,
+   112.52
+  ],
+  "近郊": [
+   32.96,
+   112.56
+  ]
+ }
+}

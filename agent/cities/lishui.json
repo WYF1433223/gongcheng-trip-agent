@@ -1,0 +1,248 @@
+{
+ "name": "丽水",
+ "center": [
+  28.45,
+  119.92
+ ],
+ "far_ids": [
+  "lishui_00",
+  "lishui_01",
+  "lishui_02",
+  "lishui_03",
+  "lishui_04",
+  "lishui_05",
+  "lishui_06",
+  "lishui_07",
+  "lishui_08",
+  "lishui_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "lishui_00",
+   "name": "云和梯田景区",
+   "district": "云和梯田景区",
+   "lat": 28.0525,
+   "lng": 119.48735,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 70,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "lishui_01",
+   "name": "古堰画乡旅游度假区",
+   "district": "古堰画乡景区",
+   "lat": 28.30469,
+   "lng": 119.74664,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 45,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "lishui_02",
+   "name": "缙云仙都景区",
+   "district": "仙都景区",
+   "lat": 28.697,
+   "lng": 120.13399,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 90,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "lishui_03",
+   "name": "鼎湖峰",
+   "district": "仙都景区",
+   "lat": 28.6962,
+   "lng": 120.15064,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lishui_04",
+   "name": "松阳老街",
+   "district": "松阳县城",
+   "lat": 28.44985,
+   "lng": 119.49245,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lishui_05",
+   "name": "云中大漈",
+   "district": "",
+   "lat": 27.81596,
+   "lng": 119.59875,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lishui_06",
+   "name": "杨家堂村",
+   "district": "杨家堂村",
+   "lat": 28.46568,
+   "lng": 119.55374,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "lishui_07",
+   "name": "河阳古民居",
+   "district": "",
+   "lat": 28.73095,
+   "lng": 120.01465,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 35,
+   "rating": 4.3,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lishui_08",
+   "name": "陈家铺村",
+   "district": "四都寨头摄影基地",
+   "lat": 28.52773,
+   "lng": 119.52112,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "lishui_09",
+   "name": "地心世界",
+   "district": "",
+   "lat": 28.59236,
+   "lng": 119.02351,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 358,
+   "rating": 4.1,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   28.45,
+   119.92
+  ],
+  "老城区": [
+   28.462,
+   119.91
+  ],
+  "近郊": [
+   28.42,
+   119.95
+  ]
+ }
+}

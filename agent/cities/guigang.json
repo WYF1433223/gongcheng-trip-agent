@@ -1,0 +1,244 @@
+{
+ "name": "贵港",
+ "center": [
+  23.11,
+  109.6
+ ],
+ "far_ids": [
+  "guigang_02",
+  "guigang_04",
+  "guigang_05",
+  "guigang_07",
+  "guigang_08",
+  "guigang_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "guigang_00",
+   "name": "南山寺",
+   "district": "",
+   "lat": 23.05596,
+   "lng": 109.62442,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guigang_01",
+   "name": "天上草原旅游景区",
+   "district": "",
+   "lat": 23.16619,
+   "lng": 109.50819,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guigang_02",
+   "name": "雄森旅游度假区",
+   "district": "",
+   "lat": 23.49749,
+   "lng": 110.39352,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 84,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "guigang_03",
+   "name": "平天山国家森林公园",
+   "district": "",
+   "lat": 23.18851,
+   "lng": 109.50075,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guigang_04",
+   "name": "西山风景名胜区",
+   "district": "",
+   "lat": 23.40586,
+   "lng": 110.06152,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 80,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guigang_05",
+   "name": "龙潭国家森林公园",
+   "district": "",
+   "lat": 23.54116,
+   "lng": 110.0095,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 60,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guigang_06",
+   "name": "吾园",
+   "district": "贵港市体育中心",
+   "lat": 23.11505,
+   "lng": 109.60879,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 50,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guigang_07",
+   "name": "铜鼓湾温泉旅游度假区",
+   "district": "",
+   "lat": 22.91783,
+   "lng": 109.76212,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "guigang_08",
+   "name": "平南雄森动物大世界",
+   "district": "",
+   "lat": 23.49702,
+   "lng": 110.3935,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "guigang_09",
+   "name": "北帝山旅游区",
+   "district": "",
+   "lat": 23.83925,
+   "lng": 110.14735,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 99,
+   "rating": 4.1,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   23.11,
+   109.6
+  ],
+  "老城区": [
+   23.122,
+   109.59
+  ],
+  "近郊": [
+   23.08,
+   109.63
+  ]
+ }
+}

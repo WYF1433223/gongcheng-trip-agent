@@ -1,0 +1,247 @@
+{
+ "name": "阿里",
+ "center": [
+  32.5,
+  80.11
+ ],
+ "far_ids": [
+  "ali_00",
+  "ali_01",
+  "ali_02",
+  "ali_03",
+  "ali_04",
+  "ali_05",
+  "ali_06",
+  "ali_08",
+  "ali_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "ali_00",
+   "name": "班公湖",
+   "district": "",
+   "lat": 33.67009,
+   "lng": 78.74472,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ali_01",
+   "name": "札达土林国家地质公园‌",
+   "district": "",
+   "lat": 31.50248,
+   "lng": 79.76864,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ali_02",
+   "name": "拉昂错",
+   "district": "",
+   "lat": 30.69113,
+   "lng": 81.24143,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "ali_03",
+   "name": "冈仁波齐",
+   "district": "",
+   "lat": 31.07002,
+   "lng": 81.32134,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "ali_04",
+   "name": "羊湖",
+   "district": "",
+   "lat": 35.42613,
+   "lng": 84.64143,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ali_05",
+   "name": "古格王国遗址",
+   "district": "",
+   "lat": 31.46946,
+   "lng": 79.6779,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ali_06",
+   "name": "玛旁雍措",
+   "district": "",
+   "lat": 30.6876,
+   "lng": 81.47973,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "ali_07",
+   "name": "狮泉河",
+   "district": "",
+   "lat": 32.50725,
+   "lng": 80.09757,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ali_08",
+   "name": "扎日南木错",
+   "district": "",
+   "lat": 30.93583,
+   "lng": 85.63163,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "ali_09",
+   "name": "芝热寺",
+   "district": "",
+   "lat": 31.11075,
+   "lng": 81.33018,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   32.5,
+   80.11
+  ],
+  "老城区": [
+   32.512,
+   80.1
+  ],
+  "近郊": [
+   32.47,
+   80.14
+  ]
+ }
+}

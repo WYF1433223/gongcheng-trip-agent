@@ -1,0 +1,245 @@
+{
+ "name": "滁州",
+ "center": [
+  32.3,
+  118.32
+ ],
+ "far_ids": [
+  "chuzhou_01",
+  "chuzhou_03",
+  "chuzhou_04",
+  "chuzhou_06",
+  "chuzhou_07",
+  "chuzhou_08",
+  "chuzhou_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "chuzhou_00",
+   "name": "琅琊山景区",
+   "district": "琅琊山度假区",
+   "lat": 32.28547,
+   "lng": 118.29556,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chuzhou_01",
+   "name": "锦绣太平",
+   "district": "",
+   "lat": 32.10607,
+   "lng": 118.27379,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "chuzhou_02",
+   "name": "琅琊山景区-醉翁亭",
+   "district": "琅琊山度假区",
+   "lat": 32.28952,
+   "lng": 118.29452,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chuzhou_03",
+   "name": "狼巷迷谷",
+   "district": "",
+   "lat": 32.65317,
+   "lng": 117.6058,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 55,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chuzhou_04",
+   "name": "韭山洞",
+   "district": "",
+   "lat": 32.64656,
+   "lng": 117.56468,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 45,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chuzhou_05",
+   "name": "南京太仆寺景区",
+   "district": "",
+   "lat": 32.30686,
+   "lng": 118.30635,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chuzhou_06",
+   "name": "明中都皇故城国家考古遗址公园",
+   "district": "",
+   "lat": 32.87967,
+   "lng": 117.5516,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chuzhou_07",
+   "name": "明皇陵",
+   "district": "",
+   "lat": 32.81779,
+   "lng": 117.53109,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 45,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chuzhou_08",
+   "name": "池杉湖国家湿地公园",
+   "district": "",
+   "lat": 32.383,
+   "lng": 118.70716,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 60,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chuzhou_09",
+   "name": "太平古城",
+   "district": "",
+   "lat": 32.10454,
+   "lng": 118.2729,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 3.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   32.3,
+   118.32
+  ],
+  "老城区": [
+   32.312,
+   118.31
+  ],
+  "近郊": [
+   32.27,
+   118.35
+  ]
+ }
+}

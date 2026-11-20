@@ -1,0 +1,247 @@
+{
+ "name": "通化",
+ "center": [
+  41.73,
+  125.94
+ ],
+ "far_ids": [
+  "tonghua_01",
+  "tonghua_02",
+  "tonghua_03",
+  "tonghua_04",
+  "tonghua_05",
+  "tonghua_06",
+  "tonghua_07",
+  "tonghua_08",
+  "tonghua_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "tonghua_00",
+   "name": "通化葡萄酒地下大酒窖",
+   "district": "通化站",
+   "lat": 41.77038,
+   "lng": 125.991,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "tonghua_01",
+   "name": "五女峰国家森林公园",
+   "district": "",
+   "lat": 41.28528,
+   "lng": 126.13621,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tonghua_02",
+   "name": "鸭绿江国门景区",
+   "district": "",
+   "lat": 41.16796,
+   "lng": 126.29084,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 60,
+   "rating": 4.6,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tonghua_03",
+   "name": "长寿王陵",
+   "district": "",
+   "lat": 41.16539,
+   "lng": 126.23847,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 30,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tonghua_04",
+   "name": "好太王碑",
+   "district": "",
+   "lat": 41.15306,
+   "lng": 126.22641,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 30,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tonghua_05",
+   "name": "龙湾群国家森林公园四方顶景区",
+   "district": "",
+   "lat": 42.58253,
+   "lng": 126.57103,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tonghua_06",
+   "name": "高句丽文物古迹旅游景区",
+   "district": "",
+   "lat": 41.17351,
+   "lng": 126.1686,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "tonghua_07",
+   "name": "知北村",
+   "district": "",
+   "lat": 42.50703,
+   "lng": 125.71359,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 9,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tonghua_08",
+   "name": "丸都山城",
+   "district": "",
+   "lat": 41.15571,
+   "lng": 126.17063,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 30,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tonghua_09",
+   "name": "吉林龙湾景区",
+   "district": "",
+   "lat": 42.35398,
+   "lng": 126.39914,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   41.73,
+   125.94
+  ],
+  "老城区": [
+   41.742,
+   125.93
+  ],
+  "近郊": [
+   41.7,
+   125.97
+  ]
+ }
+}

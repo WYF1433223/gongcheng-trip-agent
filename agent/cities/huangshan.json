@@ -1,0 +1,244 @@
+{
+ "name": "黄山",
+ "center": [
+  29.71,
+  118.34
+ ],
+ "far_ids": [
+  "huangshan_00",
+  "huangshan_01",
+  "huangshan_02",
+  "huangshan_03",
+  "huangshan_04",
+  "huangshan_05",
+  "huangshan_06",
+  "huangshan_08",
+  "huangshan_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "huangshan_00",
+   "name": "黄山风景区",
+   "district": "黄山山顶",
+   "lat": 30.14536,
+   "lng": 118.16662,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 190,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangshan_01",
+   "name": "齐云山景区",
+   "district": "",
+   "lat": 29.81346,
+   "lng": 118.04357,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 58,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangshan_02",
+   "name": "西递",
+   "district": "西递景区",
+   "lat": 29.90923,
+   "lng": 118.00251,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 94,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangshan_03",
+   "name": "西海大峡谷",
+   "district": "黄山山顶",
+   "lat": 30.13871,
+   "lng": 118.16339,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 100,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangshan_04",
+   "name": "宏村景区",
+   "district": "宏村景区内",
+   "lat": 30.00856,
+   "lng": 117.99638,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 94,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangshan_05",
+   "name": "翡翠谷",
+   "district": "黄山汤口南大门",
+   "lat": 30.11982,
+   "lng": 118.22784,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 60,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangshan_06",
+   "name": "呈坎",
+   "district": "徽州呈坎镇",
+   "lat": 29.92478,
+   "lng": 118.29045,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 103,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangshan_07",
+   "name": "唐模",
+   "district": "唐模",
+   "lat": 29.87526,
+   "lng": 118.34063,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 58,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangshan_08",
+   "name": "卢村",
+   "district": "宏村景区外",
+   "lat": 30.02094,
+   "lng": 117.98197,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 45,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangshan_09",
+   "name": "塔川",
+   "district": "宏村景区外",
+   "lat": 30.02426,
+   "lng": 118.01431,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 35,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   29.71,
+   118.34
+  ],
+  "老城区": [
+   29.722,
+   118.33
+  ],
+  "近郊": [
+   29.68,
+   118.37
+  ]
+ }
+}

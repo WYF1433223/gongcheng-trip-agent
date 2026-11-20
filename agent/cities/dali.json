@@ -1,0 +1,241 @@
+{
+ "name": "大理",
+ "center": [
+  25.61,
+  100.27
+ ],
+ "far_ids": [
+  "dali_02",
+  "dali_03",
+  "dali_04",
+  "dali_06",
+  "dali_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "dali_00",
+   "name": "崇圣寺三塔文化旅游区",
+   "district": "大理古城",
+   "lat": 25.70963,
+   "lng": 100.14887,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 73,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dali_01",
+   "name": "大理古城",
+   "district": "大理古城",
+   "lat": 25.7008,
+   "lng": 100.17048,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dali_02",
+   "name": "鸡足山",
+   "district": "鸡足山度假区",
+   "lat": 25.96282,
+   "lng": 100.39418,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 55,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dali_03",
+   "name": "巍宝山",
+   "district": "",
+   "lat": 25.1809,
+   "lng": 100.35179,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 38,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dali_04",
+   "name": "洱海",
+   "district": "洱海挖色小普陀风景区",
+   "lat": 25.81255,
+   "lng": 100.23006,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "dali_05",
+   "name": "苍山",
+   "district": "苍山风景区",
+   "lat": 25.6669,
+   "lng": 100.12736,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 130,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dali_06",
+   "name": "喜洲",
+   "district": "喜洲古镇",
+   "lat": 25.85828,
+   "lng": 100.13983,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "dali_07",
+   "name": "喜洲麦田小火车",
+   "district": "",
+   "lat": 25.85932,
+   "lng": 100.14193,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 35,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "dali_08",
+   "name": "苍山感通索道",
+   "district": "苍山风景区",
+   "lat": 25.65054,
+   "lng": 100.16283,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 130,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dali_09",
+   "name": "大理骑行",
+   "district": "",
+   "lat": 25.73284,
+   "lng": 100.21958,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   25.61,
+   100.27
+  ],
+  "老城区": [
+   25.622,
+   100.26
+  ],
+  "近郊": [
+   25.58,
+   100.3
+  ]
+ }
+}

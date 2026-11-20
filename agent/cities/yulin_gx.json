@@ -1,0 +1,246 @@
+{
+ "name": "玉林",
+ "center": [
+  22.65,
+  110.18
+ ],
+ "far_ids": [
+  "yulin_gx_02",
+  "yulin_gx_03",
+  "yulin_gx_04",
+  "yulin_gx_05",
+  "yulin_gx_08",
+  "yulin_gx_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "yulin_gx_00",
+   "name": "鹏垌村",
+   "district": "",
+   "lat": 22.65431,
+   "lng": 110.10001,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yulin_gx_01",
+   "name": "玉林十字街",
+   "district": "玉林汽车总站",
+   "lat": 22.63283,
+   "lng": 110.15858,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yulin_gx_02",
+   "name": "真武阁",
+   "district": "",
+   "lat": 22.86104,
+   "lng": 110.56712,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yulin_gx_03",
+   "name": "陆川温泉九龙山庄",
+   "district": "",
+   "lat": 22.33156,
+   "lng": 110.27921,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 99,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yulin_gx_04",
+   "name": "大容山国家森林公园",
+   "district": "",
+   "lat": 22.87358,
+   "lng": 110.24198,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 58,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yulin_gx_05",
+   "name": "谢鲁山庄风景名胜区",
+   "district": "",
+   "lat": 22.15923,
+   "lng": 110.19347,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 25,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yulin_gx_06",
+   "name": "玉林园博园",
+   "district": "",
+   "lat": 22.62772,
+   "lng": 110.21007,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yulin_gx_07",
+   "name": "云天文化城",
+   "district": "玉林汽车总站",
+   "lat": 22.62975,
+   "lng": 110.1713,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 144,
+   "rating": 4.1,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yulin_gx_08",
+   "name": "都峤山风景区",
+   "district": "",
+   "lat": 22.80406,
+   "lng": 110.60279,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yulin_gx_09",
+   "name": "容州古城",
+   "district": "",
+   "lat": 22.8615,
+   "lng": 110.56693,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 60,
+   "rating": 3.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   22.65,
+   110.18
+  ],
+  "老城区": [
+   22.662,
+   110.17
+  ],
+  "近郊": [
+   22.62,
+   110.21
+  ]
+ }
+}

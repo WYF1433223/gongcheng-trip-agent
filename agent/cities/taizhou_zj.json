@@ -1,0 +1,244 @@
+{
+ "name": "台州",
+ "center": [
+  28.66,
+  121.42
+ ],
+ "far_ids": [
+  "taizhou_zj_01",
+  "taizhou_zj_02",
+  "taizhou_zj_03",
+  "taizhou_zj_04",
+  "taizhou_zj_05",
+  "taizhou_zj_06",
+  "taizhou_zj_07",
+  "taizhou_zj_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "taizhou_zj_00",
+   "name": "台州方特·狂野大陆",
+   "district": "",
+   "lat": 28.55479,
+   "lng": 121.58393,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 150,
+   "rating": 4.9,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taizhou_zj_01",
+   "name": "国清景区",
+   "district": "",
+   "lat": 29.17403,
+   "lng": 121.05398,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taizhou_zj_02",
+   "name": "神仙居",
+   "district": "",
+   "lat": 28.68814,
+   "lng": 120.60993,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 99,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "taizhou_zj_03",
+   "name": "台州府城文化旅游区",
+   "district": "紫阳街",
+   "lat": 28.85247,
+   "lng": 121.12466,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 55,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "taizhou_zj_04",
+   "name": "天台山景区",
+   "district": "",
+   "lat": 29.23371,
+   "lng": 121.0519,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taizhou_zj_05",
+   "name": "台州府城墙",
+   "district": "紫阳街",
+   "lat": 28.85234,
+   "lng": 121.11716,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 180,
+   "price": 55,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taizhou_zj_06",
+   "name": "长屿硐天",
+   "district": "长屿硐天",
+   "lat": 28.43899,
+   "lng": 121.448,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "taizhou_zj_07",
+   "name": "天台山大瀑布",
+   "district": "",
+   "lat": 29.21085,
+   "lng": 121.01236,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 100,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taizhou_zj_08",
+   "name": "大陈岛旅游度假区",
+   "district": "大陈岛",
+   "lat": 28.47402,
+   "lng": 121.89182,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "taizhou_zj_09",
+   "name": "黄岩石窟",
+   "district": "",
+   "lat": 28.66253,
+   "lng": 121.31251,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 60,
+   "rating": 3.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   28.66,
+   121.42
+  ],
+  "老城区": [
+   28.672,
+   121.41
+  ],
+  "近郊": [
+   28.63,
+   121.45
+  ]
+ }
+}

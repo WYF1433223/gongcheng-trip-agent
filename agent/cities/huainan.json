@@ -1,0 +1,227 @@
+{
+ "name": "淮南",
+ "center": [
+  32.63,
+  116.99
+ ],
+ "far_ids": [
+  "huainan_00",
+  "huainan_03",
+  "huainan_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "huainan_00",
+   "name": "冰帘洞天",
+   "district": "",
+   "lat": 32.62815,
+   "lng": 116.63878,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huainan_01",
+   "name": "寿县古城",
+   "district": "",
+   "lat": 32.58491,
+   "lng": 116.79036,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huainan_02",
+   "name": "安徽楚文化博物馆",
+   "district": "",
+   "lat": 32.5699,
+   "lng": 116.80834,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "huainan_03",
+   "name": "焦岗湖影视城",
+   "district": "",
+   "lat": 32.62715,
+   "lng": 116.63533,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huainan_04",
+   "name": "寿县古城-报恩禅寺",
+   "district": "",
+   "lat": 32.58621,
+   "lng": 116.79891,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huainan_05",
+   "name": "寿县古城墙",
+   "district": "",
+   "lat": 32.57674,
+   "lng": 116.79016,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huainan_06",
+   "name": "八公山风景区(国家地质公园)",
+   "district": "",
+   "lat": 32.63677,
+   "lng": 116.80338,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huainan_07",
+   "name": "茅仙洞",
+   "district": "",
+   "lat": 32.68225,
+   "lng": 116.75126,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huainan_08",
+   "name": "九龙岗民国小镇",
+   "district": "",
+   "lat": 32.61521,
+   "lng": 117.11374,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   32.63,
+   116.99
+  ],
+  "老城区": [
+   32.642,
+   116.98
+  ],
+  "近郊": [
+   32.6,
+   117.02
+  ]
+ }
+}

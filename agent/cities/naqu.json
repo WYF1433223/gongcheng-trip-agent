@@ -1,0 +1,136 @@
+{
+ "name": "那曲",
+ "center": [
+  31.476,
+  92.051
+ ],
+ "far_ids": [
+  "naqu_00",
+  "naqu_01"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "naqu_00",
+   "name": "色林错",
+   "district": "班戈",
+   "lat": 31.802,
+   "lng": 89.002,
+   "open_min": 800,
+   "close_min": 1800,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "naqu_01",
+   "name": "错那湖",
+   "district": "安多",
+   "lat": 32.104,
+   "lng": 91.501,
+   "open_min": 800,
+   "close_min": 1800,
+   "duration": 120,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "naqu_02",
+   "name": "羌塘草原",
+   "district": "色尼",
+   "lat": 31.612,
+   "lng": 91.998,
+   "open_min": 800,
+   "close_min": 1900,
+   "duration": 150,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "naqu_03",
+   "name": "那曲高原湿地",
+   "district": "色尼",
+   "lat": 31.482,
+   "lng": 92.058,
+   "open_min": 800,
+   "close_min": 1800,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 10,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 11,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 9,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 35
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 24,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   31.476,
+   92.051
+  ],
+  "老城区": [
+   31.488,
+   92.041
+  ],
+  "近郊": [
+   31.406,
+   92.081
+  ]
+ },
+ "approx": true
+}

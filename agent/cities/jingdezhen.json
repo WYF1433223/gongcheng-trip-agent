@@ -1,0 +1,203 @@
+{
+ "name": "景德镇",
+ "center": [
+  29.3338,
+  117.32
+ ],
+ "pois": [
+  {
+   "id": "jingdezhen_01",
+   "name": "古窑民俗博览区",
+   "district": "景德镇",
+   "lat": 29.28,
+   "lng": 117.16,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 120,
+   "price": 95,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jingdezhen_02",
+   "name": "御窑厂遗址",
+   "district": "景德镇",
+   "lat": 29.29,
+   "lng": 117.2,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": 1
+  },
+  {
+   "id": "jingdezhen_03",
+   "name": "陶溪川文创街区",
+   "district": "景德镇",
+   "lat": 29.3,
+   "lng": 117.19,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "购物"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jingdezhen_04",
+   "name": "中国陶瓷博物馆",
+   "district": "景德镇",
+   "lat": 29.33,
+   "lng": 117.17,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 1
+  },
+  {
+   "id": "jingdezhen_05",
+   "name": "三宝国际瓷谷",
+   "district": "景德镇",
+   "lat": 29.26,
+   "lng": 117.22,
+   "open_min": 540,
+   "close_min": 1260,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "艺术展馆"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jingdezhen_06",
+   "name": "浮梁古县衙",
+   "district": "景德镇",
+   "lat": 29.35,
+   "lng": 117.28,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 80,
+   "price": 50,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jingdezhen_07",
+   "name": "瑶里古镇",
+   "district": "景德镇",
+   "lat": 29.44,
+   "lng": 117.72,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 60,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jingdezhen_08",
+   "name": "洪岩仙境",
+   "district": "景德镇",
+   "lat": 29.42,
+   "lng": 117.62,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 70,
+   "rating": 4.1,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   29.3338,
+   117.32
+  ],
+  "老城区": [
+   29.3438,
+   117.31
+  ],
+  "近郊": [
+   29.3738,
+   117.35
+  ]
+ },
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 14,
+   "high": 24,
+   "rain": 5
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 22,
+   "rain": 15
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 12,
+   "high": 19,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 12,
+   "high": 20,
+   "rain": 25
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 13,
+   "high": 23,
+   "rain": 5
+  }
+ ],
+ "far_ids": [
+  "jingdezhen_06",
+  "jingdezhen_07",
+  "jingdezhen_08"
+ ],
+ "far_minutes": 60,
+ "far_both_minutes": 90
+}

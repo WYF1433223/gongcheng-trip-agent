@@ -1,0 +1,241 @@
+{
+ "name": "上海",
+ "center": [
+  31.23,
+  121.47
+ ],
+ "far_ids": [
+  "shanghai_01",
+  "shanghai_03",
+  "shanghai_06",
+  "shanghai_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "shanghai_00",
+   "name": "外滩",
+   "district": "外滩核心区",
+   "lat": 31.23855,
+   "lng": 121.49932,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shanghai_01",
+   "name": "上海迪士尼度假区",
+   "district": "迪士尼度假区",
+   "lat": 31.14679,
+   "lng": 121.66766,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 399,
+   "rating": 4.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shanghai_02",
+   "name": "东方明珠",
+   "district": "陆家嘴",
+   "lat": 31.2455,
+   "lng": 121.50627,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 199,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shanghai_03",
+   "name": "上海野生动物园",
+   "district": "南汇",
+   "lat": 31.06121,
+   "lng": 121.72796,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 131,
+   "rating": 4.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shanghai_04",
+   "name": "豫园",
+   "district": "豫园地区",
+   "lat": 31.23275,
+   "lng": 121.49897,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shanghai_05",
+   "name": "上海海洋水族馆",
+   "district": "陆家嘴",
+   "lat": 31.24639,
+   "lng": 121.50857,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 155,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shanghai_06",
+   "name": "上海海昌海洋公园",
+   "district": "滴水湖临港地区",
+   "lat": 30.91932,
+   "lng": 121.91211,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 224,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shanghai_07",
+   "name": "上海中心大厦",
+   "district": "陆家嘴",
+   "lat": 31.23921,
+   "lng": 121.51194,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 172,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shanghai_08",
+   "name": "上海乐高乐园®度假区",
+   "district": "乐高乐园度假区",
+   "lat": 30.89138,
+   "lng": 121.10526,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 372,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shanghai_09",
+   "name": "2026上海马拉松",
+   "district": "外滩核心区",
+   "lat": 31.24134,
+   "lng": 121.49755,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   31.23,
+   121.47
+  ],
+  "老城区": [
+   31.242,
+   121.46
+  ],
+  "近郊": [
+   31.2,
+   121.5
+  ]
+ }
+}

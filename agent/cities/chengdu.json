@@ -1,0 +1,500 @@
+{
+ "name": "成都",
+ "center": [
+  30.66,
+  104.06
+ ],
+ "far_ids": [
+  "qingcheng",
+  "dujiangyan"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "kuanzhai",
+   "name": "宽窄巷子",
+   "district": "青羊",
+   "lat": 30.6697,
+   "lng": 104.0577,
+   "open_min": 0,
+   "close_min": 1439,
+   "duration": 120,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食",
+    "街区"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinli",
+   "name": "锦里古街",
+   "district": "武侯",
+   "lat": 30.645,
+   "lng": 104.049,
+   "open_min": 540,
+   "close_min": 1320,
+   "duration": 120,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食",
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuhouci",
+   "name": "武侯祠",
+   "district": "武侯",
+   "lat": 30.6455,
+   "lng": 104.0435,
+   "open_min": 480,
+   "close_min": 1200,
+   "duration": 90,
+   "price": 50,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "panda",
+   "name": "大熊猫繁育研究基地",
+   "district": "成华",
+   "lat": 30.7339,
+   "lng": 104.147,
+   "open_min": 450,
+   "close_min": 1080,
+   "duration": 180,
+   "price": 55,
+   "rating": 4.8,
+   "tags": [
+    "自然风光",
+    "动物"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dufu",
+   "name": "杜甫草堂",
+   "district": "青羊",
+   "lat": 30.66,
+   "lng": 104.029,
+   "open_min": 540,
+   "close_min": 1080,
+   "duration": 120,
+   "price": 50,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "园林"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "scmuseum",
+   "name": "四川博物院",
+   "district": "青羊",
+   "lat": 30.6617,
+   "lng": 104.0297,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "艺术展馆",
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "cdmuseum",
+   "name": "成都博物馆",
+   "district": "青羊",
+   "lat": 30.657,
+   "lng": 104.063,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "艺术展馆",
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "renmin",
+   "name": "人民公园",
+   "district": "青羊",
+   "lat": 30.6575,
+   "lng": 104.055,
+   "open_min": 390,
+   "close_min": 1320,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "市井",
+    "园林"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chunxi",
+   "name": "春熙路",
+   "district": "锦江",
+   "lat": 30.657,
+   "lng": 104.081,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "购物",
+    "美食"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "taikoo",
+   "name": "太古里",
+   "district": "锦江",
+   "lat": 30.654,
+   "lng": 104.082,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "购物",
+    "街区"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "wenshu",
+   "name": "文殊院",
+   "district": "青羊",
+   "lat": 30.674,
+   "lng": 104.073,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 60,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "宗教"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "dongjiao",
+   "name": "东郊记忆",
+   "district": "成华",
+   "lat": 30.66,
+   "lng": 104.135,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 120,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "艺术展馆",
+    "街区"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qingcheng",
+   "name": "青城山",
+   "district": "都江堰",
+   "lat": 30.9,
+   "lng": 103.57,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 300,
+   "price": 80,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "登山"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dujiangyan",
+   "name": "都江堰景区",
+   "district": "都江堰",
+   "lat": 31.002,
+   "lng": 103.61,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 180,
+   "price": 80,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinsha",
+   "name": "金沙遗址博物馆",
+   "district": "青羊",
+   "lat": 30.683,
+   "lng": 104.013,
+   "open_min": 540,
+   "close_min": 1080,
+   "duration": 120,
+   "price": 70,
+   "rating": 4.6,
+   "tags": [
+    "艺术展馆",
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "wangjiang",
+   "name": "望江楼公园",
+   "district": "武侯",
+   "lat": 30.63,
+   "lng": 104.09,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 60,
+   "price": 20,
+   "rating": 4.3,
+   "tags": [
+    "园林",
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiuyanqiao",
+   "name": "九眼桥",
+   "district": "锦江",
+   "lat": 30.642,
+   "lng": 104.09,
+   "open_min": 1080,
+   "close_min": 120,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "夜景",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "scu",
+   "name": "四川大学望江校区",
+   "district": "武侯",
+   "lat": 30.63,
+   "lng": 104.083,
+   "open_min": 0,
+   "close_min": 1439,
+   "duration": 60,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "校园",
+    "街区"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "global",
+   "name": "环球中心",
+   "district": "高新",
+   "lat": 30.572,
+   "lng": 104.062,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 120,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "购物",
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "tiexiang",
+   "name": "铁像寺水街",
+   "district": "高新",
+   "lat": 30.59,
+   "lng": 104.053,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "美食",
+    "街区"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tianfuart",
+   "name": "天府艺术公园",
+   "district": "金牛",
+   "lat": 30.705,
+   "lng": 104.012,
+   "open_min": 600,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "艺术展馆",
+    "园林"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "zhaojue",
+   "name": "昭觉寺",
+   "district": "成华",
+   "lat": 30.708,
+   "lng": 104.108,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 60,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "宗教",
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "pandatower",
+   "name": "天府熊猫塔",
+   "district": "成华",
+   "lat": 30.672,
+   "lng": 104.106,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 60,
+   "price": 80,
+   "rating": 4.4,
+   "tags": [
+    "夜景",
+    "观景"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jianshe",
+   "name": "建设路小吃街",
+   "district": "成华",
+   "lat": 30.672,
+   "lng": 104.115,
+   "open_min": 660,
+   "close_min": 1380,
+   "duration": 60,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "美食",
+    "夜市"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 20,
+   "rain": 25
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 16,
+   "rain": 75
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 12,
+   "high": 18,
+   "rain": 35
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 13,
+   "high": 22,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "春熙路": [
+   30.657,
+   104.081
+  ],
+  "宽窄巷子": [
+   30.6697,
+   104.0577
+  ],
+  "武侯祠": [
+   30.6455,
+   104.0435
+  ]
+ }
+}

@@ -1,0 +1,205 @@
+{
+ "name": "绍兴",
+ "center": [
+  30.0,
+  120.58
+ ],
+ "far_ids": [
+  "shaoxing_02"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "shaoxing_00",
+   "name": "绍兴柯岩风景区",
+   "district": "鉴湖柯岩旅游度假区",
+   "lat": 30.05393,
+   "lng": 120.47987,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 84,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoxing_01",
+   "name": "鲁迅故里",
+   "district": "鲁迅故里度假区",
+   "lat": 29.99861,
+   "lng": 120.59183,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoxing_02",
+   "name": "五泄风景区",
+   "district": "五泄度假区",
+   "lat": 29.73215,
+   "lng": 120.05499,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 60,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoxing_03",
+   "name": "兰亭景区",
+   "district": "兰亭",
+   "lat": 29.93207,
+   "lng": 120.50607,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 70,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoxing_04",
+   "name": "绍兴古城",
+   "district": "鲁迅故里度假区",
+   "lat": 30.00344,
+   "lng": 120.58979,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoxing_05",
+   "name": "东湖",
+   "district": "东湖度假区",
+   "lat": 30.00353,
+   "lng": 120.63902,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 50,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoxing_06",
+   "name": "安昌古镇",
+   "district": "安昌古镇商圈",
+   "lat": 30.14412,
+   "lng": 120.49775,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoxing_07",
+   "name": "沈园",
+   "district": "鲁迅故里度假区",
+   "lat": 29.99662,
+   "lng": 120.59673,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   30.0,
+   120.58
+  ],
+  "老城区": [
+   30.012,
+   120.57
+  ],
+  "近郊": [
+   29.97,
+   120.61
+  ]
+ }
+}

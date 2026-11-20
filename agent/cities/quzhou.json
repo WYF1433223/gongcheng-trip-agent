@@ -1,0 +1,246 @@
+{
+ "name": "衢州",
+ "center": [
+  28.94,
+  118.87
+ ],
+ "far_ids": [
+  "quzhou_01",
+  "quzhou_02",
+  "quzhou_04",
+  "quzhou_05",
+  "quzhou_06",
+  "quzhou_07",
+  "quzhou_08",
+  "quzhou_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "quzhou_00",
+   "name": "衢州古城文化旅游区",
+   "district": "",
+   "lat": 28.96176,
+   "lng": 118.86726,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "quzhou_01",
+   "name": "天脊龙门",
+   "district": "",
+   "lat": 28.74189,
+   "lng": 118.94806,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "quzhou_02",
+   "name": "药王山",
+   "district": "",
+   "lat": 28.76329,
+   "lng": 118.98013,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "quzhou_03",
+   "name": "衢州孔氏南宗家庙",
+   "district": "水亭门",
+   "lat": 28.96618,
+   "lng": 118.88346,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 10,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "quzhou_04",
+   "name": "江郎山风景名胜区",
+   "district": "江郎山",
+   "lat": 28.53937,
+   "lng": 118.57435,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "quzhou_05",
+   "name": "根宫佛国文化旅游区",
+   "district": "",
+   "lat": 29.14237,
+   "lng": 118.39704,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "quzhou_06",
+   "name": "龙天小镇",
+   "district": "",
+   "lat": 29.08391,
+   "lng": 119.24718,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 39,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "quzhou_07",
+   "name": "江郎山·廿八都旅游区",
+   "district": "江郎山",
+   "lat": 28.53746,
+   "lng": 118.57265,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "quzhou_08",
+   "name": "廿八都古镇",
+   "district": "廿八都古镇",
+   "lat": 28.29627,
+   "lng": 118.49008,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "quzhou_09",
+   "name": "龙游石窟",
+   "district": "",
+   "lat": 29.06435,
+   "lng": 119.19544,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 0,
+   "rating": 3.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   28.94,
+   118.87
+  ],
+  "老城区": [
+   28.952,
+   118.86
+  ],
+  "近郊": [
+   28.91,
+   118.9
+  ]
+ }
+}

@@ -1,0 +1,240 @@
+{
+ "name": "丹东",
+ "center": [
+  40.0,
+  124.35
+ ],
+ "far_ids": [
+  "dandong_00",
+  "dandong_02",
+  "dandong_03",
+  "dandong_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "dandong_00",
+   "name": "丹东凤凰山",
+   "district": "",
+   "lat": 40.41609,
+   "lng": 124.08664,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 55,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dandong_01",
+   "name": "丹东舰景区",
+   "district": "市府新区",
+   "lat": 40.04875,
+   "lng": 124.35671,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 35,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "dandong_02",
+   "name": "辽宁东港大孤山风景区",
+   "district": "",
+   "lat": 39.91233,
+   "lng": 123.61017,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 50,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dandong_03",
+   "name": "虎山长城",
+   "district": "",
+   "lat": 40.23184,
+   "lng": 124.52591,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 180,
+   "price": 55,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dandong_04",
+   "name": "鸭绿江中朝界河游船(2号观光码头)",
+   "district": "",
+   "lat": 40.12791,
+   "lng": 124.40402,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 75,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dandong_05",
+   "name": "鸭绿江中朝边界河游船(1号码头)",
+   "district": "",
+   "lat": 40.12352,
+   "lng": 124.40005,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 75,
+   "rating": 4.6,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dandong_06",
+   "name": "丹东鸭绿江游船",
+   "district": "丹东站",
+   "lat": 40.12791,
+   "lng": 124.40402,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dandong_07",
+   "name": "安东老街",
+   "district": "万达广场",
+   "lat": 40.11161,
+   "lng": 124.36912,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dandong_08",
+   "name": "河口景区",
+   "district": "",
+   "lat": 40.43816,
+   "lng": 124.82501,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dandong_09",
+   "name": "鸭绿江断桥",
+   "district": "",
+   "lat": 40.12369,
+   "lng": 124.40189,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 30,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   40.0,
+   124.35
+  ],
+  "老城区": [
+   40.012,
+   124.34
+  ],
+  "近郊": [
+   39.97,
+   124.38
+  ]
+ }
+}

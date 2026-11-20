@@ -1,0 +1,249 @@
+{
+ "name": "玉溪",
+ "center": [
+  24.35,
+  102.54
+ ],
+ "far_ids": [
+  "yuxi_01",
+  "yuxi_02",
+  "yuxi_03",
+  "yuxi_04",
+  "yuxi_05",
+  "yuxi_06",
+  "yuxi_07",
+  "yuxi_08",
+  "yuxi_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "yuxi_00",
+   "name": "红塔山",
+   "district": "",
+   "lat": 24.34134,
+   "lng": 102.5673,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yuxi_01",
+   "name": "抚仙湖国际旅游度假区",
+   "district": "抚仙湖风景区",
+   "lat": 24.58668,
+   "lng": 102.96566,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yuxi_02",
+   "name": "抚仙湖",
+   "district": "抚仙湖风景区",
+   "lat": 24.52226,
+   "lng": 102.89423,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yuxi_03",
+   "name": "云南哀牢山国家级自然保护区",
+   "district": "",
+   "lat": 23.96811,
+   "lng": 101.52576,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yuxi_04",
+   "name": "月亮湾湿地公园",
+   "district": "抚仙湖风景区",
+   "lat": 24.62771,
+   "lng": 102.95239,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yuxi_05",
+   "name": "禄充风景区",
+   "district": "禄充风景区",
+   "lat": 24.56779,
+   "lng": 102.84856,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yuxi_06",
+   "name": "澄江化石地自然博物馆",
+   "district": "",
+   "lat": 24.63652,
+   "lng": 102.97675,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "yuxi_07",
+   "name": "明星鱼洞",
+   "district": "抚仙湖风景区",
+   "lat": 24.5059,
+   "lng": 102.86893,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 15,
+   "rating": 4.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yuxi_08",
+   "name": "元江世界第一高桥",
+   "district": "",
+   "lat": 23.63893,
+   "lng": 101.97362,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 34,
+   "rating": 4.0,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yuxi_09",
+   "name": "粉红沙滩",
+   "district": "抚仙湖风景区",
+   "lat": 24.62332,
+   "lng": 102.85225,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 3.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   24.35,
+   102.54
+  ],
+  "老城区": [
+   24.362,
+   102.53
+  ],
+  "近郊": [
+   24.32,
+   102.57
+  ]
+ }
+}

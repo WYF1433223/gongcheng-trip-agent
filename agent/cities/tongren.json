@@ -1,0 +1,245 @@
+{
+ "name": "铜仁",
+ "center": [
+  27.73,
+  109.19
+ ],
+ "far_ids": [
+  "tongren_00",
+  "tongren_01",
+  "tongren_02",
+  "tongren_04",
+  "tongren_06",
+  "tongren_07",
+  "tongren_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "tongren_00",
+   "name": "红云金顶",
+   "district": "",
+   "lat": 27.91269,
+   "lng": 108.70259,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongren_01",
+   "name": "梵净山",
+   "district": "",
+   "lat": 27.88871,
+   "lng": 108.72688,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 112,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongren_02",
+   "name": "云舍景区",
+   "district": "梵净山景区",
+   "lat": 27.74941,
+   "lng": 108.82627,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongren_03",
+   "name": "铜仁古城",
+   "district": "铜仁市中心",
+   "lat": 27.72023,
+   "lng": 109.1954,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongren_04",
+   "name": "石阡佛顶山温泉小镇",
+   "district": "",
+   "lat": 27.46177,
+   "lng": 108.19751,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 118,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongren_05",
+   "name": "九龙洞",
+   "district": "",
+   "lat": 27.71104,
+   "lng": 109.33669,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 70,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongren_06",
+   "name": "朱砂古镇",
+   "district": "朱砂古镇",
+   "lat": 27.53495,
+   "lng": 109.23015,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 80,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongren_07",
+   "name": "亚木沟风景区",
+   "district": "梵净山景区",
+   "lat": 27.7913,
+   "lng": 108.73684,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 100,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongren_08",
+   "name": "铜仁大峡谷",
+   "district": "",
+   "lat": 27.88864,
+   "lng": 109.25577,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 120,
+   "rating": 4.1,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongren_09",
+   "name": "天下苗城·苗王城",
+   "district": "",
+   "lat": 27.96427,
+   "lng": 109.26403,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 78,
+   "rating": 3.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   27.73,
+   109.19
+  ],
+  "老城区": [
+   27.742,
+   109.18
+  ],
+  "近郊": [
+   27.7,
+   109.22
+  ]
+ }
+}

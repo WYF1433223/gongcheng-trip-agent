@@ -1,0 +1,244 @@
+{
+ "name": "广安",
+ "center": [
+  30.46,
+  106.63
+ ],
+ "far_ids": [
+  "guangan_00",
+  "guangan_01",
+  "guangan_02",
+  "guangan_04",
+  "guangan_07",
+  "guangan_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "guangan_00",
+   "name": "奇幻谷",
+   "district": "",
+   "lat": 30.45987,
+   "lng": 106.86498,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guangan_01",
+   "name": "华蓥山",
+   "district": "",
+   "lat": 30.30774,
+   "lng": 106.81353,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 82,
+   "rating": 4.9,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guangan_02",
+   "name": "华蓥山天意谷景区",
+   "district": "",
+   "lat": 30.26925,
+   "lng": 106.81557,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 60,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guangan_03",
+   "name": "邓小平同志故居",
+   "district": "",
+   "lat": 30.52537,
+   "lng": 106.64295,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "guangan_04",
+   "name": "沿口古镇",
+   "district": "",
+   "lat": 30.3592,
+   "lng": 106.29432,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guangan_05",
+   "name": "广安不夜城",
+   "district": "",
+   "lat": 30.46999,
+   "lng": 106.65416,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guangan_06",
+   "name": "神龙山风景区",
+   "district": "",
+   "lat": 30.44949,
+   "lng": 106.64572,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guangan_07",
+   "name": "宝箴塞",
+   "district": "",
+   "lat": 30.35375,
+   "lng": 106.07658,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 35,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guangan_08",
+   "name": "低坑大瀑布景区",
+   "district": "",
+   "lat": 30.4696,
+   "lng": 106.18936,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 39,
+   "rating": 4.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guangan_09",
+   "name": "邓小平故里",
+   "district": "",
+   "lat": 30.52429,
+   "lng": 106.6431,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   30.46,
+   106.63
+  ],
+  "老城区": [
+   30.472,
+   106.62
+  ],
+  "近郊": [
+   30.43,
+   106.66
+  ]
+ }
+}

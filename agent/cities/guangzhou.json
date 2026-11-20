@@ -1,0 +1,220 @@
+{
+ "name": "广州",
+ "center": [
+  23.13,
+  113.26
+ ],
+ "far_ids": [],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "guangzhou_00",
+   "name": "长隆野生动物世界",
+   "district": "番禺长隆",
+   "lat": 23.00723,
+   "lng": 113.32219,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 300,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "guangzhou_01",
+   "name": "长隆欢乐世界",
+   "district": "番禺长隆",
+   "lat": 23.00442,
+   "lng": 113.3364,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 250,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "guangzhou_02",
+   "name": "广州长隆国际大马戏",
+   "district": "番禺长隆",
+   "lat": 23.009,
+   "lng": 113.33794,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 270,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "guangzhou_03",
+   "name": "广州长隆度假区",
+   "district": "番禺长隆",
+   "lat": 23.00688,
+   "lng": 113.33623,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 100,
+   "rating": 4.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "guangzhou_04",
+   "name": "广东省博物馆",
+   "district": "珠江新城",
+   "lat": 23.12049,
+   "lng": 113.33298,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "guangzhou_05",
+   "name": "广州塔",
+   "district": "琶洲会展",
+   "lat": 23.11205,
+   "lng": 113.33107,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 143,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guangzhou_06",
+   "name": "南越王博物院(王墓展区)",
+   "district": "火车站",
+   "lat": 23.14403,
+   "lng": 113.26747,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 10,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "guangzhou_07",
+   "name": "珠江夜游",
+   "district": "海珠广场",
+   "lat": 23.12099,
+   "lng": 113.27756,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 48,
+   "rating": 4.5,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guangzhou_08",
+   "name": "越秀公园",
+   "district": "火车站",
+   "lat": 23.14642,
+   "lng": 113.27212,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   23.13,
+   113.26
+  ],
+  "老城区": [
+   23.142,
+   113.25
+  ],
+  "近郊": [
+   23.1,
+   113.29
+  ]
+ }
+}

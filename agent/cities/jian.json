@@ -1,0 +1,169 @@
+{
+ "name": "吉安",
+ "center": [
+  27.0167,
+  114.8633
+ ],
+ "pois": [
+  {
+   "id": "jian_01",
+   "name": "庐陵文化生态园",
+   "district": "吉安",
+   "lat": 27.12,
+   "lng": 114.99,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jian_02",
+   "name": "白鹭洲书院",
+   "district": "吉安",
+   "lat": 27.11,
+   "lng": 115.0,
+   "open_min": 510,
+   "close_min": 1020,
+   "duration": 60,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": 1
+  },
+  {
+   "id": "jian_03",
+   "name": "吉安市博物馆",
+   "district": "吉安",
+   "lat": 27.1,
+   "lng": 114.98,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 1
+  },
+  {
+   "id": "jian_04",
+   "name": "吉州窑",
+   "district": "吉安",
+   "lat": 27.03,
+   "lng": 114.94,
+   "open_min": 510,
+   "close_min": 1050,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jian_05",
+   "name": "渼陂古村",
+   "district": "吉安",
+   "lat": 27.17,
+   "lng": 115.1,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 120,
+   "price": 60,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jian_06",
+   "name": "井冈山",
+   "district": "吉安",
+   "lat": 26.57,
+   "lng": 114.17,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 360,
+   "price": 190,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   27.0167,
+   114.8633
+  ],
+  "老城区": [
+   27.0267,
+   114.8533
+  ],
+  "近郊": [
+   27.0567,
+   114.8933
+  ]
+ },
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 14,
+   "high": 24,
+   "rain": 5
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 22,
+   "rain": 15
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 12,
+   "high": 19,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 12,
+   "high": 20,
+   "rain": 25
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 13,
+   "high": 23,
+   "rain": 5
+  }
+ ],
+ "far_ids": [
+  "jian_04",
+  "jian_05",
+  "jian_06"
+ ],
+ "far_minutes": 60,
+ "far_both_minutes": 90
+}

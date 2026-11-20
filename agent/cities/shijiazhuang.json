@@ -1,0 +1,241 @@
+{
+ "name": "石家庄",
+ "center": [
+  38.04,
+  114.51
+ ],
+ "far_ids": [
+  "shijiazhuang_04",
+  "shijiazhuang_06",
+  "shijiazhuang_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "shijiazhuang_00",
+   "name": "隆兴寺",
+   "district": "正定古城/隆兴寺",
+   "lat": 38.15047,
+   "lng": 114.58899,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 50,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shijiazhuang_01",
+   "name": "河北博物院",
+   "district": "省博物馆/省政府",
+   "lat": 38.04644,
+   "lng": 114.52928,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shijiazhuang_02",
+   "name": "石家庄市动物园",
+   "district": "抱犊寨/动物园",
+   "lat": 38.06776,
+   "lng": 114.31107,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 30,
+   "rating": 4.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shijiazhuang_03",
+   "name": "正定古城",
+   "district": "正定古城/隆兴寺",
+   "lat": 38.14971,
+   "lng": 114.58052,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shijiazhuang_04",
+   "name": "苍岩山风景区",
+   "district": "",
+   "lat": 37.83948,
+   "lng": 114.17349,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shijiazhuang_05",
+   "name": "正定荣国府",
+   "district": "正定古城/隆兴寺",
+   "lat": 38.15402,
+   "lng": 114.5854,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 38,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shijiazhuang_06",
+   "name": "抱犊寨",
+   "district": "抱犊寨/动物园",
+   "lat": 38.09548,
+   "lng": 114.28148,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shijiazhuang_07",
+   "name": "龙泉古镇·戏剧幻城",
+   "district": "西部长青/龙泉古",
+   "lat": 38.02666,
+   "lng": 114.34804,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 98,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shijiazhuang_08",
+   "name": "赵州桥",
+   "district": "",
+   "lat": 37.72822,
+   "lng": 114.77551,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shijiazhuang_09",
+   "name": "石家庄 · 2026《无限可能》超级演唱会",
+   "district": "国际会展中心/奥",
+   "lat": 38.12579,
+   "lng": 114.64961,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   38.04,
+   114.51
+  ],
+  "老城区": [
+   38.052,
+   114.5
+  ],
+  "近郊": [
+   38.01,
+   114.54
+  ]
+ }
+}

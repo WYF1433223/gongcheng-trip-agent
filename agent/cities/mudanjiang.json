@@ -1,0 +1,249 @@
+{
+ "name": "牡丹江",
+ "center": [
+  44.55,
+  129.63
+ ],
+ "far_ids": [
+  "mudanjiang_00",
+  "mudanjiang_01",
+  "mudanjiang_02",
+  "mudanjiang_03",
+  "mudanjiang_04",
+  "mudanjiang_05",
+  "mudanjiang_06",
+  "mudanjiang_07",
+  "mudanjiang_08",
+  "mudanjiang_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "mudanjiang_00",
+   "name": "横道河子东北虎林园",
+   "district": "横道河子镇",
+   "lat": 44.80113,
+   "lng": 129.12353,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 45,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "mudanjiang_01",
+   "name": "横道河子镇",
+   "district": "横道河子镇",
+   "lat": 44.81962,
+   "lng": 129.0759,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "mudanjiang_02",
+   "name": "绥芬河国门景区",
+   "district": "",
+   "lat": 44.41971,
+   "lng": 131.20444,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 48,
+   "rating": 4.6,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "mudanjiang_03",
+   "name": "中国雪乡",
+   "district": "",
+   "lat": 44.3398,
+   "lng": 128.21651,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "mudanjiang_04",
+   "name": "威虎山影视城",
+   "district": "横道河子镇",
+   "lat": 44.7978,
+   "lng": 129.13111,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 38,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "mudanjiang_05",
+   "name": "大秃顶子山",
+   "district": "",
+   "lat": 44.5219,
+   "lng": 128.26398,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "mudanjiang_06",
+   "name": "镜泊湖风景区",
+   "district": "镜泊湖风景区",
+   "lat": 43.96582,
+   "lng": 129.0148,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 95,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "mudanjiang_07",
+   "name": "雪乡国家森林公园",
+   "district": "",
+   "lat": 44.51219,
+   "lng": 128.85912,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "mudanjiang_08",
+   "name": "火山口国家森林公园",
+   "district": "",
+   "lat": 44.14979,
+   "lng": 128.61749,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "mudanjiang_09",
+   "name": "二浪河景区",
+   "district": "二浪河度假区",
+   "lat": 44.59745,
+   "lng": 128.41122,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   44.55,
+   129.63
+  ],
+  "老城区": [
+   44.562,
+   129.62
+  ],
+  "近郊": [
+   44.52,
+   129.66
+  ]
+ }
+}

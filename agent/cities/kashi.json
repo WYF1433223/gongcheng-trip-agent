@@ -1,0 +1,245 @@
+{
+ "name": "喀什",
+ "center": [
+  39.47,
+  75.99
+ ],
+ "far_ids": [
+  "kashi_00",
+  "kashi_02",
+  "kashi_04",
+  "kashi_06",
+  "kashi_07",
+  "kashi_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "kashi_00",
+   "name": "帕米尔高原",
+   "district": "",
+   "lat": 37.80111,
+   "lng": 75.20885,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "kashi_01",
+   "name": "喀什古城",
+   "district": "喀什古城",
+   "lat": 39.47745,
+   "lng": 75.99694,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "kashi_02",
+   "name": "红其拉甫国门",
+   "district": "",
+   "lat": 36.85592,
+   "lng": 75.43825,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "kashi_03",
+   "name": "遇见喀什国际演艺中心",
+   "district": "喀什古城",
+   "lat": 39.47902,
+   "lng": 76.00614,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 238,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "kashi_04",
+   "name": "帕米尔旅游景区",
+   "district": "",
+   "lat": 37.79159,
+   "lng": 75.238,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "kashi_05",
+   "name": "香妃园",
+   "district": "",
+   "lat": 39.49441,
+   "lng": 76.03359,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "kashi_06",
+   "name": "金湖杨国家森林公园",
+   "district": "",
+   "lat": 38.0407,
+   "lng": 76.97841,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 38,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "kashi_07",
+   "name": "红海景区",
+   "district": "",
+   "lat": 39.76667,
+   "lng": 78.3997,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 35,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "kashi_08",
+   "name": "阿曼尼莎汗纪念陵",
+   "district": "",
+   "lat": 38.423,
+   "lng": 77.26651,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 15,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "kashi_09",
+   "name": "艾提尕尔清真寺",
+   "district": "喀什古城",
+   "lat": 39.47857,
+   "lng": 75.99361,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 3.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   39.47,
+   75.99
+  ],
+  "老城区": [
+   39.482,
+   75.98
+  ],
+  "近郊": [
+   39.44,
+   76.02
+  ]
+ }
+}

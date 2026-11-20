@@ -1,0 +1,244 @@
+{
+ "name": "抚顺",
+ "center": [
+  41.88,
+  123.96
+ ],
+ "far_ids": [
+  "fushun_00",
+  "fushun_01",
+  "fushun_02",
+  "fushun_03",
+  "fushun_05",
+  "fushun_06",
+  "fushun_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "fushun_00",
+   "name": "天女山森林公园",
+   "district": "",
+   "lat": 41.5824,
+   "lng": 124.3649,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 49,
+   "rating": 4.8,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fushun_01",
+   "name": "棋盘山",
+   "district": "棋盘山",
+   "lat": 41.94765,
+   "lng": 123.68191,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fushun_02",
+   "name": "玉龙溪冰雪大世界",
+   "district": "",
+   "lat": 42.08084,
+   "lng": 124.9551,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "fushun_03",
+   "name": "玉龙溪大峡谷风景区",
+   "district": "",
+   "lat": 42.08063,
+   "lng": 124.96975,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fushun_04",
+   "name": "皇家海洋乐园",
+   "district": "",
+   "lat": 41.87262,
+   "lng": 123.74904,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 92,
+   "rating": 4.5,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "fushun_05",
+   "name": "赫图阿拉城",
+   "district": "",
+   "lat": 41.71103,
+   "lng": 124.88086,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fushun_06",
+   "name": "清永陵",
+   "district": "",
+   "lat": 41.71662,
+   "lng": 124.80914,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 50,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fushun_07",
+   "name": "红河谷漂流",
+   "district": "",
+   "lat": 41.99829,
+   "lng": 124.90928,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "fushun_08",
+   "name": "热高海底两万里",
+   "district": "",
+   "lat": 41.89327,
+   "lng": 123.73603,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 3.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "fushun_09",
+   "name": "抚顺市雷锋纪念馆",
+   "district": "望花商业区",
+   "lat": 41.85601,
+   "lng": 123.80847,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   41.88,
+   123.96
+  ],
+  "老城区": [
+   41.892,
+   123.95
+  ],
+  "近郊": [
+   41.85,
+   123.99
+  ]
+ }
+}

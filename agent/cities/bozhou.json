@@ -1,0 +1,239 @@
+{
+ "name": "亳州",
+ "center": [
+  33.87,
+  115.78
+ ],
+ "far_ids": [
+  "bozhou_03",
+  "bozhou_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "bozhou_00",
+   "name": "曹操实景演出",
+   "district": "",
+   "lat": 33.79533,
+   "lng": 115.71492,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "bozhou_01",
+   "name": "曹操地下运兵道",
+   "district": "",
+   "lat": 33.87792,
+   "lng": 115.7831,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 50,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "bozhou_02",
+   "name": "花戏楼",
+   "district": "",
+   "lat": 33.89087,
+   "lng": 115.77957,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 50,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bozhou_03",
+   "name": "太清宫",
+   "district": "",
+   "lat": 33.86669,
+   "lng": 115.56047,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 10,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bozhou_04",
+   "name": "华祖庵",
+   "district": "",
+   "lat": 33.88372,
+   "lng": 115.78839,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 19,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bozhou_05",
+   "name": "南京巷钱庄",
+   "district": "",
+   "lat": 33.88859,
+   "lng": 115.78099,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bozhou_06",
+   "name": "亳州博物馆",
+   "district": "",
+   "lat": 33.85545,
+   "lng": 115.79059,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "bozhou_07",
+   "name": "华佗百草园",
+   "district": "",
+   "lat": 33.79533,
+   "lng": 115.71492,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bozhou_08",
+   "name": "亳州城",
+   "district": "",
+   "lat": 33.88525,
+   "lng": 115.78048,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 3.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "bozhou_09",
+   "name": "郑州 · 李玉刚2026《刚好遇见你》巡回演唱会",
+   "district": "CBD国际会展中心",
+   "lat": 34.77748,
+   "lng": 113.73578,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   33.87,
+   115.78
+  ],
+  "老城区": [
+   33.882,
+   115.77
+  ],
+  "近郊": [
+   33.84,
+   115.81
+  ]
+ }
+}

@@ -1,0 +1,243 @@
+{
+ "name": "西双版纳",
+ "center": [
+  22.01,
+  100.8
+ ],
+ "far_ids": [
+  "xishuangbanna_00",
+  "xishuangbanna_01",
+  "xishuangbanna_02",
+  "xishuangbanna_05"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "xishuangbanna_00",
+   "name": "橄榄坝",
+   "district": "傣族园风景区",
+   "lat": 21.85766,
+   "lng": 100.94992,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xishuangbanna_01",
+   "name": "中国科学院西双版纳热带植物园",
+   "district": "中国科学院西双版纳热",
+   "lat": 21.91529,
+   "lng": 101.28096,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 80,
+   "rating": 4.8,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xishuangbanna_02",
+   "name": "西双版纳热带雨林国家公园望天树景区",
+   "district": "",
+   "lat": 21.60266,
+   "lng": 101.59472,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 55,
+   "rating": 4.8,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xishuangbanna_03",
+   "name": "基诺山雨林徒步",
+   "district": "",
+   "lat": 22.01335,
+   "lng": 100.98176,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 59,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xishuangbanna_04",
+   "name": "曼听御花园",
+   "district": "曼听公园",
+   "lat": 21.99719,
+   "lng": 100.81395,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xishuangbanna_05",
+   "name": "西双版纳傣族园",
+   "district": "傣族园风景区",
+   "lat": 21.85734,
+   "lng": 100.95083,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 45,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xishuangbanna_06",
+   "name": "热带花卉园",
+   "district": "",
+   "lat": 22.01885,
+   "lng": 100.79024,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xishuangbanna_07",
+   "name": "野象谷",
+   "district": "",
+   "lat": 22.17507,
+   "lng": 100.86011,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 58,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xishuangbanna_08",
+   "name": "西双版纳原始森林公园",
+   "district": "",
+   "lat": 22.03204,
+   "lng": 100.88847,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 43,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xishuangbanna_09",
+   "name": "西双版纳勐泐文化旅游区",
+   "district": "勐泐大佛寺",
+   "lat": 21.96703,
+   "lng": 100.81453,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 59,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   22.01,
+   100.8
+  ],
+  "老城区": [
+   22.022,
+   100.79
+  ],
+  "近郊": [
+   21.98,
+   100.83
+  ]
+ }
+}

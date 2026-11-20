@@ -1,0 +1,237 @@
+{
+ "name": "南京",
+ "center": [
+  32.06,
+  118.8
+ ],
+ "far_ids": [
+  "nanjing_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "nanjing_00",
+   "name": "牛首山文化旅游区",
+   "district": "牛首山风景区",
+   "lat": 31.91118,
+   "lng": 118.75026,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 145,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanjing_01",
+   "name": "红山森林动物园",
+   "district": "南京站",
+   "lat": 32.09775,
+   "lng": 118.80919,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 66,
+   "rating": 4.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanjing_02",
+   "name": "夫子庙秦淮风光带",
+   "district": "夫子庙景区",
+   "lat": 32.02723,
+   "lng": 118.7953,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanjing_03",
+   "name": "栖霞山",
+   "district": "新港",
+   "lat": 32.16117,
+   "lng": 118.97432,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 80,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanjing_04",
+   "name": "南京博物院",
+   "district": "明故宫",
+   "lat": 32.04677,
+   "lng": 118.83165,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "nanjing_05",
+   "name": "明孝陵",
+   "district": "钟山风景区",
+   "lat": 32.05773,
+   "lng": 118.84447,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 68,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanjing_06",
+   "name": "夫子庙",
+   "district": "夫子庙景区",
+   "lat": 32.027,
+   "lng": 118.79527,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 29,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanjing_07",
+   "name": "钟山风景名胜区",
+   "district": "钟山风景区",
+   "lat": 32.07019,
+   "lng": 118.85038,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanjing_08",
+   "name": "中山陵景区",
+   "district": "钟山风景区",
+   "lat": 32.06073,
+   "lng": 118.86165,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanjing_09",
+   "name": "南京 · 2026华晨宇火星演唱会-乐园2.0",
+   "district": "汤山温泉",
+   "lat": 32.03976,
+   "lng": 119.05578,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   32.06,
+   118.8
+  ],
+  "老城区": [
+   32.072,
+   118.79
+  ],
+  "近郊": [
+   32.03,
+   118.83
+  ]
+ }
+}

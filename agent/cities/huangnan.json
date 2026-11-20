@@ -1,0 +1,242 @@
+{
+ "name": "黄南",
+ "center": [
+  35.52,
+  102.02
+ ],
+ "far_ids": [
+  "huangnan_01",
+  "huangnan_03",
+  "huangnan_07",
+  "huangnan_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "huangnan_00",
+   "name": "同仁县-热贡艺术之乡",
+   "district": "",
+   "lat": 35.5204,
+   "lng": 102.02634,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangnan_01",
+   "name": "坎布拉国家森林公园-南宗寺",
+   "district": "",
+   "lat": 36.12013,
+   "lng": 101.75916,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangnan_02",
+   "name": "热贡艺术博物馆",
+   "district": "",
+   "lat": 35.52823,
+   "lng": 102.02888,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "huangnan_03",
+   "name": "拉茂智合寺",
+   "district": "",
+   "lat": 35.95542,
+   "lng": 102.00927,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangnan_04",
+   "name": "隆务寺",
+   "district": "",
+   "lat": 35.5147,
+   "lng": 102.01738,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 60,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangnan_05",
+   "name": "吾屯上寺",
+   "district": "",
+   "lat": 35.56087,
+   "lng": 102.05962,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangnan_06",
+   "name": "郭麻日古堡",
+   "district": "",
+   "lat": 35.57596,
+   "lng": 102.05062,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangnan_07",
+   "name": "坎布拉景区",
+   "district": "",
+   "lat": 36.13118,
+   "lng": 101.74359,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangnan_08",
+   "name": "吾屯下寺",
+   "district": "",
+   "lat": 35.56691,
+   "lng": 102.06424,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huangnan_09",
+   "name": "坎布拉国家森林公园-龟山平湖",
+   "district": "",
+   "lat": 36.11107,
+   "lng": 101.80289,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   35.52,
+   102.02
+  ],
+  "老城区": [
+   35.532,
+   102.01
+  ],
+  "近郊": [
+   35.49,
+   102.05
+  ]
+ }
+}

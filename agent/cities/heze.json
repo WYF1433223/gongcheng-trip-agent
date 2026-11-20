@@ -1,0 +1,240 @@
+{
+ "name": "菏泽",
+ "center": [
+  35.23,
+  115.48
+ ],
+ "far_ids": [
+  "heze_02",
+  "heze_03",
+  "heze_06"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "heze_00",
+   "name": "菏泽牡丹园",
+   "district": "",
+   "lat": 35.22176,
+   "lng": 115.67857,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "heze_01",
+   "name": "曹州百花园",
+   "district": "菏泽学院",
+   "lat": 35.27942,
+   "lng": 115.48914,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "heze_02",
+   "name": "永丰塔",
+   "district": "",
+   "lat": 35.39853,
+   "lng": 116.10225,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "heze_03",
+   "name": "浮龙湖旅游度假区",
+   "district": "",
+   "lat": 34.63403,
+   "lng": 115.97341,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "heze_04",
+   "name": "菏泽冠宇牡丹园",
+   "district": "",
+   "lat": 35.33752,
+   "lng": 115.54607,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "heze_05",
+   "name": "老城曹州",
+   "district": "汽车总站",
+   "lat": 35.25327,
+   "lng": 115.45728,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "heze_06",
+   "name": "水浒好汉城",
+   "district": "",
+   "lat": 35.59027,
+   "lng": 115.93843,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 59,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "heze_07",
+   "name": "曹州牡丹园",
+   "district": "菏泽学院",
+   "lat": 35.2856,
+   "lng": 115.50405,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "heze_08",
+   "name": "中国牡丹园",
+   "district": "",
+   "lat": 35.31659,
+   "lng": 115.56303,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "heze_09",
+   "name": "菏泽野生动物世界",
+   "district": "",
+   "lat": 35.3189,
+   "lng": 115.56762,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 42,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   35.23,
+   115.48
+  ],
+  "老城区": [
+   35.242,
+   115.47
+  ],
+  "近郊": [
+   35.2,
+   115.51
+  ]
+ }
+}

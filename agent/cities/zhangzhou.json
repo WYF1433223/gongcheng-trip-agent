@@ -1,0 +1,245 @@
+{
+ "name": "漳州",
+ "center": [
+  24.51,
+  117.65
+ ],
+ "far_ids": [
+  "zhangzhou_01",
+  "zhangzhou_02",
+  "zhangzhou_04",
+  "zhangzhou_05",
+  "zhangzhou_06",
+  "zhangzhou_07",
+  "zhangzhou_08",
+  "zhangzhou_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "zhangzhou_00",
+   "name": "漳州木偶艺术表演馆",
+   "district": "漳州古城",
+   "lat": 24.51173,
+   "lng": 117.66211,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 68,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangzhou_01",
+   "name": "南门湾",
+   "district": "南门湾",
+   "lat": 23.737,
+   "lng": 117.5342,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangzhou_02",
+   "name": "东山岛",
+   "district": "岐下鱼骨沙洲",
+   "lat": 23.61964,
+   "lng": 117.40703,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangzhou_03",
+   "name": "漳州古城",
+   "district": "漳州古城",
+   "lat": 24.51092,
+   "lng": 117.6604,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangzhou_04",
+   "name": "田螺坑土楼群",
+   "district": "塔下土楼景区",
+   "lat": 24.59013,
+   "lng": 117.06772,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 60,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangzhou_05",
+   "name": "云水谣景区",
+   "district": "云水谣景区",
+   "lat": 24.67204,
+   "lng": 117.10177,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 90,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangzhou_06",
+   "name": "东山风动石景区",
+   "district": "南门湾",
+   "lat": 23.73984,
+   "lng": 117.54417,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 42,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangzhou_07",
+   "name": "福建土楼(南靖)景区",
+   "district": "",
+   "lat": 24.63613,
+   "lng": 117.08992,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangzhou_08",
+   "name": "鱼骨沙洲",
+   "district": "岐下鱼骨沙洲",
+   "lat": 23.60456,
+   "lng": 117.34994,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhangzhou_09",
+   "name": "火山岛旅游休闲度假区",
+   "district": "火山岛景区",
+   "lat": 24.21327,
+   "lng": 118.03015,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 60,
+   "rating": 3.9,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   24.51,
+   117.65
+  ],
+  "老城区": [
+   24.522,
+   117.64
+  ],
+  "近郊": [
+   24.48,
+   117.68
+  ]
+ }
+}

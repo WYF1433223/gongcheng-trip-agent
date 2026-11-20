@@ -1,0 +1,242 @@
+{
+ "name": "无锡",
+ "center": [
+  31.49,
+  120.31
+ ],
+ "far_ids": [
+  "wuxi_00",
+  "wuxi_01",
+  "wuxi_04",
+  "wuxi_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "wuxi_00",
+   "name": "灵山大佛",
+   "district": "灵山大佛",
+   "lat": 31.4364,
+   "lng": 120.10289,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 80,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuxi_01",
+   "name": "灵山胜境",
+   "district": "灵山大佛",
+   "lat": 31.43214,
+   "lng": 120.10729,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 80,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuxi_02",
+   "name": "惠山古镇·寄畅园",
+   "district": "惠山风景区",
+   "lat": 31.58641,
+   "lng": 120.27743,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 35,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuxi_03",
+   "name": "无锡市太湖鼋头渚风景区",
+   "district": "太湖鼋头渚风景区",
+   "lat": 31.52726,
+   "lng": 120.22283,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 45,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuxi_04",
+   "name": "禅意小镇·拈花湾",
+   "district": "灵山大佛",
+   "lat": 31.42583,
+   "lng": 120.08351,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 50,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuxi_05",
+   "name": "蠡园",
+   "district": "太湖鼋头渚风景区",
+   "lat": 31.51917,
+   "lng": 120.26738,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 22,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuxi_06",
+   "name": "南长街",
+   "district": "南长街",
+   "lat": 31.57114,
+   "lng": 120.31428,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuxi_07",
+   "name": "三国水浒景区(中央电视台无锡影视基地)",
+   "district": "",
+   "lat": 31.48691,
+   "lng": 120.24065,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 75,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuxi_08",
+   "name": "宜兴窑湖小镇",
+   "district": "窑湖小镇",
+   "lat": 31.21788,
+   "lng": 119.67808,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 60,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuxi_09",
+   "name": "无锡 · 薛之谦 2026《万兽之王》巡回演唱会",
+   "district": "太湖新城区",
+   "lat": 31.46689,
+   "lng": 120.33369,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   31.49,
+   120.31
+  ],
+  "老城区": [
+   31.502,
+   120.3
+  ],
+  "近郊": [
+   31.46,
+   120.34
+  ]
+ }
+}

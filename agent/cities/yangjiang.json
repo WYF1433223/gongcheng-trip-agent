@@ -1,0 +1,248 @@
+{
+ "name": "阳江",
+ "center": [
+  21.86,
+  111.98
+ ],
+ "far_ids": [
+  "yangjiang_00",
+  "yangjiang_01",
+  "yangjiang_02",
+  "yangjiang_03",
+  "yangjiang_04",
+  "yangjiang_05",
+  "yangjiang_06",
+  "yangjiang_07",
+  "yangjiang_08",
+  "yangjiang_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "yangjiang_00",
+   "name": "广东阳江海陵岛海景跳伞基地",
+   "district": "保利银滩",
+   "lat": 21.58837,
+   "lng": 111.88967,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yangjiang_01",
+   "name": "海陵岛",
+   "district": "恒大海上夏威夷",
+   "lat": 21.62385,
+   "lng": 111.9185,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yangjiang_02",
+   "name": "马尾岛",
+   "district": "闸坡",
+   "lat": 21.56838,
+   "lng": 111.82319,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yangjiang_03",
+   "name": "海陵岛大角湾海上丝路旅游区",
+   "district": "闸坡",
+   "lat": 21.5757,
+   "lng": 111.85372,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 39,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yangjiang_04",
+   "name": "广东海上丝绸之路博物馆",
+   "district": "保利银滩",
+   "lat": 21.57904,
+   "lng": 111.88034,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 63,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "yangjiang_05",
+   "name": "十里银滩",
+   "district": "保利银滩",
+   "lat": 21.57753,
+   "lng": 111.88058,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yangjiang_06",
+   "name": "沙扒湾",
+   "district": "沙扒湾",
+   "lat": 21.52074,
+   "lng": 111.47042,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yangjiang_07",
+   "name": "海陵岛红树林国家湿地公园",
+   "district": "",
+   "lat": 21.65488,
+   "lng": 111.97995,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yangjiang_08",
+   "name": "阳西咸水矿温泉",
+   "district": "东湖游乐城",
+   "lat": 21.76107,
+   "lng": 111.63983,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 49,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yangjiang_09",
+   "name": "北洛秘境国际旅游度假区",
+   "district": "闸坡",
+   "lat": 21.56852,
+   "lng": 111.82403,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   21.86,
+   111.98
+  ],
+  "老城区": [
+   21.872,
+   111.97
+  ],
+  "近郊": [
+   21.83,
+   112.01
+  ]
+ }
+}

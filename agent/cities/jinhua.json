@@ -1,0 +1,243 @@
+{
+ "name": "金华",
+ "center": [
+  29.08,
+  119.65
+ ],
+ "far_ids": [
+  "jinhua_00",
+  "jinhua_01",
+  "jinhua_02",
+  "jinhua_03",
+  "jinhua_05",
+  "jinhua_06",
+  "jinhua_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "jinhua_00",
+   "name": "横店影视城广州街·香港街园区",
+   "district": "横店",
+   "lat": 29.1794,
+   "lng": 120.30478,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinhua_01",
+   "name": "横店影视城秦王宫园区",
+   "district": "横店",
+   "lat": 29.14018,
+   "lng": 120.32084,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinhua_02",
+   "name": "横店影视城清明上河图园区",
+   "district": "横店",
+   "lat": 29.14536,
+   "lng": 120.31818,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinhua_03",
+   "name": "横店影视城",
+   "district": "横店",
+   "lat": 29.15582,
+   "lng": 120.31079,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 169,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinhua_04",
+   "name": "熊猫猪猪两头乌国际牧场",
+   "district": "",
+   "lat": 29.0459,
+   "lng": 119.54573,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 90,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinhua_05",
+   "name": "牛头山国家森林公园",
+   "district": "",
+   "lat": 28.67293,
+   "lng": 119.50489,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 100,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinhua_06",
+   "name": "东阳卢宅景区",
+   "district": "东阳市中心",
+   "lat": 29.26935,
+   "lng": 120.25291,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 58,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinhua_07",
+   "name": "金华双龙风景旅游区",
+   "district": "",
+   "lat": 29.19249,
+   "lng": 119.63307,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinhua_08",
+   "name": "地下长河景区",
+   "district": "",
+   "lat": 29.21048,
+   "lng": 119.54592,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 60,
+   "rating": 4.5,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jinhua_09",
+   "name": "诸葛八卦村景区",
+   "district": "",
+   "lat": 29.25426,
+   "lng": 119.30314,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 83,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   29.08,
+   119.65
+  ],
+  "老城区": [
+   29.092,
+   119.64
+  ],
+  "近郊": [
+   29.05,
+   119.68
+  ]
+ }
+}

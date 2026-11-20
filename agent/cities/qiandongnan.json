@@ -1,0 +1,246 @@
+{
+ "name": "黔东南",
+ "center": [
+  26.58,
+  107.98
+ ],
+ "far_ids": [
+  "qiandongnan_00",
+  "qiandongnan_01",
+  "qiandongnan_02",
+  "qiandongnan_03",
+  "qiandongnan_04",
+  "qiandongnan_06",
+  "qiandongnan_07",
+  "qiandongnan_08",
+  "qiandongnan_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "qiandongnan_00",
+   "name": "高过河漂流",
+   "district": "",
+   "lat": 27.26019,
+   "lng": 108.31829,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qiandongnan_01",
+   "name": "加榜梯田",
+   "district": "",
+   "lat": 25.59582,
+   "lng": 108.57145,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qiandongnan_02",
+   "name": "镇远古城",
+   "district": "",
+   "lat": 27.05419,
+   "lng": 108.43026,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qiandongnan_03",
+   "name": "肇兴侗寨",
+   "district": "",
+   "lat": 25.91093,
+   "lng": 109.18138,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 78,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qiandongnan_04",
+   "name": "青龙洞",
+   "district": "",
+   "lat": 27.05793,
+   "lng": 108.44628,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 55,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qiandongnan_05",
+   "name": "郎德苗寨景区",
+   "district": "",
+   "lat": 26.47715,
+   "lng": 108.06586,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 50,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qiandongnan_06",
+   "name": "西江千户苗寨",
+   "district": "",
+   "lat": 26.50023,
+   "lng": 108.17971,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 90,
+   "rating": 4.3,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qiandongnan_07",
+   "name": "岜沙苗寨",
+   "district": "",
+   "lat": 25.72667,
+   "lng": 108.87476,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 60,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qiandongnan_08",
+   "name": "贵州高过河风景名胜区",
+   "district": "",
+   "lat": 27.27153,
+   "lng": 108.30848,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 80,
+   "rating": 4.3,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qiandongnan_09",
+   "name": "杉木河",
+   "district": "",
+   "lat": 27.11781,
+   "lng": 108.07022,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   26.58,
+   107.98
+  ],
+  "老城区": [
+   26.592,
+   107.97
+  ],
+  "近郊": [
+   26.55,
+   108.01
+  ]
+ }
+}

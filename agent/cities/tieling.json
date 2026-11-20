@@ -1,0 +1,155 @@
+{
+ "name": "铁岭",
+ "center": [
+  42.29,
+  123.84
+ ],
+ "far_ids": [
+  "tieling_04"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "tieling_00",
+   "name": "龙首山风景区",
+   "district": "银州",
+   "lat": 42.305,
+   "lng": 123.855,
+   "open_min": 800,
+   "close_min": 1700,
+   "duration": 120,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tieling_01",
+   "name": "铁岭市博物馆",
+   "district": "银州",
+   "lat": 42.292,
+   "lng": 123.836,
+   "open_min": 900,
+   "close_min": 1600,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "tieling_02",
+   "name": "银冈书院",
+   "district": "银州",
+   "lat": 42.313,
+   "lng": 123.851,
+   "open_min": 900,
+   "close_min": 1600,
+   "duration": 60,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "tieling_03",
+   "name": "莲花湖湿地公园",
+   "district": "新城区",
+   "lat": 42.262,
+   "lng": 123.884,
+   "open_min": 600,
+   "close_min": 2000,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tieling_04",
+   "name": "调兵山蒸汽机车博物馆",
+   "district": "调兵山",
+   "lat": 42.452,
+   "lng": 123.556,
+   "open_min": 900,
+   "close_min": 1600,
+   "duration": 80,
+   "price": 30,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 10,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 11,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 9,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 35
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 24,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   42.29,
+   123.84
+  ],
+  "老城区": [
+   42.302,
+   123.83
+  ],
+  "近郊": [
+   42.22,
+   123.87
+  ]
+ },
+ "approx": true
+}

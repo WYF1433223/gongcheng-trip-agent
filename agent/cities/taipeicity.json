@@ -1,0 +1,239 @@
+{
+ "name": "台北",
+ "center": [
+  25.03,
+  121.57
+ ],
+ "far_ids": [
+  "taipeicity_00"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "taipeicity_00",
+   "name": "野柳地质公园",
+   "district": "野柳地质公园",
+   "lat": 25.20985,
+   "lng": 121.70079,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 22,
+   "rating": 4.8,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taipeicity_01",
+   "name": "台北市立动物园",
+   "district": "台北猫空缆车",
+   "lat": 25.00172,
+   "lng": 121.59124,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 19,
+   "rating": 4.8,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "taipeicity_02",
+   "name": "士林官邸正馆",
+   "district": "台北故宫",
+   "lat": 25.0963,
+   "lng": 121.54274,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 19,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "taipeicity_03",
+   "name": "台北故宫博物院",
+   "district": "台北故宫",
+   "lat": 25.1058,
+   "lng": 121.55876,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 31,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "taipeicity_04",
+   "name": "台北101大楼",
+   "district": "信义区",
+   "lat": 25.03663,
+   "lng": 121.57507,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taipeicity_05",
+   "name": "猫空缆车",
+   "district": "台北猫空缆车",
+   "lat": 24.99919,
+   "lng": 121.58657,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 61,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taipeicity_06",
+   "name": "猫空",
+   "district": "",
+   "lat": 24.97598,
+   "lng": 121.59864,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "taipeicity_07",
+   "name": "台北101观景台",
+   "district": "信义区",
+   "lat": 25.03707,
+   "lng": 121.57508,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 101,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taipeicity_08",
+   "name": "中正纪念堂",
+   "district": "台北自由广场",
+   "lat": 25.03856,
+   "lng": 121.53059,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taipeicity_09",
+   "name": "中国台湾台北 · 2026 条通祭 — 条音派对",
+   "district": "台北火车站地区",
+   "lat": 25.05565,
+   "lng": 121.53647,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   25.03,
+   121.57
+  ],
+  "老城区": [
+   25.042,
+   121.56
+  ],
+  "近郊": [
+   25.0,
+   121.6
+  ]
+ }
+}

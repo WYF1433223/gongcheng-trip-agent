@@ -1,0 +1,244 @@
+{
+ "name": "怒江",
+ "center": [
+  25.85,
+  98.86
+ ],
+ "far_ids": [
+  "nujiang_00",
+  "nujiang_01",
+  "nujiang_02",
+  "nujiang_03",
+  "nujiang_04",
+  "nujiang_05",
+  "nujiang_06",
+  "nujiang_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "nujiang_00",
+   "name": "雾里村",
+   "district": "",
+   "lat": 28.06077,
+   "lng": 98.60753,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "nujiang_01",
+   "name": "独龙江",
+   "district": "",
+   "lat": 27.9023,
+   "lng": 98.36231,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nujiang_02",
+   "name": "孔雀山",
+   "district": "",
+   "lat": 28.08295,
+   "lng": 98.76203,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nujiang_03",
+   "name": "丙中洛风景区",
+   "district": "",
+   "lat": 28.0203,
+   "lng": 98.63471,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "nujiang_04",
+   "name": "怒江大峡谷",
+   "district": "",
+   "lat": 27.11701,
+   "lng": 98.86296,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nujiang_05",
+   "name": "怒江第一湾",
+   "district": "",
+   "lat": 28.00918,
+   "lng": 98.64396,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nujiang_06",
+   "name": "老姆登知子罗",
+   "district": "",
+   "lat": 26.55466,
+   "lng": 98.92548,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "nujiang_07",
+   "name": "老姆登村",
+   "district": "",
+   "lat": 26.55613,
+   "lng": 98.92276,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nujiang_08",
+   "name": "登埂澡堂",
+   "district": "",
+   "lat": 25.95078,
+   "lng": 98.83939,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "nujiang_09",
+   "name": "怒江大桥",
+   "district": "",
+   "lat": 25.85327,
+   "lng": 98.86195,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   25.85,
+   98.86
+  ],
+  "老城区": [
+   25.862,
+   98.85
+  ],
+  "近郊": [
+   25.82,
+   98.89
+  ]
+ }
+}

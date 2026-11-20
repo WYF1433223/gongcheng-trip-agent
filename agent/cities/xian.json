@@ -1,0 +1,242 @@
+{
+ "name": "西安",
+ "center": [
+  34.34,
+  108.94
+ ],
+ "far_ids": [
+  "xian_01",
+  "xian_02",
+  "xian_05",
+  "xian_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "xian_00",
+   "name": "陕西历史博物馆",
+   "district": "小寨",
+   "lat": 34.23052,
+   "lng": 108.96149,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "xian_01",
+   "name": "秦始皇帝陵博物院(兵马俑)",
+   "district": "兵马俑",
+   "lat": 34.39211,
+   "lng": 109.28851,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 120,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "xian_02",
+   "name": "华山",
+   "district": "",
+   "lat": 34.49777,
+   "lng": 110.07335,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 160,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xian_03",
+   "name": "大雁塔",
+   "district": "大雁塔",
+   "lat": 34.22453,
+   "lng": 108.9706,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 10,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xian_04",
+   "name": "西安城墙",
+   "district": "钟鼓楼",
+   "lat": 34.28195,
+   "lng": 108.95352,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 180,
+   "price": 53,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xian_05",
+   "name": "华清宫",
+   "district": "兵马俑",
+   "lat": 34.3651,
+   "lng": 109.2215,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 108,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xian_06",
+   "name": "西安博物院",
+   "district": "永宁门",
+   "lat": 34.24474,
+   "lng": 108.9481,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "xian_07",
+   "name": "西安钟楼",
+   "district": "钟鼓楼",
+   "lat": 34.26562,
+   "lng": 108.95351,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 30,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xian_08",
+   "name": "《长恨歌》演出",
+   "district": "兵马俑",
+   "lat": 34.36995,
+   "lng": 109.21897,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 229,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xian_09",
+   "name": "大唐不夜城",
+   "district": "大雁塔",
+   "lat": 34.22011,
+   "lng": 108.97047,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   34.34,
+   108.94
+  ],
+  "老城区": [
+   34.352,
+   108.93
+  ],
+  "近郊": [
+   34.31,
+   108.97
+  ]
+ }
+}

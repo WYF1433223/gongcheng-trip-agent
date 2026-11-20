@@ -1,0 +1,239 @@
+{
+ "name": "东莞",
+ "center": [
+  23.02,
+  113.75
+ ],
+ "far_ids": [
+  "dongguan_01",
+  "dongguan_02",
+  "dongguan_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "dongguan_00",
+   "name": "松山湖生态景区",
+   "district": "松山湖度假区",
+   "lat": 22.90204,
+   "lng": 113.88784,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dongguan_01",
+   "name": "隐贤山庄",
+   "district": "隐贤山庄度假区",
+   "lat": 22.9806,
+   "lng": 114.03189,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 129,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dongguan_02",
+   "name": "观音山旅游风景区",
+   "district": "观音山度假区",
+   "lat": 22.9112,
+   "lng": 114.11972,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 39,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dongguan_03",
+   "name": "东莞香市动物园",
+   "district": "篮球中心",
+   "lat": 23.00183,
+   "lng": 113.85811,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 106,
+   "rating": 4.4,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "dongguan_04",
+   "name": "南社村",
+   "district": "",
+   "lat": 23.07107,
+   "lng": 113.90747,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dongguan_05",
+   "name": "南社明清古村落",
+   "district": "",
+   "lat": 23.07252,
+   "lng": 113.91072,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 27,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "dongguan_06",
+   "name": "西溪古村",
+   "district": "",
+   "lat": 23.00301,
+   "lng": 113.90593,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 3.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "dongguan_07",
+   "name": "2026WTCC世界网球洲际对抗赛至尊款待票",
+   "district": "宝安商业区",
+   "lat": 22.56721,
+   "lng": 113.89128,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 8800,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "dongguan_08",
+   "name": "东莞 · 声名大造SUPER LIVE巡回演唱会",
+   "district": "可园",
+   "lat": 23.03095,
+   "lng": 113.75718,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "dongguan_09",
+   "name": "东莞骑行",
+   "district": "",
+   "lat": 22.97206,
+   "lng": 113.80397,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   23.02,
+   113.75
+  ],
+  "老城区": [
+   23.032,
+   113.74
+  ],
+  "近郊": [
+   22.99,
+   113.78
+  ]
+ }
+}

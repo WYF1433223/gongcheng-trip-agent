@@ -1,0 +1,247 @@
+{
+ "name": "海口",
+ "center": [
+  20.04,
+  110.2
+ ],
+ "far_ids": [
+  "haikou_05",
+  "haikou_06",
+  "haikou_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "haikou_00",
+   "name": "海南省博物馆",
+   "district": "省政府",
+   "lat": 20.0215,
+   "lng": 110.38554,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "haikou_01",
+   "name": "万绿园",
+   "district": "万绿园",
+   "lat": 20.03977,
+   "lng": 110.32025,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haikou_02",
+   "name": "雷琼海口火山群世界地质公园",
+   "district": "",
+   "lat": 19.93304,
+   "lng": 110.22759,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 48,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haikou_03",
+   "name": "骑楼老街",
+   "district": "世纪大桥",
+   "lat": 20.04603,
+   "lng": 110.35089,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haikou_04",
+   "name": "假日海滩",
+   "district": "假日海滩",
+   "lat": 20.03907,
+   "lng": 110.2508,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haikou_05",
+   "name": "天鹅湖动物基地",
+   "district": "美兰机场",
+   "lat": 19.98592,
+   "lng": 110.48943,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haikou_06",
+   "name": "观澜湖华谊冯小刚电影公社",
+   "district": "美兰机场",
+   "lat": 19.92463,
+   "lng": 110.35679,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 73,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haikou_07",
+   "name": "海南热带野生动植物园",
+   "district": "",
+   "lat": 19.77625,
+   "lng": 110.25253,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 140,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haikou_08",
+   "name": "海口云洞图书馆",
+   "district": "万绿园",
+   "lat": 20.05259,
+   "lng": 110.32296,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "haikou_09",
+   "name": "长影奇幻乐园",
+   "district": "海口秀英港码头",
+   "lat": 19.98715,
+   "lng": 110.20087,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 11,
+   "rating": 4.0,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   20.04,
+   110.2
+  ],
+  "老城区": [
+   20.052,
+   110.19
+  ],
+  "近郊": [
+   20.01,
+   110.23
+  ]
+ }
+}

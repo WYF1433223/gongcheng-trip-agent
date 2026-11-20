@@ -1,0 +1,243 @@
+{
+ "name": "焦作",
+ "center": [
+  35.22,
+  113.24
+ ],
+ "far_ids": [
+  "jiaozuo_00",
+  "jiaozuo_01",
+  "jiaozuo_02",
+  "jiaozuo_03",
+  "jiaozuo_04",
+  "jiaozuo_05",
+  "jiaozuo_06",
+  "jiaozuo_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "jiaozuo_00",
+   "name": "云台山风景名胜区",
+   "district": "",
+   "lat": 35.42732,
+   "lng": 113.43416,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 180,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiaozuo_01",
+   "name": "焦作市云台山风景名胜区-红石峡",
+   "district": "",
+   "lat": 35.43928,
+   "lng": 113.36261,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiaozuo_02",
+   "name": "陈家沟",
+   "district": "",
+   "lat": 34.95099,
+   "lng": 113.15179,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 27,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiaozuo_03",
+   "name": "焦作市云台山风景名胜区-小寨沟景区",
+   "district": "",
+   "lat": 35.47668,
+   "lng": 113.34607,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiaozuo_04",
+   "name": "茱萸峰",
+   "district": "",
+   "lat": 35.44523,
+   "lng": 113.38496,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiaozuo_05",
+   "name": "青天河",
+   "district": "",
+   "lat": 35.35241,
+   "lng": 113.02342,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 29,
+   "rating": 4.3,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiaozuo_06",
+   "name": "青龙峡",
+   "district": "",
+   "lat": 35.40655,
+   "lng": 113.27944,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiaozuo_07",
+   "name": "峰林峡",
+   "district": "",
+   "lat": 35.37791,
+   "lng": 113.16142,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiaozuo_08",
+   "name": "神农山风景区",
+   "district": "",
+   "lat": 35.22659,
+   "lng": 112.80539,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 39,
+   "rating": 4.1,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiaozuo_09",
+   "name": "焦作影视城",
+   "district": "",
+   "lat": 35.27288,
+   "lng": 113.21445,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 32,
+   "rating": 3.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   35.22,
+   113.24
+  ],
+  "老城区": [
+   35.232,
+   113.23
+  ],
+  "近郊": [
+   35.19,
+   113.27
+  ]
+ }
+}

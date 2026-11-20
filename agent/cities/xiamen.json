@@ -1,0 +1,237 @@
+{
+ "name": "厦门",
+ "center": [
+  24.48,
+  118.09
+ ],
+ "far_ids": [],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "xiamen_00",
+   "name": "厦门科技馆",
+   "district": "SM城市广场地区",
+   "lat": 24.49673,
+   "lng": 118.11482,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 120,
+   "rating": 4.9,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "xiamen_01",
+   "name": "胡里山炮台",
+   "district": "厦门大学地区",
+   "lat": 24.43561,
+   "lng": 118.11292,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 25,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiamen_02",
+   "name": "厦门园林植物园",
+   "district": "厦门大学地区",
+   "lat": 24.45396,
+   "lng": 118.11575,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 30,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiamen_03",
+   "name": "厦门大学(思明校区)",
+   "district": "厦门大学地区",
+   "lat": 24.44213,
+   "lng": 118.10848,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiamen_04",
+   "name": "钟鼓索道",
+   "district": "中山路地区",
+   "lat": 24.45896,
+   "lng": 118.10059,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 80,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiamen_05",
+   "name": "南普陀寺",
+   "district": "厦门大学地区",
+   "lat": 24.44764,
+   "lng": 118.10317,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiamen_06",
+   "name": "屿见闽南主题景区",
+   "district": "白鹭洲",
+   "lat": 24.48801,
+   "lng": 118.08437,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 89,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiamen_07",
+   "name": "鼓浪屿",
+   "district": "鼓浪屿地区",
+   "lat": 24.45097,
+   "lng": 118.07347,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiamen_08",
+   "name": "鹭江夜游",
+   "district": "中山路地区",
+   "lat": 24.45651,
+   "lng": 118.08374,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 121,
+   "rating": 4.5,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xiamen_09",
+   "name": "厦门文化艺术中心",
+   "district": "SM城市广场地区",
+   "lat": 24.49619,
+   "lng": 118.11653,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   24.48,
+   118.09
+  ],
+  "老城区": [
+   24.492,
+   118.08
+  ],
+  "近郊": [
+   24.45,
+   118.12
+  ]
+ }
+}

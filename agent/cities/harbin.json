@@ -1,0 +1,240 @@
+{
+ "name": "哈尔滨",
+ "center": [
+  45.8,
+  126.53
+ ],
+ "far_ids": [
+  "harbin_03"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "harbin_00",
+   "name": "哈尔滨极地公园",
+   "district": "融创乐园",
+   "lat": 45.79116,
+   "lng": 126.59286,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 55,
+   "rating": 4.9,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "harbin_01",
+   "name": "东北虎林园",
+   "district": "融创乐园",
+   "lat": 45.82383,
+   "lng": 126.60685,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 90,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "harbin_02",
+   "name": "圣索菲亚教堂",
+   "district": "中央大街步行街",
+   "lat": 45.7762,
+   "lng": 126.63365,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 25,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "harbin_03",
+   "name": "伏尔加庄园",
+   "district": "伏尔加庄园度假区",
+   "lat": 45.67912,
+   "lng": 126.90951,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 168,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "harbin_04",
+   "name": "哈尔滨索菲亚广场",
+   "district": "中央大街步行街",
+   "lat": 45.77667,
+   "lng": 126.63359,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "harbin_05",
+   "name": "松花江观光索道",
+   "district": "中央大街步行街",
+   "lat": 45.78422,
+   "lng": 126.61697,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 58,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "harbin_06",
+   "name": "哈药六版画博物馆",
+   "district": "国际会展中心",
+   "lat": 45.77126,
+   "lng": 126.71085,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 49,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "harbin_07",
+   "name": "太阳岛风景区",
+   "district": "融创乐园",
+   "lat": 45.79724,
+   "lng": 126.60407,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "harbin_08",
+   "name": "哈尔滨冰雪大世界",
+   "district": "融创乐园",
+   "lat": 45.78295,
+   "lng": 126.569,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 263,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "harbin_09",
+   "name": "哈药集团制药六厂",
+   "district": "国际会展中心",
+   "lat": 45.77123,
+   "lng": 126.71098,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 3.9,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   45.8,
+   126.53
+  ],
+  "老城区": [
+   45.812,
+   126.52
+  ],
+  "近郊": [
+   45.77,
+   126.56
+  ]
+ }
+}

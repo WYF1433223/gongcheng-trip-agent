@@ -1,0 +1,245 @@
+{
+ "name": "恩施",
+ "center": [
+  30.27,
+  109.49
+ ],
+ "far_ids": [
+  "enshi_00",
+  "enshi_01",
+  "enshi_02",
+  "enshi_03",
+  "enshi_04",
+  "enshi_05",
+  "enshi_06",
+  "enshi_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "enshi_00",
+   "name": "恩施梭布垭石林景区",
+   "district": "",
+   "lat": 30.58349,
+   "lng": 109.57988,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 108,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "enshi_01",
+   "name": "鹿院坪",
+   "district": "恩施大峡谷",
+   "lat": 30.49023,
+   "lng": 109.1987,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 128,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "enshi_02",
+   "name": "恩施大峡谷",
+   "district": "恩施大峡谷",
+   "lat": 30.43319,
+   "lng": 109.18438,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 132,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "enshi_03",
+   "name": "腾龙洞风景区",
+   "district": "",
+   "lat": 30.33908,
+   "lng": 108.99776,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 150,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "enshi_04",
+   "name": "蝶舞清江·地心谷景区",
+   "district": "",
+   "lat": 30.66222,
+   "lng": 110.07951,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 120,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "enshi_05",
+   "name": "鹤峰屏山旅游景区",
+   "district": "",
+   "lat": 29.94843,
+   "lng": 110.09125,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 127,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "enshi_06",
+   "name": "狮子关旅游区",
+   "district": "",
+   "lat": 29.98827,
+   "lng": 109.53629,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 60,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "enshi_07",
+   "name": "恩施土司城",
+   "district": "市政府",
+   "lat": 30.30694,
+   "lng": 109.47872,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 42,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "enshi_08",
+   "name": "恩施土家女儿城",
+   "district": "恩施女儿城",
+   "lat": 30.27563,
+   "lng": 109.51013,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "enshi_09",
+   "name": "宣恩贡秀游船",
+   "district": "",
+   "lat": 29.99562,
+   "lng": 109.49721,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 3.9,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   30.27,
+   109.49
+  ],
+  "老城区": [
+   30.282,
+   109.48
+  ],
+  "近郊": [
+   30.24,
+   109.52
+  ]
+ }
+}

@@ -1,0 +1,246 @@
+{
+ "name": "东营",
+ "center": [
+  37.43,
+  118.67
+ ],
+ "far_ids": [
+  "dongying_01",
+  "dongying_03",
+  "dongying_04",
+  "dongying_05",
+  "dongying_06",
+  "dongying_08",
+  "dongying_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "dongying_00",
+   "name": "清风湖公园",
+   "district": "东城区",
+   "lat": 37.42084,
+   "lng": 118.68913,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dongying_01",
+   "name": "东营红滩湿地旅游区",
+   "district": "",
+   "lat": 37.54994,
+   "lng": 118.93658,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dongying_02",
+   "name": "黄河三角洲动物园",
+   "district": "",
+   "lat": 37.42586,
+   "lng": 118.60356,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 25,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "dongying_03",
+   "name": "山东黄河三角洲国家级自然保护区",
+   "district": "黄河口度假区",
+   "lat": 37.83849,
+   "lng": 119.05314,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dongying_04",
+   "name": "黄河口生态旅游区",
+   "district": "黄河口度假区",
+   "lat": 37.73619,
+   "lng": 119.14772,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 85,
+   "rating": 4.2,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dongying_05",
+   "name": "孙子文化园",
+   "district": "",
+   "lat": 37.05228,
+   "lng": 118.46352,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 59,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dongying_06",
+   "name": "黄河入海口",
+   "district": "黄河口度假区",
+   "lat": 37.76659,
+   "lng": 118.9988,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dongying_07",
+   "name": "黄河文化馆",
+   "district": "东城区",
+   "lat": 37.4113,
+   "lng": 118.67145,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.0,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "dongying_08",
+   "name": "孤东海堤",
+   "district": "",
+   "lat": 37.88519,
+   "lng": 119.10601,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 3.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dongying_09",
+   "name": "东营观鸟",
+   "district": "黄河口度假区",
+   "lat": 37.76764,
+   "lng": 118.99622,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   37.43,
+   118.67
+  ],
+  "老城区": [
+   37.442,
+   118.66
+  ],
+  "近郊": [
+   37.4,
+   118.7
+  ]
+ }
+}

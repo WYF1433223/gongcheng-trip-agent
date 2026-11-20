@@ -1,0 +1,242 @@
+{
+ "name": "天津",
+ "center": [
+  39.13,
+  117.2
+ ],
+ "far_ids": [
+  "tianjin_01",
+  "tianjin_06",
+  "tianjin_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "tianjin_00",
+   "name": "海河游船",
+   "district": "天津之眼商圈",
+   "lat": 39.15825,
+   "lng": 117.19564,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tianjin_01",
+   "name": "天津欢乐谷",
+   "district": "东丽湖/欢乐谷度",
+   "lat": 39.19357,
+   "lng": 117.48448,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tianjin_02",
+   "name": "五大道",
+   "district": "滨江道/小白楼/",
+   "lat": 39.11639,
+   "lng": 117.21,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "tianjin_03",
+   "name": "静园",
+   "district": "滨江道/小白楼/",
+   "lat": 39.12898,
+   "lng": 117.19584,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 19,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tianjin_04",
+   "name": "张园",
+   "district": "滨江道/小白楼/",
+   "lat": 39.13065,
+   "lng": 117.19842,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 30,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "tianjin_05",
+   "name": "天津之眼摩天轮",
+   "district": "天津之眼商圈",
+   "lat": 39.16009,
+   "lng": 117.19335,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 90,
+   "rating": 4.6,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tianjin_06",
+   "name": "泰达航母主题公园",
+   "district": "中新生态城/国家",
+   "lat": 39.16177,
+   "lng": 117.82075,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 220,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "tianjin_07",
+   "name": "国家海洋博物馆",
+   "district": "中新生态城/国家",
+   "lat": 39.11043,
+   "lng": 117.80132,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "tianjin_08",
+   "name": "张学良故居",
+   "district": "滨江道/小白楼/",
+   "lat": 39.12981,
+   "lng": 117.20824,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 73,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "tianjin_09",
+   "name": "瓷房子",
+   "district": "滨江道/小白楼/",
+   "lat": 39.13071,
+   "lng": 117.2089,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 50,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   39.13,
+   117.2
+  ],
+  "老城区": [
+   39.142,
+   117.19
+  ],
+  "近郊": [
+   39.1,
+   117.23
+  ]
+ }
+}

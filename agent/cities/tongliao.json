@@ -1,0 +1,247 @@
+{
+ "name": "通辽",
+ "center": [
+  43.65,
+  122.24
+ ],
+ "far_ids": [
+  "tongliao_00",
+  "tongliao_01",
+  "tongliao_03",
+  "tongliao_04",
+  "tongliao_05",
+  "tongliao_06",
+  "tongliao_07",
+  "tongliao_08",
+  "tongliao_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "tongliao_00",
+   "name": "库伦三大寺",
+   "district": "",
+   "lat": 42.73759,
+   "lng": 121.78338,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 25,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongliao_01",
+   "name": "科尔沁草原",
+   "district": "",
+   "lat": 42.78781,
+   "lng": 122.27771,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongliao_02",
+   "name": "通辽市博物馆",
+   "district": "通辽万达广场",
+   "lat": 43.6317,
+   "lng": 122.27868,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "tongliao_03",
+   "name": "库伦旗银沙湾旅游景区",
+   "district": "",
+   "lat": 42.85797,
+   "lng": 121.63478,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongliao_04",
+   "name": "宝古图沙漠旅游区",
+   "district": "",
+   "lat": 43.17408,
+   "lng": 120.61867,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongliao_05",
+   "name": "大青沟",
+   "district": "大青沟自然风景区",
+   "lat": 42.76825,
+   "lng": 122.21058,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongliao_06",
+   "name": "可汗山",
+   "district": "",
+   "lat": 45.60883,
+   "lng": 119.58896,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongliao_07",
+   "name": "孝庄园文化旅游区",
+   "district": "",
+   "lat": 43.94897,
+   "lng": 121.96061,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 47,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongliao_08",
+   "name": "珠日河草原旅游区",
+   "district": "",
+   "lat": 44.20884,
+   "lng": 121.53952,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongliao_09",
+   "name": "通辽滑沙",
+   "district": "",
+   "lat": 42.85256,
+   "lng": 121.63321,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   43.65,
+   122.24
+  ],
+  "老城区": [
+   43.662,
+   122.23
+  ],
+  "近郊": [
+   43.62,
+   122.27
+  ]
+ }
+}

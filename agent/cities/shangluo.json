@@ -1,0 +1,248 @@
+{
+ "name": "商洛",
+ "center": [
+  33.87,
+  109.94
+ ],
+ "far_ids": [
+  "shangluo_00",
+  "shangluo_01",
+  "shangluo_02",
+  "shangluo_03",
+  "shangluo_04",
+  "shangluo_05",
+  "shangluo_06",
+  "shangluo_07",
+  "shangluo_08",
+  "shangluo_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "shangluo_00",
+   "name": "塔云山景区",
+   "district": "",
+   "lat": 33.31455,
+   "lng": 109.05877,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shangluo_01",
+   "name": "秦岭天竺山生态文化旅游景区",
+   "district": "",
+   "lat": 33.39945,
+   "lng": 110.03261,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shangluo_02",
+   "name": "终南山寨",
+   "district": "",
+   "lat": 33.81948,
+   "lng": 108.98968,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shangluo_03",
+   "name": "金丝峡景区",
+   "district": "",
+   "lat": 33.37304,
+   "lng": 110.57173,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 100,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shangluo_04",
+   "name": "棣花古镇",
+   "district": "",
+   "lat": 33.7403,
+   "lng": 110.19961,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shangluo_05",
+   "name": "漫川古镇",
+   "district": "",
+   "lat": 33.23996,
+   "lng": 110.06688,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shangluo_06",
+   "name": "牛背梁国家森林公园",
+   "district": "",
+   "lat": 33.85159,
+   "lng": 109.00719,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 97,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shangluo_07",
+   "name": "柞水溶洞",
+   "district": "",
+   "lat": 33.57263,
+   "lng": 109.17361,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 57,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shangluo_08",
+   "name": "秦岭江山景区",
+   "district": "",
+   "lat": 34.10753,
+   "lng": 109.897,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 70,
+   "rating": 4.1,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shangluo_09",
+   "name": "柞水终南山秦楚古道",
+   "district": "",
+   "lat": 33.88726,
+   "lng": 109.04952,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   33.87,
+   109.94
+  ],
+  "老城区": [
+   33.882,
+   109.93
+  ],
+  "近郊": [
+   33.84,
+   109.97
+  ]
+ }
+}

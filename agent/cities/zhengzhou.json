@@ -1,0 +1,244 @@
+{
+ "name": "郑州",
+ "center": [
+  34.75,
+  113.63
+ ],
+ "far_ids": [
+  "zhengzhou_02",
+  "zhengzhou_03",
+  "zhengzhou_05",
+  "zhengzhou_06",
+  "zhengzhou_07",
+  "zhengzhou_08",
+  "zhengzhou_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "zhengzhou_00",
+   "name": "河南博物院",
+   "district": "文化路",
+   "lat": 34.79414,
+   "lng": 113.67865,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "zhengzhou_01",
+   "name": "中原福塔",
+   "district": "经济开发区",
+   "lat": 34.72914,
+   "lng": 113.73561,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 68,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhengzhou_02",
+   "name": "只有河南·戏剧幻城",
+   "district": "",
+   "lat": 34.80538,
+   "lng": 114.00714,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 285,
+   "rating": 4.7,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhengzhou_03",
+   "name": "郑州电影小镇",
+   "district": "",
+   "lat": 34.78047,
+   "lng": 114.00484,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 69,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhengzhou_04",
+   "name": "郑州海洋馆",
+   "district": "北环沿线",
+   "lat": 34.82627,
+   "lng": 113.66451,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 189,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhengzhou_05",
+   "name": "嵩山风景名胜区",
+   "district": "",
+   "lat": 34.50132,
+   "lng": 113.00911,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 80,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhengzhou_06",
+   "name": "嵩山少林景区",
+   "district": "",
+   "lat": 34.5132,
+   "lng": 112.94781,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 80,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhengzhou_07",
+   "name": "郑州银基国际旅游度假区",
+   "district": "银基国际旅游度假区",
+   "lat": 34.48935,
+   "lng": 113.55632,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhengzhou_08",
+   "name": "郑州银基动物王国",
+   "district": "银基国际旅游度假区",
+   "lat": 34.49231,
+   "lng": 113.55705,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 95,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhengzhou_09",
+   "name": "郑州黄河文化公园",
+   "district": "黄河游览区",
+   "lat": 34.95983,
+   "lng": 113.52049,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 45,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   34.75,
+   113.63
+  ],
+  "老城区": [
+   34.762,
+   113.62
+  ],
+  "近郊": [
+   34.72,
+   113.66
+  ]
+ }
+}

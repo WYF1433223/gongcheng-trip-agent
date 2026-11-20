@@ -1,0 +1,245 @@
+{
+ "name": "梅州",
+ "center": [
+  24.29,
+  116.12
+ ],
+ "far_ids": [
+  "meizhou_02",
+  "meizhou_03",
+  "meizhou_04",
+  "meizhou_06",
+  "meizhou_07",
+  "meizhou_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "meizhou_00",
+   "name": "中国客家博物馆",
+   "district": "梅州江北老街",
+   "lat": 24.31651,
+   "lng": 116.13842,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "meizhou_01",
+   "name": "梅州千佛塔",
+   "district": "梅州江北老街",
+   "lat": 24.31166,
+   "lng": 116.14845,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "meizhou_02",
+   "name": "雁南飞茶田景区",
+   "district": "雁南飞茶田度假村",
+   "lat": 24.38803,
+   "lng": 116.38607,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "meizhou_03",
+   "name": "龙归寨瀑布",
+   "district": "",
+   "lat": 23.8099,
+   "lng": 116.28642,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 46,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "meizhou_04",
+   "name": "南台卧佛山景区",
+   "district": "",
+   "lat": 24.55151,
+   "lng": 115.86201,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "meizhou_05",
+   "name": "梅州江北老街",
+   "district": "梅州江北老街",
+   "lat": 24.31537,
+   "lng": 116.1194,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "meizhou_06",
+   "name": "梅州五指石",
+   "district": "",
+   "lat": 24.90781,
+   "lng": 115.9559,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 90,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "meizhou_07",
+   "name": "花萼楼",
+   "district": "",
+   "lat": 24.26556,
+   "lng": 116.92983,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "meizhou_08",
+   "name": "客天下客家小镇景区",
+   "district": "客天下景区",
+   "lat": 24.26428,
+   "lng": 116.16102,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 29,
+   "rating": 3.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "meizhou_09",
+   "name": "松口古镇",
+   "district": "",
+   "lat": 24.50476,
+   "lng": 116.41943,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 3.9,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   24.29,
+   116.12
+  ],
+  "老城区": [
+   24.302,
+   116.11
+  ],
+  "近郊": [
+   24.26,
+   116.15
+  ]
+ }
+}

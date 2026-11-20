@@ -1,0 +1,245 @@
+{
+ "name": "曲靖",
+ "center": [
+  25.49,
+  103.8
+ ],
+ "far_ids": [
+  "qujing_00",
+  "qujing_01",
+  "qujing_02",
+  "qujing_03",
+  "qujing_04",
+  "qujing_05",
+  "qujing_06",
+  "qujing_07",
+  "qujing_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "qujing_00",
+   "name": "罗平油菜花景区",
+   "district": "",
+   "lat": 24.92886,
+   "lng": 104.35458,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qujing_01",
+   "name": "金鸡峰丛",
+   "district": "",
+   "lat": 24.94583,
+   "lng": 104.40405,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qujing_02",
+   "name": "九龙瀑布群",
+   "district": "",
+   "lat": 25.01894,
+   "lng": 104.43594,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 60,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qujing_03",
+   "name": "大海草山",
+   "district": "",
+   "lat": 26.24605,
+   "lng": 103.2467,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qujing_04",
+   "name": "尼珠河大峡谷",
+   "district": "",
+   "lat": 26.44061,
+   "lng": 104.66956,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qujing_05",
+   "name": "会泽古城",
+   "district": "",
+   "lat": 26.41762,
+   "lng": 103.30575,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qujing_06",
+   "name": "陆良彩色沙林",
+   "district": "",
+   "lat": 24.90323,
+   "lng": 103.73111,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 65,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qujing_07",
+   "name": "珠江源风景区",
+   "district": "",
+   "lat": 25.89438,
+   "lng": 103.93896,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 32,
+   "rating": 4.2,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qujing_08",
+   "name": "多依河",
+   "district": "",
+   "lat": 24.75564,
+   "lng": 104.51979,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qujing_09",
+   "name": "金麟湾爱情小镇",
+   "district": "",
+   "lat": 25.45238,
+   "lng": 103.79507,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 3.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   25.49,
+   103.8
+  ],
+  "老城区": [
+   25.502,
+   103.79
+  ],
+  "近郊": [
+   25.46,
+   103.83
+  ]
+ }
+}

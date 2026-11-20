@@ -1,0 +1,245 @@
+{
+ "name": "绥化",
+ "center": [
+  46.65,
+  126.97
+ ],
+ "far_ids": [
+  "suihua_01",
+  "suihua_03",
+  "suihua_04",
+  "suihua_05",
+  "suihua_06",
+  "suihua_07",
+  "suihua_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "suihua_00",
+   "name": "绥化市森林植物园",
+   "district": "",
+   "lat": 46.62455,
+   "lng": 127.04476,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.9,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "suihua_01",
+   "name": "金龟山庄",
+   "district": "",
+   "lat": 46.68279,
+   "lng": 127.3291,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 26,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "suihua_02",
+   "name": "绥化市博物馆",
+   "district": "",
+   "lat": 46.65651,
+   "lng": 126.97592,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "suihua_03",
+   "name": "依吉密河漂流",
+   "district": "",
+   "lat": 47.22476,
+   "lng": 128.43611,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "suihua_04",
+   "name": "东北虎林园",
+   "district": "融创乐园",
+   "lat": 45.82383,
+   "lng": 126.60685,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 90,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "suihua_05",
+   "name": "千鹤岛旅游风景区",
+   "district": "",
+   "lat": 45.86085,
+   "lng": 126.18634,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "suihua_06",
+   "name": "哈尔滨冰雪大世界",
+   "district": "融创乐园",
+   "lat": 45.78295,
+   "lng": 126.569,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 263,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "suihua_07",
+   "name": "八里城遗址",
+   "district": "",
+   "lat": 45.6874,
+   "lng": 125.8664,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "suihua_08",
+   "name": "人民公园",
+   "district": "",
+   "lat": 46.62253,
+   "lng": 126.99806,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "suihua_09",
+   "name": "南山景区",
+   "district": "",
+   "lat": 46.25486,
+   "lng": 126.35068,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   46.65,
+   126.97
+  ],
+  "老城区": [
+   46.662,
+   126.96
+  ],
+  "近郊": [
+   46.62,
+   127.0
+  ]
+ }
+}

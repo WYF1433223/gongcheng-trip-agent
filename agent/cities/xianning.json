@@ -1,0 +1,244 @@
+{
+ "name": "咸宁",
+ "center": [
+  29.84,
+  114.32
+ ],
+ "far_ids": [
+  "xianning_02",
+  "xianning_03",
+  "xianning_04",
+  "xianning_05",
+  "xianning_07",
+  "xianning_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "xianning_00",
+   "name": "咸宁碧桂园凤凰温泉",
+   "district": "潜山温泉区",
+   "lat": 29.82082,
+   "lng": 114.31806,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 153,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xianning_01",
+   "name": "咸宁易汤温泉养心谷",
+   "district": "",
+   "lat": 29.81223,
+   "lng": 114.33867,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xianning_02",
+   "name": "九宫山滑雪场",
+   "district": "九宫山",
+   "lat": 29.39931,
+   "lng": 114.67125,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 79,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xianning_03",
+   "name": "九宫山景区",
+   "district": "九宫山",
+   "lat": 29.40568,
+   "lng": 114.66298,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xianning_04",
+   "name": "赤壁古战场",
+   "district": "",
+   "lat": 29.88506,
+   "lng": 113.63726,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 80,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xianning_05",
+   "name": "崇阳浪口森林温泉",
+   "district": "",
+   "lat": 29.58929,
+   "lng": 114.09247,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 98,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xianning_06",
+   "name": "三江森林温泉",
+   "district": "潜山温泉区",
+   "lat": 29.81447,
+   "lng": 114.33558,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 128,
+   "rating": 4.1,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xianning_07",
+   "name": "陆水湖风景区",
+   "district": "",
+   "lat": 29.68977,
+   "lng": 113.96618,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xianning_08",
+   "name": "羊楼洞古镇",
+   "district": "",
+   "lat": 29.54508,
+   "lng": 113.75639,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xianning_09",
+   "name": "咸宁泡温泉",
+   "district": "潜山温泉区",
+   "lat": 29.82145,
+   "lng": 114.31621,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   29.84,
+   114.32
+  ],
+  "老城区": [
+   29.852,
+   114.31
+  ],
+  "近郊": [
+   29.81,
+   114.35
+  ]
+ }
+}

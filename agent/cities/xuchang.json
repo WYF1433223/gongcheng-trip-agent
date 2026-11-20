@@ -1,0 +1,227 @@
+{
+ "name": "许昌",
+ "center": [
+  34.04,
+  113.85
+ ],
+ "far_ids": [
+  "xuchang_00",
+  "xuchang_01",
+  "xuchang_02",
+  "xuchang_05"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "xuchang_00",
+   "name": "花都温泉度假区",
+   "district": "",
+   "lat": 34.08605,
+   "lng": 114.07287,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 88,
+   "rating": 4.8,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xuchang_01",
+   "name": "钧官窑址博物馆",
+   "district": "",
+   "lat": 34.17281,
+   "lng": 113.48547,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "xuchang_02",
+   "name": "神垕钧瓷文化旅游区",
+   "district": "",
+   "lat": 34.11968,
+   "lng": 113.23824,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xuchang_03",
+   "name": "许昌博物馆",
+   "district": "360广场",
+   "lat": 34.03806,
+   "lng": 113.85891,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "xuchang_04",
+   "name": "春秋楼景区",
+   "district": "许昌站",
+   "lat": 34.03147,
+   "lng": 113.83479,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 22,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xuchang_05",
+   "name": "大鸿寨风景区",
+   "district": "",
+   "lat": 34.25424,
+   "lng": 113.09939,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 32,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xuchang_06",
+   "name": "许昌灞陵桥景区",
+   "district": "许昌站",
+   "lat": 34.0269,
+   "lng": 113.79181,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 27,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xuchang_07",
+   "name": "曹魏古城",
+   "district": "许昌站",
+   "lat": 34.03398,
+   "lng": 113.83451,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xuchang_08",
+   "name": "曹丞相府",
+   "district": "许昌站",
+   "lat": 34.03721,
+   "lng": 113.83403,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 3.9,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   34.04,
+   113.85
+  ],
+  "老城区": [
+   34.052,
+   113.84
+  ],
+  "近郊": [
+   34.01,
+   113.88
+  ]
+ }
+}

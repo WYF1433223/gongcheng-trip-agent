@@ -1,0 +1,238 @@
+{
+ "name": "徐州",
+ "center": [
+  34.26,
+  117.18
+ ],
+ "far_ids": [
+  "xuzhou_00"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "xuzhou_00",
+   "name": "徐州方特乐园",
+   "district": "",
+   "lat": 34.15293,
+   "lng": 117.3656,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 199,
+   "rating": 4.8,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xuzhou_01",
+   "name": "宝莲寺",
+   "district": "云龙万达广场",
+   "lat": 34.30062,
+   "lng": 117.27451,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xuzhou_02",
+   "name": "龟山汉墓",
+   "district": "",
+   "lat": 34.31355,
+   "lng": 117.14396,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 67,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xuzhou_03",
+   "name": "徐州云龙湖风景区",
+   "district": "徐州云龙湖风景区",
+   "lat": 34.24283,
+   "lng": 117.16263,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xuzhou_04",
+   "name": "徐州汉文化景区",
+   "district": "徐州汉文化景区",
+   "lat": 34.25331,
+   "lng": 117.22796,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 75,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xuzhou_05",
+   "name": "徐州博物馆",
+   "district": "彭城广场",
+   "lat": 34.25679,
+   "lng": 117.1933,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "xuzhou_06",
+   "name": "徐州乐园欢乐世界",
+   "district": "徐州云龙湖风景区",
+   "lat": 34.23484,
+   "lng": 117.12942,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 144,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xuzhou_07",
+   "name": "户部山",
+   "district": "彭城广场",
+   "lat": 34.26096,
+   "lng": 117.19655,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xuzhou_08",
+   "name": "云龙山索滑道",
+   "district": "徐州云龙湖风景区",
+   "lat": 34.24961,
+   "lng": 117.19207,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xuzhou_09",
+   "name": "龟山景区",
+   "district": "",
+   "lat": 34.31373,
+   "lng": 117.14475,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 3.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   34.26,
+   117.18
+  ],
+  "老城区": [
+   34.272,
+   117.17
+  ],
+  "近郊": [
+   34.23,
+   117.21
+  ]
+ }
+}

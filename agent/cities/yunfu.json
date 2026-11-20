@@ -1,0 +1,245 @@
+{
+ "name": "云浮",
+ "center": [
+  22.92,
+  112.04
+ ],
+ "far_ids": [
+  "yunfu_00",
+  "yunfu_01",
+  "yunfu_02",
+  "yunfu_04",
+  "yunfu_05",
+  "yunfu_06",
+  "yunfu_07",
+  "yunfu_08",
+  "yunfu_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "yunfu_00",
+   "name": "悦天下生态度假区",
+   "district": "",
+   "lat": 22.60891,
+   "lng": 112.50124,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yunfu_01",
+   "name": "禅泉温泉",
+   "district": "",
+   "lat": 22.59835,
+   "lng": 112.23256,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 158,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yunfu_02",
+   "name": "国恩寺",
+   "district": "",
+   "lat": 22.59553,
+   "lng": 112.23466,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yunfu_03",
+   "name": "蟠龙洞",
+   "district": "",
+   "lat": 22.95032,
+   "lng": 112.05811,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 35,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yunfu_04",
+   "name": "六祖故里旅游度假区",
+   "district": "",
+   "lat": 22.59447,
+   "lng": 112.23329,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yunfu_05",
+   "name": "新兴天露山旅游度假区",
+   "district": "",
+   "lat": 22.48835,
+   "lng": 112.24815,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 13,
+   "rating": 4.2,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yunfu_06",
+   "name": "新兴禅域小镇旅游度假区",
+   "district": "",
+   "lat": 22.64406,
+   "lng": 112.24087,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yunfu_07",
+   "name": "罗定风车山",
+   "district": "",
+   "lat": 22.63126,
+   "lng": 111.19449,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yunfu_08",
+   "name": "云浮漂流",
+   "district": "",
+   "lat": 22.49499,
+   "lng": 112.22957,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yunfu_09",
+   "name": "新兴泡温泉",
+   "district": "",
+   "lat": 22.59831,
+   "lng": 112.232,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   22.92,
+   112.04
+  ],
+  "老城区": [
+   22.932,
+   112.03
+  ],
+  "近郊": [
+   22.89,
+   112.07
+  ]
+ }
+}

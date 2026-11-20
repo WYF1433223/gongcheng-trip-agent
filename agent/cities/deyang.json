@@ -1,0 +1,247 @@
+{
+ "name": "德阳",
+ "center": [
+  31.13,
+  104.4
+ ],
+ "far_ids": [
+  "deyang_00",
+  "deyang_01",
+  "deyang_02",
+  "deyang_03",
+  "deyang_04",
+  "deyang_05",
+  "deyang_07",
+  "deyang_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "deyang_00",
+   "name": "广汉三星堆博物馆-一展馆",
+   "district": "",
+   "lat": 31.00667,
+   "lng": 104.22717,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "deyang_01",
+   "name": "三星堆遗址",
+   "district": "",
+   "lat": 30.99793,
+   "lng": 104.20822,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "deyang_02",
+   "name": "神瀑沟",
+   "district": "",
+   "lat": 31.32017,
+   "lng": 103.90484,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 29,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "deyang_03",
+   "name": "剑门关",
+   "district": "",
+   "lat": 32.22786,
+   "lng": 105.58157,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 100,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "deyang_04",
+   "name": "绵竹麓棠温泉",
+   "district": "",
+   "lat": 31.31668,
+   "lng": 104.07355,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 128,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "deyang_05",
+   "name": "三星堆博物馆",
+   "district": "",
+   "lat": 31.00714,
+   "lng": 104.22525,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "deyang_06",
+   "name": "德阳文庙",
+   "district": "文庙广场",
+   "lat": 31.13584,
+   "lng": 104.39805,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "deyang_07",
+   "name": "三星堆国家考古遗址公园",
+   "district": "",
+   "lat": 31.00669,
+   "lng": 104.22504,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "deyang_08",
+   "name": "石刻公园",
+   "district": "万达广场",
+   "lat": 31.14408,
+   "lng": 104.40196,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "deyang_09",
+   "name": "蓥华大峡谷漂流",
+   "district": "",
+   "lat": 31.30858,
+   "lng": 103.97837,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   31.13,
+   104.4
+  ],
+  "老城区": [
+   31.142,
+   104.39
+  ],
+  "近郊": [
+   31.1,
+   104.43
+  ]
+ }
+}

@@ -1,0 +1,247 @@
+{
+ "name": "甘孜",
+ "center": [
+  30.05,
+  101.96
+ ],
+ "far_ids": [
+  "ganzizhou_00",
+  "ganzizhou_01",
+  "ganzizhou_02",
+  "ganzizhou_03",
+  "ganzizhou_05",
+  "ganzizhou_06",
+  "ganzizhou_07",
+  "ganzizhou_08",
+  "ganzizhou_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "ganzizhou_00",
+   "name": "格聂山",
+   "district": "则巴村",
+   "lat": 29.81412,
+   "lng": 99.61794,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ganzizhou_01",
+   "name": "巴塘措普沟景区",
+   "district": "",
+   "lat": 30.43016,
+   "lng": 99.4793,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 145,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "ganzizhou_02",
+   "name": "新都桥",
+   "district": "新都桥",
+   "lat": 30.05134,
+   "lng": 101.49996,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ganzizhou_03",
+   "name": "稻城亚丁",
+   "district": "",
+   "lat": 28.46494,
+   "lng": 100.29327,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 146,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "ganzizhou_04",
+   "name": "康定木格措景区",
+   "district": "中谷村",
+   "lat": 30.17617,
+   "lng": 101.87836,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 175,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "ganzizhou_05",
+   "name": "亚丁村",
+   "district": "亚丁村",
+   "lat": 28.46104,
+   "lng": 100.34631,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ganzizhou_06",
+   "name": "亚拉雪山风景区",
+   "district": "",
+   "lat": 30.53622,
+   "lng": 101.62722,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 150,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ganzizhou_07",
+   "name": "中国贡嘎山海螺沟",
+   "district": "",
+   "lat": 29.58456,
+   "lng": 102.01182,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 160,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ganzizhou_08",
+   "name": "墨石公园景区",
+   "district": "",
+   "lat": 30.45046,
+   "lng": 101.5492,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 60,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ganzizhou_09",
+   "name": "甲居藏寨",
+   "district": "甲居藏寨",
+   "lat": 30.93029,
+   "lng": 101.8787,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 50,
+   "rating": 4.1,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   30.05,
+   101.96
+  ],
+  "老城区": [
+   30.062,
+   101.95
+  ],
+  "近郊": [
+   30.02,
+   101.99
+  ]
+ }
+}

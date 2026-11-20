@@ -1,0 +1,247 @@
+{
+ "name": "宁德",
+ "center": [
+  26.66,
+  119.55
+ ],
+ "far_ids": [
+  "ningde_00",
+  "ningde_01",
+  "ningde_02",
+  "ningde_03",
+  "ningde_04",
+  "ningde_05",
+  "ningde_06",
+  "ningde_07",
+  "ningde_08",
+  "ningde_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "ningde_00",
+   "name": "龙潭古村",
+   "district": "",
+   "lat": 26.77795,
+   "lng": 119.08186,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "ningde_01",
+   "name": "太姥山",
+   "district": "太姥山",
+   "lat": 27.11975,
+   "lng": 120.18926,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 135,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ningde_02",
+   "name": "东壁",
+   "district": "三沙",
+   "lat": 26.92647,
+   "lng": 120.197,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ningde_03",
+   "name": "四礵列岛",
+   "district": "",
+   "lat": 26.70344,
+   "lng": 120.36043,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ningde_04",
+   "name": "白水洋风景区",
+   "district": "白水洋",
+   "lat": 27.09045,
+   "lng": 119.07791,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 20,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "ningde_05",
+   "name": "福州罗源湾海洋世界旅游区",
+   "district": "",
+   "lat": 26.46484,
+   "lng": 119.61354,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "ningde_06",
+   "name": "大嵛山岛",
+   "district": "嵛山岛",
+   "lat": 26.95006,
+   "lng": 120.35874,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 115,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ningde_07",
+   "name": "杨家溪",
+   "district": "",
+   "lat": 27.04462,
+   "lng": 120.1514,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "ningde_08",
+   "name": "柘荣鸳鸯草场",
+   "district": "",
+   "lat": 27.15632,
+   "lng": 119.96689,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 60,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "ningde_09",
+   "name": "霞浦看日出",
+   "district": "三沙",
+   "lat": 26.94885,
+   "lng": 120.24034,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   26.66,
+   119.55
+  ],
+  "老城区": [
+   26.672,
+   119.54
+  ],
+  "近郊": [
+   26.63,
+   119.58
+  ]
+ }
+}

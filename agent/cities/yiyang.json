@@ -1,0 +1,244 @@
+{
+ "name": "益阳",
+ "center": [
+  28.55,
+  112.36
+ ],
+ "far_ids": [
+  "yiyang_00",
+  "yiyang_03",
+  "yiyang_04",
+  "yiyang_06",
+  "yiyang_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "yiyang_00",
+   "name": "云台山风景区",
+   "district": "",
+   "lat": 28.36917,
+   "lng": 111.00879,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yiyang_01",
+   "name": "益阳古城",
+   "district": "",
+   "lat": 28.5988,
+   "lng": 112.36171,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yiyang_02",
+   "name": "宇艺木国",
+   "district": "",
+   "lat": 28.40798,
+   "lng": 112.41612,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 78,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yiyang_03",
+   "name": "江西矿疗温泉",
+   "district": "温泉度假区",
+   "lat": 27.69472,
+   "lng": 114.30162,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 158,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yiyang_04",
+   "name": "茶马古道风景区",
+   "district": "",
+   "lat": 28.23806,
+   "lng": 111.36695,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 104,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yiyang_05",
+   "name": "益阳明清古巷",
+   "district": "",
+   "lat": 28.59656,
+   "lng": 112.32563,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yiyang_06",
+   "name": "石鼓书院",
+   "district": "解放路商圈",
+   "lat": 26.91658,
+   "lng": 112.62279,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yiyang_07",
+   "name": "桃花江竹海景区",
+   "district": "",
+   "lat": 28.5217,
+   "lng": 112.18656,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yiyang_08",
+   "name": "茶乡花海",
+   "district": "",
+   "lat": 28.43778,
+   "lng": 111.34162,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yiyang_09",
+   "name": "紫金湾欢乐王国",
+   "district": "",
+   "lat": 28.51461,
+   "lng": 112.20383,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 3.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   28.55,
+   112.36
+  ],
+  "老城区": [
+   28.562,
+   112.35
+  ],
+  "近郊": [
+   28.52,
+   112.39
+  ]
+ }
+}

@@ -1,0 +1,241 @@
+{
+ "name": "河源",
+ "center": [
+  23.74,
+  114.7
+ ],
+ "far_ids": [
+  "heyuan_02",
+  "heyuan_03"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "heyuan_00",
+   "name": "万绿湖风景区",
+   "district": "",
+   "lat": 23.78219,
+   "lng": 114.63803,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 175,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "heyuan_01",
+   "name": "河源市博物馆",
+   "district": "",
+   "lat": 23.73206,
+   "lng": 114.7071,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "heyuan_02",
+   "name": "霍山风景区",
+   "district": "",
+   "lat": 24.23237,
+   "lng": 115.52002,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "heyuan_03",
+   "name": "河源叶园温泉旅游区",
+   "district": "",
+   "lat": 23.83671,
+   "lng": 114.98115,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 88,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "heyuan_04",
+   "name": "万绿湖•镜花缘游览区",
+   "district": "",
+   "lat": 23.78368,
+   "lng": 114.6299,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 35,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "heyuan_05",
+   "name": "河源恐龙文博园",
+   "district": "",
+   "lat": 23.73206,
+   "lng": 114.7071,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "heyuan_06",
+   "name": "河源恐龙博物馆",
+   "district": "",
+   "lat": 23.73191,
+   "lng": 114.70766,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 27,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "heyuan_07",
+   "name": "富德祺家·巴伐利亚庄园",
+   "district": "巴伐利亚庄园",
+   "lat": 23.63516,
+   "lng": 114.62719,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 128,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "heyuan_08",
+   "name": "春沐源小镇",
+   "district": "春沐源小镇",
+   "lat": 23.63219,
+   "lng": 114.60365,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "heyuan_09",
+   "name": "河源泡温泉",
+   "district": "巴伐利亚庄园",
+   "lat": 23.63468,
+   "lng": 114.63598,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   23.74,
+   114.7
+  ],
+  "老城区": [
+   23.752,
+   114.69
+  ],
+  "近郊": [
+   23.71,
+   114.73
+  ]
+ }
+}

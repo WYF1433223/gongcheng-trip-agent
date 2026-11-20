@@ -1,0 +1,242 @@
+{
+ "name": "商丘",
+ "center": [
+  34.41,
+  115.66
+ ],
+ "far_ids": [
+  "shangqiu_00",
+  "shangqiu_01",
+  "shangqiu_02",
+  "shangqiu_06",
+  "shangqiu_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "shangqiu_00",
+   "name": "汉梁王陵",
+   "district": "",
+   "lat": 34.17405,
+   "lng": 116.51927,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 55,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shangqiu_01",
+   "name": "瞻园",
+   "district": "",
+   "lat": 34.62452,
+   "lng": 113.58829,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shangqiu_02",
+   "name": "芒砀山",
+   "district": "",
+   "lat": 34.18547,
+   "lng": 116.49539,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shangqiu_03",
+   "name": "商丘古城景区",
+   "district": "商丘古城",
+   "lat": 34.38494,
+   "lng": 115.62025,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shangqiu_04",
+   "name": "商丘博物馆",
+   "district": "商丘古城",
+   "lat": 34.36744,
+   "lng": 115.59882,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "shangqiu_05",
+   "name": "张巡祠",
+   "district": "商丘古城",
+   "lat": 34.37606,
+   "lng": 115.62017,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shangqiu_06",
+   "name": "芒砀山大汉雄风景区",
+   "district": "",
+   "lat": 34.19196,
+   "lng": 116.50988,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 27,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shangqiu_07",
+   "name": "商丘火神台",
+   "district": "商丘古城",
+   "lat": 34.36922,
+   "lng": 115.59666,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 30,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shangqiu_08",
+   "name": "夫子山景区",
+   "district": "",
+   "lat": 34.18579,
+   "lng": 116.49608,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 60,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shangqiu_09",
+   "name": "应天书院",
+   "district": "商丘古城",
+   "lat": 34.37601,
+   "lng": 115.62682,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 3.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   34.41,
+   115.66
+  ],
+  "老城区": [
+   34.422,
+   115.65
+  ],
+  "近郊": [
+   34.38,
+   115.69
+  ]
+ }
+}

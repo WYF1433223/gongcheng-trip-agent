@@ -1,0 +1,248 @@
+{
+ "name": "邵阳",
+ "center": [
+  27.24,
+  111.47
+ ],
+ "far_ids": [
+  "shaoyang_00",
+  "shaoyang_01",
+  "shaoyang_02",
+  "shaoyang_03",
+  "shaoyang_05",
+  "shaoyang_06",
+  "shaoyang_07",
+  "shaoyang_08",
+  "shaoyang_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "shaoyang_00",
+   "name": "虎形山-花瑶风景名胜区",
+   "district": "",
+   "lat": 27.54433,
+   "lng": 110.72155,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoyang_01",
+   "name": "崀山国家级风景区",
+   "district": "",
+   "lat": 26.40414,
+   "lng": 110.83301,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 99,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoyang_02",
+   "name": "辣椒峰景区",
+   "district": "",
+   "lat": 26.3519,
+   "lng": 110.78777,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoyang_03",
+   "name": "天一巷景区",
+   "district": "",
+   "lat": 26.36007,
+   "lng": 110.81027,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoyang_04",
+   "name": "宝庆府古城墙",
+   "district": "",
+   "lat": 27.2456,
+   "lng": 111.47021,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoyang_05",
+   "name": "南山牧场",
+   "district": "",
+   "lat": 26.1787,
+   "lng": 110.13721,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoyang_06",
+   "name": "云山国家森林公园",
+   "district": "",
+   "lat": 26.66789,
+   "lng": 110.64095,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 42,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoyang_07",
+   "name": "白水洞风景区",
+   "district": "",
+   "lat": 27.44831,
+   "lng": 111.45834,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoyang_08",
+   "name": "南山国家公园",
+   "district": "",
+   "lat": 26.17878,
+   "lng": 110.13613,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 48,
+   "rating": 4.1,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shaoyang_09",
+   "name": "花瑶古寨",
+   "district": "",
+   "lat": 27.53782,
+   "lng": 110.75158,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   27.24,
+   111.47
+  ],
+  "老城区": [
+   27.252,
+   111.46
+  ],
+  "近郊": [
+   27.21,
+   111.5
+  ]
+ }
+}

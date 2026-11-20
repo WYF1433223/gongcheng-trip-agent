@@ -1,0 +1,139 @@
+{
+ "name": "河池",
+ "center": [
+  24.695,
+  108.064
+ ],
+ "far_ids": [
+  "hechi_00",
+  "hechi_01",
+  "hechi_02",
+  "hechi_03"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "hechi_00",
+   "name": "巴马长寿村",
+   "district": "巴马",
+   "lat": 24.259,
+   "lng": 107.201,
+   "open_min": 800,
+   "close_min": 1800,
+   "duration": 120,
+   "price": 60,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hechi_01",
+   "name": "百魔洞",
+   "district": "巴马",
+   "lat": 24.281,
+   "lng": 107.193,
+   "open_min": 800,
+   "close_min": 1800,
+   "duration": 120,
+   "price": 90,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hechi_02",
+   "name": "刘三姐故里景区",
+   "district": "宜州",
+   "lat": 24.492,
+   "lng": 108.653,
+   "open_min": 800,
+   "close_min": 1800,
+   "duration": 90,
+   "price": 60,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hechi_03",
+   "name": "红水河百里画廊",
+   "district": "天峨",
+   "lat": 24.552,
+   "lng": 107.902,
+   "open_min": 800,
+   "close_min": 1700,
+   "duration": 150,
+   "price": 80,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 10,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 11,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 9,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 35
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 24,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   24.695,
+   108.064
+  ],
+  "老城区": [
+   24.707,
+   108.054
+  ],
+  "近郊": [
+   24.625,
+   108.094
+  ]
+ },
+ "approx": true
+}

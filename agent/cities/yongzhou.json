@@ -1,0 +1,248 @@
+{
+ "name": "永州",
+ "center": [
+  26.42,
+  111.61
+ ],
+ "far_ids": [
+  "yongzhou_00",
+  "yongzhou_01",
+  "yongzhou_02",
+  "yongzhou_03",
+  "yongzhou_04",
+  "yongzhou_05",
+  "yongzhou_06",
+  "yongzhou_07",
+  "yongzhou_08",
+  "yongzhou_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "yongzhou_00",
+   "name": "江永上甘棠古村景区",
+   "district": "",
+   "lat": 25.15518,
+   "lng": 111.192,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yongzhou_01",
+   "name": "九嶷山景区",
+   "district": "",
+   "lat": 25.36966,
+   "lng": 111.98473,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 30,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yongzhou_02",
+   "name": "云冰山旅游景区",
+   "district": "",
+   "lat": 25.19584,
+   "lng": 112.24234,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 59,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yongzhou_03",
+   "name": "柳子庙",
+   "district": "",
+   "lat": 26.22396,
+   "lng": 111.61484,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 20,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yongzhou_04",
+   "name": "桐子坳",
+   "district": "",
+   "lat": 26.04442,
+   "lng": 111.85896,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 38,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yongzhou_05",
+   "name": "阳明山国家森林公园",
+   "district": "",
+   "lat": 26.07875,
+   "lng": 111.93219,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 43,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yongzhou_06",
+   "name": "零陵古城旅游区",
+   "district": "",
+   "lat": 26.22075,
+   "lng": 111.61206,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yongzhou_07",
+   "name": "江永勾蓝瑶寨",
+   "district": "",
+   "lat": 25.10616,
+   "lng": 111.19398,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 3.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yongzhou_08",
+   "name": "柳宗元文化旅游区",
+   "district": "",
+   "lat": 26.22221,
+   "lng": 111.6166,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 3.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yongzhou_09",
+   "name": "永州赏银杏",
+   "district": "",
+   "lat": 26.05125,
+   "lng": 111.85924,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   26.42,
+   111.61
+  ],
+  "老城区": [
+   26.432,
+   111.6
+  ],
+  "近郊": [
+   26.39,
+   111.64
+  ]
+ }
+}

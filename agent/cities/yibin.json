@@ -1,0 +1,186 @@
+{
+ "name": "宜宾",
+ "center": [
+  28.6557,
+  104.7714
+ ],
+ "pois": [
+  {
+   "id": "yibin_01",
+   "name": "翠屏山",
+   "district": "宜宾",
+   "lat": 28.76,
+   "lng": 104.62,
+   "open_min": 360,
+   "close_min": 1320,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yibin_02",
+   "name": "三江口",
+   "district": "宜宾",
+   "lat": 28.77,
+   "lng": 104.63,
+   "open_min": 0,
+   "close_min": 1440,
+   "duration": 40,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yibin_03",
+   "name": "五粮液景区",
+   "district": "宜宾",
+   "lat": 28.77,
+   "lng": 104.61,
+   "open_min": 510,
+   "close_min": 1050,
+   "duration": 90,
+   "price": 70,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yibin_04",
+   "name": "宜宾市博物馆",
+   "district": "宜宾",
+   "lat": 28.76,
+   "lng": 104.64,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 1
+  },
+  {
+   "id": "yibin_05",
+   "name": "李庄古镇",
+   "district": "宜宾",
+   "lat": 28.83,
+   "lng": 104.79,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 150,
+   "price": 60,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yibin_06",
+   "name": "蜀南竹海",
+   "district": "宜宾",
+   "lat": 28.42,
+   "lng": 104.99,
+   "open_min": 450,
+   "close_min": 1080,
+   "duration": 300,
+   "price": 110,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yibin_07",
+   "name": "兴文石海",
+   "district": "宜宾",
+   "lat": 28.28,
+   "lng": 105.12,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 110,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   28.6557,
+   104.7714
+  ],
+  "老城区": [
+   28.6657,
+   104.7614
+  ],
+  "近郊": [
+   28.6957,
+   104.8014
+  ]
+ },
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 14,
+   "high": 24,
+   "rain": 5
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 22,
+   "rain": 15
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 12,
+   "high": 19,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 12,
+   "high": 20,
+   "rain": 25
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 13,
+   "high": 23,
+   "rain": 5
+  }
+ ],
+ "far_ids": [
+  "yibin_05",
+  "yibin_06",
+  "yibin_07"
+ ],
+ "far_minutes": 60,
+ "far_both_minutes": 90
+}

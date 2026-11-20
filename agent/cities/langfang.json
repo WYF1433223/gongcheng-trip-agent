@@ -1,0 +1,227 @@
+{
+ "name": "廊坊",
+ "center": [
+  39.52,
+  116.7
+ ],
+ "far_ids": [
+  "langfang_00",
+  "langfang_03",
+  "langfang_04",
+  "langfang_06",
+  "langfang_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "langfang_00",
+   "name": "故宫博物院",
+   "district": "天安门",
+   "lat": 39.92409,
+   "lng": 116.40341,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 40,
+   "rating": 4.9,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "langfang_01",
+   "name": "隆福寺",
+   "district": "",
+   "lat": 39.54203,
+   "lng": 116.64646,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "langfang_02",
+   "name": "只有红楼梦戏剧幻城",
+   "district": "会展中心",
+   "lat": 39.56825,
+   "lng": 116.72593,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 158,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "langfang_03",
+   "name": "北京野生动物园",
+   "district": "大兴北京新机场地区",
+   "lat": 39.50256,
+   "lng": 116.34107,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 145,
+   "rating": 4.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "langfang_04",
+   "name": "北京环球度假区",
+   "district": "环球影城度假区及周边",
+   "lat": 39.85848,
+   "lng": 116.68775,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 346,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "langfang_05",
+   "name": "丝绸之路国际艺术交流中心",
+   "district": "会展中心",
+   "lat": 39.57343,
+   "lng": 116.72547,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "langfang_06",
+   "name": "大明幻境第一城",
+   "district": "",
+   "lat": 39.72317,
+   "lng": 116.91316,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 19,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "langfang_07",
+   "name": "胜芳古镇",
+   "district": "",
+   "lat": 39.06332,
+   "lng": 116.70342,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 3.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "langfang_08",
+   "name": "梦廊坊国际戏剧公园",
+   "district": "会展中心",
+   "lat": 39.56989,
+   "lng": 116.72587,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   39.52,
+   116.7
+  ],
+  "老城区": [
+   39.532,
+   116.69
+  ],
+  "近郊": [
+   39.49,
+   116.73
+  ]
+ }
+}

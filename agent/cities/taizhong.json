@@ -1,0 +1,225 @@
+{
+ "name": "台中",
+ "center": [
+  24.15,
+  120.68
+ ],
+ "far_ids": [
+  "taizhong_00",
+  "taizhong_01",
+  "taizhong_03"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "taizhong_00",
+   "name": "日月潭",
+   "district": "日月潭水社码头商圈",
+   "lat": 23.86037,
+   "lng": 120.92607,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "taizhong_01",
+   "name": "高美湿地",
+   "district": "梧栖",
+   "lat": 24.31536,
+   "lng": 120.55767,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taizhong_02",
+   "name": "台湾自然科学博物馆",
+   "district": "绿园道",
+   "lat": 24.16011,
+   "lng": 120.67638,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "taizhong_03",
+   "name": "八仙山国家森林游乐区",
+   "district": "谷关",
+   "lat": 24.18358,
+   "lng": 121.01293,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 20,
+   "rating": 4.8,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "taizhong_04",
+   "name": "丽宝乐园",
+   "district": "",
+   "lat": 24.3264,
+   "lng": 120.70578,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 162,
+   "rating": 4.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "taizhong_05",
+   "name": "逢甲夜市",
+   "district": "逢甲夜市",
+   "lat": 24.17901,
+   "lng": 120.6559,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "taizhong_06",
+   "name": "彩虹眷村",
+   "district": "",
+   "lat": 24.13711,
+   "lng": 120.61996,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "taizhong_07",
+   "name": "中国台湾台中 · 2026愛之日常音乐节",
+   "district": "老虎城",
+   "lat": 24.14866,
+   "lng": 120.6558,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "taizhong_08",
+   "name": "台中逛夜市",
+   "district": "逢甲夜市",
+   "lat": 24.18181,
+   "lng": 120.66619,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   24.15,
+   120.68
+  ],
+  "老城区": [
+   24.162,
+   120.67
+  ],
+  "近郊": [
+   24.12,
+   120.71
+  ]
+ }
+}

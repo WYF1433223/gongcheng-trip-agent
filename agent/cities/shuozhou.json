@@ -1,0 +1,243 @@
+{
+ "name": "朔州",
+ "center": [
+  39.33,
+  112.43
+ ],
+ "far_ids": [
+  "shuozhou_00",
+  "shuozhou_02",
+  "shuozhou_04",
+  "shuozhou_06",
+  "shuozhou_07",
+  "shuozhou_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "shuozhou_00",
+   "name": "应县木塔景区",
+   "district": "",
+   "lat": 39.57535,
+   "lng": 113.19612,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 48,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shuozhou_01",
+   "name": "朔州崇福寺景区",
+   "district": "",
+   "lat": 39.32147,
+   "lng": 112.43886,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 30,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shuozhou_02",
+   "name": "广武明长城",
+   "district": "",
+   "lat": 39.20458,
+   "lng": 112.79954,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shuozhou_03",
+   "name": "朔州老城",
+   "district": "",
+   "lat": 39.31968,
+   "lng": 112.43583,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shuozhou_04",
+   "name": "净土寺",
+   "district": "",
+   "lat": 39.57337,
+   "lng": 113.2012,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 15,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shuozhou_05",
+   "name": "朔州古城遗址",
+   "district": "",
+   "lat": 39.32057,
+   "lng": 112.43375,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shuozhou_06",
+   "name": "应县木塔景区-佛宫寺",
+   "district": "",
+   "lat": 39.57198,
+   "lng": 113.19538,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shuozhou_07",
+   "name": "杀虎口风景名胜区",
+   "district": "",
+   "lat": 40.25235,
+   "lng": 112.33597,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "shuozhou_08",
+   "name": "马邑博物馆",
+   "district": "",
+   "lat": 39.31944,
+   "lng": 112.43847,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "shuozhou_09",
+   "name": "应县木塔景区-应州古城墙遗址",
+   "district": "",
+   "lat": 39.57099,
+   "lng": 113.19325,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   39.33,
+   112.43
+  ],
+  "老城区": [
+   39.342,
+   112.42
+  ],
+  "近郊": [
+   39.3,
+   112.46
+  ]
+ }
+}

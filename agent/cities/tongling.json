@@ -1,0 +1,245 @@
+{
+ "name": "铜陵",
+ "center": [
+  30.94,
+  117.81
+ ],
+ "far_ids": [
+  "tongling_02",
+  "tongling_04",
+  "tongling_05",
+  "tongling_07",
+  "tongling_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "tongling_00",
+   "name": "铜陵博物馆",
+   "district": "",
+   "lat": 30.98587,
+   "lng": 117.87427,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "tongling_01",
+   "name": "天井湖公园",
+   "district": "天井湖公园",
+   "lat": 30.94765,
+   "lng": 117.80594,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongling_02",
+   "name": "凤凰山景区",
+   "district": "",
+   "lat": 30.8615,
+   "lng": 118.03702,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 19,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongling_03",
+   "name": "铜陵犁桥水镇景区",
+   "district": "",
+   "lat": 31.03626,
+   "lng": 117.89714,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 45,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongling_04",
+   "name": "永泉忆江南十二景",
+   "district": "永泉旅游度假区",
+   "lat": 30.96731,
+   "lng": 118.03158,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongling_05",
+   "name": "浮山",
+   "district": "",
+   "lat": 30.92376,
+   "lng": 117.29554,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongling_06",
+   "name": "大通古镇风景区",
+   "district": "",
+   "lat": 30.81906,
+   "lng": 117.74372,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongling_07",
+   "name": "永泉小镇",
+   "district": "永泉旅游度假区",
+   "lat": 30.96841,
+   "lng": 118.03157,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 65,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongling_08",
+   "name": "九宝温泉",
+   "district": "永泉旅游度假区",
+   "lat": 30.96651,
+   "lng": 118.03658,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "tongling_09",
+   "name": "铜官山1978文创园",
+   "district": "",
+   "lat": 30.92195,
+   "lng": 117.82867,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 3.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   30.94,
+   117.81
+  ],
+  "老城区": [
+   30.952,
+   117.8
+  ],
+  "近郊": [
+   30.91,
+   117.84
+  ]
+ }
+}

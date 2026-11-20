@@ -1,0 +1,249 @@
+{
+ "name": "伊春",
+ "center": [
+  47.73,
+  128.84
+ ],
+ "far_ids": [
+  "yichun_hl_00",
+  "yichun_hl_01",
+  "yichun_hl_02",
+  "yichun_hl_03",
+  "yichun_hl_04",
+  "yichun_hl_05",
+  "yichun_hl_06",
+  "yichun_hl_08",
+  "yichun_hl_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "yichun_hl_00",
+   "name": "金祖峰景区",
+   "district": "",
+   "lat": 47.41754,
+   "lng": 129.42917,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yichun_hl_01",
+   "name": "汤旺河林海奇石景区",
+   "district": "",
+   "lat": 48.45048,
+   "lng": 129.45731,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yichun_hl_02",
+   "name": "五营红松林海景区",
+   "district": "",
+   "lat": 48.23512,
+   "lng": 129.28242,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yichun_hl_03",
+   "name": "金山鹿苑",
+   "district": "",
+   "lat": 47.41033,
+   "lng": 129.49812,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yichun_hl_04",
+   "name": "上甘岭溪水国家森林公园",
+   "district": "",
+   "lat": 47.91387,
+   "lng": 129.02951,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yichun_hl_05",
+   "name": "新青国家湿地公园",
+   "district": "",
+   "lat": 48.30629,
+   "lng": 129.60884,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yichun_hl_06",
+   "name": "茅兰沟国家森林公园",
+   "district": "",
+   "lat": 49.09916,
+   "lng": 129.77001,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yichun_hl_07",
+   "name": "伊春兴安国家森林公园",
+   "district": "",
+   "lat": 47.71375,
+   "lng": 128.93282,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yichun_hl_08",
+   "name": "嘉荫恐龙国家地质公园",
+   "district": "",
+   "lat": 48.86235,
+   "lng": 130.25568,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 3.9,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yichun_hl_09",
+   "name": "九峰山养心谷旅游度假区",
+   "district": "",
+   "lat": 47.37083,
+   "lng": 129.55793,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 49,
+   "rating": 3.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   47.73,
+   128.84
+  ],
+  "老城区": [
+   47.742,
+   128.83
+  ],
+  "近郊": [
+   47.7,
+   128.87
+  ]
+ }
+}

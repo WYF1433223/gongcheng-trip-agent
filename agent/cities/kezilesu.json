@@ -1,0 +1,136 @@
+{
+ "name": "克孜勒苏",
+ "center": [
+  39.716,
+  76.168
+ ],
+ "far_ids": [
+  "kezilesu_00",
+  "kezilesu_01"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "kezilesu_00",
+   "name": "喀拉库勒湖",
+   "district": "阿克陶",
+   "lat": 38.441,
+   "lng": 75.053,
+   "open_min": 800,
+   "close_min": 1900,
+   "duration": 180,
+   "price": 100,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "kezilesu_01",
+   "name": "慕士塔格峰",
+   "district": "阿克陶",
+   "lat": 38.276,
+   "lng": 75.098,
+   "open_min": 800,
+   "close_min": 1900,
+   "duration": 180,
+   "price": 80,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "kezilesu_02",
+   "name": "阿图什天门大峡谷",
+   "district": "阿图什",
+   "lat": 39.851,
+   "lng": 76.103,
+   "open_min": 800,
+   "close_min": 1800,
+   "duration": 180,
+   "price": 60,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "kezilesu_03",
+   "name": "阿图什市博物馆",
+   "district": "阿图什",
+   "lat": 39.718,
+   "lng": 76.17,
+   "open_min": 1000,
+   "close_min": 1900,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": 1
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 10,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 11,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 9,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 35
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 24,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   39.716,
+   76.168
+  ],
+  "老城区": [
+   39.728,
+   76.158
+  ],
+  "近郊": [
+   39.646,
+   76.198
+  ]
+ },
+ "approx": true
+}

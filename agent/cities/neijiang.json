@@ -1,0 +1,248 @@
+{
+ "name": "内江",
+ "center": [
+  29.58,
+  105.06
+ ],
+ "far_ids": [
+  "neijiang_00",
+  "neijiang_01",
+  "neijiang_02",
+  "neijiang_03",
+  "neijiang_04",
+  "neijiang_05",
+  "neijiang_06",
+  "neijiang_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "neijiang_00",
+   "name": "古宇湖风景名胜区",
+   "district": "",
+   "lat": 29.33648,
+   "lng": 105.23581,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "neijiang_01",
+   "name": "隆昌石牌坊群",
+   "district": "",
+   "lat": 29.33693,
+   "lng": 105.29813,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "neijiang_02",
+   "name": "南关石牌坊古镇",
+   "district": "",
+   "lat": 29.33694,
+   "lng": 105.29827,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "neijiang_03",
+   "name": "云顶寨景区",
+   "district": "",
+   "lat": 29.22839,
+   "lng": 105.29622,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "neijiang_04",
+   "name": "自贡方特恐龙王国",
+   "district": "方特恐龙王国",
+   "lat": 29.40784,
+   "lng": 104.83266,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 280,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "neijiang_05",
+   "name": "石板河景区",
+   "district": "",
+   "lat": 29.72953,
+   "lng": 104.53225,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 30,
+   "rating": 4.7,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "neijiang_06",
+   "name": "重龙山",
+   "district": "",
+   "lat": 29.7885,
+   "lng": 104.86289,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "neijiang_07",
+   "name": "自贡恐龙博物馆",
+   "district": "方特恐龙王国",
+   "lat": 29.4016,
+   "lng": 104.83547,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "neijiang_08",
+   "name": "圣水寺",
+   "district": "市中地区",
+   "lat": 29.59849,
+   "lng": 105.04725,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "neijiang_09",
+   "name": "川南大草原",
+   "district": "",
+   "lat": 29.53004,
+   "lng": 104.93413,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 9,
+   "rating": 3.8,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   29.58,
+   105.06
+  ],
+  "老城区": [
+   29.592,
+   105.05
+  ],
+  "近郊": [
+   29.55,
+   105.09
+  ]
+ }
+}

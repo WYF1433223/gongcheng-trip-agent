@@ -1,0 +1,244 @@
+{
+ "name": "白城",
+ "center": [
+  45.62,
+  122.84
+ ],
+ "far_ids": [
+  "baicheng_01",
+  "baicheng_02",
+  "baicheng_03",
+  "baicheng_05",
+  "baicheng_06",
+  "baicheng_07",
+  "baicheng_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "baicheng_00",
+   "name": "鹤鸣湖公园",
+   "district": "火车站",
+   "lat": 45.58123,
+   "lng": 122.88021,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baicheng_01",
+   "name": "中国·大安机车博览园",
+   "district": "",
+   "lat": 45.53848,
+   "lng": 124.25805,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baicheng_02",
+   "name": "大安嫩江湾旅游区",
+   "district": "",
+   "lat": 45.53491,
+   "lng": 124.30154,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baicheng_03",
+   "name": "向海国家级自然保护区",
+   "district": "",
+   "lat": 45.03628,
+   "lng": 122.36152,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "baicheng_04",
+   "name": "白城市博物馆",
+   "district": "火车站",
+   "lat": 45.6333,
+   "lng": 122.84453,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "baicheng_05",
+   "name": "莫莫格国家级自然保护区",
+   "district": "",
+   "lat": 45.94127,
+   "lng": 123.56892,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "baicheng_06",
+   "name": "墨宝园",
+   "district": "",
+   "lat": 44.8292,
+   "lng": 123.08717,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baicheng_07",
+   "name": "哈尔滨冰雪大世界",
+   "district": "融创乐园",
+   "lat": 45.78295,
+   "lng": 126.569,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 263,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "baicheng_08",
+   "name": "白城华严寺",
+   "district": "火车站",
+   "lat": 45.60347,
+   "lng": 122.87447,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baicheng_09",
+   "name": "查干浩特旅游度假区",
+   "district": "",
+   "lat": 45.86132,
+   "lng": 122.4591,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 2.0,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   45.62,
+   122.84
+  ],
+  "老城区": [
+   45.632,
+   122.83
+  ],
+  "近郊": [
+   45.59,
+   122.87
+  ]
+ }
+}

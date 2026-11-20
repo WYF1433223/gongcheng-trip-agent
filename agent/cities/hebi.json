@@ -1,0 +1,243 @@
+{
+ "name": "鹤壁",
+ "center": [
+  35.75,
+  114.3
+ ],
+ "far_ids": [
+  "hebi_01",
+  "hebi_03",
+  "hebi_04",
+  "hebi_07",
+  "hebi_08",
+  "hebi_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "hebi_00",
+   "name": "朝歌",
+   "district": "",
+   "lat": 35.61492,
+   "lng": 114.20945,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hebi_01",
+   "name": "七里沟风景区",
+   "district": "",
+   "lat": 35.84665,
+   "lng": 114.09857,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "hebi_02",
+   "name": "淇河",
+   "district": "",
+   "lat": 35.62985,
+   "lng": 114.30221,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hebi_03",
+   "name": "汤阴岳飞庙",
+   "district": "",
+   "lat": 35.92644,
+   "lng": 114.36156,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 38,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hebi_04",
+   "name": "羑里城",
+   "district": "",
+   "lat": 35.96127,
+   "lng": 114.36177,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 36,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hebi_05",
+   "name": "神游朝歌",
+   "district": "",
+   "lat": 35.68615,
+   "lng": 114.28119,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "hebi_06",
+   "name": "古灵山",
+   "district": "",
+   "lat": 35.68731,
+   "lng": 114.12963,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 79,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hebi_07",
+   "name": "浚县古城",
+   "district": "",
+   "lat": 35.67304,
+   "lng": 114.55329,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hebi_08",
+   "name": "大伾山景区",
+   "district": "",
+   "lat": 35.66826,
+   "lng": 114.5661,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 45,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hebi_09",
+   "name": "云梦山风景区",
+   "district": "",
+   "lat": 35.61436,
+   "lng": 114.07953,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 3.9,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   35.75,
+   114.3
+  ],
+  "老城区": [
+   35.762,
+   114.29
+  ],
+  "近郊": [
+   35.72,
+   114.33
+  ]
+ }
+}

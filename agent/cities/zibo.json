@@ -1,0 +1,244 @@
+{
+ "name": "淄博",
+ "center": [
+  36.81,
+  118.05
+ ],
+ "far_ids": [
+  "zibo_02",
+  "zibo_04",
+  "zibo_05",
+  "zibo_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "zibo_00",
+   "name": "淄博市文化中心",
+   "district": "陶瓷琉璃馆",
+   "lat": 36.83344,
+   "lng": 117.99447,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zibo_01",
+   "name": "齐盛湖公园",
+   "district": "陶瓷琉璃馆",
+   "lat": 36.84763,
+   "lng": 117.99592,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zibo_02",
+   "name": "齐文化博物院",
+   "district": "",
+   "lat": 36.81929,
+   "lng": 118.37134,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "zibo_03",
+   "name": "淄博陶瓷琉璃博物馆",
+   "district": "陶瓷琉璃馆",
+   "lat": 36.83366,
+   "lng": 117.99326,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "zibo_04",
+   "name": "潭溪山",
+   "district": "",
+   "lat": 36.50428,
+   "lng": 118.21248,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zibo_05",
+   "name": "山东文旅·红叶柿岩旅游区",
+   "district": "红叶柿岩",
+   "lat": 36.49707,
+   "lng": 117.82164,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zibo_06",
+   "name": "周村古商城",
+   "district": "周村古商城",
+   "lat": 36.80514,
+   "lng": 117.84764,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zibo_07",
+   "name": "淄博聊斋城",
+   "district": "",
+   "lat": 36.6355,
+   "lng": 118.01979,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 60,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zibo_08",
+   "name": "海岱楼",
+   "district": "陶瓷琉璃馆",
+   "lat": 36.84755,
+   "lng": 117.99531,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zibo_09",
+   "name": "颜神古镇",
+   "district": "红叶柿岩",
+   "lat": 36.47437,
+   "lng": 117.87668,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 49,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   36.81,
+   118.05
+  ],
+  "老城区": [
+   36.822,
+   118.04
+  ],
+  "近郊": [
+   36.78,
+   118.08
+  ]
+ }
+}

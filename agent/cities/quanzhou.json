@@ -1,0 +1,238 @@
+{
+ "name": "泉州",
+ "center": [
+  24.87,
+  118.68
+ ],
+ "far_ids": [
+  "quanzhou_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "quanzhou_00",
+   "name": "泉州提线木偶戏表演",
+   "district": "西街",
+   "lat": 24.9244,
+   "lng": 118.59093,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 108,
+   "rating": 5.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "quanzhou_01",
+   "name": "泉州西街木偶戏非遗演出",
+   "district": "西街",
+   "lat": 24.91834,
+   "lng": 118.59104,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 78,
+   "rating": 5.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "quanzhou_02",
+   "name": "泉州古城",
+   "district": "西街",
+   "lat": 24.91557,
+   "lng": 118.59621,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "quanzhou_03",
+   "name": "泉州开元寺",
+   "district": "西街",
+   "lat": 24.92033,
+   "lng": 118.59204,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "quanzhou_04",
+   "name": "南少林寺",
+   "district": "西湖公园",
+   "lat": 24.92558,
+   "lng": 118.62068,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "quanzhou_05",
+   "name": "泉州欧乐堡海洋王国乐园",
+   "district": "",
+   "lat": 24.86433,
+   "lng": 118.78058,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 270,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "quanzhou_06",
+   "name": "泉州西街",
+   "district": "西街",
+   "lat": 24.91967,
+   "lng": 118.59054,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "quanzhou_07",
+   "name": "清源山",
+   "district": "西湖公园",
+   "lat": 24.95132,
+   "lng": 118.6183,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 70,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "quanzhou_08",
+   "name": "洛伽寺",
+   "district": "十里黄金海岸",
+   "lat": 24.67931,
+   "lng": 118.71907,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "quanzhou_09",
+   "name": "泉州欧乐堡度假区",
+   "district": "",
+   "lat": 24.86529,
+   "lng": 118.77864,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 160,
+   "rating": 4.0,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   24.87,
+   118.68
+  ],
+  "老城区": [
+   24.882,
+   118.67
+  ],
+  "近郊": [
+   24.84,
+   118.71
+  ]
+ }
+}

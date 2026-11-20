@@ -1,0 +1,247 @@
+{
+ "name": "茂名",
+ "center": [
+  21.66,
+  110.93
+ ],
+ "far_ids": [
+  "maoming_00",
+  "maoming_01",
+  "maoming_02",
+  "maoming_04",
+  "maoming_05",
+  "maoming_06",
+  "maoming_07",
+  "maoming_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "maoming_00",
+   "name": "电白区巴布几内湾景区",
+   "district": "",
+   "lat": 21.42184,
+   "lng": 111.27062,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "maoming_01",
+   "name": "浪漫海岸国际旅游度假区",
+   "district": "",
+   "lat": 21.47025,
+   "lng": 111.14704,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 50,
+   "rating": 4.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "maoming_02",
+   "name": "中国第一滩旅游度假区",
+   "district": "中国第一滩",
+   "lat": 21.464,
+   "lng": 111.05968,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "maoming_03",
+   "name": "森林公园动物园",
+   "district": "",
+   "lat": 21.63262,
+   "lng": 110.83063,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 15,
+   "rating": 4.5,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "maoming_04",
+   "name": "高州仙人洞景区",
+   "district": "",
+   "lat": 22.27132,
+   "lng": 111.24153,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "maoming_05",
+   "name": "御水古温泉旅游度假区",
+   "district": "",
+   "lat": 21.59384,
+   "lng": 111.18616,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 98,
+   "rating": 4.4,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "maoming_06",
+   "name": "晏镜岭",
+   "district": "",
+   "lat": 21.43724,
+   "lng": 111.00654,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "maoming_07",
+   "name": "广东天马山旅游景区",
+   "district": "",
+   "lat": 22.46143,
+   "lng": 110.71034,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 50,
+   "rating": 3.9,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "maoming_08",
+   "name": "露天矿生态公园",
+   "district": "",
+   "lat": 21.72162,
+   "lng": 110.88278,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 3.9,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "maoming_09",
+   "name": "信宜马安竹海旅游区",
+   "district": "",
+   "lat": 22.37442,
+   "lng": 111.3252,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 45,
+   "rating": 3.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   21.66,
+   110.93
+  ],
+  "老城区": [
+   21.672,
+   110.92
+  ],
+  "近郊": [
+   21.63,
+   110.96
+  ]
+ }
+}

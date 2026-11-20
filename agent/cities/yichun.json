@@ -1,0 +1,169 @@
+{
+ "name": "宜春",
+ "center": [
+  27.9317,
+  114.5133
+ ],
+ "pois": [
+  {
+   "id": "yichun_01",
+   "name": "袁州谯楼",
+   "district": "宜春",
+   "lat": 27.8,
+   "lng": 114.41,
+   "open_min": 510,
+   "close_min": 1020,
+   "duration": 40,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yichun_02",
+   "name": "宜春市博物馆",
+   "district": "宜春",
+   "lat": 27.83,
+   "lng": 114.42,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 60,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 1
+  },
+  {
+   "id": "yichun_03",
+   "name": "禅都文化博览园",
+   "district": "宜春",
+   "lat": 27.8,
+   "lng": 114.44,
+   "open_min": 510,
+   "close_min": 1050,
+   "duration": 80,
+   "price": 60,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yichun_04",
+   "name": "温汤镇",
+   "district": "宜春",
+   "lat": 27.68,
+   "lng": 114.3,
+   "open_min": 0,
+   "close_min": 1440,
+   "duration": 120,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yichun_05",
+   "name": "明月山",
+   "district": "宜春",
+   "lat": 27.62,
+   "lng": 114.25,
+   "open_min": 420,
+   "close_min": 1080,
+   "duration": 300,
+   "price": 120,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yichun_06",
+   "name": "靖安三爪仑",
+   "district": "宜春",
+   "lat": 28.86,
+   "lng": 115.26,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 240,
+   "price": 100,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   27.9317,
+   114.5133
+  ],
+  "老城区": [
+   27.9417,
+   114.5033
+  ],
+  "近郊": [
+   27.9717,
+   114.5433
+  ]
+ },
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 14,
+   "high": 24,
+   "rain": 5
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 22,
+   "rain": 15
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 12,
+   "high": 19,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 12,
+   "high": 20,
+   "rain": 25
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 13,
+   "high": 23,
+   "rain": 5
+  }
+ ],
+ "far_ids": [
+  "yichun_04",
+  "yichun_05",
+  "yichun_06"
+ ],
+ "far_minutes": 60,
+ "far_both_minutes": 90
+}

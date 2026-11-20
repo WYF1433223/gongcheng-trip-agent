@@ -1,0 +1,245 @@
+{
+ "name": "新乡",
+ "center": [
+  35.3,
+  113.93
+ ],
+ "far_ids": [
+  "xinxiang_00",
+  "xinxiang_01",
+  "xinxiang_02",
+  "xinxiang_03",
+  "xinxiang_04",
+  "xinxiang_05",
+  "xinxiang_06",
+  "xinxiang_07",
+  "xinxiang_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "xinxiang_00",
+   "name": "云台山风景名胜区",
+   "district": "",
+   "lat": 35.42732,
+   "lng": 113.43416,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 180,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xinxiang_01",
+   "name": "郭亮挂壁公路",
+   "district": "万仙山郭亮村",
+   "lat": 35.73211,
+   "lng": 113.61727,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xinxiang_02",
+   "name": "河南宝泉旅游区",
+   "district": "",
+   "lat": 35.47505,
+   "lng": 113.47181,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 237,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xinxiang_03",
+   "name": "回龙天界山景区",
+   "district": "",
+   "lat": 35.61585,
+   "lng": 113.61478,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xinxiang_04",
+   "name": "万仙山景区",
+   "district": "万仙山郭亮村",
+   "lat": 35.74945,
+   "lng": 113.63706,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 102,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xinxiang_05",
+   "name": "河南宝泉旅游区-宝泉大峡谷",
+   "district": "",
+   "lat": 35.47698,
+   "lng": 113.47693,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xinxiang_06",
+   "name": "八里沟景区",
+   "district": "",
+   "lat": 35.60789,
+   "lng": 113.58192,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 150,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xinxiang_07",
+   "name": "河南宝泉旅游区-宝泉崖天下景区",
+   "district": "",
+   "lat": 35.47559,
+   "lng": 113.4618,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xinxiang_08",
+   "name": "新乡南太行旅游度假区",
+   "district": "",
+   "lat": 35.59971,
+   "lng": 113.55557,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xinxiang_09",
+   "name": "新乡 · 《超宽声浪》演唱会",
+   "district": "高铁站",
+   "lat": 35.30476,
+   "lng": 113.89662,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   35.3,
+   113.93
+  ],
+  "老城区": [
+   35.312,
+   113.92
+  ],
+  "近郊": [
+   35.27,
+   113.96
+  ]
+ }
+}

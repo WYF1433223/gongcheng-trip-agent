@@ -1,0 +1,247 @@
+{
+ "name": "昌都",
+ "center": [
+  31.14,
+  97.17
+ ],
+ "far_ids": [
+  "qamdo_00",
+  "qamdo_01",
+  "qamdo_02",
+  "qamdo_03",
+  "qamdo_04",
+  "qamdo_05",
+  "qamdo_07",
+  "qamdo_08",
+  "qamdo_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "qamdo_00",
+   "name": "怒江72拐",
+   "district": "",
+   "lat": 30.11726,
+   "lng": 97.30348,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qamdo_01",
+   "name": "东达山",
+   "district": "",
+   "lat": 29.72935,
+   "lng": 98.02451,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qamdo_02",
+   "name": "孜珠寺",
+   "district": "",
+   "lat": 31.24578,
+   "lng": 95.86643,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qamdo_03",
+   "name": "三色湖",
+   "district": "",
+   "lat": 30.73043,
+   "lng": 94.78283,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qamdo_04",
+   "name": "然乌湖",
+   "district": "",
+   "lat": 29.44623,
+   "lng": 96.79739,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qamdo_05",
+   "name": "然乌镇",
+   "district": "",
+   "lat": 29.50894,
+   "lng": 96.75765,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qamdo_06",
+   "name": "强巴林寺",
+   "district": "",
+   "lat": 31.14732,
+   "lng": 97.18457,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qamdo_07",
+   "name": "来古冰川",
+   "district": "",
+   "lat": 29.28835,
+   "lng": 96.85776,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qamdo_08",
+   "name": "祥格拉冰川",
+   "district": "",
+   "lat": 30.68016,
+   "lng": 94.71251,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qamdo_09",
+   "name": "盐井千年古盐田",
+   "district": "",
+   "lat": 29.05201,
+   "lng": 98.59916,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 3.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   31.14,
+   97.17
+  ],
+  "老城区": [
+   31.152,
+   97.16
+  ],
+  "近郊": [
+   31.11,
+   97.2
+  ]
+ }
+}

@@ -1,0 +1,247 @@
+{
+ "name": "楚雄",
+ "center": [
+  25.03,
+  101.55
+ ],
+ "far_ids": [
+  "chuxiong_00",
+  "chuxiong_01",
+  "chuxiong_02",
+  "chuxiong_03",
+  "chuxiong_05",
+  "chuxiong_06",
+  "chuxiong_07",
+  "chuxiong_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "chuxiong_00",
+   "name": "物茂土林（虎跳滩土林）",
+   "district": "",
+   "lat": 25.85542,
+   "lng": 101.76675,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 60,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "chuxiong_01",
+   "name": "浪巴铺土林(新华土林)",
+   "district": "",
+   "lat": 25.68587,
+   "lng": 101.7034,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 50,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "chuxiong_02",
+   "name": "元谋土林",
+   "district": "",
+   "lat": 25.85542,
+   "lng": 101.76675,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 50,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "chuxiong_03",
+   "name": "世界恐龙谷",
+   "district": "",
+   "lat": 24.97826,
+   "lng": 102.08159,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 160,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chuxiong_04",
+   "name": "彝人古镇",
+   "district": "彝人古镇度假区",
+   "lat": 25.06408,
+   "lng": 101.52608,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chuxiong_05",
+   "name": "金沙江",
+   "district": "",
+   "lat": 25.97412,
+   "lng": 101.89578,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chuxiong_06",
+   "name": "中国禄丰侏罗纪恐龙遗址公园",
+   "district": "",
+   "lat": 24.97685,
+   "lng": 102.08331,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chuxiong_07",
+   "name": "黑井古镇",
+   "district": "",
+   "lat": 25.37802,
+   "lng": 101.75252,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 25,
+   "rating": 4.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chuxiong_08",
+   "name": "元谋看日落",
+   "district": "",
+   "lat": 25.85542,
+   "lng": 101.76675,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "chuxiong_09",
+   "name": "楚雄彝族自治州篝火体验",
+   "district": "彝人古镇度假区",
+   "lat": 25.06454,
+   "lng": 101.52494,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   25.03,
+   101.55
+  ],
+  "老城区": [
+   25.042,
+   101.54
+  ],
+  "近郊": [
+   25.0,
+   101.58
+  ]
+ }
+}

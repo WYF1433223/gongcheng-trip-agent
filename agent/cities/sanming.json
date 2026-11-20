@@ -1,0 +1,246 @@
+{
+ "name": "三明",
+ "center": [
+  26.26,
+  117.64
+ ],
+ "far_ids": [
+  "sanming_00",
+  "sanming_01",
+  "sanming_02",
+  "sanming_03",
+  "sanming_04",
+  "sanming_05",
+  "sanming_06",
+  "sanming_07",
+  "sanming_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "sanming_00",
+   "name": "寨下大峡谷",
+   "district": "",
+   "lat": 26.9041,
+   "lng": 117.08084,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 55,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanming_01",
+   "name": "桃源洞",
+   "district": "",
+   "lat": 26.01664,
+   "lng": 117.43603,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 54,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanming_02",
+   "name": "桂峰古村落景区",
+   "district": "",
+   "lat": 26.30851,
+   "lng": 118.54313,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 18,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanming_03",
+   "name": "泰宁古城景区",
+   "district": "县城",
+   "lat": 26.90404,
+   "lng": 117.18398,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanming_04",
+   "name": "玉华洞",
+   "district": "",
+   "lat": 26.71252,
+   "lng": 117.5166,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 95,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanming_05",
+   "name": "泰宁风景旅游区",
+   "district": "",
+   "lat": 26.91383,
+   "lng": 117.13142,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanming_06",
+   "name": "上清溪",
+   "district": "",
+   "lat": 26.98908,
+   "lng": 117.20739,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 125,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanming_07",
+   "name": "九龙潭",
+   "district": "",
+   "lat": 26.989,
+   "lng": 117.19734,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 138,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanming_08",
+   "name": "金湖",
+   "district": "",
+   "lat": 26.86655,
+   "lng": 117.06828,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 155,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "sanming_09",
+   "name": "三明 · 音综王牌超级live演唱会",
+   "district": "",
+   "lat": 26.29122,
+   "lng": 117.6656,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   26.26,
+   117.64
+  ],
+  "老城区": [
+   26.272,
+   117.63
+  ],
+  "近郊": [
+   26.23,
+   117.67
+  ]
+ }
+}

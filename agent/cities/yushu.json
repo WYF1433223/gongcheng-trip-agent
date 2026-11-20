@@ -1,0 +1,243 @@
+{
+ "name": "玉树",
+ "center": [
+  33.0,
+  97.01
+ ],
+ "far_ids": [
+  "yushu_00",
+  "yushu_01",
+  "yushu_04",
+  "yushu_05",
+  "yushu_07",
+  "yushu_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "yushu_00",
+   "name": "青藏高原",
+   "district": "",
+   "lat": 33.74746,
+   "lng": 94.17609,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yushu_01",
+   "name": "昆仑山口",
+   "district": "",
+   "lat": 35.64632,
+   "lng": 94.0757,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yushu_02",
+   "name": "嘎结古寺",
+   "district": "",
+   "lat": 33.01467,
+   "lng": 97.02474,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yushu_03",
+   "name": "通天河",
+   "district": "",
+   "lat": 33.13705,
+   "lng": 97.13438,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yushu_04",
+   "name": "可可西里国家级自然保护区索南达杰保护站",
+   "district": "",
+   "lat": 35.43774,
+   "lng": 93.6078,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yushu_05",
+   "name": "三江源国家级自然保护区",
+   "district": "",
+   "lat": 33.01218,
+   "lng": 97.25479,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yushu_06",
+   "name": "新寨嘉那嘛呢石经城",
+   "district": "",
+   "lat": 33.02403,
+   "lng": 97.06587,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yushu_07",
+   "name": "三江源国家公园",
+   "district": "",
+   "lat": 32.86808,
+   "lng": 95.56065,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yushu_08",
+   "name": "玉树市文成公主纪念馆",
+   "district": "",
+   "lat": 32.90217,
+   "lng": 97.08387,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "yushu_09",
+   "name": "尕尔寺大峡谷生态旅游区",
+   "district": "",
+   "lat": 31.83451,
+   "lng": 96.49433,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   33.0,
+   97.01
+  ],
+  "老城区": [
+   33.012,
+   97.0
+  ],
+  "近郊": [
+   32.97,
+   97.04
+  ]
+ }
+}

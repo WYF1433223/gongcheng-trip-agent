@@ -1,0 +1,248 @@
+{
+ "name": "昭通",
+ "center": [
+  27.34,
+  103.72
+ ],
+ "far_ids": [
+  "zhaotong_00",
+  "zhaotong_01",
+  "zhaotong_02",
+  "zhaotong_03",
+  "zhaotong_05",
+  "zhaotong_06",
+  "zhaotong_07",
+  "zhaotong_08",
+  "zhaotong_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "zhaotong_00",
+   "name": "铜锣坝国家森林公园",
+   "district": "",
+   "lat": 28.4514,
+   "lng": 104.15823,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhaotong_01",
+   "name": "黄连河风景区",
+   "district": "",
+   "lat": 27.72888,
+   "lng": 103.92472,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 79,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhaotong_02",
+   "name": "山海洞",
+   "district": "",
+   "lat": 27.6961,
+   "lng": 103.7556,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 90,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhaotong_03",
+   "name": "大山包黑颈鹤国家级自然保护区",
+   "district": "",
+   "lat": 27.40474,
+   "lng": 103.33337,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhaotong_04",
+   "name": "昭通古城",
+   "district": "昭通市中心商圈",
+   "lat": 27.34196,
+   "lng": 103.72507,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhaotong_05",
+   "name": "西部大峡谷",
+   "district": "",
+   "lat": 28.64367,
+   "lng": 104.37609,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhaotong_06",
+   "name": "西部大峡谷温泉",
+   "district": "",
+   "lat": 28.64438,
+   "lng": 104.37735,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 98,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhaotong_07",
+   "name": "豆沙关古镇",
+   "district": "",
+   "lat": 28.04066,
+   "lng": 104.12756,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhaotong_08",
+   "name": "大山包景区",
+   "district": "",
+   "lat": 27.41552,
+   "lng": 103.3106,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhaotong_09",
+   "name": "大凉山",
+   "district": "",
+   "lat": 28.31151,
+   "lng": 104.03857,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   27.34,
+   103.72
+  ],
+  "老城区": [
+   27.352,
+   103.71
+  ],
+  "近郊": [
+   27.31,
+   103.75
+  ]
+ }
+}

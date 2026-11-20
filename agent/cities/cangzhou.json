@@ -1,0 +1,246 @@
+{
+ "name": "沧州",
+ "center": [
+  38.3,
+  116.84
+ ],
+ "far_ids": [
+  "cangzhou_03",
+  "cangzhou_04",
+  "cangzhou_07",
+  "cangzhou_08",
+  "cangzhou_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "cangzhou_00",
+   "name": "中国大运河非物质文化遗产展示馆",
+   "district": "",
+   "lat": 38.33699,
+   "lng": 116.875,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "cangzhou_01",
+   "name": "南川老街",
+   "district": "南川老街",
+   "lat": 38.3076,
+   "lng": 116.86071,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "cangzhou_02",
+   "name": "沧州铁狮与旧城遗址公园",
+   "district": "",
+   "lat": 38.21433,
+   "lng": 117.02964,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 20,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "cangzhou_03",
+   "name": "吴桥杂技大世界",
+   "district": "",
+   "lat": 37.64829,
+   "lng": 116.39212,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 120,
+   "rating": 4.5,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "cangzhou_04",
+   "name": "河间府署",
+   "district": "",
+   "lat": 38.4446,
+   "lng": 116.09893,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "cangzhou_05",
+   "name": "沧州博物馆",
+   "district": "沧州西站",
+   "lat": 38.30838,
+   "lng": 116.80471,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "cangzhou_06",
+   "name": "沧州园博园",
+   "district": "",
+   "lat": 38.34085,
+   "lng": 116.87287,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "cangzhou_07",
+   "name": "黄骅港金沙滩",
+   "district": "",
+   "lat": 38.26853,
+   "lng": 117.75206,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 3.8,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "cangzhou_08",
+   "name": "吴桥杂技幻乐城",
+   "district": "",
+   "lat": 37.65641,
+   "lng": 116.39656,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 152,
+   "rating": 3.1,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "cangzhou_09",
+   "name": "北京赏冰瀑",
+   "district": "天安门",
+   "lat": 39.91053,
+   "lng": 116.41378,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   38.3,
+   116.84
+  ],
+  "老城区": [
+   38.312,
+   116.83
+  ],
+  "近郊": [
+   38.27,
+   116.87
+  ]
+ }
+}

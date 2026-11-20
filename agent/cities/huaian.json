@@ -1,0 +1,239 @@
+{
+ "name": "淮安",
+ "center": [
+  33.61,
+  119.02
+ ],
+ "far_ids": [],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "huaian_00",
+   "name": "淮安府署",
+   "district": "河下古镇",
+   "lat": 33.5171,
+   "lng": 119.15233,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 42,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huaian_01",
+   "name": "河下古镇",
+   "district": "河下古镇",
+   "lat": 33.53406,
+   "lng": 119.14059,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huaian_02",
+   "name": "淮安楚韵文旅度假区",
+   "district": "河下古镇",
+   "lat": 33.5347,
+   "lng": 119.14101,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "huaian_03",
+   "name": "淮安西游乐园",
+   "district": "",
+   "lat": 33.66033,
+   "lng": 119.20189,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 140,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "huaian_04",
+   "name": "吴承恩故居",
+   "district": "河下古镇",
+   "lat": 33.53405,
+   "lng": 119.14522,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 33,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "huaian_05",
+   "name": "沈坤状元府",
+   "district": "河下古镇",
+   "lat": 33.53377,
+   "lng": 119.14347,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 34,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huaian_06",
+   "name": "中国漕运博物馆",
+   "district": "河下古镇",
+   "lat": 33.514,
+   "lng": 119.15148,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 37,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "huaian_07",
+   "name": "里运河文化长廊",
+   "district": "淮安市中心",
+   "lat": 33.59839,
+   "lng": 119.04608,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huaian_08",
+   "name": "周恩来纪念馆",
+   "district": "河下古镇",
+   "lat": 33.52227,
+   "lng": 119.1569,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "huaian_09",
+   "name": "周恩来故里景区",
+   "district": "河下古镇",
+   "lat": 33.51895,
+   "lng": 119.15912,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   33.61,
+   119.02
+  ],
+  "老城区": [
+   33.622,
+   119.01
+  ],
+  "近郊": [
+   33.58,
+   119.05
+  ]
+ }
+}

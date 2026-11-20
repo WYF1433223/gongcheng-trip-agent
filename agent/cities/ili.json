@@ -1,0 +1,247 @@
+{
+ "name": "伊犁",
+ "center": [
+  43.92,
+  81.32
+ ],
+ "far_ids": [
+  "ili_00",
+  "ili_01",
+  "ili_02",
+  "ili_04",
+  "ili_05",
+  "ili_06",
+  "ili_07",
+  "ili_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "ili_00",
+   "name": "赛里木湖",
+   "district": "赛里木湖",
+   "lat": 44.61483,
+   "lng": 81.12533,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 35,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ili_01",
+   "name": "喀拉峻景区",
+   "district": "",
+   "lat": 43.01295,
+   "lng": 82.10175,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "ili_02",
+   "name": "昭苏玉湖景区",
+   "district": "",
+   "lat": 42.73086,
+   "lng": 81.07139,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 20,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ili_03",
+   "name": "伊宁市六星街",
+   "district": "六星街",
+   "lat": 43.93857,
+   "lng": 81.31508,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ili_04",
+   "name": "那拉提旅游风景区",
+   "district": "那拉提旅游风景区",
+   "lat": 43.2456,
+   "lng": 84.08488,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 110,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "ili_05",
+   "name": "夏塔旅游景区",
+   "district": "",
+   "lat": 42.57877,
+   "lng": 80.72435,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ili_06",
+   "name": "库尔德宁景区",
+   "district": "",
+   "lat": 43.21415,
+   "lng": 82.82303,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "ili_07",
+   "name": "昭苏湿地公园景区",
+   "district": "",
+   "lat": 42.96958,
+   "lng": 80.98524,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ili_08",
+   "name": "伊犁老城文化旅游区",
+   "district": "伊宁喀赞其",
+   "lat": 43.90841,
+   "lng": 81.33907,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ili_09",
+   "name": "霍尔果斯国门景区",
+   "district": "",
+   "lat": 44.21887,
+   "lng": 80.412,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 27,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   43.92,
+   81.32
+  ],
+  "老城区": [
+   43.932,
+   81.31
+  ],
+  "近郊": [
+   43.89,
+   81.35
+  ]
+ }
+}

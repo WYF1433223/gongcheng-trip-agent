@@ -1,0 +1,169 @@
+{
+ "name": "新余",
+ "center": [
+  27.7917,
+  114.9233
+ ],
+ "pois": [
+  {
+   "id": "xinyu_01",
+   "name": "抱石公园",
+   "district": "新余",
+   "lat": 27.81,
+   "lng": 114.93,
+   "open_min": 360,
+   "close_min": 1320,
+   "duration": 60,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "艺术展馆"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xinyu_02",
+   "name": "孔目江湿地公园",
+   "district": "新余",
+   "lat": 27.84,
+   "lng": 114.95,
+   "open_min": 360,
+   "close_min": 1320,
+   "duration": 60,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xinyu_03",
+   "name": "新余市博物馆",
+   "district": "新余",
+   "lat": 27.82,
+   "lng": 114.94,
+   "open_min": 540,
+   "close_min": 990,
+   "duration": 60,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 1
+  },
+  {
+   "id": "xinyu_04",
+   "name": "仰天岗国家森林公园",
+   "district": "新余",
+   "lat": 27.86,
+   "lng": 114.9,
+   "open_min": 420,
+   "close_min": 1080,
+   "duration": 120,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xinyu_05",
+   "name": "仙女湖",
+   "district": "新余",
+   "lat": 27.72,
+   "lng": 114.8,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 100,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xinyu_06",
+   "name": "罗坊会议纪念馆",
+   "district": "新余",
+   "lat": 27.7,
+   "lng": 115.02,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 60,
+   "price": 0,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": 1
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   27.7917,
+   114.9233
+  ],
+  "老城区": [
+   27.8017,
+   114.9133
+  ],
+  "近郊": [
+   27.8317,
+   114.9533
+  ]
+ },
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 14,
+   "high": 24,
+   "rain": 5
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 22,
+   "rain": 15
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 12,
+   "high": 19,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 12,
+   "high": 20,
+   "rain": 25
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 13,
+   "high": 23,
+   "rain": 5
+  }
+ ],
+ "far_ids": [
+  "xinyu_04",
+  "xinyu_05",
+  "xinyu_06"
+ ],
+ "far_minutes": 60,
+ "far_both_minutes": 90
+}

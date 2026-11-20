@@ -1,0 +1,246 @@
+{
+ "name": "六安",
+ "center": [
+  31.74,
+  116.52
+ ],
+ "far_ids": [
+  "liuan_00",
+  "liuan_01",
+  "liuan_02",
+  "liuan_03",
+  "liuan_04",
+  "liuan_05",
+  "liuan_06",
+  "liuan_07",
+  "liuan_08",
+  "liuan_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "liuan_00",
+   "name": "万佛湖风景区",
+   "district": "",
+   "lat": 31.30153,
+   "lng": 116.77092,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liuan_01",
+   "name": "大别山主峰景区",
+   "district": "",
+   "lat": 31.12925,
+   "lng": 116.19722,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liuan_02",
+   "name": "天堂寨",
+   "district": "",
+   "lat": 31.14693,
+   "lng": 115.78361,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 90,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "liuan_03",
+   "name": "皖西大裂谷",
+   "district": "六安山水画廊",
+   "lat": 31.47687,
+   "lng": 116.5821,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 58,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liuan_04",
+   "name": "霍山大峡谷漂流",
+   "district": "",
+   "lat": 31.36767,
+   "lng": 116.19776,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liuan_05",
+   "name": "燕子河大峡谷",
+   "district": "",
+   "lat": 31.24718,
+   "lng": 115.90127,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 46,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liuan_06",
+   "name": "梅山水库风景区",
+   "district": "",
+   "lat": 31.66783,
+   "lng": 115.89357,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 30,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liuan_07",
+   "name": "六万情峡",
+   "district": "",
+   "lat": 31.36907,
+   "lng": 116.20074,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liuan_08",
+   "name": "六安市金寨县马鬃岭风景区",
+   "district": "",
+   "lat": 31.28861,
+   "lng": 115.68855,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "liuan_09",
+   "name": "大别山石窟",
+   "district": "六安山水画廊",
+   "lat": 31.48665,
+   "lng": 116.56031,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 66,
+   "rating": 4.1,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   31.74,
+   116.52
+  ],
+  "老城区": [
+   31.752,
+   116.51
+  ],
+  "近郊": [
+   31.71,
+   116.55
+  ]
+ }
+}

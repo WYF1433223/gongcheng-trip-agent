@@ -1,0 +1,246 @@
+{
+ "name": "定西",
+ "center": [
+  35.58,
+  104.63
+ ],
+ "far_ids": [
+  "dingxi_00",
+  "dingxi_01",
+  "dingxi_02",
+  "dingxi_03",
+  "dingxi_04",
+  "dingxi_05",
+  "dingxi_06",
+  "dingxi_07",
+  "dingxi_08",
+  "dingxi_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "dingxi_00",
+   "name": "二郎山",
+   "district": "",
+   "lat": 34.42852,
+   "lng": 104.04919,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dingxi_01",
+   "name": "李家龙宫",
+   "district": "",
+   "lat": 35.01839,
+   "lng": 104.65421,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dingxi_02",
+   "name": "渭河源景区",
+   "district": "",
+   "lat": 34.99438,
+   "lng": 104.09614,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 45,
+   "rating": 4.5,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dingxi_03",
+   "name": "威远楼",
+   "district": "",
+   "lat": 35.00978,
+   "lng": 104.64367,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dingxi_04",
+   "name": "遮阳山旅游风景区",
+   "district": "",
+   "lat": 34.75778,
+   "lng": 104.24239,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 30,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dingxi_05",
+   "name": "贵清山旅游风景区",
+   "district": "",
+   "lat": 34.64065,
+   "lng": 104.47547,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 25,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dingxi_06",
+   "name": "狼渡湿地草原",
+   "district": "",
+   "lat": 34.36123,
+   "lng": 104.65055,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dingxi_07",
+   "name": "双石门",
+   "district": "",
+   "lat": 34.92087,
+   "lng": 104.05111,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 3.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "dingxi_08",
+   "name": "如意峰",
+   "district": "",
+   "lat": 34.64845,
+   "lng": 104.48317,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "dingxi_09",
+   "name": "狼渡滩",
+   "district": "",
+   "lat": 34.38437,
+   "lng": 104.66702,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   35.58,
+   104.63
+  ],
+  "老城区": [
+   35.592,
+   104.62
+  ],
+  "近郊": [
+   35.55,
+   104.66
+  ]
+ }
+}

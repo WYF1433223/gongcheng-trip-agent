@@ -1,0 +1,245 @@
+{
+ "name": "长治",
+ "center": [
+  36.2,
+  113.12
+ ],
+ "far_ids": [
+  "changzhi_00",
+  "changzhi_01",
+  "changzhi_02",
+  "changzhi_03",
+  "changzhi_04",
+  "changzhi_05",
+  "changzhi_06",
+  "changzhi_07",
+  "changzhi_08",
+  "changzhi_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "changzhi_00",
+   "name": "金灯寺",
+   "district": "",
+   "lat": 36.02757,
+   "lng": 113.69544,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changzhi_01",
+   "name": "黄崖洞文化旅游区",
+   "district": "",
+   "lat": 36.80073,
+   "lng": 113.38952,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 90,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changzhi_02",
+   "name": "太行山大峡谷八泉峡景区",
+   "district": "",
+   "lat": 35.96437,
+   "lng": 113.56883,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changzhi_03",
+   "name": "太行山大峡谷",
+   "district": "",
+   "lat": 35.94393,
+   "lng": 113.42823,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changzhi_04",
+   "name": "太行天路",
+   "district": "",
+   "lat": 36.16113,
+   "lng": 113.72095,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "changzhi_05",
+   "name": "太行大峡谷景区",
+   "district": "",
+   "lat": 36.15698,
+   "lng": 113.71534,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 140,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changzhi_06",
+   "name": "通天峡风景区",
+   "district": "",
+   "lat": 36.21209,
+   "lng": 113.60116,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 60,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changzhi_07",
+   "name": "虹霓村",
+   "district": "",
+   "lat": 36.24054,
+   "lng": 113.63814,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changzhi_08",
+   "name": "太行赤壁悬流景区",
+   "district": "",
+   "lat": 36.36342,
+   "lng": 113.55778,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "changzhi_09",
+   "name": "崇庆寺",
+   "district": "",
+   "lat": 35.9861,
+   "lng": 112.97249,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 3.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   36.2,
+   113.12
+  ],
+  "老城区": [
+   36.212,
+   113.11
+  ],
+  "近郊": [
+   36.17,
+   113.15
+  ]
+ }
+}

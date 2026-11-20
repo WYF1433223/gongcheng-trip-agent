@@ -1,0 +1,245 @@
+{
+ "name": "咸阳",
+ "center": [
+  34.33,
+  108.71
+ ],
+ "far_ids": [
+  "xianyang_02",
+  "xianyang_03",
+  "xianyang_04",
+  "xianyang_05",
+  "xianyang_07",
+  "xianyang_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "xianyang_00",
+   "name": "赳赳大秦",
+   "district": "汉长安遗址公园",
+   "lat": 34.26727,
+   "lng": 108.83502,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 258,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xianyang_01",
+   "name": "陕西历史博物馆秦汉馆",
+   "district": "",
+   "lat": 34.41238,
+   "lng": 108.8707,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "xianyang_02",
+   "name": "西安城墙",
+   "district": "钟鼓楼",
+   "lat": 34.28195,
+   "lng": 108.95352,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 180,
+   "price": 53,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xianyang_03",
+   "name": "乾陵",
+   "district": "",
+   "lat": 34.57465,
+   "lng": 108.22665,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 90,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xianyang_04",
+   "name": "汉阳陵国家考古遗址公园",
+   "district": "",
+   "lat": 34.44827,
+   "lng": 108.95576,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xianyang_05",
+   "name": "西安大人国(原乐华恒业欢乐世界)",
+   "district": "",
+   "lat": 34.48047,
+   "lng": 108.92292,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 187,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xianyang_06",
+   "name": "茂陵博物馆",
+   "district": "",
+   "lat": 34.34476,
+   "lng": 108.59291,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 70,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "xianyang_07",
+   "name": "昭陵",
+   "district": "",
+   "lat": 34.62944,
+   "lng": 108.49703,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 29,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xianyang_08",
+   "name": "丝路欢乐世界",
+   "district": "",
+   "lat": 34.2699,
+   "lng": 108.70246,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 198,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xianyang_09",
+   "name": "郑国渠旅游风景区",
+   "district": "",
+   "lat": 34.68554,
+   "lng": 108.57952,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 95,
+   "rating": 3.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   34.33,
+   108.71
+  ],
+  "老城区": [
+   34.342,
+   108.7
+  ],
+  "近郊": [
+   34.3,
+   108.74
+  ]
+ }
+}

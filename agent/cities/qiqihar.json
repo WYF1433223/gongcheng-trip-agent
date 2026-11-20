@@ -1,0 +1,244 @@
+{
+ "name": "齐齐哈尔",
+ "center": [
+  47.35,
+  123.92
+ ],
+ "far_ids": [
+  "qiqihar_02",
+  "qiqihar_05",
+  "qiqihar_06"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "qiqihar_00",
+   "name": "龙沙公园",
+   "district": "齐齐哈尔第一医院",
+   "lat": 47.35178,
+   "lng": 123.94786,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qiqihar_01",
+   "name": "黑龙江督军署",
+   "district": "建华商业区",
+   "lat": 47.36343,
+   "lng": 123.96278,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qiqihar_02",
+   "name": "扎龙生态旅游区",
+   "district": "",
+   "lat": 47.20913,
+   "lng": 124.24209,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qiqihar_03",
+   "name": "龙沙动植物园",
+   "district": "",
+   "lat": 47.39173,
+   "lng": 123.95357,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 93,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qiqihar_04",
+   "name": "齐齐哈尔博物馆",
+   "district": "建华商业区",
+   "lat": 47.36235,
+   "lng": 123.96242,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "qiqihar_05",
+   "name": "观鹤台扎龙湿地",
+   "district": "",
+   "lat": 47.21579,
+   "lng": 124.25059,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qiqihar_06",
+   "name": "罗西亚大街历史文化街区",
+   "district": "",
+   "lat": 47.16671,
+   "lng": 123.83115,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qiqihar_07",
+   "name": "水师森林温泉度假区",
+   "district": "",
+   "lat": 47.26003,
+   "lng": 124.01804,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 85,
+   "rating": 4.2,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qiqihar_08",
+   "name": "明月岛",
+   "district": "万达广场",
+   "lat": 47.38523,
+   "lng": 123.93278,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qiqihar_09",
+   "name": "水师森林公园",
+   "district": "",
+   "lat": 47.25968,
+   "lng": 124.01759,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   47.35,
+   123.92
+  ],
+  "老城区": [
+   47.362,
+   123.91
+  ],
+  "近郊": [
+   47.32,
+   123.95
+  ]
+ }
+}

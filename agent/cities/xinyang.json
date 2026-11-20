@@ -1,0 +1,247 @@
+{
+ "name": "信阳",
+ "center": [
+  32.15,
+  114.09
+ ],
+ "far_ids": [
+  "xinyang_00",
+  "xinyang_01",
+  "xinyang_03",
+  "xinyang_04",
+  "xinyang_05",
+  "xinyang_07",
+  "xinyang_08",
+  "xinyang_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "xinyang_00",
+   "name": "茗阳汤泉",
+   "district": "",
+   "lat": 31.69692,
+   "lng": 115.36652,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xinyang_01",
+   "name": "灵山",
+   "district": "",
+   "lat": 31.90469,
+   "lng": 114.23093,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 52,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xinyang_02",
+   "name": "郝堂村",
+   "district": "",
+   "lat": 32.06625,
+   "lng": 114.22014,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xinyang_03",
+   "name": "鸡公山景区",
+   "district": "",
+   "lat": 31.81925,
+   "lng": 114.08341,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 59,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xinyang_04",
+   "name": "文新茶村",
+   "district": "",
+   "lat": 32.01984,
+   "lng": 113.92495,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xinyang_05",
+   "name": "西河古村落景区",
+   "district": "",
+   "lat": 31.63492,
+   "lng": 115.03551,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xinyang_06",
+   "name": "南湾湖风景区",
+   "district": "",
+   "lat": 32.08799,
+   "lng": 113.96156,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 3.9,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xinyang_07",
+   "name": "波尔登森林公园",
+   "district": "",
+   "lat": 31.85856,
+   "lng": 114.10317,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 39,
+   "rating": 3.9,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xinyang_08",
+   "name": "西九华山景区",
+   "district": "",
+   "lat": 31.80783,
+   "lng": 115.8153,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 3.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xinyang_09",
+   "name": "茶山",
+   "district": "",
+   "lat": 31.9765,
+   "lng": 113.9804,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   32.15,
+   114.09
+  ],
+  "老城区": [
+   32.162,
+   114.08
+  ],
+  "近郊": [
+   32.12,
+   114.12
+  ]
+ }
+}

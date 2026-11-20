@@ -1,0 +1,203 @@
+{
+ "name": "赣州",
+ "center": [
+  25.8562,
+  115.0631
+ ],
+ "pois": [
+  {
+   "id": "ganzhou_01",
+   "name": "郁孤台",
+   "district": "赣州",
+   "lat": 25.87,
+   "lng": 114.93,
+   "open_min": 510,
+   "close_min": 1050,
+   "duration": 50,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ganzhou_02",
+   "name": "八境台",
+   "district": "赣州",
+   "lat": 25.88,
+   "lng": 114.95,
+   "open_min": 510,
+   "close_min": 1050,
+   "duration": 50,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ganzhou_03",
+   "name": "灶儿巷",
+   "district": "赣州",
+   "lat": 25.86,
+   "lng": 114.94,
+   "open_min": 0,
+   "close_min": 1440,
+   "duration": 40,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ganzhou_04",
+   "name": "赣州古城墙",
+   "district": "赣州",
+   "lat": 25.87,
+   "lng": 114.945,
+   "open_min": 0,
+   "close_min": 1440,
+   "duration": 60,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ganzhou_05",
+   "name": "赣州市博物馆",
+   "district": "赣州",
+   "lat": 25.8,
+   "lng": 114.93,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 1
+  },
+  {
+   "id": "ganzhou_06",
+   "name": "通天岩",
+   "district": "赣州",
+   "lat": 25.93,
+   "lng": 114.85,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 120,
+   "price": 60,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "ganzhou_07",
+   "name": "客家文化城",
+   "district": "赣州",
+   "lat": 25.76,
+   "lng": 114.93,
+   "open_min": 510,
+   "close_min": 1050,
+   "duration": 90,
+   "price": 50,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "ganzhou_08",
+   "name": "瑞金共和国摇篮景区",
+   "district": "赣州",
+   "lat": 25.88,
+   "lng": 116.03,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   25.8562,
+   115.0631
+  ],
+  "老城区": [
+   25.8663,
+   115.0531
+  ],
+  "近郊": [
+   25.8962,
+   115.0931
+  ]
+ },
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 14,
+   "high": 24,
+   "rain": 5
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 22,
+   "rain": 15
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 12,
+   "high": 19,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 12,
+   "high": 20,
+   "rain": 25
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 13,
+   "high": 23,
+   "rain": 5
+  }
+ ],
+ "far_ids": [
+  "ganzhou_06",
+  "ganzhou_07",
+  "ganzhou_08"
+ ],
+ "far_minutes": 60,
+ "far_both_minutes": 90
+}

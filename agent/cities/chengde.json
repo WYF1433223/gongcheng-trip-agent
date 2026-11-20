@@ -1,0 +1,242 @@
+{
+ "name": "承德",
+ "center": [
+  40.95,
+  117.96
+ ],
+ "far_ids": [
+  "chengde_00",
+  "chengde_01",
+  "chengde_04",
+  "chengde_05",
+  "chengde_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "chengde_00",
+   "name": "中国马镇旅游度假区",
+   "district": "丰宁坝上草原",
+   "lat": 41.59903,
+   "lng": 116.02333,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 4.9,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "chengde_01",
+   "name": "百里天路",
+   "district": "",
+   "lat": 41.5846,
+   "lng": 116.24827,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "chengde_02",
+   "name": "《鼎盛王朝·康熙大典》实景演出",
+   "district": "鼎盛王朝康熙大典",
+   "lat": 40.98534,
+   "lng": 117.84846,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "chengde_03",
+   "name": "普宁寺",
+   "district": "避暑山庄",
+   "lat": 41.02213,
+   "lng": 117.95911,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 45,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chengde_04",
+   "name": "金山岭长城",
+   "district": "",
+   "lat": 40.6892,
+   "lng": 117.26152,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 180,
+   "price": 52,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chengde_05",
+   "name": "木兰围场",
+   "district": "塞罕坝度假区",
+   "lat": 42.32661,
+   "lng": 117.50125,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "chengde_06",
+   "name": "普陀宗乘之庙",
+   "district": "避暑山庄",
+   "lat": 41.01921,
+   "lng": 117.94055,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chengde_07",
+   "name": "磬锤峰国家森林公园",
+   "district": "",
+   "lat": 41.00578,
+   "lng": 117.97791,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 15,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chengde_08",
+   "name": "丰宁坝上草原",
+   "district": "丰宁坝上草原",
+   "lat": 41.6068,
+   "lng": 115.99479,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chengde_09",
+   "name": "避暑山庄",
+   "district": "避暑山庄",
+   "lat": 41.00148,
+   "lng": 117.94121,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 90,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   40.95,
+   117.96
+  ],
+  "老城区": [
+   40.962,
+   117.95
+  ],
+  "近郊": [
+   40.92,
+   117.99
+  ]
+ }
+}

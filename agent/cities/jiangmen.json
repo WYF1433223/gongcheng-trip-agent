@@ -1,0 +1,206 @@
+{
+ "name": "江门",
+ "center": [
+  22.58,
+  113.08
+ ],
+ "far_ids": [
+  "jiangmen_00",
+  "jiangmen_01",
+  "jiangmen_02",
+  "jiangmen_03",
+  "jiangmen_04"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "jiangmen_00",
+   "name": "江门古劳水乡旅游区",
+   "district": "",
+   "lat": 22.82834,
+   "lng": 112.96078,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 36,
+   "rating": 4.7,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiangmen_01",
+   "name": "赤坎·广东华侨国际旅游度假区",
+   "district": "",
+   "lat": 22.32348,
+   "lng": 112.5915,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 150,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiangmen_02",
+   "name": "开平碉楼文化旅游区",
+   "district": "",
+   "lat": 22.37917,
+   "lng": 112.58591,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 177,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiangmen_03",
+   "name": "下川岛王府洲旅游度假区",
+   "district": "下川岛",
+   "lat": 21.62853,
+   "lng": 112.58166,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 167,
+   "rating": 4.4,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiangmen_04",
+   "name": "自力村碉楼群",
+   "district": "",
+   "lat": 22.37596,
+   "lng": 112.58645,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 75,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiangmen_05",
+   "name": "江门三十三墟街",
+   "district": "五邑大学",
+   "lat": 22.58386,
+   "lng": 113.0977,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiangmen_06",
+   "name": "小鸟天堂",
+   "district": "",
+   "lat": 22.46627,
+   "lng": 113.0579,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 25,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiangmen_07",
+   "name": "江门 · 赴新向前！燃动湾区2027跨年演唱会",
+   "district": "滨江体育场",
+   "lat": 22.65781,
+   "lng": 113.07597,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   22.58,
+   113.08
+  ],
+  "老城区": [
+   22.592,
+   113.07
+  ],
+  "近郊": [
+   22.55,
+   113.11
+  ]
+ }
+}

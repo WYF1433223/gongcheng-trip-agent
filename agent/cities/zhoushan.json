@@ -1,0 +1,242 @@
+{
+ "name": "舟山",
+ "center": [
+  29.99,
+  122.21
+ ],
+ "far_ids": [
+  "zhoushan_00",
+  "zhoushan_02",
+  "zhoushan_05",
+  "zhoushan_07",
+  "zhoushan_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "zhoushan_00",
+   "name": "舟山保利开元森泊度假乐园",
+   "district": "南沙",
+   "lat": 29.88219,
+   "lng": 122.39066,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 138,
+   "rating": 5.0,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhoushan_01",
+   "name": "普陀山观音法界",
+   "district": "观音法界",
+   "lat": 29.93039,
+   "lng": 122.3949,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 90,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhoushan_02",
+   "name": "洛迦山",
+   "district": "",
+   "lat": 29.97465,
+   "lng": 122.456,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 70,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhoushan_03",
+   "name": "普陀山风景区",
+   "district": "普陀山",
+   "lat": 30.00306,
+   "lng": 122.3951,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 220,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhoushan_04",
+   "name": "舟山长乔海洋公园",
+   "district": "蜈蚣峙码头",
+   "lat": 29.95017,
+   "lng": 122.35821,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 275,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhoushan_05",
+   "name": "朱家尖大青山景区",
+   "district": "南沙",
+   "lat": 29.85452,
+   "lng": 122.39953,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 60,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhoushan_06",
+   "name": "朱家尖风景区",
+   "district": "观音法界",
+   "lat": 29.91113,
+   "lng": 122.39247,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 10,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhoushan_07",
+   "name": "朱家尖南沙景区",
+   "district": "南沙",
+   "lat": 29.883,
+   "lng": 122.4151,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 20,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhoushan_08",
+   "name": "东极岛风景区",
+   "district": "东极岛",
+   "lat": 30.18258,
+   "lng": 122.71215,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhoushan_09",
+   "name": "普陀山佛顶山索道",
+   "district": "普陀山",
+   "lat": 30.02482,
+   "lng": 122.40408,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 3.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   29.99,
+   122.21
+  ],
+  "老城区": [
+   30.002,
+   122.2
+  ],
+  "近郊": [
+   29.96,
+   122.24
+  ]
+ }
+}

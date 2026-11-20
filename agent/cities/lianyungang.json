@@ -1,0 +1,245 @@
+{
+ "name": "连云港",
+ "center": [
+  34.6,
+  119.22
+ ],
+ "far_ids": [
+  "lianyungang_00",
+  "lianyungang_04",
+  "lianyungang_05",
+  "lianyungang_06",
+  "lianyungang_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "lianyungang_00",
+   "name": "海上云台山",
+   "district": "在海一方",
+   "lat": 34.71904,
+   "lng": 119.4572,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lianyungang_01",
+   "name": "海州古城",
+   "district": "",
+   "lat": 34.57484,
+   "lng": 119.14196,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lianyungang_02",
+   "name": "连云港花果山风景区",
+   "district": "花果山风景区",
+   "lat": 34.65083,
+   "lng": 119.28861,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lianyungang_03",
+   "name": "渔湾风景区",
+   "district": "花果山风景区",
+   "lat": 34.65247,
+   "lng": 119.34187,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "lianyungang_04",
+   "name": "羊山岛景区",
+   "district": "在海一方",
+   "lat": 34.70446,
+   "lng": 119.49387,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lianyungang_05",
+   "name": "连云港市连岛景区",
+   "district": "连岛海滨度假区",
+   "lat": 34.7661,
+   "lng": 119.47071,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 27,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "lianyungang_06",
+   "name": "连云港老街",
+   "district": "在海一方",
+   "lat": 34.73454,
+   "lng": 119.46315,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lianyungang_07",
+   "name": "连云港在海一方公园",
+   "district": "在海一方",
+   "lat": 34.7645,
+   "lng": 119.37774,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lianyungang_08",
+   "name": "盐河古巷",
+   "district": "连云港市中心",
+   "lat": 34.60423,
+   "lng": 119.17882,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lianyungang_09",
+   "name": "连云港 · 2026山海连云超级LIVE演唱会",
+   "district": "连云港大学城",
+   "lat": 34.66342,
+   "lng": 119.23923,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   34.6,
+   119.22
+  ],
+  "老城区": [
+   34.612,
+   119.21
+  ],
+  "近郊": [
+   34.57,
+   119.25
+  ]
+ }
+}

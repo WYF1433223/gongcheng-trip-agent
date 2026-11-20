@@ -1,0 +1,243 @@
+{
+ "name": "广元",
+ "center": [
+  32.44,
+  105.84
+ ],
+ "far_ids": [
+  "guangyuan_01",
+  "guangyuan_02",
+  "guangyuan_03",
+  "guangyuan_05",
+  "guangyuan_06",
+  "guangyuan_08",
+  "guangyuan_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "guangyuan_00",
+   "name": "昭化古城",
+   "district": "",
+   "lat": 32.33997,
+   "lng": 105.7227,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 45,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guangyuan_01",
+   "name": "猿猱道",
+   "district": "",
+   "lat": 32.23248,
+   "lng": 105.58404,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "guangyuan_02",
+   "name": "唐家河自然风景区",
+   "district": "",
+   "lat": 32.60046,
+   "lng": 104.79034,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 114,
+   "rating": 4.7,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guangyuan_03",
+   "name": "剑门关",
+   "district": "",
+   "lat": 32.22786,
+   "lng": 105.58157,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 100,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "guangyuan_04",
+   "name": "千佛崖",
+   "district": "",
+   "lat": 32.47874,
+   "lng": 105.85463,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 50,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guangyuan_05",
+   "name": "翠云廊",
+   "district": "",
+   "lat": 32.15579,
+   "lng": 105.54747,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 34,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "guangyuan_06",
+   "name": "剑门关天赐温泉",
+   "district": "",
+   "lat": 32.28398,
+   "lng": 105.52566,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 50,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guangyuan_07",
+   "name": "皇泽寺",
+   "district": "",
+   "lat": 32.44624,
+   "lng": 105.82031,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 50,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guangyuan_08",
+   "name": "明月峡",
+   "district": "",
+   "lat": 32.63437,
+   "lng": 105.87635,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 63,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "guangyuan_09",
+   "name": "鸟道",
+   "district": "",
+   "lat": 32.23024,
+   "lng": 105.58291,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   32.44,
+   105.84
+  ],
+  "老城区": [
+   32.452,
+   105.83
+  ],
+  "近郊": [
+   32.41,
+   105.87
+  ]
+ }
+}

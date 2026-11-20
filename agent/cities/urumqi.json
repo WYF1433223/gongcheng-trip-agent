@@ -1,0 +1,245 @@
+{
+ "name": "乌鲁木齐",
+ "center": [
+  43.83,
+  87.62
+ ],
+ "far_ids": [
+  "urumqi_04",
+  "urumqi_07",
+  "urumqi_08",
+  "urumqi_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "urumqi_00",
+   "name": "新疆维吾尔自治区博物馆",
+   "district": "新疆博物馆",
+   "lat": 43.82558,
+   "lng": 87.59013,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "urumqi_01",
+   "name": "水磨沟风景区",
+   "district": "水磨沟",
+   "lat": 43.83305,
+   "lng": 87.664,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "urumqi_02",
+   "name": "鲤鱼山公园",
+   "district": "医学院",
+   "lat": 43.85716,
+   "lng": 87.58668,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "urumqi_03",
+   "name": "红山公园",
+   "district": "红山公园",
+   "lat": 43.81429,
+   "lng": 87.61285,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "urumqi_04",
+   "name": "天山天池",
+   "district": "",
+   "lat": 43.91391,
+   "lng": 88.11192,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 105,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "urumqi_05",
+   "name": "新疆古生态园汗血马基地",
+   "district": "医学院",
+   "lat": 43.8601,
+   "lng": 87.58329,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 89,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "urumqi_06",
+   "name": "新疆国际大巴扎",
+   "district": "国际大巴扎",
+   "lat": 43.78613,
+   "lng": 87.62442,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "urumqi_07",
+   "name": "南山牧场",
+   "district": "",
+   "lat": 43.42787,
+   "lng": 87.16734,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "urumqi_08",
+   "name": "乌鲁木齐天山大峡谷",
+   "district": "",
+   "lat": 43.3768,
+   "lng": 87.42287,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 74,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "urumqi_09",
+   "name": "新疆盐湖景区",
+   "district": "",
+   "lat": 43.39105,
+   "lng": 88.13463,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 39,
+   "rating": 4.0,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   43.83,
+   87.62
+  ],
+  "老城区": [
+   43.842,
+   87.61
+  ],
+  "近郊": [
+   43.8,
+   87.65
+  ]
+ }
+}

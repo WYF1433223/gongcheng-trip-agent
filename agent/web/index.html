@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>旅行行程规划智能体 · 跨城市规划—校验—修复闭环演示</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <div class="logo">旅</div>
+    <div>
+      <h1>旅行行程规划智能体</h1>
+      <p id="subtitle">规划 — 校验 — 修复 闭环演示</p>
+    </div>
+  </div>
+  <div class="meta"><span class="dot"></span><span id="datasrc">本地 POI / 天气数据</span></div>
+</header>
+
+<main>
+  <aside class="panel form-card">
+    <h2>行程需求 <span class="hint">选省 → 选市 → 生成</span></h2>
+
+    <div class="field">
+      <label>出发日期</label>
+      <input id="start_date" type="date">
+      <p class="hint" id="date_hint">前后 90 天 / 15 天内取真实预报，更远用内置数据</p>
+    </div>
+
+    <div class="field">
+      <label>选择城市 <span class="hint" id="city_hint"></span></label>
+      <div class="row2">
+        <select id="province"></select>
+        <input id="city_search" placeholder="搜索全国城市，如 九江">
+      </div>
+      <div class="chips city-chips" id="city_list"></div>
+    </div>
+
+    <div class="field">
+      <label>行程天数 <span class="hint" id="day_sum"></span></label>
+      <div class="chips picked" id="picked"></div>
+      <p class="hint">点城市可移除；用 − / + 调整每个城市停留几天，城际交通与门票自动计入预算。</p>
+    </div>
+
+    <div class="field">
+      <label>同行人与节奏</label>
+      <div class="row2">
+        <select id="party">
+          <option>情侣</option><option>家庭</option><option>朋友</option><option>独自</option>
+        </select>
+        <select id="pace">
+          <option value="relaxed">轻松 3 站/天</option>
+          <option value="normal" selected>适中 4 站/天</option>
+          <option value="intense">紧凑 5 站/天</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="field">
+      <label>出发地 <span class="hint">填了才算往返（含去程/返程高铁）</span></label>
+      <input id="origin" placeholder="如 长沙；留空则从首座城市开始">
+      <p class="hint" id="origin_hint">未设置出发地 · 只排目的地行程</p>
+    </div>
+
+    <div class="field">
+      <label>交通方式</label>
+      <select id="transport">
+        <option value="auto" selected>自动推荐（每段挑最划算的组合）</option>
+        <option value="transit">公交 / 地铁</option>
+        <option value="walk">走路</option>
+        <option value="taxi">打车</option>
+      </select>
+      <p class="hint">自动推荐按「分钟数 + 花费 × 1.82」比较，可能出现打车接地铁的组合。</p>
+    </div>
+
+    <div class="field">
+      <label>预算（元 / 人，含门票、餐饮、城际交通估算）</label>
+      <input id="budget" type="number" min="300" step="100" value="3000">
+    </div>
+
+    <div class="field">
+      <label>偏好标签</label>
+      <div class="chips" id="prefs"></div>
+    </div>
+
+    <div class="field">
+      <label>必去点 <span class="hint">仅显示所选城市</span></label>
+      <div class="chips" id="must"></div>
+    </div>
+
+    <button class="primary" id="go">生成对比方案</button>
+    <p class="note">同一需求下并行运行「一次性生成」与「规划—校验—修复闭环」，对比约束满足率、花费与调用成本。</p>
+  </aside>
+
+  <section class="content">
+    <div class="panel compare">
+      <h2>结果对比 <span class="hint" id="compare-hint">等待生成</span></h2>
+      <div class="metrics" id="metrics">
+        <div class="mode"><div class="empty">左侧选好城市后点「生成对比方案」</div></div>
+      </div>
+    </div>
+
+    <div class="grid2">
+      <div class="panel">
+        <h2>逐日行程 <span class="hint" id="itin-hint"></span></h2>
+        <div class="tabs" id="tabs">
+          <div class="tab on" data-mode="closed_loop">闭环修复结果</div>
+          <div class="tab" data-mode="single_pass">一次性生成</div>
+        </div>
+        <div class="days" id="days-out"><div class="empty">暂无行程</div></div>
+      </div>
+
+      <div class="panel">
+        <h2>修复轨迹 <span class="hint">verifier → repair</span></h2>
+        <div class="trace-list" id="trace"><div class="empty">暂无记录</div></div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>

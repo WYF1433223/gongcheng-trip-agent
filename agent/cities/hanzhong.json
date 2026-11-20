@@ -1,0 +1,250 @@
+{
+ "name": "汉中",
+ "center": [
+  33.07,
+  107.02
+ ],
+ "far_ids": [
+  "hanzhong_00",
+  "hanzhong_01",
+  "hanzhong_02",
+  "hanzhong_03",
+  "hanzhong_04",
+  "hanzhong_06",
+  "hanzhong_07",
+  "hanzhong_08",
+  "hanzhong_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "hanzhong_00",
+   "name": "汉中龙头山国际旅游度假区",
+   "district": "",
+   "lat": 32.76443,
+   "lng": 107.00548,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 133,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "hanzhong_01",
+   "name": "勉县武侯祠博物馆",
+   "district": "",
+   "lat": 33.15563,
+   "lng": 106.64219,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 50,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "hanzhong_02",
+   "name": "武侯墓",
+   "district": "",
+   "lat": 33.12895,
+   "lng": 106.6589,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hanzhong_03",
+   "name": "黎坪森林公园",
+   "district": "",
+   "lat": 32.8199,
+   "lng": 106.6485,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 210,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hanzhong_04",
+   "name": "青木川古镇",
+   "district": "",
+   "lat": 32.83671,
+   "lng": 105.58675,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 54,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hanzhong_05",
+   "name": "兴汉胜境",
+   "district": "汉中火车站",
+   "lat": 33.1154,
+   "lng": 107.03703,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "hanzhong_06",
+   "name": "米仓山国家森林公园",
+   "district": "",
+   "lat": 32.69477,
+   "lng": 106.97067,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 145,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hanzhong_07",
+   "name": "张良庙",
+   "district": "",
+   "lat": 33.6839,
+   "lng": 106.84315,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 50,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hanzhong_08",
+   "name": "紫柏山国家森林公园",
+   "district": "",
+   "lat": 33.68619,
+   "lng": 106.73835,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "hanzhong_09",
+   "name": "诸葛古镇",
+   "district": "",
+   "lat": 33.1545,
+   "lng": 106.64309,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.1,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   33.07,
+   107.02
+  ],
+  "老城区": [
+   33.082,
+   107.01
+  ],
+  "近郊": [
+   33.04,
+   107.05
+  ]
+ }
+}

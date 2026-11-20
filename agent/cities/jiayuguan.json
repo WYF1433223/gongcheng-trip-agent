@@ -1,0 +1,235 @@
+{
+ "name": "嘉峪关",
+ "center": [
+  39.77,
+  98.29
+ ],
+ "far_ids": [],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "jiayuguan_00",
+   "name": "嘉峪关方特欢乐世界",
+   "district": "方特欢乐世界",
+   "lat": 39.76111,
+   "lng": 98.3526,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiayuguan_01",
+   "name": "嘉峪关方特丝路神画",
+   "district": "",
+   "lat": 39.80838,
+   "lng": 98.25233,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiayuguan_02",
+   "name": "嘉峪关长城博物馆",
+   "district": "",
+   "lat": 39.81336,
+   "lng": 98.22673,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiayuguan_03",
+   "name": "嘉峪关关城",
+   "district": "",
+   "lat": 39.8086,
+   "lng": 98.24668,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 180,
+   "price": 88,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiayuguan_04",
+   "name": "悬壁长城",
+   "district": "",
+   "lat": 39.85609,
+   "lng": 98.18727,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiayuguan_05",
+   "name": "嘉峪关关城里景区",
+   "district": "",
+   "lat": 39.81182,
+   "lng": 98.24164,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiayuguan_06",
+   "name": "长城第一墩",
+   "district": "",
+   "lat": 39.75488,
+   "lng": 98.21538,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiayuguan_07",
+   "name": "紫轩葡萄酒庄园",
+   "district": "",
+   "lat": 39.83803,
+   "lng": 98.35741,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 3.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiayuguan_08",
+   "name": "文殊山石窟群旅游景区",
+   "district": "",
+   "lat": 39.66258,
+   "lng": 98.36086,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 40,
+   "rating": 3.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiayuguan_09",
+   "name": "嘉峪关文物景区",
+   "district": "",
+   "lat": 39.80605,
+   "lng": 98.22815,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   39.77,
+   98.29
+  ],
+  "老城区": [
+   39.782,
+   98.28
+  ],
+  "近郊": [
+   39.74,
+   98.32
+  ]
+ }
+}

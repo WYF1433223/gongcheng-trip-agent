@@ -1,0 +1,243 @@
+{
+ "name": "朝阳",
+ "center": [
+  41.57,
+  120.45
+ ],
+ "far_ids": [
+  "chaoyang_03",
+  "chaoyang_08",
+  "chaoyang_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "chaoyang_00",
+   "name": "朝阳化石谷",
+   "district": "",
+   "lat": 41.5987,
+   "lng": 120.41772,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.9,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chaoyang_01",
+   "name": "朝阳北塔",
+   "district": "朝阳商业城",
+   "lat": 41.58761,
+   "lng": 120.46859,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chaoyang_02",
+   "name": "辽宁朝阳鸟化石国家地质公园",
+   "district": "",
+   "lat": 41.60688,
+   "lng": 120.39166,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 80,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chaoyang_03",
+   "name": "牛河梁红山文化遗址",
+   "district": "",
+   "lat": 41.33065,
+   "lng": 119.52798,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chaoyang_04",
+   "name": "朝阳博物馆",
+   "district": "",
+   "lat": 41.60418,
+   "lng": 120.49139,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "chaoyang_05",
+   "name": "朝阳凤凰山",
+   "district": "",
+   "lat": 41.54734,
+   "lng": 120.51302,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 28,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chaoyang_06",
+   "name": "朝阳市北塔博物馆",
+   "district": "朝阳商业城",
+   "lat": 41.58846,
+   "lng": 120.46897,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "chaoyang_07",
+   "name": "佑顺寺",
+   "district": "朝阳商业城",
+   "lat": 41.58275,
+   "lng": 120.46756,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "chaoyang_08",
+   "name": "辽宁北票大黑山旅游景区",
+   "district": "",
+   "lat": 42.0166,
+   "lng": 120.49062,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chaoyang_09",
+   "name": "牛河梁遗址博物馆",
+   "district": "",
+   "lat": 41.34245,
+   "lng": 119.54251,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   41.57,
+   120.45
+  ],
+  "老城区": [
+   41.582,
+   120.44
+  ],
+  "近郊": [
+   41.54,
+   120.48
+  ]
+ }
+}

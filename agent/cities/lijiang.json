@@ -1,0 +1,244 @@
+{
+ "name": "丽江",
+ "center": [
+  26.86,
+  100.23
+ ],
+ "far_ids": [
+  "lijiang_01",
+  "lijiang_04",
+  "lijiang_05",
+  "lijiang_06",
+  "lijiang_08",
+  "lijiang_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "lijiang_00",
+   "name": "丽江古城",
+   "district": "丽江古城",
+   "lat": 26.87646,
+   "lng": 100.24205,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lijiang_01",
+   "name": "泸沽湖",
+   "district": "",
+   "lat": 27.65924,
+   "lng": 100.81494,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 70,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lijiang_02",
+   "name": "木府",
+   "district": "丽江古城",
+   "lat": 26.87536,
+   "lng": 100.24005,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "lijiang_03",
+   "name": "丽江千古情",
+   "district": "丽江火车站地区",
+   "lat": 26.83405,
+   "lng": 100.22522,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 280,
+   "rating": 4.7,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lijiang_04",
+   "name": "蓝月谷",
+   "district": "玉龙雪山度假区",
+   "lat": 27.13172,
+   "lng": 100.25578,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lijiang_05",
+   "name": "玉龙雪山",
+   "district": "玉龙雪山度假区",
+   "lat": 27.136,
+   "lng": 100.21688,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lijiang_06",
+   "name": "玉龙雪山索道",
+   "district": "玉龙雪山度假区",
+   "lat": 27.1056,
+   "lng": 100.25989,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 60,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lijiang_07",
+   "name": "拉市海",
+   "district": "拉市海湿地度假区",
+   "lat": 26.88252,
+   "lng": 100.14458,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 29,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "lijiang_08",
+   "name": "《印象丽江》演出",
+   "district": "玉龙雪山度假区",
+   "lat": 27.10304,
+   "lng": 100.2649,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 180,
+   "rating": 4.3,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "lijiang_09",
+   "name": "冰川公园大索道",
+   "district": "",
+   "lat": 27.1407,
+   "lng": 100.21031,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   26.86,
+   100.23
+  ],
+  "老城区": [
+   26.872,
+   100.22
+  ],
+  "近郊": [
+   26.83,
+   100.26
+  ]
+ }
+}

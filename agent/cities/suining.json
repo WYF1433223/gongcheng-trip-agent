@@ -1,0 +1,241 @@
+{
+ "name": "遂宁",
+ "center": [
+  30.53,
+  105.59
+ ],
+ "far_ids": [
+  "suining_00",
+  "suining_01",
+  "suining_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "suining_00",
+   "name": "陈子昂故里",
+   "district": "",
+   "lat": 31.00056,
+   "lng": 105.28656,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "suining_01",
+   "name": "沱牌舍得文化旅游区",
+   "district": "",
+   "lat": 30.74006,
+   "lng": 105.42303,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 58,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "suining_02",
+   "name": "龙凤古镇",
+   "district": "",
+   "lat": 30.44421,
+   "lng": 105.64331,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "suining_03",
+   "name": "中国观音故里灵泉风景区",
+   "district": "河东莲里公园",
+   "lat": 30.52684,
+   "lng": 105.63182,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "suining_04",
+   "name": "观音湖景区",
+   "district": "河东万达广场",
+   "lat": 30.53151,
+   "lng": 105.59067,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "suining_05",
+   "name": "四川宋瓷博物馆",
+   "district": "",
+   "lat": 30.55501,
+   "lng": 105.5936,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "suining_06",
+   "name": "广德寺",
+   "district": "船山区政府",
+   "lat": 30.49731,
+   "lng": 105.57624,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "suining_07",
+   "name": "圣莲岛景区",
+   "district": "",
+   "lat": 30.51893,
+   "lng": 105.59648,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "suining_08",
+   "name": "中国死海旅游度假区",
+   "district": "",
+   "lat": 30.60428,
+   "lng": 105.25511,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 3.8,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "suining_09",
+   "name": "中国观音故里旅游区",
+   "district": "河东莲里公园",
+   "lat": 30.52698,
+   "lng": 105.63181,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   30.53,
+   105.59
+  ],
+  "老城区": [
+   30.542,
+   105.58
+  ],
+  "近郊": [
+   30.5,
+   105.62
+  ]
+ }
+}

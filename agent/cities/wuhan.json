@@ -1,0 +1,238 @@
+{
+ "name": "武汉",
+ "center": [
+  30.59,
+  114.31
+ ],
+ "far_ids": [],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "wuhan_00",
+   "name": "湖北省博物馆",
+   "district": "楚河汉街",
+   "lat": 30.56783,
+   "lng": 114.37188,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "wuhan_01",
+   "name": "东湖生态旅游风景区",
+   "district": "武汉火车站",
+   "lat": 30.56493,
+   "lng": 114.42595,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuhan_02",
+   "name": "晴川阁",
+   "district": "武汉国际博览中心",
+   "lat": 30.56165,
+   "lng": 114.29144,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuhan_03",
+   "name": "黄鹤楼",
+   "district": "黄鹤楼",
+   "lat": 30.54953,
+   "lng": 114.31096,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 70,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuhan_04",
+   "name": "武汉两江游览·夜游长江",
+   "district": "黄鹤楼",
+   "lat": 30.55991,
+   "lng": 114.30427,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 83,
+   "rating": 4.5,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuhan_05",
+   "name": "汉口江滩",
+   "district": "江汉路步行街",
+   "lat": 30.63409,
+   "lng": 114.3394,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuhan_06",
+   "name": "户部巷",
+   "district": "黄鹤楼",
+   "lat": 30.55365,
+   "lng": 114.30499,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuhan_07",
+   "name": "汉秀剧场",
+   "district": "楚河汉街",
+   "lat": 30.55805,
+   "lng": 114.35444,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 99,
+   "rating": 4.4,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuhan_08",
+   "name": "夜上黄鹤楼",
+   "district": "黄鹤楼",
+   "lat": 30.55032,
+   "lng": 114.30904,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 120,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "wuhan_09",
+   "name": "武汉动物园",
+   "district": "武汉国际博览中心",
+   "lat": 30.54836,
+   "lng": 114.2485,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   30.59,
+   114.31
+  ],
+  "老城区": [
+   30.602,
+   114.3
+  ],
+  "近郊": [
+   30.56,
+   114.34
+  ]
+ }
+}

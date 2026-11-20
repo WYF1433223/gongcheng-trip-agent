@@ -1,0 +1,238 @@
+{
+ "name": "扬州",
+ "center": [
+  32.39,
+  119.42
+ ],
+ "far_ids": [],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "yangzhou_00",
+   "name": "运河三湾风景区",
+   "district": "运河博物馆",
+   "lat": 32.36415,
+   "lng": 119.43518,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yangzhou_01",
+   "name": "瘦西湖",
+   "district": "瘦西湖风景区",
+   "lat": 32.40816,
+   "lng": 119.43282,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 58,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yangzhou_02",
+   "name": "个园",
+   "district": "东关街",
+   "lat": 32.40487,
+   "lng": 119.45024,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 28,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yangzhou_03",
+   "name": "何园",
+   "district": "东关街",
+   "lat": 32.39136,
+   "lng": 119.45549,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 28,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yangzhou_04",
+   "name": "大明寺",
+   "district": "瘦西湖风景区",
+   "lat": 32.42641,
+   "lng": 119.41896,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 27,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yangzhou_05",
+   "name": "东关街历史街区",
+   "district": "东关街",
+   "lat": 32.40386,
+   "lng": 119.45364,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yangzhou_06",
+   "name": "茱萸湾风景区",
+   "district": "扬州东高铁站地区",
+   "lat": 32.43939,
+   "lng": 119.49556,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 43,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "yangzhou_07",
+   "name": "中国大运河博物馆",
+   "district": "运河博物馆",
+   "lat": 32.36763,
+   "lng": 119.43526,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "yangzhou_08",
+   "name": "扬州古运河",
+   "district": "东关街",
+   "lat": 32.41475,
+   "lng": 119.45839,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "yangzhou_09",
+   "name": "扬州逛园林",
+   "district": "东关街",
+   "lat": 32.40487,
+   "lng": 119.45024,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   32.39,
+   119.42
+  ],
+  "老城区": [
+   32.402,
+   119.41
+  ],
+  "近郊": [
+   32.36,
+   119.45
+  ]
+ }
+}

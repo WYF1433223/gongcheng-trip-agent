@@ -1,0 +1,238 @@
+{
+ "name": "珠海",
+ "center": [
+  22.27,
+  113.58
+ ],
+ "far_ids": [
+  "zhuhai_07",
+  "zhuhai_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "zhuhai_00",
+   "name": "长隆飞船乐园",
+   "district": "长隆旅游度假区",
+   "lat": 22.09913,
+   "lng": 113.54515,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 325,
+   "rating": 4.9,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhuhai_01",
+   "name": "珠海长隆海洋王国",
+   "district": "长隆旅游度假区",
+   "lat": 22.10336,
+   "lng": 113.5424,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 395,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhuhai_02",
+   "name": "珠海横琴《长隆秀》",
+   "district": "长隆旅游度假区",
+   "lat": 22.10727,
+   "lng": 113.55025,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 350,
+   "rating": 4.8,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhuhai_03",
+   "name": "珠海长隆度假区",
+   "district": "长隆旅游度假区",
+   "lat": 22.10435,
+   "lng": 113.54696,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 59,
+   "rating": 4.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhuhai_04",
+   "name": "澳门环岛游",
+   "district": "珠海国际会展中心",
+   "lat": 22.19708,
+   "lng": 113.54019,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 138,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhuhai_05",
+   "name": "港珠澳大桥游",
+   "district": "港珠澳大桥珠海公路口",
+   "lat": 22.21274,
+   "lng": 113.58805,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 188,
+   "rating": 4.5,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhuhai_06",
+   "name": "景山公园",
+   "district": "情侣路",
+   "lat": 22.2668,
+   "lng": 113.57725,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhuhai_07",
+   "name": "外伶仃岛",
+   "district": "外伶仃岛",
+   "lat": 22.1039,
+   "lng": 114.04855,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhuhai_08",
+   "name": "东澳岛",
+   "district": "东澳岛",
+   "lat": 22.0238,
+   "lng": 113.71656,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 210,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "zhuhai_09",
+   "name": "圆明新园",
+   "district": "前山",
+   "lat": 22.24903,
+   "lng": 113.54582,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   22.27,
+   113.58
+  ],
+  "老城区": [
+   22.282,
+   113.57
+  ],
+  "近郊": [
+   22.24,
+   113.61
+  ]
+ }
+}

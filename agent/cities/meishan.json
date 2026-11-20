@@ -1,0 +1,249 @@
+{
+ "name": "眉山",
+ "center": [
+  30.05,
+  103.83
+ ],
+ "far_ids": [
+  "meishan_00",
+  "meishan_02",
+  "meishan_03",
+  "meishan_04",
+  "meishan_05",
+  "meishan_06",
+  "meishan_07",
+  "meishan_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "meishan_00",
+   "name": "黄龙溪欢乐田园",
+   "district": "黄龙溪古镇",
+   "lat": 30.33297,
+   "lng": 103.9906,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 99,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "meishan_01",
+   "name": "眉山三苏祠博物馆",
+   "district": "眉山市中心",
+   "lat": 30.04648,
+   "lng": 103.83814,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "meishan_02",
+   "name": "柳江古镇旅游风景区",
+   "district": "",
+   "lat": 29.72237,
+   "lng": 103.23993,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "meishan_03",
+   "name": "江口沉银博物馆",
+   "district": "",
+   "lat": 30.2313,
+   "lng": 103.91702,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 48,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "meishan_04",
+   "name": "雅女湖",
+   "district": "",
+   "lat": 29.65396,
+   "lng": 103.0442,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "meishan_05",
+   "name": "黄龙溪古镇",
+   "district": "黄龙溪古镇",
+   "lat": 30.32424,
+   "lng": 103.97727,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "meishan_06",
+   "name": "彭祖山景区",
+   "district": "",
+   "lat": 30.22752,
+   "lng": 103.93964,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 28,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "meishan_07",
+   "name": "青神县中岩寺",
+   "district": "",
+   "lat": 29.76676,
+   "lng": 103.84666,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 23,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "meishan_08",
+   "name": "瓦屋山景区",
+   "district": "",
+   "lat": 29.67438,
+   "lng": 102.97572,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "meishan_09",
+   "name": "东坡印象水街",
+   "district": "东坡城市湿地公园",
+   "lat": 30.06698,
+   "lng": 103.87068,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 3.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   30.05,
+   103.83
+  ],
+  "老城区": [
+   30.062,
+   103.82
+  ],
+  "近郊": [
+   30.02,
+   103.86
+  ]
+ }
+}

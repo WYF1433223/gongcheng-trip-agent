@@ -1,0 +1,248 @@
+{
+ "name": "南充",
+ "center": [
+  30.84,
+  106.11
+ ],
+ "far_ids": [
+  "nanchong_01",
+  "nanchong_02",
+  "nanchong_03",
+  "nanchong_04",
+  "nanchong_05",
+  "nanchong_06",
+  "nanchong_07",
+  "nanchong_08",
+  "nanchong_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "nanchong_00",
+   "name": "凌云山风景区",
+   "district": "",
+   "lat": 30.75718,
+   "lng": 106.21001,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 5.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanchong_01",
+   "name": "中天楼",
+   "district": "",
+   "lat": 31.58288,
+   "lng": 105.97429,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 14,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanchong_02",
+   "name": "阆中古城",
+   "district": "",
+   "lat": 31.57802,
+   "lng": 105.97587,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanchong_03",
+   "name": "华光楼",
+   "district": "",
+   "lat": 31.5784,
+   "lng": 105.97949,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 15,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanchong_04",
+   "name": "汉桓侯祠",
+   "district": "",
+   "lat": 31.58369,
+   "lng": 105.97271,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 50,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanchong_05",
+   "name": "阆中古城游船",
+   "district": "",
+   "lat": 31.57963,
+   "lng": 106.03955,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 55,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanchong_06",
+   "name": "清代四川贡院",
+   "district": "",
+   "lat": 31.58438,
+   "lng": 105.97593,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 50,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "nanchong_07",
+   "name": "天宫院",
+   "district": "",
+   "lat": 31.46169,
+   "lng": 105.8699,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 30,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanchong_08",
+   "name": "锦屏山",
+   "district": "",
+   "lat": 31.57339,
+   "lng": 105.97072,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 3.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nanchong_09",
+   "name": "朱德故里景区",
+   "district": "",
+   "lat": 31.46562,
+   "lng": 106.60285,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   30.84,
+   106.11
+  ],
+  "老城区": [
+   30.852,
+   106.1
+  ],
+  "近郊": [
+   30.81,
+   106.14
+  ]
+ }
+}

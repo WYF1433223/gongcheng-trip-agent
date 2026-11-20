@@ -1,0 +1,242 @@
+{
+ "name": "西宁",
+ "center": [
+  36.62,
+  101.78
+ ],
+ "far_ids": [
+  "xining_01",
+  "xining_03"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "xining_00",
+   "name": "青海藏文化博物院",
+   "district": "青海藏文化博物院",
+   "lat": 36.69492,
+   "lng": 101.75423,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "xining_01",
+   "name": "塔尔寺",
+   "district": "",
+   "lat": 36.49335,
+   "lng": 101.57436,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xining_02",
+   "name": "青藏高原野生动物园",
+   "district": "青海省博物馆",
+   "lat": 36.63297,
+   "lng": 101.73856,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 30,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xining_03",
+   "name": "日月山",
+   "district": "",
+   "lat": 36.44752,
+   "lng": 101.10074,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 30,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xining_04",
+   "name": "高原明珠",
+   "district": "",
+   "lat": 36.62663,
+   "lng": 101.75584,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 29,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xining_05",
+   "name": "西宁市东关清真大寺",
+   "district": "东关清真大寺",
+   "lat": 36.62123,
+   "lng": 101.80405,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xining_06",
+   "name": "青海省博物馆",
+   "district": "青海省博物馆",
+   "lat": 36.63654,
+   "lng": 101.76253,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "xining_07",
+   "name": "青藏高原自然博物馆",
+   "district": "青海藏文化博物院",
+   "lat": 36.69376,
+   "lng": 101.75671,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 30,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "xining_08",
+   "name": "土楼观",
+   "district": "城北吾悦广场",
+   "lat": 36.64943,
+   "lng": 101.79162,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xining_09",
+   "name": "莫家街",
+   "district": "莫家街",
+   "lat": 36.62467,
+   "lng": 101.79233,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 3.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   36.62,
+   101.78
+  ],
+  "老城区": [
+   36.632,
+   101.77
+  ],
+  "近郊": [
+   36.59,
+   101.81
+  ]
+ }
+}

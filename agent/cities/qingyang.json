@@ -1,0 +1,229 @@
+{
+ "name": "庆阳",
+ "center": [
+  35.71,
+  107.64
+ ],
+ "far_ids": [
+  "qingyang_00",
+  "qingyang_01",
+  "qingyang_03",
+  "qingyang_05",
+  "qingyang_07",
+  "qingyang_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "qingyang_00",
+   "name": "龙栖谷",
+   "district": "",
+   "lat": 35.45786,
+   "lng": 107.64442,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qingyang_01",
+   "name": "周祖陵景区",
+   "district": "",
+   "lat": 36.01167,
+   "lng": 107.90556,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qingyang_02",
+   "name": "庆阳市博物馆",
+   "district": "",
+   "lat": 35.7122,
+   "lng": 107.65056,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "qingyang_03",
+   "name": "环州故城景区",
+   "district": "",
+   "lat": 36.59135,
+   "lng": 107.30344,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qingyang_04",
+   "name": "小崆峒景区",
+   "district": "",
+   "lat": 35.67415,
+   "lng": 107.68031,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qingyang_05",
+   "name": "庆阳古城遗址",
+   "district": "",
+   "lat": 35.99448,
+   "lng": 107.90245,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qingyang_06",
+   "name": "北石窟寺",
+   "district": "",
+   "lat": 35.61679,
+   "lng": 107.54317,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qingyang_07",
+   "name": "南梁革命纪念馆",
+   "district": "",
+   "lat": 36.40243,
+   "lng": 108.34869,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "qingyang_08",
+   "name": "黄土高原",
+   "district": "",
+   "lat": 35.87534,
+   "lng": 108.21931,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   35.71,
+   107.64
+  ],
+  "老城区": [
+   35.722,
+   107.63
+  ],
+  "近郊": [
+   35.68,
+   107.67
+  ]
+ }
+}

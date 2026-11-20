@@ -1,0 +1,245 @@
+{
+ "name": "济源",
+ "center": [
+  35.07,
+  112.6
+ ],
+ "far_ids": [
+  "jiyuan_00",
+  "jiyuan_01",
+  "jiyuan_02",
+  "jiyuan_03",
+  "jiyuan_04",
+  "jiyuan_05",
+  "jiyuan_08",
+  "jiyuan_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "jiyuan_00",
+   "name": "王屋山景区",
+   "district": "",
+   "lat": 35.18701,
+   "lng": 112.298,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiyuan_01",
+   "name": "龙门石窟",
+   "district": "高铁龙门站",
+   "lat": 34.55586,
+   "lng": 112.48534,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 120,
+   "price": 90,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiyuan_02",
+   "name": "洛阳博物馆",
+   "district": "高铁龙门站",
+   "lat": 34.64965,
+   "lng": 112.45839,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "jiyuan_03",
+   "name": "洛阳古墓博物馆",
+   "district": "北郊机场地区",
+   "lat": 34.73914,
+   "lng": 112.421,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "jiyuan_04",
+   "name": "白马寺",
+   "district": "",
+   "lat": 34.72758,
+   "lng": 112.61194,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiyuan_05",
+   "name": "隋唐洛阳城应天门遗址",
+   "district": "洛邑古城",
+   "lat": 34.68309,
+   "lng": 112.46718,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 58,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiyuan_06",
+   "name": "济渎庙",
+   "district": "",
+   "lat": 35.11479,
+   "lng": 112.58877,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiyuan_07",
+   "name": "五龙口风景区",
+   "district": "",
+   "lat": 35.20397,
+   "lng": 112.70409,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiyuan_08",
+   "name": "黄河三峡",
+   "district": "",
+   "lat": 35.04984,
+   "lng": 112.15309,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "jiyuan_09",
+   "name": "小沟背风景区",
+   "district": "",
+   "lat": 35.24643,
+   "lng": 112.17479,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 41,
+   "rating": 3.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   35.07,
+   112.6
+  ],
+  "老城区": [
+   35.082,
+   112.59
+  ],
+  "近郊": [
+   35.04,
+   112.63
+  ]
+ }
+}

@@ -1,0 +1,241 @@
+{
+ "name": "潮州",
+ "center": [
+  23.66,
+  116.62
+ ],
+ "far_ids": [
+  "chaozhou_05"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "chaozhou_00",
+   "name": "韩文公祠",
+   "district": "韩文公祠",
+   "lat": 23.66999,
+   "lng": 116.66655,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chaozhou_01",
+   "name": "牌坊街",
+   "district": "牌坊街",
+   "lat": 23.67483,
+   "lng": 116.65726,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chaozhou_02",
+   "name": "广济桥",
+   "district": "",
+   "lat": 23.66875,
+   "lng": 116.66198,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chaozhou_03",
+   "name": "开元寺",
+   "district": "牌坊街",
+   "lat": 23.66942,
+   "lng": 116.65542,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chaozhou_04",
+   "name": "潮州古城",
+   "district": "牌坊街",
+   "lat": 23.6714,
+   "lng": 116.65474,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chaozhou_05",
+   "name": "青岚怪臼谷国家地质公园",
+   "district": "",
+   "lat": 23.73526,
+   "lng": 116.84489,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 58,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chaozhou_06",
+   "name": "己略黄公祠",
+   "district": "牌坊街",
+   "lat": 23.67178,
+   "lng": 116.65477,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chaozhou_07",
+   "name": "大潮归来·入梦潮州",
+   "district": "牌坊街",
+   "lat": 23.67402,
+   "lng": 116.65399,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 118,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "chaozhou_08",
+   "name": "许驸马府",
+   "district": "牌坊街",
+   "lat": 23.6771,
+   "lng": 116.65352,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 40,
+   "rating": 4.0,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "chaozhou_09",
+   "name": "龙湖古寨",
+   "district": "东山湖",
+   "lat": 23.55759,
+   "lng": 116.6588,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 3.9,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   23.66,
+   116.62
+  ],
+  "老城区": [
+   23.672,
+   116.61
+  ],
+  "近郊": [
+   23.63,
+   116.65
+  ]
+ }
+}

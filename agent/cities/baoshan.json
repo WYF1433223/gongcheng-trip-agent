@@ -1,0 +1,250 @@
+{
+ "name": "保山",
+ "center": [
+  25.11,
+  99.16
+ ],
+ "far_ids": [
+  "baoshan_00",
+  "baoshan_02",
+  "baoshan_03",
+  "baoshan_04",
+  "baoshan_05",
+  "baoshan_06",
+  "baoshan_07",
+  "baoshan_08",
+  "baoshan_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "baoshan_00",
+   "name": "高黎贡山",
+   "district": "",
+   "lat": 25.55984,
+   "lng": 98.59043,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baoshan_01",
+   "name": "保山青华海国家湿地公园",
+   "district": "",
+   "lat": 25.1203,
+   "lng": 99.21416,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baoshan_02",
+   "name": "和顺柏联温泉",
+   "district": "和顺古镇",
+   "lat": 25.01073,
+   "lng": 98.4548,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 298,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baoshan_03",
+   "name": "腾冲洞山温泉村",
+   "district": "",
+   "lat": 24.96024,
+   "lng": 98.54178,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baoshan_04",
+   "name": "腾冲热海风景区",
+   "district": "",
+   "lat": 24.95309,
+   "lng": 98.44683,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "baoshan_05",
+   "name": "东山草原",
+   "district": "",
+   "lat": 25.0124,
+   "lng": 98.56444,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 28,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baoshan_06",
+   "name": "和顺古镇景区",
+   "district": "和顺古镇",
+   "lat": 25.01661,
+   "lng": 98.46305,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baoshan_07",
+   "name": "北海湿地",
+   "district": "",
+   "lat": 25.12567,
+   "lng": 98.55983,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 55,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baoshan_08",
+   "name": "火山地热国家地质公园",
+   "district": "",
+   "lat": 25.22047,
+   "lng": 98.50389,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "baoshan_09",
+   "name": "银杏村",
+   "district": "银杏村",
+   "lat": 25.30964,
+   "lng": 98.52339,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 30,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   25.11,
+   99.16
+  ],
+  "老城区": [
+   25.122,
+   99.15
+  ],
+  "近郊": [
+   25.08,
+   99.19
+  ]
+ }
+}

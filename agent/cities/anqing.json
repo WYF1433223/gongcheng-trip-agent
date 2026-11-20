@@ -1,0 +1,247 @@
+{
+ "name": "安庆",
+ "center": [
+  30.53,
+  117.05
+ ],
+ "far_ids": [
+  "anqing_00",
+  "anqing_01",
+  "anqing_02",
+  "anqing_03",
+  "anqing_04",
+  "anqing_06",
+  "anqing_07",
+  "anqing_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "anqing_00",
+   "name": "天柱山风景区-天柱峰",
+   "district": "",
+   "lat": 30.74821,
+   "lng": 116.46175,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "anqing_01",
+   "name": "牛草山风景区",
+   "district": "",
+   "lat": 31.0569,
+   "lng": 116.27622,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "anqing_02",
+   "name": "天柱山",
+   "district": "",
+   "lat": 30.74191,
+   "lng": 116.46671,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 110,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "anqing_03",
+   "name": "大别山彩虹瀑布旅游度假区",
+   "district": "",
+   "lat": 31.12685,
+   "lng": 116.31581,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "anqing_04",
+   "name": "六尺巷",
+   "district": "",
+   "lat": 31.05444,
+   "lng": 116.95511,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "anqing_05",
+   "name": "倒扒狮步行街",
+   "district": "安庆市中心",
+   "lat": 30.51144,
+   "lng": 117.04658,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "anqing_06",
+   "name": "明堂山风景区",
+   "district": "",
+   "lat": 30.87305,
+   "lng": 116.09863,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "anqing_07",
+   "name": "花亭湖风景区",
+   "district": "",
+   "lat": 30.52941,
+   "lng": 116.19916,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "anqing_08",
+   "name": "巨石山",
+   "district": "",
+   "lat": 30.69588,
+   "lng": 117.09078,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.3,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "anqing_09",
+   "name": "五千年文博园",
+   "district": "",
+   "lat": 30.44712,
+   "lng": 116.33648,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 50,
+   "rating": 4.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   30.53,
+   117.05
+  ],
+  "老城区": [
+   30.542,
+   117.04
+  ],
+  "近郊": [
+   30.5,
+   117.08
+  ]
+ }
+}

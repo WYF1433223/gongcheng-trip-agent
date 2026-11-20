@@ -1,0 +1,220 @@
+{
+ "name": "南通",
+ "center": [
+  31.98,
+  120.89
+ ],
+ "far_ids": [
+  "nantong_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "nantong_00",
+   "name": "南通森迪冰雪海洋乐园",
+   "district": "南通森林野生动物园",
+   "lat": 32.10661,
+   "lng": 120.83848,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 158,
+   "rating": 4.8,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "nantong_01",
+   "name": "南通森林野生动物园",
+   "district": "南通森林野生动物园",
+   "lat": 32.10725,
+   "lng": 120.83164,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 94,
+   "rating": 4.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "nantong_02",
+   "name": "啬园",
+   "district": "南通大学",
+   "lat": 31.97025,
+   "lng": 120.91541,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 13,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nantong_03",
+   "name": "南通狼山风景名胜区",
+   "district": "南通大学",
+   "lat": 31.9555,
+   "lng": 120.8923,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 45,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nantong_04",
+   "name": "南通市濠河景区",
+   "district": "濠河景区",
+   "lat": 32.03056,
+   "lng": 120.86622,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "nantong_05",
+   "name": "南通森迪旅游度假区",
+   "district": "南通森林野生动物园",
+   "lat": 32.10415,
+   "lng": 120.84201,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "nantong_06",
+   "name": "南通海底世界",
+   "district": "南通大学",
+   "lat": 31.97278,
+   "lng": 120.90532,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 110,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "nantong_07",
+   "name": "南通博物苑",
+   "district": "濠河景区",
+   "lat": 32.01728,
+   "lng": 120.87632,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "nantong_08",
+   "name": "黄金海滩",
+   "district": "恒大海上威尼斯度假区",
+   "lat": 31.75218,
+   "lng": 121.94016,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 18,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   31.98,
+   120.89
+  ],
+  "老城区": [
+   31.992,
+   120.88
+  ],
+  "近郊": [
+   31.95,
+   120.92
+  ]
+ }
+}

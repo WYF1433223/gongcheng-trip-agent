@@ -1,0 +1,248 @@
+{
+ "name": "怀化",
+ "center": [
+  27.55,
+  110.0
+ ],
+ "far_ids": [
+  "huaihua_01",
+  "huaihua_02",
+  "huaihua_03",
+  "huaihua_04",
+  "huaihua_05",
+  "huaihua_06",
+  "huaihua_07",
+  "huaihua_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "huaihua_00",
+   "name": "榆树湾",
+   "district": "高铁站",
+   "lat": 27.51279,
+   "lng": 109.97179,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 5.0,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huaihua_01",
+   "name": "地笋苗寨",
+   "district": "",
+   "lat": 26.62773,
+   "lng": 109.46006,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huaihua_02",
+   "name": "万佛山",
+   "district": "",
+   "lat": 26.31492,
+   "lng": 109.86463,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 60,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huaihua_03",
+   "name": "龙津风雨桥",
+   "district": "",
+   "lat": 27.44218,
+   "lng": 109.69277,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huaihua_04",
+   "name": "黔阳古城芙蓉楼",
+   "district": "黔阳古城度假区",
+   "lat": 27.19828,
+   "lng": 109.8218,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huaihua_05",
+   "name": "黔阳古城",
+   "district": "黔阳古城度假区",
+   "lat": 27.1971,
+   "lng": 109.82378,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 55,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huaihua_06",
+   "name": "通道芋头古侗寨",
+   "district": "",
+   "lat": 26.14028,
+   "lng": 109.72232,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "huaihua_07",
+   "name": "洪江古商城",
+   "district": "",
+   "lat": 27.11917,
+   "lng": 110.01009,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huaihua_08",
+   "name": "怀化大峡谷",
+   "district": "",
+   "lat": 27.4804,
+   "lng": 110.10468,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "huaihua_09",
+   "name": "中国人民抗日战争胜利受降纪念旧址",
+   "district": "",
+   "lat": 27.45495,
+   "lng": 109.72764,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   27.55,
+   110.0
+  ],
+  "老城区": [
+   27.562,
+   109.99
+  ],
+  "近郊": [
+   27.52,
+   110.03
+  ]
+ }
+}

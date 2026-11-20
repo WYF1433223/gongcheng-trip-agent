@@ -1,0 +1,244 @@
+{
+ "name": "聊城",
+ "center": [
+  36.46,
+  115.99
+ ],
+ "far_ids": [
+  "liaocheng_00",
+  "liaocheng_01",
+  "liaocheng_05",
+  "liaocheng_06",
+  "liaocheng_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "liaocheng_00",
+   "name": "东阿中医药文化旅游区",
+   "district": "",
+   "lat": 36.35173,
+   "lng": 116.24724,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 30,
+   "rating": 4.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "liaocheng_01",
+   "name": "宛园",
+   "district": "",
+   "lat": 36.86732,
+   "lng": 115.71213,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 68,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liaocheng_02",
+   "name": "山陕会馆",
+   "district": "东昌湖",
+   "lat": 36.44437,
+   "lng": 115.98723,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 30,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liaocheng_03",
+   "name": "东昌湖",
+   "district": "东昌湖",
+   "lat": 36.44851,
+   "lng": 115.97394,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liaocheng_04",
+   "name": "光岳楼",
+   "district": "东昌湖",
+   "lat": 36.44989,
+   "lng": 115.97644,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 24,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liaocheng_05",
+   "name": "东宛园景区",
+   "district": "",
+   "lat": 36.88094,
+   "lng": 115.76722,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liaocheng_06",
+   "name": "临清运河钞关",
+   "district": "",
+   "lat": 36.84597,
+   "lng": 115.70442,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 10,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liaocheng_07",
+   "name": "聊城水上古城",
+   "district": "东昌湖",
+   "lat": 36.44994,
+   "lng": 115.97651,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.3,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "liaocheng_08",
+   "name": "景阳冈",
+   "district": "",
+   "lat": 36.09358,
+   "lng": 115.9878,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 27,
+   "rating": 3.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "liaocheng_09",
+   "name": "聊城泡温泉",
+   "district": "东昌湖",
+   "lat": 36.43614,
+   "lng": 115.96164,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   36.46,
+   115.99
+  ],
+  "老城区": [
+   36.472,
+   115.98
+  ],
+  "近郊": [
+   36.43,
+   116.02
+  ]
+ }
+}

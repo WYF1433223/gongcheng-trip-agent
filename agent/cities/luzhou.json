@@ -1,0 +1,245 @@
+{
+ "name": "泸州",
+ "center": [
+  28.87,
+  105.44
+ ],
+ "far_ids": [
+  "luzhou_00",
+  "luzhou_02",
+  "luzhou_03",
+  "luzhou_04",
+  "luzhou_05",
+  "luzhou_07",
+  "luzhou_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "luzhou_00",
+   "name": "大黑洞风景区",
+   "district": "",
+   "lat": 28.06168,
+   "lng": 105.592,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 25,
+   "rating": 4.9,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "luzhou_01",
+   "name": "泸州老窖景区",
+   "district": "酒城乐园",
+   "lat": 28.89045,
+   "lng": 105.46013,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 23,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "luzhou_02",
+   "name": "太平古镇",
+   "district": "",
+   "lat": 28.14213,
+   "lng": 106.04538,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "luzhou_03",
+   "name": "黄荆老林",
+   "district": "",
+   "lat": 28.2529,
+   "lng": 105.75159,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 50,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "luzhou_04",
+   "name": "盐井河景区",
+   "district": "",
+   "lat": 28.06221,
+   "lng": 106.15647,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 40,
+   "rating": 4.8,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "luzhou_05",
+   "name": "乐山大佛",
+   "district": "乐山大佛景区",
+   "lat": 29.55099,
+   "lng": 103.78022,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 80,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "luzhou_06",
+   "name": "张坝桂圆林旅游区",
+   "district": "",
+   "lat": 28.88518,
+   "lng": 105.48773,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "luzhou_07",
+   "name": "郎酒庄园原产地旗舰店",
+   "district": "",
+   "lat": 28.14128,
+   "lng": 106.18661,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "luzhou_08",
+   "name": "尧坝古镇",
+   "district": "",
+   "lat": 28.7458,
+   "lng": 105.65228,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "luzhou_09",
+   "name": "泸州酒文化体验",
+   "district": "水井沟商业步行街",
+   "lat": 28.89045,
+   "lng": 105.45987,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   28.87,
+   105.44
+  ],
+  "老城区": [
+   28.882,
+   105.43
+  ],
+  "近郊": [
+   28.84,
+   105.47
+  ]
+ }
+}

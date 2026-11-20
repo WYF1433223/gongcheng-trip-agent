@@ -1,0 +1,245 @@
+{
+ "name": "临沂",
+ "center": [
+  35.1,
+  118.36
+ ],
+ "far_ids": [
+  "linyi_01",
+  "linyi_04",
+  "linyi_05",
+  "linyi_06",
+  "linyi_07",
+  "linyi_08",
+  "linyi_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "linyi_00",
+   "name": "《国秀·琅琊》室内演艺",
+   "district": "琅琊古城",
+   "lat": 35.13453,
+   "lng": 118.40807,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 100,
+   "rating": 4.7,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linyi_01",
+   "name": "沂蒙山旅游区",
+   "district": "",
+   "lat": 35.566,
+   "lng": 117.98352,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 65,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linyi_02",
+   "name": "琅琊古城",
+   "district": "琅琊古城",
+   "lat": 35.13753,
+   "lng": 118.41004,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 113,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linyi_03",
+   "name": "王羲之故居",
+   "district": "泰盛广场",
+   "lat": 35.076,
+   "lng": 118.34829,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 19,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "linyi_04",
+   "name": "山东文旅·沂蒙山天蒙旅游区",
+   "district": "",
+   "lat": 35.45728,
+   "lng": 118.06662,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linyi_05",
+   "name": "沂蒙山云蒙景区(蒙山国家森林公园)",
+   "district": "",
+   "lat": 35.5612,
+   "lng": 117.96389,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 65,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linyi_06",
+   "name": "沂蒙山旅游区龟蒙景区",
+   "district": "",
+   "lat": 35.55132,
+   "lng": 117.84957,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 65,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linyi_07",
+   "name": "竹泉村",
+   "district": "",
+   "lat": 35.65287,
+   "lng": 118.44526,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 68,
+   "rating": 4.2,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linyi_08",
+   "name": "地下大峡谷",
+   "district": "",
+   "lat": 35.73442,
+   "lng": 118.54684,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 98,
+   "rating": 4.1,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "linyi_09",
+   "name": "红嫂家乡旅游区",
+   "district": "",
+   "lat": 35.68037,
+   "lng": 118.31407,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   35.1,
+   118.36
+  ],
+  "老城区": [
+   35.112,
+   118.35
+  ],
+  "近郊": [
+   35.07,
+   118.39
+  ]
+ }
+}

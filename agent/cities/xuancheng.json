@@ -1,0 +1,244 @@
+{
+ "name": "宣城",
+ "center": [
+  30.95,
+  118.76
+ ],
+ "far_ids": [
+  "xuancheng_00",
+  "xuancheng_01",
+  "xuancheng_03",
+  "xuancheng_04",
+  "xuancheng_05",
+  "xuancheng_06",
+  "xuancheng_07",
+  "xuancheng_08",
+  "xuancheng_09"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "xuancheng_00",
+   "name": "徽杭古道",
+   "district": "",
+   "lat": 30.15429,
+   "lng": 118.83052,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 58,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xuancheng_01",
+   "name": "鄣山大峡谷",
+   "district": "",
+   "lat": 30.10417,
+   "lng": 118.77338,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 54,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xuancheng_02",
+   "name": "敬亭山",
+   "district": "敬亭山景区及周边",
+   "lat": 30.9829,
+   "lng": 118.72581,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 50,
+   "rating": 4.5,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xuancheng_03",
+   "name": "桃花潭",
+   "district": "桃花潭风景区",
+   "lat": 30.49892,
+   "lng": 118.15829,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 63,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xuancheng_04",
+   "name": "中国宣纸文化园",
+   "district": "",
+   "lat": 30.57092,
+   "lng": 118.458,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 60,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "xuancheng_05",
+   "name": "皖南川藏线最美宁国段",
+   "district": "",
+   "lat": 30.58075,
+   "lng": 118.73605,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xuancheng_06",
+   "name": "龙川景区",
+   "district": "",
+   "lat": 30.08193,
+   "lng": 118.67613,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 75,
+   "rating": 4.4,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xuancheng_07",
+   "name": "查济",
+   "district": "查济古建筑群",
+   "lat": 30.52393,
+   "lng": 118.04868,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 53,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xuancheng_08",
+   "name": "月亮湾风景区",
+   "district": "月亮湾生态旅游风景区",
+   "lat": 30.68495,
+   "lng": 118.57977,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "xuancheng_09",
+   "name": "水墨汀溪风景区",
+   "district": "水墨汀溪风景区",
+   "lat": 30.57334,
+   "lng": 118.63794,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 3.9,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   30.95,
+   118.76
+  ],
+  "老城区": [
+   30.962,
+   118.75
+  ],
+  "近郊": [
+   30.92,
+   118.79
+  ]
+ }
+}

@@ -1,0 +1,245 @@
+{
+ "name": "七台河",
+ "center": [
+  45.77,
+  131.0
+ ],
+ "far_ids": [
+  "qitaihe_00",
+  "qitaihe_04",
+  "qitaihe_05",
+  "qitaihe_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "qitaihe_00",
+   "name": "乌斯浑河国家森林公园",
+   "district": "",
+   "lat": 45.70053,
+   "lng": 130.33259,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qitaihe_01",
+   "name": "万宝山滑雪场",
+   "district": "",
+   "lat": 45.75235,
+   "lng": 131.00846,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qitaihe_02",
+   "name": "七台河市博物馆",
+   "district": "",
+   "lat": 45.7813,
+   "lng": 131.04701,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "qitaihe_03",
+   "name": "桃山公园",
+   "district": "",
+   "lat": 45.78236,
+   "lng": 131.006,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qitaihe_04",
+   "name": "石龙山国家森林公园",
+   "district": "",
+   "lat": 45.65129,
+   "lng": 131.25556,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qitaihe_05",
+   "name": "极灵寺",
+   "district": "",
+   "lat": 45.84666,
+   "lng": 130.34943,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qitaihe_06",
+   "name": "仙洞山公园",
+   "district": "",
+   "lat": 45.78958,
+   "lng": 131.02611,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qitaihe_07",
+   "name": "勃利密塞",
+   "district": "",
+   "lat": 45.75216,
+   "lng": 130.53299,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 40,
+   "rating": 3.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "qitaihe_08",
+   "name": "短道速滑冠军馆",
+   "district": "",
+   "lat": 45.78823,
+   "lng": 131.01215,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "qitaihe_09",
+   "name": "桃山湖国家湿地公园",
+   "district": "",
+   "lat": 45.82269,
+   "lng": 131.07937,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   45.77,
+   131.0
+  ],
+  "老城区": [
+   45.782,
+   130.99
+  ],
+  "近郊": [
+   45.74,
+   131.03
+  ]
+ }
+}

@@ -1,0 +1,241 @@
+{
+ "name": "重庆",
+ "center": [
+  29.56,
+  106.55
+ ],
+ "far_ids": [
+  "chongqing_04",
+  "chongqing_06",
+  "chongqing_07"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "chongqing_00",
+   "name": "重庆欢乐谷",
+   "district": "礼嘉",
+   "lat": 29.67312,
+   "lng": 106.52442,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 79,
+   "rating": 4.8,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chongqing_01",
+   "name": "重庆云端之眼观景台",
+   "district": "解放碑",
+   "lat": 29.5635,
+   "lng": 106.58864,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 68,
+   "rating": 4.8,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chongqing_02",
+   "name": "重庆动物园",
+   "district": "杨家坪",
+   "lat": 29.50955,
+   "lng": 106.51272,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 24,
+   "rating": 4.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "chongqing_03",
+   "name": "解放碑步行街",
+   "district": "解放碑",
+   "lat": 29.56346,
+   "lng": 106.58179,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chongqing_04",
+   "name": "武隆天生三桥",
+   "district": "仙女山国家森林公园",
+   "lat": 29.44059,
+   "lng": 107.81098,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 125,
+   "rating": 4.6,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chongqing_05",
+   "name": "洪崖洞民俗风貌区",
+   "district": "解放碑",
+   "lat": 29.56836,
+   "lng": 106.58444,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chongqing_06",
+   "name": "武隆喀斯特旅游区",
+   "district": "武隆区人民政府",
+   "lat": 29.37697,
+   "lng": 107.79091,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 50,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "chongqing_07",
+   "name": "白帝城·瞿塘峡景区",
+   "district": "",
+   "lat": 31.03943,
+   "lng": 109.60267,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 60,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chongqing_08",
+   "name": "重庆两江游",
+   "district": "解放碑",
+   "lat": 29.5686,
+   "lng": 106.58316,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 128,
+   "rating": 4.4,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "chongqing_09",
+   "name": "长江索道",
+   "district": "解放碑",
+   "lat": 29.56394,
+   "lng": 106.58929,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 30,
+   "rating": 4.2,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   29.56,
+   106.55
+  ],
+  "老城区": [
+   29.572,
+   106.54
+  ],
+  "近郊": [
+   29.53,
+   106.58
+  ]
+ }
+}

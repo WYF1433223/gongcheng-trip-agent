@@ -1,0 +1,231 @@
+{
+ "name": "渭南",
+ "center": [
+  34.5,
+  109.51
+ ],
+ "far_ids": [
+  "weinan_00",
+  "weinan_01",
+  "weinan_02",
+  "weinan_03",
+  "weinan_04",
+  "weinan_05",
+  "weinan_06",
+  "weinan_07",
+  "weinan_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "weinan_00",
+   "name": "秦始皇帝陵博物院(兵马俑)",
+   "district": "兵马俑",
+   "lat": 34.39211,
+   "lng": 109.28851,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 120,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "weinan_01",
+   "name": "华山",
+   "district": "",
+   "lat": 34.49777,
+   "lng": 110.07335,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 160,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "weinan_02",
+   "name": "华山西峰索道",
+   "district": "",
+   "lat": 34.48404,
+   "lng": 110.04391,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 130,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "weinan_03",
+   "name": "西峰",
+   "district": "",
+   "lat": 34.48891,
+   "lng": 110.08855,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "weinan_04",
+   "name": "华山北峰索道",
+   "district": "",
+   "lat": 34.50092,
+   "lng": 110.10649,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 80,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "weinan_05",
+   "name": "司马迁祠景区",
+   "district": "",
+   "lat": 35.38087,
+   "lng": 110.41989,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 64,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "weinan_06",
+   "name": "韩城古城",
+   "district": "",
+   "lat": 35.4679,
+   "lng": 110.44485,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "weinan_07",
+   "name": "党家村",
+   "district": "",
+   "lat": 35.53319,
+   "lng": 110.48547,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 50,
+   "rating": 4.3,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "weinan_08",
+   "name": "少华山国家森林公园",
+   "district": "",
+   "lat": 34.46842,
+   "lng": 109.85959,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.2,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   34.5,
+   109.51
+  ],
+  "老城区": [
+   34.512,
+   109.5
+  ],
+  "近郊": [
+   34.47,
+   109.54
+  ]
+ }
+}

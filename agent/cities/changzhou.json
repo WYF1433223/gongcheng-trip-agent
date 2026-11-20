@@ -1,0 +1,242 @@
+{
+ "name": "常州",
+ "center": [
+  31.81,
+  119.97
+ ],
+ "far_ids": [
+  "changzhou_03",
+  "changzhou_04",
+  "changzhou_06",
+  "changzhou_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "changzhou_00",
+   "name": "万岁山淹城乐园",
+   "district": "万岁山淹城乐园",
+   "lat": 31.70944,
+   "lng": 119.93356,
+   "open_min": 570,
+   "close_min": 1050,
+   "duration": 240,
+   "price": 55,
+   "rating": 4.7,
+   "tags": [
+    "亲子"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "changzhou_01",
+   "name": "中华恐龙园",
+   "district": "环球恐龙城",
+   "lat": 31.83005,
+   "lng": 120.0077,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 160,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changzhou_02",
+   "name": "江苏淹城野生动物世界",
+   "district": "万岁山淹城乐园",
+   "lat": 31.70343,
+   "lng": 119.93057,
+   "open_min": 600,
+   "close_min": 1260,
+   "duration": 70,
+   "price": 84,
+   "rating": 4.6,
+   "tags": [
+    "夜景"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changzhou_03",
+   "name": "天目湖南山竹海",
+   "district": "南山竹海度假区",
+   "lat": 31.17648,
+   "lng": 119.53215,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 81,
+   "rating": 4.6,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changzhou_04",
+   "name": "茅山森林世界",
+   "district": "金坛茅山东方盐湖城景",
+   "lat": 31.81563,
+   "lng": 119.33631,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 150,
+   "rating": 4.6,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changzhou_05",
+   "name": "天宁宝塔",
+   "district": "常州站",
+   "lat": 31.78065,
+   "lng": 119.97611,
+   "open_min": 480,
+   "close_min": 1020,
+   "duration": 80,
+   "price": 50,
+   "rating": 4.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changzhou_06",
+   "name": "茅山东方盐湖城",
+   "district": "金坛茅山东方盐湖城景",
+   "lat": 31.77054,
+   "lng": 119.34763,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 50,
+   "rating": 4.5,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changzhou_07",
+   "name": "青果巷",
+   "district": "常州市区青果巷",
+   "lat": 31.77823,
+   "lng": 119.96358,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "changzhou_08",
+   "name": "宜兴窑湖小镇",
+   "district": "窑湖小镇",
+   "lat": 31.21788,
+   "lng": 119.67808,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 60,
+   "rating": 4.4,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "changzhou_09",
+   "name": "中国春秋淹城旅游区",
+   "district": "万岁山淹城乐园",
+   "lat": 31.70816,
+   "lng": 119.93215,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 40,
+   "rating": 4.1,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   31.81,
+   119.97
+  ],
+  "老城区": [
+   31.822,
+   119.96
+  ],
+  "近郊": [
+   31.78,
+   120.0
+  ]
+ }
+}

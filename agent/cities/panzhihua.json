@@ -1,0 +1,247 @@
+{
+ "name": "攀枝花",
+ "center": [
+  26.58,
+  101.72
+ ],
+ "far_ids": [
+  "panzhihua_00",
+  "panzhihua_01",
+  "panzhihua_02",
+  "panzhihua_03",
+  "panzhihua_05",
+  "panzhihua_07",
+  "panzhihua_08"
+ ],
+ "far_minutes": 75,
+ "far_both_minutes": 25,
+ "far_km": null,
+ "pois": [
+  {
+   "id": "panzhihua_00",
+   "name": "二滩国家森林公园",
+   "district": "",
+   "lat": 26.79905,
+   "lng": 101.80717,
+   "open_min": 360,
+   "close_min": 1260,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "自然风光",
+    "亲子"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "panzhihua_01",
+   "name": "新山梯田",
+   "district": "",
+   "lat": 26.8282,
+   "lng": 102.18342,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 0,
+   "rating": 4.9,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "panzhihua_02",
+   "name": "格萨拉生态旅游区",
+   "district": "",
+   "lat": 27.14735,
+   "lng": 101.29414,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 42,
+   "rating": 4.8,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "panzhihua_03",
+   "name": "颛顼龙洞旅游景区",
+   "district": "",
+   "lat": 26.99161,
+   "lng": 102.21837,
+   "open_min": 480,
+   "close_min": 1050,
+   "duration": 180,
+   "price": 50,
+   "rating": 4.7,
+   "tags": [
+    "自然风光"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "panzhihua_04",
+   "name": "攀枝花中国三线建设博物馆",
+   "district": "",
+   "lat": 26.52684,
+   "lng": 101.74,
+   "open_min": 540,
+   "close_min": 1020,
+   "duration": 100,
+   "price": 0,
+   "rating": 4.7,
+   "tags": [
+    "历史人文",
+    "艺术展馆"
+   ],
+   "outdoor": false,
+   "closed_weekday": 0
+  },
+  {
+   "id": "panzhihua_05",
+   "name": "金沙江大峡谷",
+   "district": "",
+   "lat": 26.20043,
+   "lng": 101.88229,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 4.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "panzhihua_06",
+   "name": "攀枝花公园",
+   "district": "攀枝花学院",
+   "lat": 26.57669,
+   "lng": 101.72221,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 0,
+   "rating": 4.5,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  },
+  {
+   "id": "panzhihua_07",
+   "name": "米易傈僳梯田景区",
+   "district": "",
+   "lat": 26.81658,
+   "lng": 102.17149,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 4.0,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "panzhihua_08",
+   "name": "迤沙拉民族文化村",
+   "district": "",
+   "lat": 26.2226,
+   "lng": 101.87888,
+   "open_min": 480,
+   "close_min": 1080,
+   "duration": 90,
+   "price": 0,
+   "rating": 3.6,
+   "tags": [
+    "历史人文"
+   ],
+   "outdoor": false,
+   "closed_weekday": null
+  },
+  {
+   "id": "panzhihua_09",
+   "name": "阿署达四季花海景区",
+   "district": "",
+   "lat": 26.55271,
+   "lng": 101.76323,
+   "open_min": 600,
+   "close_min": 1320,
+   "duration": 110,
+   "price": 40,
+   "rating": 3.6,
+   "tags": [
+    "历史人文",
+    "美食"
+   ],
+   "outdoor": true,
+   "closed_weekday": null
+  }
+ ],
+ "weather": [
+  {
+   "day": "第1天",
+   "text": "晴",
+   "low": 12,
+   "high": 22,
+   "rain": 10
+  },
+  {
+   "day": "第2天",
+   "text": "多云",
+   "low": 13,
+   "high": 23,
+   "rain": 20
+  },
+  {
+   "day": "第3天",
+   "text": "小雨",
+   "low": 11,
+   "high": 18,
+   "rain": 70
+  },
+  {
+   "day": "第4天",
+   "text": "阴",
+   "low": 10,
+   "high": 19,
+   "rain": 30
+  },
+  {
+   "day": "第5天",
+   "text": "晴",
+   "low": 12,
+   "high": 21,
+   "rain": 5
+  }
+ ],
+ "hotels": {
+  "市中心": [
+   26.58,
+   101.72
+  ],
+  "老城区": [
+   26.592,
+   101.71
+  ],
+  "近郊": [
+   26.55,
+   101.75
+  ]
+ }
+}
