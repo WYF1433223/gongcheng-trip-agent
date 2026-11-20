@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="拱程 — 一个会自己检查行程的旅行规划 Agent：规划、校验、修复三段闭环，全部在浏览器里跑。">
+<title>拱程 · 可验证的行程规划 Agent</title>
+<link rel="stylesheet" href="web/style.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230E7C6B'/%3E%3Cpath d='M18 44c0-9 6-14 14-14s14-5 14-14' stroke='white' stroke-width='5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E">
+</head>
+<body>
+<div class="page">
+
+  <header class="hero">
+    <div class="brand">
+      <span class="logo" aria-hidden="true">
+        <svg viewBox="0 0 64 64" width="44" height="44"><rect width="64" height="64" rx="14" fill="#0E7C6B"/><path d="M18 44c0-9 6-14 14-14s14-5 14-14" stroke="white" stroke-width="5" fill="none" stroke-linecap="round"/></svg>
+      </span>
+      <div>
+        <h1>拱程</h1>
+        <p class="tagline">一个会自己检查行程的旅行规划 Agent</p>
+      </div>
+    </div>
+    <p class="lead">
+      生成行程只是开始。它还会把每一天重新排一遍时间：景点开放吗、周一闭馆吗、两地之间要走多久、
+      预算超了没有、雨天是不是订了户外点、高铁赶得上吗——发现冲突就定向修，修完再校验，直到全部满足。
+    </p>
+    <ul class="facts" id="facts">
+      <li><b>339</b> 个城市</li>
+      <li><b>3265</b> 个景点</li>
+      <li><b>OSM</b> 真实路网</li>
+      <li><b>12</b> 类约束</li>
+      <li>纯前端 · 无需后端</li>
+    </ul>
+    <div class="presets" id="presets" aria-label="示例">
+      <span class="presets-label">一键试试：</span>
+    </div>
+  </header>
+
+  <main class="layout">
+    <section class="panel form-panel" aria-label="行程参数">
+      <h2 class="panel-title">去哪儿、怎么走</h2>
+
+      <div class="field">
+        <label for="origin">出发地<span class="hint">（可选，留空则从第一座城市开始）</span></label>
+        <input id="origin" type="text" list="citylist" placeholder="例如：长沙" autocomplete="off">
+        <datalist id="citylist"></datalist>
+      </div>
+
+      <div class="field">
+        <label for="search">目的地<span class="hint">（最多 3 座，按选择顺序串联）</span></label>
+        <input id="search" type="text" placeholder="搜索城市，如 洛阳 / 苏州 / 江西" autocomplete="off">
+        <div class="picked" id="picked"></div>
+        <div class="citygrid" id="citygrid" role="listbox" aria-label="城市列表"></div>
+      </div>
+
+      <div class="field row">
+        <div class="mini">
+          <label for="days">天数</label>
+          <div class="stepper">
+            <button type="button" data-step="days:-1" aria-label="减少天数">−</button>
+            <span id="daysVal">3</span>
+            <button type="button" data-step="days:1" aria-label="增加天数">+</button>
+          </div>
+        </div>
+        <div class="mini">
+          <label for="budget">预算（元）</label>
+          <div class="stepper">
+            <button type="button" data-step="budget:-500" aria-label="减少预算">−</button>
+            <span id="budgetVal">3000</span>
+            <button type="button" data-step="budget:500" aria-label="增加预算">+</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="field row">
+        <div class="mini">
+          <label for="start">出发日期</label>
+          <input id="start" type="date">
+        </div>
+        <div class="mini">
+          <label for="transport">交通方式</label>
+          <select id="transport">
+            <option value="auto">自动推荐（按时间与花费挑最优）</option>
+            <option value="transit">公交 / 地铁</option>
+            <option value="walk">步行</option>
+            <option value="taxi">打车</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="field row">
+        <div class="mini">
+          <label for="party">同行人</label>
+          <select id="party">
+            <option>情侣</option><option>家人</option><option>朋友</option><option>独自</option>
+          </select>
+        </div>
+        <div class="mini">
+          <label for="pace">节奏</label>
+          <select id="pace">
+            <option value="relaxed">轻松（3 站/天）</option>
+            <option value="normal" selected>适中（4 站/天）</option>
+            <option value="intense">紧凑（5 站/天）</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="field">
+        <label>偏好<span class="hint">（可多选，影响排序与修复方向）</span></label>
+        <div class="chips" id="prefs"></div>
+      </div>
+
+      <label class="switch">
+        <input id="online" type="checkbox" checked>
+        <span>在线天气（Open-Meteo 实时预报，失败自动回退内置数据）</span>
+      </label>
+
+      <button class="primary" id="run">
+        <span class="btn-label">生成行程</span>
+        <span class="btn-spinner" hidden></span>
+      </button>
+      <p class="fineprint" id="status">正在读取城市目录…</p>
+    </section>
+
+    <section class="panel result-panel" id="result" aria-live="polite">
+      <div class="empty" id="empty">
+        <p>填好左边的条件，点「生成行程」。</p>
+        <p class="muted">你会同时看到两份结果：一份是「一次性生成」（直接出稿），另一份是「规划—校验—修复闭环」。
+        差异就是校验器抓出来的问题。</p>
+      </div>
+      <div id="output" hidden></div>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <p><b>数据边界</b>：景点开放时间、票价、评分来自公开页面整理，为近似值；通勤时间是 OpenStreetMap 路网实测矩阵推算；
+    高铁班次为确定性伪车次（用于展示时刻衔接，不是真实余票）。</p>
+    <p><b>可信度</b>：同一套算法已用 Python、C#（Unity 移动端）、JavaScript 三份独立实现跑同一组 25 档案 × 2 模式，
+    约束满足率、冲突项、花费、调用次数逐字段一致（容差 1e-6）。</p>
+  </footer>
+</div>
+<script type="module" src="web/app.js"></script>
+</body>
+</html>

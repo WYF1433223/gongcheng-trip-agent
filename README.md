@@ -2,13 +2,21 @@
 
 > 把"看起来合理"的行程，变成"照着就能走"的行程。
 
-一个把**生成**与**验证**解耦的行程规划 Agent：规划器只负责给出候选，校验器用 12 类硬/软约束把它拆成可定位的冲突码，修复器按冲突码定向修改，直到收敛。同一套算法有 Python 与纯 C# 两份实现，用 golden snapshot 逐字段回归锁定语义。
+一个把**生成**与**验证**解耦的行程规划 Agent：规划器只负责给出候选，校验器用 12 类硬/软约束把它拆成可定位的冲突码，修复器按冲突码定向修改，直到收敛。同一套算法有 **Python / 纯 C# / 浏览器 JS** 三份实现，用 golden snapshot 逐字段回归锁定语义（25 组档案 × 2 模式，容差 1e-6）。
 
-`Python 3.12（零三方依赖）` · `C# / .NET 8` · `Unity 2022.3 + IL2CPP` · `339 城` · `3265 个景点` · `25 组档案 × 2 模式回归`
+`Python 3.12（零三方依赖）` · `C# / .NET 8` · `Unity 2022.3 + IL2CPP` · `浏览器 JS（零依赖）` · `339 城` · `3265 个景点` · `25 组档案 × 2 模式回归`
 
 | 首页 | 结果页 |
 | --- | --- |
 | ![首页](docs/screenshots/01-home.png) | ![结果页](docs/screenshots/03-loop.png) |
+
+### 👉 在线试用（无需安装任何东西）
+
+**https://wyf1433223.github.io/gongcheng-trip-agent/**
+
+纯静态页：整套规划—校验—修复引擎已经移植成浏览器里的 JavaScript，打开就能排行程，没有任何后端或 API。首页有三个一键示例，也可以自己选城市、填出发地、改交通方式。
+
+![网页版](docs/shot_web.png)
 
 ---
 
@@ -122,13 +130,27 @@ Unity.exe -batchmode -quit -projectPath unity/AndroidApp -executeMethod BuildApk
 
 产物 `TravelAgent.apk`。核心算法在 `Assets/Scripts/Core/`，与 `unity/core/` 是同一份代码，不引用 `UnityEngine`，所以能脱离 Unity 跑测试。
 
+### 6.4 纯静态网页（浏览器端引擎，即在线演示）
+
+`web/engine/*.js` 是同一套算法的第三份实现（JS ESM，零依赖），浏览器里直接跑，因此在线演示不需要任何后端：
+
+```bash
+python -m http.server 8899 --directory .    # 然后打开 http://127.0.0.1:8899
+node web/engine/test_golden.mjs . unity/golden.json
+# 期望：一致：25 组档案 × 2 模式，全部字段相同。
+```
+
+数据用 `fetch` 按需加载（`agent/directory.json` + 选中的 `agent/cities|routes/<key>.json`），所以首页很轻。
+
 ## 7. 目录
 
 ```
+index.html        在线演示入口（纯静态，GitHub Pages 直接托管）
+web/              浏览器端：app.js 界面 + engine/*.js 引擎（JS 第三实现）
 agent/             Python 引擎：data / model / verifier / repair / planner / engine
   cities/          339 城 POI 快照（JSON）
   routes/          339 城景点两两耗时矩阵（OSM）
-  web/             网页前端
+  directory.json   省—市目录（339 城，含坐标）
 experiments.py     E1~E5 实验脚本
 results/           实验产物（表格 + 图）
 unity/core/        纯 C# 核心（与 Python 逐行对齐）
